@@ -13,6 +13,7 @@ Params:
     url = url of website
     id = document id you want assigned to the document
     topic_category = the category of the topic
+    further_processing = function that performs further processing of text
 Ensures:
     Creates a <topicCategory_docId.txt> document for the text of 
     the webpage and a <topicCategory_docId_metadata.txt> that contains the metadata and
@@ -20,7 +21,7 @@ Ensures:
 Returns:
     Nothing
 """
-def html_to_text(url, id, topic_category):
+def html_to_text(url, id, topic_category, further_processing):
     # Get response from url
     response = requests.get(url)
     if response.status_code==200:
@@ -33,7 +34,7 @@ def html_to_text(url, id, topic_category):
         # Create doc txt file
         doc_file_name = os.path.join(base_dir, f'{topic_category}_{id}.txt')
         text = soup.get_text().strip()
-        processed_text = further_process(text)
+        processed_text = further_processing(text)
         with open(doc_file_name,"w", encoding="utf-8") as file:
             file.write(processed_text)
         
@@ -64,6 +65,9 @@ def further_process(text):
 # url = 'https://lti.cmu.edu/'
 # id = 'd1'
 # topic_category = 'lti'
-# html_to_text(url, id, topic_category)
+# further_processing = further_process # Implement other processing 
+#                       functions as needed and pass them as parameters.
+
+# html_to_text(url, id, topic_category, further_processing)
     
     
