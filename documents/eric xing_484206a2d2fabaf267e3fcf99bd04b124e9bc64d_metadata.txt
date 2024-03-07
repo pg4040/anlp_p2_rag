@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 484206a2d2fabaf267e3fcf99bd04b124e9bc64d
+Title: An innovative divertor concept, the fish tail divertor, for reducing the surface temperature on the divertor target plate in EAST tokamak experiments
+Year: 2023
+Abstract: An innovative divertor concept, the fish tail divertor, is proposed in this paper, aimed at reducing the surface temperature on the tokamak divertor plate as well as that due to the edge localized modes. This new concept has been implemented in experiments to demonstrate its capability of strike point sweeping on the plate at a frequency range from 10 to 100 Hz by using an oscillating magnetic field. A strike point movement of 5–6 cm is achieved by applying a coil current of several percent of plasma current, leading to a significant reduction of divertor surface temperature. The result indicates a possible application in a fusion reactor.
+Authors: Yang Zhang, Xiaodong Zhang, Q. Qiu, Jian Zhang, B. Li, Lei Chen, Zheng-ping Luo, J. Qian, Liang Wang, Haiqing Liu, L. Meng, Xianghang Liu, Bin Zhang, B. Shen, Q. Yuan, B. Xiao, X. Gong, G. Xu, Jiansheng Hu, K. Lu, Xin Wu, Yuntao Song
+Venue: Nuclear Fusion
+Tldr: None

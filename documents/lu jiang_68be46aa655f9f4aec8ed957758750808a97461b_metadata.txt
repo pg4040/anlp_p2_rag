@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 68be46aa655f9f4aec8ed957758750808a97461b
+Title: Changing incidence of hepatitis B and persistent infection risk in adults: a population-based follow-up study from 2011 in China
+Year: 2023
+Abstract: None
+Authors: Xiaolan Xu, Chensi Wu, Zhuo-qi Lou, Chun-ting Peng, Lushun Jiang, Tianxian Wu, Taiwen Zeng, Yin Dong, B. Ruan
+Venue: BMC Public Health
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'HBV incidence in adult rural residents in China was decreasing and stayed low and protective antibodies were induced in only one third of cases, while seroconversion had no concern with gender or age.'}

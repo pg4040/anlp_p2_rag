@@ -1,0 +1,9 @@
+Faculty Name: berg kirkpatrick taylor
+Metadata:
+Paperid: 15b08595533bfc640f4dd470ca7a2273badec20a
+Title: Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction
+Year: 2023
+Abstract: In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.
+Authors: Keren Shao, K. Chen, Taylor Berg-Kirkpatrick, S. Dubnov
+Venue: International Society for Music Information Retrieval Conference
+Tldr: {'model': 'tldr@v2.0.0', 'text': "This paper proposes an input feature modification and a training objective modification based on two assumptions of harmonics in the spectrograms of audio data decay rapidly along the frequency axis to enhance the model's sensitivity on the trailing harmonics."}

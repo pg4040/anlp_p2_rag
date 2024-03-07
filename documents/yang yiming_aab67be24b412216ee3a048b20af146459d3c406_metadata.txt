@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: aab67be24b412216ee3a048b20af146459d3c406
+Title: Functional targeted therapy for glioma based on platelet membrane-coated nanogels
+Year: 2023
+Abstract: None
+Authors: Qin Li, Jing-Jing Shen, Lingling Wu, S. Lei, Yiming Yang, Weide Xu, Ke Hao, Yi Zhang, Fei Kong, Wei-Qiong Yang, Yaling Wang, Lina Peng, Kai-qiang Li, Zhen Wang
+Venue: Cancer nanotechnology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'DOX@PNGs increased drug penetration and prolonged mouse survival time during the treatment of orthotopic gliomas, indicating this biomimetic drug delivery system to be promising for glioma treatment and may be clinically translated in the future.'}

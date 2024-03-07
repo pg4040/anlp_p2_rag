@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: d2cbb6d653a83f1bee6a0a971e8ce38f83d2a74c
+Title: Zircon within chromitite requires revision of the tectonic history of the Eoarchean Itsaq Gneiss complex, Greenland
+Year: 2023
+Abstract: None
+Authors: H. Sawada, T. Morishita, A. Vezinet, R. Stern, K. Tani, I. Nishio, Kanta Takahashi, D. Graham Pearson, K. Szilas
+Venue: Geoscience Frontiers
+Tldr: None

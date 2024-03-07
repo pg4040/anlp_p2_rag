@@ -1,0 +1,9 @@
+Faculty Name: maarten sap
+Metadata:
+Paperid: 57d65e85c62aef04dfb2a48380e415fbb790e5ee
+Title: Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+Year: 2023
+Abstract: None
+Authors: Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: None

@@ -1,0 +1,31 @@
+Title: Florian Metze -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio page for Florian Metze" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Florian Metze - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio page for Florian Metze" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Florian"/>
+<meta content="Lastname" property="profile:Metze"/>
+<meta content="http://lti.cmu.edu//people/faculty/metze-florian.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Florian 
+                        Metze
+Adjunct Professor, Language Technologies Institute
+Contact
+fmetze(through)andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+
+Links:

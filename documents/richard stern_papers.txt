@@ -1,0 +1,14 @@
+List of 2023 Open Access papers by richard stern are:
+Automatic Detection of Dyspnea in Real Human–Robot Interaction Scenarios
+Unsupervised Voice Type Discrimination Score Adaptation Using X-Vector Clusters
+Age validation of Black Rockfish, Copper Rockfish, and Cabezon using secondary ion mass spectrometry (SIMS) to elucidate seasonal patterns in otolith stable oxygen isotopes
+Author Correction: Age of the magma chamber and its physicochemical state under Elbrus Greater Caucasus, Russia using zircon petrochronology and modeling insights
+Discovery of a giant 3.3–3.1 Ga terrane in the Rae craton, Canada: Implications for the timing and extent of ancient continental growth
+Diamonds reveal subducted slab harzburgite in the lower mantle
+Age of the magma chamber and its physicochemical state under Elbrus Greater Caucasus, Russia using zircon petrochronology and modeling insights
+Sulfate recycling at subduction zones indicated by sulfur isotope systematics of Mesozoic ultramafic island arc cumulates in the North American Cordillera
+Zircon within chromitite requires revision of the tectonic history of the Eoarchean Itsaq Gneiss complex, Greenland
+Fibrous calcite veins record stepwise, asymmetric opening and episodic hydrocarbon expulsion from organic-rich shales
+Water in omphacite and garnet from unmetasomatised xenolithic eclogite: T-X-fO2 controls, and implications for conductivity and the deep H2O cycle
+Water in Omphacite and Garnet From Pristine Xenolithic Eclogite: T‐X‐fO2 Controls, Retentivity, and Implications for Electrical Conductivity and Deep H2O Recycling
+Online Active Learning For Sound Event Detection

@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: de54ffba68e0a65b7d9070538e2e84a7d58ced36
+Title: Establishment of a N1-methyladenosine-related risk signature for breast carcinoma by bioinformatics analysis and experimental validation
+Year: 2023
+Abstract: None
+Authors: Leilei Li, Wenhui Yang, Daqi Jia, Shiqi Zheng, Yu Gao, G. Wang
+Venue: Breast Cancer
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A m^1A RNA methylation regulator-related prognostic model was constructed, and a nomogram based on the prognostic model was constructed to provide a theoretical reference for individual counseling and clinical preventive intervention in BRCA.'}

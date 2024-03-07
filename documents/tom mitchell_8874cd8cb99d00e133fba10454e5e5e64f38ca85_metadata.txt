@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: 8874cd8cb99d00e133fba10454e5e5e64f38ca85
+Title: Learning to Give Useful Hints: Assistance Action Evaluation and Policy Improvements
+Year: 2023
+Abstract: None
+Authors: Robin Schmucker, Nimish Pachapurkar, Bala Shanmugam, Miral Shah, Tom Michael Mitchell
+Venue: European Conference on Technology Enhanced Learning
+Tldr: None

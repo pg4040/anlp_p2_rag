@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 70a6d974580a272e724936b6bc9cd27064098604
+Title: Imaging Field‐Driven Melting of a Molecular Solid at the Atomic Scale
+Year: 2023
+Abstract: Solid–liquid phase transitions are basic physical processes, but atomically resolved microscopy has yet to capture their full dynamics. A new technique is developed for controlling the melting and freezing of self‐assembled molecular structures on a graphene field‐effect transistor (FET) that allows phase‐transition behavior to be imaged using atomically resolved scanning tunneling microscopy. This is achieved by applying electric fields to 2,3,5,6‐tetrafluoro‐7,7,8,8‐tetracyanoquinodimethane‐decorated FETs to induce reversible transitions between molecular solid and liquid phases at the FET surface. Nonequilibrium melting dynamics are visualized by rapidly heating the graphene substrate with an electrical current and imaging the resulting evolution toward new 2D equilibrium states. An analytical model is developed that explains observed mixed‐state phases based on spectroscopic measurement of solid and liquid molecular energy levels. The observed nonequilibrium melting dynamics are consistent with Monte Carlo simulations.
+Authors: Franklin Liou, H. Tsai, Zachary A H Goodwin, Andrew S. Aikawa, Ethan Ha, Michael Hu, Yiming Yang, Kenji Watanabe, T. Taniguchi, A. Zettl, J. Lischner, M. Crommie
+Venue: Advances in Materials
+Tldr: None

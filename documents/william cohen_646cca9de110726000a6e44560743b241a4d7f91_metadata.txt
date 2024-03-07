@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: 646cca9de110726000a6e44560743b241a4d7f91
+Title: MEMORY-VQ: Compression for Tractable Internet-Scale Memory
+Year: 2023
+Abstract: Retrieval augmentation is a powerful but expensive method to make language models more knowledgeable about the world. Memory-based methods like LUMEN pre-compute token representations for retrieved passages to drastically speed up inference. However, memory also leads to much greater storage requirements from storing pre-computed representations. We propose MEMORY-VQ, a new method to reduce storage requirements of memory-augmented models without sacrificing performance. Our method uses a vector quantization variational autoencoder (VQ-VAE) to compress token representations. We apply MEMORY-VQ to the LUMEN model to obtain LUMEN-VQ, a memory model that achieves a 16x compression rate with comparable performance on the KILT benchmark. LUMEN-VQ enables practical retrieval augmentation even for extremely large retrieval corpora.
+Authors: Yury Zemlyanskiy, Michiel de Jong, L. Vilnis, Santiago Ontan'on, William W. Cohen, Sumit K. Sanghai, J. Ainslie
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work proposes MEMORY-VQ, a new method to reduce storage requirements of memory-augmented models without sacrificing performance, which uses a vector quantization variational autoencoder (VQ-VAE) to compress token representations.'}

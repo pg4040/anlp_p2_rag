@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 1123d35433a7b8dfa6e4259e66c4446db9de21f2
+Title: Enterococcus faecalis promotes the progression of colorectal cancer via its metabolite: biliverdin
+Year: 2023
+Abstract: None
+Authors: Li Zhang, J. Liu, Mingxia Deng, Xiangliu Chen, Lushun Jiang, Jiajie Zhang, Lisheng Tao, Wei-Fu Yu, Yunqing Qiu
+Venue: Journal of Translational Medicine
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'BV, as the tumor-stimulating metabolite of Efa, generates proliferative and angiogenic effects on CRC, which is mainly mediated by the activation of PI3K/AKT/mTOR.'}

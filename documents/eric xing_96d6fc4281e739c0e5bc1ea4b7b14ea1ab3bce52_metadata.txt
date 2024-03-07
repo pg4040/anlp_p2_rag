@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 96d6fc4281e739c0e5bc1ea4b7b14ea1ab3bce52
+Title: Measurement of Heavy Nulei beyond Iron in Cosmic Rays with the DAMPE Experiment
+Year: 2023
+Abstract: None
+Authors: Haoran Sun, Francesco Alemanno, C. Altomare, Q. An, P. Azzarello, F. Barbato, P. Bernardini, X. Bi, I. Cagnoli, M. Cai, E. Casilli, E. Catanzani, Jin Chang, Dengyi Chen, Junling Chen, Zhan-Fang Chen, Z. Chen, P. Coppin, M. Cui, T. Cui, Yu-Xin Cui, I. De Mitri, F. de Palma, Adriano Di Giovanni, M. Di Santo, Qi Ding, T. Dong, Z. Dong, G. Donvito, D. Droz, Jingmin Duan, K. Duan, R. Fan, Yizhong Fan, F. Fang, K. Fang, Chang-Xue Feng, Lei Feng, M. Fernandez Alonso, J. M. Frieden, P. Fusco, Min Gao, F. Gargano, Essna Ghose, Ke Gong, Y. Gong, D. Guo, Jianhua Guo, Shuang Han, Yi-Ming Hu, Guanghan Huang, Xiao Yuan Huang, Y. Huang, M. Ionica, Luyang Jiang, Wei Jiang, Y. Jiang, J. Kong, A. Kotenko, D. Kyratzis, S. Lei, W. Li, Wen Li, Xiang Li, X. Li, Y. Liang, Chengming Liu, Hao Liu, Jie Liu, S. Liu, Yang Liu, F. Loparco, C. Luo, Miao Ma, P. Ma, T. Ma, Xiao Ma, G. Marsella, M. N. Mazziotta, D. Mo, X. Niu, Xu Pan, A. Parenti, W. Peng, X. Peng, C. Perrina, E. Putti-Garcia, Rui Qiao, J. Rao, A. Ruina, Z. Shangguan, Weiming Shen, Z. Shen, Z. Shen, L. Silveri, Jing Song, M. Stolpovskiy, H. Su, Meng Su, H. Sun, Zhigang Sun, A. Surdo, X. Teng, A. Tykhonov, J. Wang, L. Wang, Shen Wang, X. Wang, Y. Wang, Ying Wang, Y. Wang, D. Wei, J. Wei, Yifeng Wei, Di Wu, Jian Wu, L. Wu, Sha Wu, Xin Wu, Z. Xia, E. Xu, Hailun Xu, Jing Xu, Z. Xu, Zizhong Xu, Zunlei Xu, G. Xue, Hai-Bo Yang, P. Yang, Y. Yang, H. Yao, Yu-hong Yu, G. Yuan, Qiang Yuan, C. Yue, J. Zang, Shenmin Zhang, W. Zhang, Yan Zhang, Y. Zhang, Yi Zhang, Y. Zhang, Y. Zhang, Yunlong Zhang, Zhe Zhang, Z. Zhang, Cong-Ying Zhao, Hongying Zhao, Xu Zhao, C. Zhou, Yanzi Zhu
+Venue: International Conference on Rebooting Computing
+Tldr: None

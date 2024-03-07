@@ -1,0 +1,9 @@
+Faculty Name: alon lavie
+Metadata:
+Paperid: 5579d38636b898c6a67ad67a16a80dd83be0f8d4
+Title: Towards Multilingual Automatic Dialogue Evaluation
+Year: 2023
+Abstract: None
+Authors: John Mendonça, A. Lavie, Isabel Trancoso
+Venue: arXiv.org
+Tldr: None

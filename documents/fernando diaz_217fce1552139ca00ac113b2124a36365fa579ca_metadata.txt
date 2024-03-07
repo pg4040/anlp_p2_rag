@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Metadata:
+Paperid: 217fce1552139ca00ac113b2124a36365fa579ca
+Title: Impact of outpatient radiotherapy on direct non-medical cost in patients in the Central Macro Region of Peru 2021
+Year: 2023
+Abstract: Background Financial toxicity arises in cancer patients due to the objective financial burden of the disease or treatment, being associated with worse clinical outcomes. Direct non-medical spending on cancer patients undergoing radiotherapy in Peru under its publicly funded health system has not been described. Objective To know the expenses related to the transfer of the radiotherapy outpatient. Methodology For patients who started radiation therapy in 2021, treatment demographics and expenses related to transporting the patient from home to the radiation therapy center were prospectively collected. Association and connection tests were used, such as the Mann–Whitney/Kruskal–Wallis U-test and Spearman’s Rho. A value of p < 0.05 is considered statistically significant. Results 398 patients were collected, with average weekly expenses for transportation, lodging and food of $17.04, $6.69 and $45.91, respectively. Confirmation was positive between weekly spending and remoteness, likewise it was negative between effective teletherapy and remoteness, both analyses being statistically significant. Conclusion The expense associated with transfer for radiotherapy is high, exceeding the average monthly income of the patient, as a consequence they have a worse therapeutic result, and may cause financial toxicity in cancer patients.
+Authors: José Fernando Robles Díaz
+Venue: ecancermedicalscience
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The expense associated with transfer for radiotherapy is high, exceeding the average monthly income of the patient, as a consequence they have a worse therapeutic result, and may cause financial toxicity in cancer patients.'}

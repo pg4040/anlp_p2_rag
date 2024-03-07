@@ -1,0 +1,9 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: f1ebdd8c99aa33284e3604c28b72efa9dc46047c
+Title: Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge
+Year: 2023
+Abstract: This Signal Processing Grand Challenge (SPGC) targets a difficult automatic prediction problem of societal and medical relevance, namely, the detection of Alzheimer’s Dementia (AD). Participants were invited to employ signal processing and machine learning methods to create predictive models based on spontaneous speech data. The Challenge has been designed to assess the extent to which predictive models built based on speech in one language (English) generalise to another language (Greek). To the best of our knowledge no work has investigated acoustic features of the speech signal in multilingual AD detection. Our baseline system used conventional machine learning algorithms with Active Data Representation of acoustic features, achieving accuracy of 73.91% on AD detection, and 4.95 root mean squared error on cognitive score prediction.
+Authors: S. Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, Y. Kompatsiaris, B. MacWhinney
+Venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This Signal Processing Grand Challenge (SPGC) targets a difficult automatic prediction problem of societal and medical relevance, namely, the detection of Alzheimer’s Dementia, and aims to assess the extent to which predictive models built based on speech in one language generalise to another language.'}

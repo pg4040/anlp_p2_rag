@@ -1,0 +1,9 @@
+Faculty Name: david mortensen
+Metadata:
+Paperid: 1d343a435c8b27b986cbeac1708e2b76abf2f9bc
+Title: Kuki-Chin Phonology: An Overview
+Year: 2023
+Abstract: None
+Authors: David R Mortensen
+Venue: Himalayan Linguistics
+Tldr: None

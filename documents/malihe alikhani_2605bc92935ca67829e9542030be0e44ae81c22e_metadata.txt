@@ -1,0 +1,9 @@
+Faculty Name: malihe alikhani
+Metadata:
+Paperid: 2605bc92935ca67829e9542030be0e44ae81c22e
+Title: Learning Multimodal Cues of Children’s Uncertainty
+Year: 2023
+Abstract: Understanding uncertainty plays a critical role in achieving common ground (Clark et al., 1983). This is especially important for multimodal AI systems that collaborate with users to solve a problem or guide the user through a challenging concept. In this work, for the first time, we present a dataset annotated in collaboration with developmental and cognitive psychologists for the purpose of studying nonverbal cues of uncertainty. We then present an analysis of the data, studying different roles of uncertainty and its relationship with task difficulty and performance. Lastly, we present a multimodal machine learning model that can predict uncertainty given a real-time video clip of a participant, which we find improves upon a baseline multimodal transformer model. This work informs research on cognitive coordination between human-human and human-AI and has broad implications for gesture understanding and generation. The anonymized version of our data and code will be publicly available upon the completion of the required consent forms and data sheets.
+Authors: Qi Cheng, Mert Inan, Rahma Mbarki, Grace Grmek, Theresa Choi, Yiming Sun, Kimele Persaud, Jenny Wang, Malihe Alikhani
+Venue: SIGDIAL Conferences
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A multimodal machine learning model that can predict uncertainty given a real-time video clip of a participant is presented, which improves upon a baseline multimodAL transformer model and has broad implications for gesture understanding and generation.'}

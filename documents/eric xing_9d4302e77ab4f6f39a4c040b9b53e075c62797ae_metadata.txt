@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 9d4302e77ab4f6f39a4c040b9b53e075c62797ae
+Title: Evaluation of thermal comfort in air-conditioned rooms based on structure/control-related parameters and data-mining method
+Year: 2023
+Abstract: None
+Authors: S. Zhao, Lin He, Xin Wu, Guowen Xu, Junlong Xie, Shanshan Cai
+Venue: International Journal of Air-Conditioning and Refrigeration
+Tldr: None

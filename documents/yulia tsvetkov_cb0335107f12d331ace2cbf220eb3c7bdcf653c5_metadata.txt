@@ -1,0 +1,9 @@
+Faculty Name: yulia tsvetkov
+Metadata:
+Paperid: cb0335107f12d331ace2cbf220eb3c7bdcf653c5
+Title: Mitigating Societal Harms in Large Language Models
+Year: 2023
+Abstract: ,
+Authors: Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov
+Venue: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Tutorial Abstracts
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

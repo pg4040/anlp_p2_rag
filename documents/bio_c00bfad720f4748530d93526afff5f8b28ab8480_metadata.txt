@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: c00bfad720f4748530d93526afff5f8b28ab8480
+Title: Sea Level Rise Effects on the Sedimentary Dynamics of the Douro Estuary Sandspit (Portugal)
+Year: 2023
+Abstract: Sandspits are important natural defences against the effects of storm events in estuarine regions, and their temporal and spatial dynamics are related to river flow, wave energy, and wind action. Understanding the impact of extreme wave events on the morphodynamics of these structures for current conditions and future projections is of paramount importance to promote coastal and navigation safety. In this work, a numerical analysis of the impact of a storm on the sandspit of the Douro estuary (NW Portugal) was carried out considering several mean sea level conditions induced by climate change. The selected numerical models were SWAN, for hydrodynamics, and XBeach, for hydrodynamic and morphodynamic assessments. The extreme event selected for this study was based on the meteo-oceanic conditions recorded during Hurricane Christina (January 2014), which caused significant damage on the western Portuguese coast. The analysis focused on the short-term (two days) impact of the storm on the morphodynamics of the sandspit in terms of its erosion and accretion patterns. The obtained results demonstrate that the mean sea level rise will induce some increase in the erosion/accretion volumes on the seaward side of the sandspit. Overtopping of the detached breakwater and the possibility of wave overtopping of the sandspit crest were observed for the highest simulated mean sea levels.
+Authors: Francisca Caeiro-Gonçalves, A. Bio, I. Iglesias, P. Avilez-Valente
+Venue: Water
+Tldr: None

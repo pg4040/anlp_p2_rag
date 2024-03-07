@@ -1,0 +1,9 @@
+Faculty Name: matthias grabmair
+Metadata:
+Paperid: 6f11b0542cd8abc51d979e474bbf77676d001859
+Title: Pervasive Computational Law
+Year: 2023
+Abstract: None
+Authors: Clement Guitton, Aurelia Tamó-Larrieux, Simon Mayer, Kevin D. Ashley, Matthias Grabmair, Galileo Sartor, Giovanni Sartor, G. van Dijck
+Venue: IEEE pervasive computing
+Tldr: None

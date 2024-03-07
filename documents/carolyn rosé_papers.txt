@@ -1,0 +1,10 @@
+List of 2023 Open Access papers by carolyn rosé are:
+Enhancing student learning and achievement through orchestration of group processes and group composition
+Editorial: Nine elements for robust collaborative learning analytics: A constructive collaborative critique
+High school students’ data modeling practices and processes: from modeling unstructured data to evaluating automated decisions
+Linguistic representations for fewer-shot relation extraction across domains
+Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning
+Towards Extracting and Understanding the Implicit Rubrics of Transformer Based Automatic Essay Scoring Models
+Exploring Artificial Intelligence in English Language Arts with StoryQ
+SPEERLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles
+Studying Interdisciplinary Collaboration as a Core Skill

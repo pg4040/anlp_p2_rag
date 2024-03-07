@@ -1,0 +1,9 @@
+Faculty Name: daniel fried
+Metadata:
+Paperid: bebca5d54374c83a7489638d3b45d2b006d559f0
+Title: Diagnostic Performance of Multispectral SWIR Transillumination and Reflectance Imaging for Caries Detection
+Year: 2023
+Abstract: The aim of this clinical study was to compare the diagnostic performance of dual short wavelength infrared (SWIR) occlusal transillumination and reflectance multispectral imaging with conventional visual assessment and radiography for caries detection on premolars scheduled for extraction for orthodontics reasons. Polarized light microscopy (PLM) and micro-computed tomography (microCT) performed after tooth extraction were used as gold standards. The custom-fabricated imaging probe was 3D-printed and the imaging system employed a SWIR camera and fiber-optic light sources emitting light at 1300 nm for occlusal transillumination and 1600 nm for reflectance measurements. Teeth (n = 135) on 40 test subjects were imaged in vivo using the SWIR imaging prototype in the study and teeth were extracted after imaging. Our study demonstrates for the first time that near-simultaneous real-time transillumination and reflectance video can be successfully acquired for caries detection. Both SWIR imaging modalities had markedly higher sensitivity for lesions on proximal and occlusal surfaces compared to conventional methods (visual and radiographic). Reflectance imaging at 1600 nm had higher sensitivity and specificity than transillumination at 1300 nm. The combined SWIR methods yielded higher specificity but the combined sensitivity was lower than for each individual method.
+Authors: Yihua Zhu, C. Ng, O. Le, Yi-Ching Ho, D. Fried
+Venue: Diagnostics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This study demonstrates for the first time that near-simultaneous real-time transillumination and reflectance video can be successfully acquired for caries detection.'}

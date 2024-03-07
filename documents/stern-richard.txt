@@ -1,0 +1,36 @@
+Title: Richard Stern -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Richard Stern, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Affiliated Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Richard Stern - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Richard Stern, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Richard"/>
+<meta content="Lastname" property="profile:Stern"/>
+<meta content="http://lti.cmu.edu//people/faculty/stern-richard.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Richard 
+                        Stern
+Professor, Electrical and Computer Engineering
+Contact
+B24 —Baker-Porter Hall
+rs1e(through)andrew.cmu.edu
+412-268-2535
+Research
+My research interests involve a number of topics joined by the common threads of signal processing, sound, and acoustics. At present I am most actively working on topics related to automatic speech recognition and signal processing in the auditory system. I have also been involved in projects in the areas of biomedical instrumentation, particularly with regard to the auditory system, physical acoustics, computer music, and computer-aided instructional systems.
+Automatic Speech Recognition.
+The SCS speech group is developing speech technology that can perform unlimited-vocabulary speech recognition on a speaker-independent basis under difficult acoustical conditions. We are also developing practical applications that make use of spoken language interfaces to perform useful tasks.The major goal of my own work speech research is to enable CMU's SPHINX recognition system to become as robust to changes in acoustical environment and ambience as it is to changes in speaker. In particular, we must deal with problems in recognition accuracy resulting from additive noise sources, background music, competing talkers, change of microphone, and room reverberation. We are developing several different types of solutions for these problems including improved noise cancellation and speech normalization methods, the use of representations of the speech waveform that are based on the processing of sounds by the human auditory system, and the use of arrays of microphones to improve signal-to-noise ratio. In previous knowledge-based speech-recognition systems I had also worked on statistical classification, speaker adaptation, and the integration of syntactic, grammatic, and semantic information.
+Signal Processing in the Auditory System.
+The general goal of this research has been to develop a better understanding of how the auditory system processes sound, to apply this knowledge to the treatment of various kinds of hearing impairments, and to apply this knowledge to the development of more robust speech recognition systems. I am presently carrying out psychoacoustical measurements of various aspects of monaural and binaural perception, and developing models based on communications theory and linear system theory to relate the results of these experiments to neural coding of sounds by the auditory system. Most of my work in hearing has been concerned with the localization of sound and other aspects of binaural perception.
+
+Links:

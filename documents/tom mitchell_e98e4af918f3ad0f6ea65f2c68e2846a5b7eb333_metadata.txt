@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: e98e4af918f3ad0f6ea65f2c68e2846a5b7eb333
+Title: Genitourinary Management and Follow-Up for Patients with Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis
+Year: 2023
+Abstract: None
+Authors: Gina T. Baaklini, Tom Michael Mitchell, Jordan Davis, Kevin McGovern, J. Aden, L. Cancio
+Venue: Burns Open
+Tldr: None

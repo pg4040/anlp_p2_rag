@@ -1,0 +1,9 @@
+Faculty Name: raj reddy
+Metadata:
+Paperid: e48f14c82a52ed7b594799b2a51e7f2a703e17d1
+Title: The Evolving Profile of Idiosyncratic Drug Induced liver Injury.
+Year: 2023
+Abstract: None
+Authors: R. Fontana, E. Bjornsson, K. Reddy, R. Andrade
+Venue: Clinical Gastroenterology and Hepatology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'DILI patients with an elevated INR or mental status changes should be considered for N-acetylcysteine therapy and urgent liver transplant evaluation, and selected patients with moderate to severe DRESS or autoimmune features on liver biopsy may benefit from short-term corticosteroids.'}

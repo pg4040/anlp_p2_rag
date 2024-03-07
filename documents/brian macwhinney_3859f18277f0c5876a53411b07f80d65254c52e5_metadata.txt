@@ -1,0 +1,9 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: 3859f18277f0c5876a53411b07f80d65254c52e5
+Title: Using diagnostic feedback to enhance the development of phonetic knowledge of an L2: a CALL design based on the unified competition model and the implementation with the Pinyin Tutor
+Year: 2023
+Abstract: None
+Authors: Yanhui Zhang, B. MacWhinney
+Venue: Language Testing in Asia
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The findings demonstrated that the repeated feedback-embedded training with the Pinyin Tutor significantly boosted the learners’ proficiency in all aspects of PinyIn knowledge for second language (L2) learners of Chinese whose first language backgrounds were varied and whose initial proficiencies in Chinese were elementary.'}

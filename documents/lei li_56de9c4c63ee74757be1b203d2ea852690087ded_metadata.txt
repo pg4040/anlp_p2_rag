@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: 56de9c4c63ee74757be1b203d2ea852690087ded
+Title: Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning
+Year: 2023
+Abstract: Syllogistic reasoning, a typical form of deductive reasoning, is a critical capability widely required in natural language understanding tasks, such as text entailment and question answering. To better facilitate research on syllogis-tic reasoning, we develop a benchmark called S YLLO B ASE that differs from existing syllo-gistic datasets in three aspects: (1) Covering a complete taxonomy of syllogism reasoning patterns; (2) Containing both automatically and manually constructed samples; and (3) Involving both the generation and understanding tasks. We automatically construct 50k template-based syllogism samples by mining syllogism patterns from Wikidata and ConceptNet. To improve our dataset’s naturalness and challenge, we apply GPT-3 to paraphrase the template-based data and further manually rewrite 1,000 samples as the test set. State-of-the-art pre-trained language models can achieve the best generation ROUGE-L of 38.72 by T5 and the best multi-choice accuracy of 72.77% by RoBERTa on S YLLO B ASE , which indicates the great challenge of learning diverse syllo-gistic reasoning types on S YLLO B ASE . Our datasets are released at https://github.com/ casually-PYlearner
+Authors: Yongkang Wu, Meng Han, Yutao Zhu, Lei Li, Xinyu Zhang, Ruofei Lai, Xiaoguang Li, Yuanhang Ren, Zhicheng Dou, Zhao Cao
+Venue: Annual Meeting of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A benchmark called S YLLO B ASE that differs from existing syllo-gistic datasets in three aspects, covering a complete taxonomy of syllogism reasoning patterns; containing both automatically and manually constructed samples; and involving both the generation and understanding tasks.'}

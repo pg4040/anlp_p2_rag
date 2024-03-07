@@ -1,0 +1,9 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: cf152ac1b3c9daea5b48f858acc13193a83df185
+Title: Establishing the DementiaBank Delaware Corpus: An Online Multimedia Database for the Study of Language and Cognition in Dementia
+Year: 2023
+Abstract: To better understand the progressive decline of language abilities in aging and dementia, we expanded the quality and quantity of resources in DementiaBank — an open‐access database of multimedia spoken language interactions for the study of speech and language abilities across the progression of dementia. This work builds from the success of the TalkBank Project with regard to data sharing, transcription, analysis, and web delivery. Specifically, this work collected connected speech and language data to develop the new “Delaware corpus” and to share resources for future analyses.
+Authors: Alyssa M. Lanzi, Anna K Saylor, Davida Fromm, B. MacWhinney, Matthew L Cohen
+Venue: Alzheimer's &amp; Dementia
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work collected connected speech and language data to develop the new “Delaware corpus” and to share resources for future analyses to better understand the progressive decline of language abilities in aging and dementia.'}

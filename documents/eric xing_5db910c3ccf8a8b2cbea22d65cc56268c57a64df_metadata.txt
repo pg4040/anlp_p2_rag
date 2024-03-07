@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 5db910c3ccf8a8b2cbea22d65cc56268c57a64df
+Title: Characterization of Asphaltene Deposition Behavior in Diluted Heavy Oil under High-Pressure Conditions
+Year: 2023
+Abstract: Some oil wells in the Tahe oilfield have been reported to produce extremely heavy oil due to asphaltene deposition. To enhance the flow of crude oil through the wellbore, engineers adopted the use of light oil from nearby wells to dissolve the heavy crude in the wells’ sections to maximize recovery from the Tahe oilfield. However, this mixing has led to the problem of accelerated asphaltene deposition, which often blocks the wellbore in the process. In this research, the factors that influence the stability of diluted heavy oil, temperature, and mixing ratio on asphaltene deposition characteristics under high pressure are studied using a high-temperature and high-pressure crude oil flow property experimental device based on the differential pressure method. The results under high pressure show that the initial deposition pressure of asphaltene decreases as the experimental temperature increases. With an increase in the mixing light oil ratio, the initial deposition pressure of diluted heavy oil increases, and the deposition trend of asphaltene strengthens. The asphaltene accumulation and deposition will be aggravated by filling quartz sand and pipe diameter changes. The research here is helpful to understand the deposition characteristics of asphaltene during the production of diluted heavy oil. It offers significant guidance in the prevention and control of asphaltene precipitation in heavy oil wells.
+Authors: Zuguo Yang, Xin Wu, Jixiang Guo, Jianjun Zhang, R. Xiong, Lei Liu, Wyclif Kiyingi
+Venue: Energies
+Tldr: None

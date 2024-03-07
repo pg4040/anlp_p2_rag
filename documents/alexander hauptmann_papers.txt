@@ -1,0 +1,8 @@
+List of 2023 Open Access papers by alexander hauptmann are:
+Towards Open-Domain Twitter User Profile Inference
+Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation
+SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition
+DocumentNet: Bridging the Data Gap in Document Pre-training
+Language Model Beats Diffusion - Tokenizer is Key to Visual Generation
+Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin

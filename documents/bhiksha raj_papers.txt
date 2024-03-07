@@ -1,0 +1,35 @@
+List of 2023 Open Access papers by bhiksha raj are:
+FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding
+UTOPIA: Unconstrained Tracking Objects without Preliminary Examination via Cross-Domain Adaptation
+SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning
+Fixed Inter-Neuron Covariability Induces Adversarial Robustness
+Understanding political polarization using language models: A dataset and method
+Prolonged school closure during the pandemic time in successive waves of COVID-19- vulnerability of children to sexual abuses – A case study in Tamil Nadu, India
+BASS: Block-wise Adaptation for Speech Summarization
+Understanding Political Polarisation using Language Models: A dataset and method
+An Approach to Ontological Learning from Weak Labels
+Rethinking Voice-Face Correlation: A Geometry View
+Paaploss: A Phonetic-Aligned Acoustic Parameter Loss for Speech Enhancement
+Improving Perceptual Quality, Intelligibility, and Acoustics on VoIP Platforms
+Approach to Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization and Constant-Q Transforms
+Training on Foveated Images Improves Robustness to Adversarial Attacks
+Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations
+The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features
+Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
+PaintSeg: Training-free Segmentation via Painting
+TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement
+Synergy between human and machine approaches to sound/scene recognition and processing: An overview of ICASSP special session
+LoFT: Local Proxy Fine-tuning For Improving Transferability Of Adversarial Attacks Against Large Language Model
+Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech
+Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition
+Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text
+Psychoacoustic Challenges Of Speech Enhancement On VoIP Platforms
+uSee: Unified Speech Enhancement and Editing with Conditional Diffusion Models
+Token Prediction as Implicit Classification to Identify LLM-Generated Text
+Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks
+Importance of negative sampling in weak label learning
+Completing Visual Objects via Bridging Generation and Segmentation
+Training Audio Captioning Models without Audio
+Continual Contrastive Spoken Language Understanding
+Prompting Audios Using Acoustic Properties For Emotion Representation
+Pairwise Similarity Learning is SimPLE

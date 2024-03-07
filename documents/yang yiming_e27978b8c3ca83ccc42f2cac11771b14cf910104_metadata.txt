@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: e27978b8c3ca83ccc42f2cac11771b14cf910104
+Title: Synergistic Interface Engineering of RuO2/Co3O4 Heterostructures for Enhanced Overall Water Splitting in Acidic Media
+Year: 2023
+Abstract: Designing nanocomposites with heterointerface as bifunctional electrocatalysts is a potential strategy to overcome the intrinsic activity limitation of electrocatalytic water splitting in acidic media, but it remains challenging. Herein, the highly efficient RuO2/Co3O4 electrocatalyst with a uniform nanoflower structure is prepared by hydrothermal growth combined with interface engineering. Benefiting from the unique nanostructure, the migration of electrons and intermediates is optimized by the sufficient exposure of abundant micropores and defects. Moreover, the formation of strong electronic interaction at the RuO2/Co3O4 heterointerfaces boosts the electrochemical active surface area and accelerates the reaction kinetics, which effectively improve the catalytic activity and stability of the catalyst. Based on enhanced intrinsic activity and electron transfer, the as‐synthesized RuO2/Co3O4 displays impressive hydrogen evolution reaction and oxygen evolution reaction activity, which respectively require low overpotentials of 240 and 100 mV to achieve a current density of 10 mA cm−2 in 0.5 m H2SO4. As a bifunctional electrode, RuO2/Co3O4 exhibits a low operating voltage of 1.58 V at 10 mA cm−2 for overall electrochemical water splitting. This study demonstrates the importance of heterostructure engineering in providing an avenue to achieve acid‐stable bifunctional electrocatalysts for energy conversion applications.
+Authors: Yiming Yang, Luqi Wang, Ming-yue Ma, Feng Hu, Linlin Li, Y. Tan, D. Kai, J. Ren, Shengjie Peng
+Venue: Advanced Energy and Sustainability Research
+Tldr: None

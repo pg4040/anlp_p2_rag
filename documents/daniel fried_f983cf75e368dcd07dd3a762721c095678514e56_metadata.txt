@@ -1,0 +1,9 @@
+Faculty Name: daniel fried
+Metadata:
+Paperid: f983cf75e368dcd07dd3a762721c095678514e56
+Title: AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies
+Year: 2023
+Abstract: None
+Authors: Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: None

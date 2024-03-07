@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: 797d61ad4a4f1bcfcaaadcfa43921ae5907b81dc
+Title: Figure of eight suture technique in aortic valve replacement decreases prosthesis-patient mismatch
+Year: 2023
+Abstract: None
+Authors: Nabeel F. Rasheed, C. Stonebraker, Zhaozhi Li, U. Siddiqi, A. Lee, Willa Li, S. Lupo, J. Cruz, W. Cohen, Cathy Staub, D. Rodgers, Mark Myren, P. Combs, V. Jeevanandam, N. Hibino
+Venue: Journal of Cardiothoracic Surgery
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'While the pledget suture is the standard technique in AVR, the figure-of-eight suture technique may offer better structural and hemodynamic outcomes, especially for patients with a smaller aortic annulus.'}

@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 188c683099d99c3449a85f740066c4727d8a10ca
+Title: TRPML1 as a potential therapeutic target for triple-negative breast cancer: a review
+Year: 2023
+Abstract: Triple-negative breast cancer (TNBC) is the most refractory subtype of breast cancer, and effective treatments are urgently needed owing to its poor prognosis. Surgery, radiotherapy, and chemotherapy, alone or in combination, are the leading choices for TNBC therapy. Although promising approaches and procedures have emerged, several challenges, such as off-target effects, drug resistance, and severe side effects, remain to be addressed. Recently, transient receptor potential channel mucolipin 1 (TRPML1) has attracted the attention of researchers because its expression has been implicated in numerous diseases, including cancer. TRPML1 regulates biological events and signaling pathways, including autophagic flux, exocytosis, ionic homeostasis, and lysosomal biogenesis, all contributing to tumorigenesis and cancer progression. TRPML1 also functions as a building block for cancer cell growth, mitogenic signaling, priming tissues for metastasis, and activation of transcriptional programs, processes involved in several malignant tumors. This review provides an overview of breast cancer epidemiology and diagnostic techniques and then discusses the existing therapeutics. Additionally, we elaborate on the development of, and associated challenges to, TNBC diagnostics and treatment and the feasibility of TRPML1 as a therapeutic target for TNBC.
+Authors: Ying Pan, Qiancheng Zhao, Haitao He, Yubo Qi, Yujie Bai, Jia Zhao, Yiming Yang
+Venue: Frontiers in Oncology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'An overview of breast cancer epidemiology and diagnostic techniques and the existing therapeutics is provided and the feasibility of TRPML1 as a therapeutic target for TNBC is elaborated.'}

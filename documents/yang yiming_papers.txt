@@ -1,0 +1,57 @@
+List of 2023 Open Access papers by yang yiming are:
+Functional targeted therapy for glioma based on platelet membrane-coated nanogels
+Dual Responsive Magnetic Drug Delivery Nanomicelles with Tumor Targeting for Enhanced Cancer Chemo/Magnetothermal Synergistic Therapy
+Expression of ALCAM in Clinical Colon Cancer and Relationship With Patients’ Treatment Responses
+Claudin-10 in the Blood Brain Barrier Function of Cerebral Endothelial Cells and Transendothelial Invasion of Breast Cancer Cells
+Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation
+Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the-loop software
+High CD8+tumor-infiltrating lymphocytes indicate severe exhaustion and poor prognosis in angioimmunoblastic T-cell lymphoma
+Numerical Investigation of Fatigue Crack Propagation Behaviour of 550E High-Performance Steel
+Association between albumin-to-globulin ratio and the risk of overall survival in advanced non-small cell lung cancer patients with anlotinib treatment: a retrospective cohort study
+Analysis of Volatile Components in Dried Fruits and Branch Exudates of Schisandra chinensis with Different Fruit Colors Using GC-IMS Technology
+Secreted endogenous macrosomes reduce Aβ burden and ameliorate Alzheimer’s disease
+DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization
+Balancing Exploration and Exploitation in Hierarchical Reinforcement Learning via Latent Landmark Graphs
+Aligning Large Multimodal Models with Factually Augmented RLHF
+An Experimental Study on Secondary Transfer Performances of Prestress after Anchoring Failure of Steel Wire Strands
+MRI Features for Predicting Microvascular Invasion and Postoperative Recurrence in Hepatocellular Carcinoma Without Peritumoral Hypointensity
+Impact of local governments’ construction land allocation strategies on innovation-driven development of China
+Synergistic Interface Engineering of RuO2/Co3O4 Heterostructures for Enhanced Overall Water Splitting in Acidic Media
+Numerical Analysis on the Influence of Joint Density on the Stability of Complex Jointed Roadway Surrounding Rock
+Experimental Study on Secondary Anchorage Bond Performance of Residual Stress after Corrosion Fracture at Ends of Prestressed Steel Strands
+The Relationship between the Serum NLRP1 Level and Coronary Lesions in Patients with Coronary Artery Disease
+Matrine induces ferroptosis in cervical cancer through activation of piezo1 channel.
+16p11.2 CNV gene Doc2α functions in neurodevelopment and social behaviors through interaction with Secretagogin.
+Chinese EFL learners different from English natives in cataphora resolution: Evidence from eye-tracking studies
+Strain-driven Kovacs-like memory effect in glasses
+TRPML1 as a potential therapeutic target for triple-negative breast cancer: a review
+Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs
+Genome- and transcriptome-wide identification of trehalose-6-phosphate phosphatases (TPP) gene family and their expression patterns under abiotic stress and exogenous trehalose in soybean
+Imaging Field‐Driven Melting of a Molecular Solid at the Atomic Scale
+A Wideband Reconfigurable Intelligent Surface for 5G Millimeter-Wave Applications
+A Via-Less Fully Screen-Printed Reconfigurable Intelligent Surface for 5G Millimeter Wave Communication
+SALMON: Self-Alignment with Principle-Following Reward Models
+Widely Targeted Metabolomics Was Used to Reveal the Differences between Non-Volatile Compounds in Different Wines and Their Associations with Sensory Properties
+Cardsformer: Grounding Language to Learn a Generalizable Policy in Hearthstone
+Approximation and interpolation with neural network
+A Graphene Geometric Diode with the Highest Asymmetry Ratio and Three States Gate‐Tunable Rectification Ability
+De novo assembling a high-quality genome sequence of Amur grape (Vitis amurensis Rupr.) gives insight into Vitis divergence and sex determination
+PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification
+Learning Performance-Improving Code Edits
+Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT
+Self-Refine: Iterative Refinement with Self-Feedback
+Long-tailed Extreme Multi-label Text Classification by the Retrieval of Generated Pseudo Label Descriptions
+Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers
+Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation
+Active Retrieval Augmented Generation
+Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion
+Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs
+Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+Policy Representation via Diffusion Probability Model for Reinforcement Learning
+A Neural PDE Solver with Temporal Stencil Modeling
+Research on Comprehensive Performance Optimization Method of Explosives and Propellants Oriented to the Whole Process
+Inference of single cell profiles from histology stains with the Single-Cell omics from Histology Analysis Framework (SCHAF)
+Recent Advances in the Ecology of Bloom-Forming Raphidiopsis (Cylindrospermopsis) raciborskii: Expansion in China, Intraspecific Heterogeneity and Critical Factors for Invasion
+An Ultra-Low-Power Analog Multiplier–Divider Compatible with Digital Code for RRAM-Based Computing-in-Memory Macros
+Extension of Pt–Ag cluster units by incorporating silver salts
+Optimization of Critical Factors Affecting Dynamic Membrane Formation in a Gravity-Driven Self-Forming Dynamic Membrane Bioreactor towards Low-Cost and Low-Maintenance Wastewater Treatment

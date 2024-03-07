@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 3355d79dc3d806d068833602aa5ef4011fe8f7d7
+Title: Advances in gene therapy hold promise for treating hereditary hearing loss.
+Year: 2023
+Abstract: None
+Authors: Luoying Jiang, Daqi Wang, Yingzi He, Y. Shu
+Venue: Molecular Therapy
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Three main gene therapy strategies-gene replacement, gene suppression, and gene editing are addressed, summarizing which strategy is most appropriate for particular monogenic diseases based on different pathogenic mechanisms and then focusing on their successful applications for HHL in preclinical trials.'}

@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 92b3753e56f5d85fd57a32084f52476839cc7221
+Title: One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition
+Year: 2023
+Abstract: This paper presents a novel framework for joint speaker diarization (SD) and automatic speech recognition (ASR), named SLIDAR (sliding-window diarization-augmented recognition). SLIDAR can process arbitrary length inputs and can handle any number of speakers, effectively solving ``who spoke what, when'' concurrently. SLIDAR leverages a sliding window approach and consists of an end-to-end diarization-augmented speech transcription (E2E DAST) model which provides, locally, for each window: transcripts, diarization and speaker embeddings. The E2E DAST model is based on an encoder-decoder architecture and leverages recent techniques such as serialized output training and ``Whisper-style"prompting. The local outputs are then combined to get the final SD+ASR result by clustering the speaker embeddings to get global speaker identities. Experiments performed on monaural recordings from the AMI corpus confirm the effectiveness of the method in both close-talk and far-field speech scenarios.
+Authors: Samuele Cornell, Jee-weon Jung, Shinji Watanabe, S. Squartini
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': "SLIDAR (sliding-window diarization-augmented recognition) can process arbitrary length inputs and can handle any number of speakers, effectively solving ``who spoke what, when'' concurrently."}

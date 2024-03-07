@@ -1,0 +1,9 @@
+Faculty Name: carolyn rosé
+Metadata:
+Paperid: 7ec990ab7362e8eac0c074830d44a58a1d89b4a6
+Title: Enhancing student learning and achievement through orchestration of group processes and group composition
+Year: 2023
+Abstract: None
+Authors: Carolyn P. Rosé, Sanna Järvelä
+Venue: International Journal of Computer-Supported Collaborative Learning
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This September issue of the International Journal of Computer-Supported Collaborative Learning reflects on the importance of productive collaborative processes, with an emphasis on feedback processes, and the scaffolding that upholds and promotes productive learning processes, whether it is explicit or implicit.'}

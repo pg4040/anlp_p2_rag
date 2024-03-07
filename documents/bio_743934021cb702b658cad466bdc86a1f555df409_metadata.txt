@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 743934021cb702b658cad466bdc86a1f555df409
+Title: VSC-HVDC transmission line fault location based on transient characteristics
+Year: 2023
+Abstract: Accurate and reliable fault location is necessary for ensuring the safe and reliable operation of the VSC-HVDC transmission system. This paper proposed a single-terminal fault location method based on the fault transient characteristics of the two-terminal VSCHVDC transmission system. The pole-to-pole transient fault process was divided into three stages, the time-domain expression of the DC current during the diode freewheel stage was used to locate the fault point, and a criterion for judging whether the fault evolves to the diode freewheel stage was proposed. Taking into account the enhancing effect of the opposite system to the fault current, theDC side pole-to-ground fault networkwas equated to a fourth-order circuit model, the relationship of fault distance with the characteristic roots of fault current differential equationwas derived, and the Prony algorithmwas utilized for datafitting to extract characteristic roots to realize fault location. A two-terminal VSC-HVDC transmission system was modelled in PSCAD/EMTDC. The simulation result verifies that the proposed principle can accurately locate the fault point on the VSC-HVDC transmission lines.
+Authors: Yanxia Zhang, Anlu BIo, Jian Wang, Fu-chun Zhang, L. Jingyi, Yanxia Zhang
+Venue: Archives of Electrical Engineering
+Tldr: None

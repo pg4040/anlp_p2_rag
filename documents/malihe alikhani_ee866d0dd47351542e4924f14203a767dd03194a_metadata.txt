@@ -1,0 +1,9 @@
+Faculty Name: malihe alikhani
+Metadata:
+Paperid: ee866d0dd47351542e4924f14203a767dd03194a
+Title: A corpus of Persian literary text
+Year: 2023
+Abstract: None
+Authors: Shahab Raji, Malihe Alikhani, Gerard de Melo, Matthew Stone
+Venue: Language Resources and Evaluation
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The corpus, the tools, and experiments described in this paper can be used not only for digital humanities studies of Persian literature but also for processing Persian texts in general, as well as in other broader cross-linguistic applications.'}

@@ -1,0 +1,9 @@
+Faculty Name: berg kirkpatrick taylor
+Metadata:
+Paperid: d8785264bbce47ca1ea7f97e7f3bc4ca6cbe824c
+Title: A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation
+Year: 2023
+Abstract: Recent work has shown that energy-based language modeling is an effective framework for controllable text generation because it enables flexible integration of arbitrary discriminators. However, because energy-based LMs are globally normalized, approximate techniques like Metropolis-Hastings (MH) are required for inference. Past work has largely explored simple proposal distributions that modify a single token at a time, like in Gibbs sampling. In this paper, we develop a novel MH sampler that, in contrast, proposes re-writes of the entire sequence in each step via iterative prompting of a large language model. Our new sampler (a) allows for more efficient and accurate sampling from a target distribution and (b) allows generation length to be determined through the sampling procedure rather than fixed in advance, as past work has required. We perform experiments on two controlled generation tasks, showing both downstream performance gains and more accurate target distribution sampling in comparison with single-token proposal techniques.
+Authors: Jarad Forristal, Fatemehsadat Mireshghallah, Greg Durrett, Taylor Berg-Kirkpatrick
+Venue: Conference on Computational Natural Language Learning
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A novel MH sampler is developed that proposes re-writes of the entire sequence in each step via iterative prompting of a large language model and allows generation length to be determined through the sampling procedure rather than fixed in advance, as past work has required.'}

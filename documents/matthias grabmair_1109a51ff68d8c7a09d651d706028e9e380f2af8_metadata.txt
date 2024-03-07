@@ -1,0 +1,9 @@
+Faculty Name: matthias grabmair
+Metadata:
+Paperid: 1109a51ff68d8c7a09d651d706028e9e380f2af8
+Title: Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents
+Year: 2023
+Abstract: Segmentation and Rhetorical Role Labeling of legal judgements play a crucial role in retrieval and adjacent tasks, including case summarization, semantic search, argument mining etc. Previous approaches have formulated this task either as independent classification or sequence labeling of sentences. In this work, we reformulate the task at span level as identifying spans of multiple consecutive sentences that share the same rhetorical role label to be assigned via classification. We employ semi-Markov Conditional Random Fields (CRF) to jointly learn span segmentation and span label assignment. We further explore three data augmentation strategies to mitigate the data scarcity in the specialized domain of law where individual documents tend to be very long and annotation cost is high. Our experiments demonstrate improvement of span-level prediction metrics with a semi-Markov CRF model over a CRF baseline. This benefit is contingent on the presence of multi sentence spans in the document.
+Authors: Santosh T.Y.S.S, Philipp Bock, Matthias Grabmair
+Venue: European Conference on Information Retrieval
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work reformulates the task at span level as identifying spans of multiple consecutive sentences that share the same rhetorical role label to be assigned via classification, and employs semi-Markov Conditional Random Fields (CRF) to jointly learn span segmentation and span label assignment.'}

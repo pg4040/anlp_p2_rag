@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 9733b69b98142d2383f72ed1ebc3bd1d54138234
+Title: Assessment of the frequency of SARS-CoV-2 Omicron variant escape from RNA-dependent RNA polymerase inhibitors and 3C-like protease inhibitors.
+Year: 2023
+Abstract: None
+Authors: E. Takashita, Seiichiro Fujisaki, H. Morita, Shiho Nagata, H. Miura, M. Nagashima, Shinji Watanabe, M. Takeda, Y. Kawaoka, H. Hasegawa
+Venue: Antiviral Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The findings suggest that the frequency of SARS-CoV-2 mutant escape from RdRP inhibitors is lower than that from 3CLpro inhibitors, and that Delta variants were more likely to acquire amino acid substitutions associated with resistance to 3CL Pro inhibitors under the selective pressure of this drug compared with Omicron variants.'}

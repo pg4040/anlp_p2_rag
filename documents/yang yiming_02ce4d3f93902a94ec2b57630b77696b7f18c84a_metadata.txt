@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 02ce4d3f93902a94ec2b57630b77696b7f18c84a
+Title: PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification
+Year: 2023
+Abstract: We present PESCO, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification. We formulate text classification as a neural text retrieval problem where each document is treated as a query, and the system learns the mapping from each query to the relevant class labels by (1) adding prompts to enhance label retrieval, and (2) using retrieved labels to enrich the training set in a self-training loop of contrastive learning. PESCO achieves state-of-the-art performance on four benchmark text classification datasets. On DBpedia, we achieve 98.5% accuracy without any labeled data, which is close to the fully-supervised result. Extensive experiments and analyses show all the components of PESCO are necessary for improving the performance of zero-shot text classification.
+Authors: Yau-Shian Wang, Ta-Chung Chi, Ruohong Zhang, Yiming Yang
+Venue: Annual Meeting of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'PESCO is presented, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification and achieves state-of-the-art performance on four benchmark text classification datasets.'}

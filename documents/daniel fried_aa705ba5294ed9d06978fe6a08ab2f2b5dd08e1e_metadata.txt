@@ -1,0 +1,9 @@
+Faculty Name: daniel fried
+Metadata:
+Paperid: aa705ba5294ed9d06978fe6a08ab2f2b5dd08e1e
+Title: Time‐resolved SWIR imaging for the assessment of the activity of occlusal caries lesions
+Year: 2023
+Abstract: The aim of this study was to develop a clinical SWIR reflectance handpiece to assess the activity of lesions on the occlusal surfaces. The time‐resolved reflectivity of 10 active and 10 arrested occlusal caries lesions on extracted teeth was monitored at 1470 nm using a benchtop system and a modified clinical prototype during forced air drying. The presence of a highly mineralized surface layer measured with microcomputed tomography (microCT) was used to indicate lesion activity. Multiple kinetic parameters were extracted from the acquired SWIR time versus intensity dehydration curves and used to assess lesion activity. Three parameters: delay, %Ifin, and rate calculated from the SWIR dehydration curves were significantly different (p < 0.05) between active and arrested lesions. The modified clinical probe was able to completely dehydrate all the active lesion areas in the occlusal pits and fissures in less than 30 s.
+Authors: Morgan Ng, Spencer Wycoff, Yihua Zhu, Yi-Ching Ho, Hannah Takasuka, D. Fried
+Venue: Journal of Biophotonics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A clinical SWIR reflectance handpiece to assess the activity of lesions on the occlusal surfaces was developed and was able to completely dehydrate all the active lesion areas in the Occlusal pits and fissures in less than 30\u2009s.'}

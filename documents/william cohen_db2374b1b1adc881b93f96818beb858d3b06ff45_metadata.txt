@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: db2374b1b1adc881b93f96818beb858d3b06ff45
+Title: CARC5: Midterm Impella Support: A Review of Seventy-Two Patients Successfully Supported with Impella 5.5 Device
+Year: 2023
+Abstract: None
+Authors: Joyce W. Wald, Alyson Brown, William G. Cohen, Kiranpreet Sidhu, Aditya Parikh, D. Rekhtman, M. Cevasco
+Venue: ASAIO journal (1992)
+Tldr: None

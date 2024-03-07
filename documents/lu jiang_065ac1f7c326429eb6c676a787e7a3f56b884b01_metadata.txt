@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 065ac1f7c326429eb6c676a787e7a3f56b884b01
+Title: Inchworm‐Like Soft Robot with Multimodal Locomotion Using an Acrylic Stick‐Constrained Dielectric Elastomer Actuator
+Year: 2023
+Abstract: Inchworm‐like robots have been increasingly investigated in recent years. However, most studies have focused on one or several locomotion modes, lacking in terms of inverted climbing, movement with a heavy load, and climbing a vertical plane. Herein, an inchworm‐like soft robot is actuated with multimodal locomotion using an acrylic stick‐constrained dielectric elastomer actuator (ASCDEA). By assembling the ASCDEA with a flexible support frame, a soft saddle‐like shape body is designed to provide the shape deformation ability for the robot. This design enables the robot to move under a heavy load. Two electroadhesion actuators are designed to implement the anchoring action. Additionally, a coordination control strategy is developed to synchronize the shape deformation and electroadhesion for multimodal locomotion. Experimental results confirm that the designed robot can move at a maximum velocity of 39.55 mm s−1 (0.53 body length s−1) on an inverted plane. Moreover, the robot is capable of multimodal locomotion, including inverted climbing, vertical climbing, horizontal crawling, turning locomotion, and rapid movement with a heavy load. The developed soft robot can navigate through a confined horizontal tunnel while carrying a payload, cross a gap, circumvent obstacles, and is particularly robust owing to its compliance.
+Authors: Tete Hu, Xinjiang Lu, Jin Liu
+Venue: Advanced Intelligent Systems
+Tldr: None

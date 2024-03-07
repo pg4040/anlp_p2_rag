@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: a1fa5a0b9b49159d196a80a6c8408dde0beb5c23
+Title: Water in omphacite and garnet from unmetasomatised xenolithic eclogite: T-X-fO2 controls, and implications for conductivity and the deep H2O cycle
+Year: 2023
+Abstract: None
+Authors: Sonja Aulbach, Roland Stalder, Malcolm Massuyeau, Richard A. Stern, D. Ionov, Larry Heaman, Andrey Korsakov
+Venue: Goldschmidt2023 abstracts
+Tldr: None

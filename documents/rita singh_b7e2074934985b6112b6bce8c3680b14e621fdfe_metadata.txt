@@ -1,0 +1,9 @@
+Faculty Name: rita singh
+Metadata:
+Paperid: b7e2074934985b6112b6bce8c3680b14e621fdfe
+Title: Importance of negative sampling in weak label learning
+Year: 2023
+Abstract: Weak-label learning is a challenging task that requires learning from data"bags"containing positive and negative instances, but only the bag labels are known. The pool of negative instances is usually larger than positive instances, thus making selecting the most informative negative instance critical for performance. Such a selection strategy for negative instances from each bag is an open problem that has not been well studied for weak-label learning. In this paper, we study several sampling strategies that can measure the usefulness of negative instances for weak-label learning and select them accordingly. We test our method on CIFAR-10 and AudioSet datasets and show that it improves the weak-label classification performance and reduces the computational cost compared to random sampling methods. Our work reveals that negative instances are not all equally irrelevant, and selecting them wisely can benefit weak-label learning.
+Authors: Ankit Shah, Fuyu Tang, Zelin Ye, Rita Singh, Bhiksha Raj
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work reveals that negative instances are not all equally irrelevant, and selecting them wisely can benefit weak-label learning, and reduces the computational cost compared to random sampling methods.'}

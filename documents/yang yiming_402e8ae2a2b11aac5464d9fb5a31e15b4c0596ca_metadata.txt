@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 402e8ae2a2b11aac5464d9fb5a31e15b4c0596ca
+Title: Genome- and transcriptome-wide identification of trehalose-6-phosphate phosphatases (TPP) gene family and their expression patterns under abiotic stress and exogenous trehalose in soybean
+Year: 2023
+Abstract: None
+Authors: Wenjing Shao, Xinlin Zhang, Zhiheng Zhou, Yue Ma, Duo Chu, Lei Wang, Yiming Yang, Lin Du, Yanli Du, Jidao Du, Qiang Zhao
+Venue: BMC Plant Biology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Exogenous trehalose treatment up-regulated the expression of most TPP genes under saline-alkali conditions while increasing the carbohydrate and trehalose levels and reducing reactive oxygen species (ROS) accumulation in soybean sprouts, especially in the saline-alkali tolerant genotype.'}

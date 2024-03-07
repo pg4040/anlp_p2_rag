@@ -1,0 +1,9 @@
+Faculty Name: matthias grabmair
+Metadata:
+Paperid: 5315883bd39a4e4af6332e344bb32d29613b3c97
+Title: Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases
+Year: 2023
+Abstract: In this paper, we cast Legal Judgment Prediction on European Court of Human Rights cases into an article-aware classification task, where the case outcome is classified from a combined input of case facts and convention articles. This configuration facilitates the model learning some legal reasoning ability in mapping article text to specific case fact text. It also provides an opportunity to evaluate the model’s ability to generalize to zero-shot settings when asked to classify the case outcome with respect to articles not seen during training. We devise zero-shot experiments and apply domain adaptation methods based on domain discrimination and Wasserstein distance. Our results demonstrate that the article-aware architecture outperforms straightforward fact classification. We also find that domain adaptation methods improve zero-shot transfer performance, with article relatedness and encoder pre-training influencing the effect.
+Authors: Santosh T.Y.S.S, O. Ichim, Matthias Grabmair
+Venue: Findings
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This paper casts Legal Judgment Prediction on European Court of Human Rights cases into an article-aware classification task, where the case outcome is classified from a combined input of case facts and convention articles, and finds that domain adaptation methods improve zero-shot transfer performance.'}

@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: f41fd54d122d7de833e2d5b2a57444c301ca99eb
+Title: Cardsformer: Grounding Language to Learn a Generalizable Policy in Hearthstone
+Year: 2023
+Abstract: None
+Authors: Wannian Xia, Yiming Yang, Jingqing Ruan, Dengpeng Xing, Bo Xu
+Venue: European Conference on Artificial Intelligence
+Tldr: None

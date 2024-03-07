@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: b4d94a380f2f7ba93013effe556705d96932a6c4
+Title: CD8+ tissue-resident memory T cells induce oral lichen planus erosion via cytokine network
+Year: 2023
+Abstract: CD8+ tissue-resident memory T (CD8+ Trm) cells play key roles in many immune-inflammation-related diseases. However, their characteristics in the pathological process of oral lichen planus (OLP) remains unclear. Therefore, we investigated the function of CD8+ Trm cells in the process of OLP. By using single-cell RNA sequencing profiling and spatial transcriptomics, we revealed that CD8+ Trm cells were predominantly located in the lamina propria adjacent to the basement membrane and were significantly increased in patients with erosive oral lichen planus (EOLP) compared to those with non-erosive oral lichen planus (NEOLP). Furthermore, these cells displayed enhanced cytokine production, including IFN-γ (Interferon-gamma, a pro-inflammatory signaling molecule), TNF-α (Tumor Necrosis Factor-alpha, a cytokine regulating inflammation), and IL-17 (Interleukin-17, a cytokine involved in immune response modulation), in patients with EOLP. And our clinical cohort of 1-year follow-up was also supported the above results in RNA level and protein level. In conclusion, our study provided a novel molecular mechanism for triggering OLP erosion by CD8+ Trm cells to secrete multiple cytokines, and new insight into the pathological development of OLP.
+Authors: M. Qing, Dan Yang, Q. Shang, J. Peng, Jia-Qi Deng, Lu Jiang, Jing Li, H. Dan, Yu Zhou, Hao Xu, Qianming Chen
+Venue: eLife
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A novel molecular mechanism for triggering OLP erosion by CD8+ Trm cells to secrete multiple cytokines is provided, and new insight is provided into the pathological development of OLP.'}

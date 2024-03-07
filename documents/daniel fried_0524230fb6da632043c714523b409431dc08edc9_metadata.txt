@@ -1,0 +1,9 @@
+Faculty Name: daniel fried
+Metadata:
+Paperid: 0524230fb6da632043c714523b409431dc08edc9
+Title: Analysis of the transparent surface layer formed at the surfaces of arrested enamel caries lesions with tomographic imaging methods
+Year: 2023
+Abstract: None
+Authors: Nai-Yuan N. Chang, Morgan Ng, Tina Dillas, Yi-Ching Ho, Yihua Zhu, D. Fried
+Venue: JADA Foundational Science
+Tldr: None

@@ -1,0 +1,20 @@
+Faculty Name: raj reddy
+Metadata:
+Paperid: 2af3849abf77fbc5bf35de75cbd0edcbf2f14244
+Title: Anti Inflammatory activity of AgNps synthesized using flower formulation (Rosa andJasminum
+Year: 2023
+Abstract: Introduction: In recent years, there has been a resurgence in the use of traditional medicinal herbs, and as a result, 
+pharmaceutical companies are investing heavily in developing natural medications derived from plants. Nanoparticles act 
+in a number of potential ways and fields. Chemical synthesis of nanoparticles is no longer advantageous compared to 
+plant-based synthesis. The current study uses a green method to create silver nanoparticles (AgNPs) utilizing flower 
+extract.
+Materials and methods: The anti-inflammatory activity for gel was tested by the following convention proposed by 
+Muzushima and Kabayashi with specific alterations. 0.05 mL of Rosa and jasminum jel of various fixations.
+Result: Using rosa and jasminum extract in the manufacture of silver nanoparticles, the nanoparticles showed remarkable 
+antioxidant and anti-inflammatory activity. It was discovered that the cytotoxic effect was less harmful, demonstrating 
+biocompatibility. Rosa jasminum extract of AgNps showed good anti-inflammatory efficacy in the EA and BSA assays.
+Conclusion: From our study we concluded that Silver nanoparticles were created using rosa and jasminum extract, and 
+the nanoparticles displayed impressive anti-inflammatory.
+Authors: R. Bharath, A. Arthanari, S. Rajeshkumar
+Venue: Journal of Complementary Medicine Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Using rosa and jasminum extract in the manufacture of silver nanoparticles, the nanoparticles showed remarkable antioxidant and anti-inflammatory activity, and the cytotoxic effect was less harmful, demonstrating biocompatibility.'}

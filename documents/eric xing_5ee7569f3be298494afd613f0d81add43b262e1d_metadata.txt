@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 5ee7569f3be298494afd613f0d81add43b262e1d
+Title: Realization of thousand-second improved confinement plasma with Super I-mode in Tokamak EAST
+Year: 2023
+Abstract: Mastering nuclear fusion, which is an abundant, safe, and environmentally competitive energy, is a great challenge for humanity. Tokamak represents one of the most promising paths toward controlled fusion. Obtaining a high-performance, steady-state, and long-pulse plasma regime remains a critical issue. Recently, a big breakthrough in steady-state operation was made on the Experimental Advanced Superconducting Tokamak (EAST). A steady-state plasma with a world-record pulse length of 1056 s was obtained, where the density and the divertor peak heat flux were well controlled, with no core impurity accumulation, and a new high-confinement and self-organizing regime (Super I-mode = I-mode + e-ITB) was discovered and demonstrated. These achievements contribute to the integration of fusion plasma technology and physics, which is essential to operate next-step devices.
+Authors: Yuntao Song, X. Zou, X. Gong, A. Becoulet, R. Buttery, P. Bonoli, T. Hoang, R. Maingi, J. Qian, X. Zhong, A. Liu, E. Li, R. Ding, Juan Huang, Q. Zang, Haiqing Liu, Liang Wang, Ling Zhang, Guoqiang Li, Youwen Sun, A. Garofalo, T. Osborne, T. Leonard, S. Baek, G. Wallace, Liqing Xu, Bin Zhang, Shouxin Wang, Y. Chu, Tao Zhang, Y. Duan, Hui Lian, Xuexi Zhang, Yifei Jin, L. Zeng, B. Lyu, Binjia Xiao, Yao Huang, Yong Wang, B. Shen, N. Xiang, Yu Wu, Jiefeng Wu, Xiaojie Wang, B. Ding, Miaohui Li, Xinjun Zhang, C. Qin, Weibin Xi, Jian Zhang, Liansheng Huang, D. Yao, Yanlan Hu, G. Zuo, Q. Yuan, Zhiwei Zhou, Mao Wang, Handong Xu, Yahong Xie, Zhengchu Wang, Junling Chen, Guosheng Xu, Jiansheng Hu, K. Lu, Fukun Liu, Xin Wu, B. Wan, Jiangang Li
+Venue: Science Advances
+Tldr: None

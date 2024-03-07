@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 4f3a048d1e1873175a16a83179f8fd8938ba45c3
+Title: Lactobacillus johnsonii Attenuates Liver Steatosis and Bile Acid Dysregulation in Parenteral Nutrition-Fed Rats
+Year: 2023
+Abstract: Parenteral nutrition (PN), a vital therapy for patients with intestinal failure, can lead to the development of parenteral nutrition-associated liver disease (PNALD). In this study, we aimed to investigate the role of Lactobacillus johnsonii (L. johnsonii) in a rat model of PNALD. Total parenteral nutrition (TPN)-fed rats were used to assess the role of L. johnsonii in liver steatosis, bile acid metabolism, gut microbiota, and hepatocyte apoptosis. We observed a depletion of L. johnsonii that was negatively correlated with the accumulation of glycochenodeoxycholic acid (GCDCA), a known apoptosis inducer, in rats subjected to TPN. L. johnsonii attenuated TPN-induced liver steatosis by inhibiting fatty acid synthesis and promoting fatty acid oxidation. TPN resulted in a decrease in bile acid synthesis and biliary bile secretion, which were partially restored by L. johnsonii treatment. The gut microbial profile revealed depletion of pathogenic bacteria in L. johnsonii-treated rats. L. johnsonii treatment reduced both hepatic GCDCA levels and hepatocyte apoptosis compared with the TPN group. In vitro, L. johnsonii treatment inhibited GCDCA-induced hepatocyte apoptosis via its bile salt hydrolase (BSH) activity. Our findings suggest that L. johnsonii protects against liver steatosis, bile acid dysregulation, and hepatocyte apoptosis in TPN-fed rats.
+Authors: Juan Xu, Yongchang Zhou, Siyang Cheng, Yuling Zhao, Jun-Kai Yan, Ying Wang, Wei Cai, Luyang Jiang
+Venue: Metabolites
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The findings suggest that Lactobacillus johnsonii protects against liver steatosis, bile acid dysregulation, and hepatocyte apoptosis in TPN-fed rats.'}

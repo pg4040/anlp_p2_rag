@@ -1,0 +1,17 @@
+List of 2023 Open Access papers by morency louis philippe are:
+Quantifying & Modeling Feature Interactions: An Information Decomposition Framework
+Reconstructing the neurodynamics of face perception during real world vision in humans using intracranial EEG recordings
+MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning
+SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations
+Neural Mixed Effects for Nonlinear Personalized Predictions
+SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior
+Counterfactual Augmentation for Multimodal Learning Under Presentation Bias
+Difference-Masking: Choosing What to Mask in Continued Pretraining
+Expanding the Role of Affective Phenomena in Multimodal Interaction Research
+Multimodal Fusion Interactions: A Study of Human and Automatic Quantification
+Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications
+Representation Learning for Interpersonal and Multimodal Behavior Dynamics: A Multiview Extension of Latent Change Score Models
+MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models
+Understanding Masked Autoencoders via Hierarchical Latent Variable Models
+Factorized Contrastive Learning: Going Beyond Multi-view Redundancy
+Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions

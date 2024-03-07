@@ -1,0 +1,9 @@
+Faculty Name: yulia tsvetkov
+Metadata:
+Paperid: f9a5af5b21563b9bdd09630a8dec62d515479678
+Title: LEXPLAIN: Improving Model Explanations via Lexicon Supervision
+Year: 2023
+Abstract: Model explanations that shed light on the model’s predictions are becoming a desired additional output of NLP models, alongside their predictions. Challenges in creating these explanations include making them trustworthy and faithful to the model’s predictions. In this work, we propose a novel framework for guiding model explanations by supervising them explicitly. To this end, our method, LEXplain, uses task-related lexicons to directly supervise model explanations. This approach consistently improves the model’s explanations without sacrificing performance on the task, as we demonstrate on sentiment analysis and toxicity detection. Our analyses show that our method also demotes spurious correlations (i.e., with respect to African American English dialect) when performing the task, improving fairness.
+Authors: Orevaoghene Ahia, Hila Gonen, Vidhisha Balachandran, Yulia Tsvetkov, Noah A. Smith
+Venue: STARSEM
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work proposes a novel framework for guiding model explanations by supervising them explicitly by using task-related lexicons to directly supervise model explanations, which consistently improves the model’s explanations without sacrificing performance on the task, as well as demonstrating on sentiment analysis and toxicity detection.'}

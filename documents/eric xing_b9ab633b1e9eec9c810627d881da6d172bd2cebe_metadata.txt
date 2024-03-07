@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: b9ab633b1e9eec9c810627d881da6d172bd2cebe
+Title: Forest Fire Smoke Detection Research Based on the Random Forest Algorithm and Sub-Pixel Mapping Method
+Year: 2023
+Abstract: In order to locate forest fire smoke more precisely and expand existing forest fire monitoring methods, this research employed Himawari-8 data with a sub-pixel positioning concept in smoke detection. In this study, Himawari-8 data of forest fire smoke in Xichang and Linzhi were selected. An improved sub-pixel mapping method based on random forest results was proposed to realize the identification and sub-pixel positioning of smoke. More spatial details of forest fire smoke were restored in the final results. The continuous monitoring of smoke indicated the dynamic changes therein. The accuracy evaluation of smoke detection was realized using a confusion matrix. Based on the improved sub-pixel mapping method, the overall accuracies were 87.95% and 86.32%. Compared with the raw images, the smoke contours of the improved sub-pixel mapping results were clearer and smoother. The improved sub-pixel mapping method outperforms traditional classification methods in locating smoke range. Moreover, it especially made a breakthrough in the limitations of the pixel scale and in realizing sub-pixel positioning. Compared with the results of the classic PSA method, there were fewer “spots” and “holes” after correction. The final results of this study show higher accuracies of smoke discrimination, with it becoming the basis for another method of forest fire monitoring.
+Authors: Xihao Li, Gui Zhang, Sanqing Tan, Zhi Yang, Xin Wu
+Venue: Forests
+Tldr: None

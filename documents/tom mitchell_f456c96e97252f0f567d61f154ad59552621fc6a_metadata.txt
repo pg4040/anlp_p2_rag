@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: f456c96e97252f0f567d61f154ad59552621fc6a
+Title: Fumarate induces vesicular release of mtDNA to drive innate immunity
+Year: 2023
+Abstract: None
+Authors: V. Zecchini, Vincent Paupe, Irene Herranz-Montoya, Joëlle J E Janssen, Inge M. N. Wortel, Jordan L. Morris, Ashley N. Ferguson, Suvagata Roy Chowdury, Marc Segarra-Mondejar, Ana S. H. Costa, Gonçalo C. Pereira, L. Tronci, T. Young, Efterpi Nikitopoulou, Ming Yang, D. Bihary, F. Caicci, Shun Nagashima, Alyson Speed, K. Bokea, Zara Baig, S. Samarajiwa, M. Tran, T. Mitchell, Mark H. Johnson, J. Prudent, C. Frezza
+Venue: Nature
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is shown that increased levels of intracellular fumarate induce a remodelling of the mitochondrial network and the generation of mitochondrial-derived vesicles, which allows the release of mtDNA into the cytosol and subsequent activation of the innate immune response.'}

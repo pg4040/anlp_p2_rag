@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 4aba9db4337078d1ca3585dbf7d9d42935044c17
+Title: Epidemiological description of measles outbreaks following a mass vaccination Campaign in Bayelsa State, Nigeria
+Year: 2023
+Abstract: None
+Authors: S. Abaya, D. Ogoina, B. Abaye, Tella Adedamola
+Venue: AfricArXiv
+Tldr: None

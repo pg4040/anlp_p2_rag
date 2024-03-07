@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 083cf10c0cbf75dd5755a6a2cd971f39e7da75c2
+Title: UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network
+Year: 2023
+Abstract: Recent studies have demonstrated promising outcomes by employing large language models with multi-tasking capabilities. They utilize prompts to guide the model's behavior and surpass performance of task-specific models. Motivated by this, we ask: can we build a single model that jointly perform various spoken language understanding (SLU) tasks? To address this, we utilize pre-trained automatic speech recognition (ASR) models and employ various task and dataset specifiers as discrete prompts. We demonstrate efficacy of our single multi-task learning (MTL) model"UniverSLU"for 12 different speech classification and sequence generation tasks across 17 datasets and 9 languages. Results show that UniverSLU achieves competitive performance and even surpasses task-specific models. We also conduct preliminary investigations into enabling human-interpretable natural phrases instead of task specifiers as discrete prompts and test the model's generalization capabilities to new paraphrases.
+Authors: Siddhant Arora, Hayato Futami, Jee-weon Jung, Yifan Peng, Roshan Sharma, Yosuke Kashiwagi, E. Tsunoo, Shinji Watanabe
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work utilizes pre-trained automatic speech recognition (ASR) models and employs various task and dataset specifiers as discrete prompts to build a single model that jointly perform various spoken language understanding (SLU) tasks.'}

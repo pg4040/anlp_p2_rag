@@ -1,0 +1,9 @@
+Faculty Name: bhiksha raj
+Metadata:
+Paperid: 4628f0c28a8ed231168d1a27a93ddb938da4102d
+Title: Psychoacoustic Challenges Of Speech Enhancement On VoIP Platforms
+Year: 2023
+Abstract: Within the ambit of VoIP (Voice over Internet Protocol) telecommunications, the complexities introduced by acoustic transformations merit rigorous analysis. This research, rooted in the exploration of proprietary sender-side denoising effects, meticulously evaluates platforms such as Google Meets and Zoom. The study draws upon the Deep Noise Suppression (DNS) 2020 dataset, ensuring a structured examination tailored to various denoising settings and receiver interfaces. A methodological novelty is introduced via the Oaxaca decomposition, traditionally an econometric tool, repurposed herein to analyze acoustic-phonetic perturbations within VoIP systems. To further ground the implications of these transformations, psychoacoustic metrics, specifically PESQ and STOI, were harnessed to furnish a comprehensive understanding of speech alterations. Cumulatively, the insights garnered underscore the intricate landscape of VoIP-influenced acoustic dynamics. In addition to the primary findings, a multitude of metrics are reported, extending the research purview. Moreover, out-of-domain benchmarking for both time and time-frequency domain speech enhancement models is included, thereby enhancing the depth and applicability of this inquiry. Repository: github.com/deepology/VoIP-DNS-Challenge
+Authors: Joseph Konan, Ojas Bhargave, Shikhar Agnihotri, Shuo Han, YUNYANG ZENG, Ankit Shah, Bhiksha Raj
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This research, rooted in the exploration of proprietary sender-side denoising effects, meticulously evaluates platforms such as Google Meets and Zoom, and draws upon the Deep Noise Suppression (DNS) 2020 dataset, ensuring a structured examination tailored to various denoised settings and receiver interfaces.'}

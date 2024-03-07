@@ -1,0 +1,8 @@
+List of 2023 Open Access papers by malihe alikhani are:
+Learning to Generate Equitable Text in Dialogue from Biased Training Data
+Learning Multimodal Cues of Children’s Uncertainty
+Findings of the Second WMT Shared Task on Sign Language Translation (WMT-SLT23)
+Multilingual Content Moderation: A Case Study on Reddit
+Image–text coherence and its implications for multimodal AI
+A corpus of Persian literary text
+D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias

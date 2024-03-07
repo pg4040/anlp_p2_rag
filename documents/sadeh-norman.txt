@@ -1,0 +1,35 @@
+Title: Norman Sadeh -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Norman Sadeh, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Affiliated Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Norman Sadeh - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Norman Sadeh, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Norman"/>
+<meta content="Lastname" property="profile:Sadeh"/>
+<meta content="http://lti.cmu.edu//people/faculty/sadeh-norman.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Norman 
+                        Sadeh
+Professor, Software and Societal Systems
+Co-Director of MSIT, Privacy Engineering Program
+Contact
+ns1i(through)andrew.cmu.edu
+Software and Societal Systems
+Privacy Engineering Program
+Personal Website
+
+Links:
+https://s3d.cmu.edu/
+https://privacy.cs.cmu.edu/
+https://www.normsadeh.org/

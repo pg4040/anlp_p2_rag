@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 62f10f1942dc147b3ecc5d87bc40fa5ff6c2a33a
+Title: HCC prediction models in chronic hepatitis B patients receiving entecavir or tenofovir: a systematic review and meta-analysis
+Year: 2023
+Abstract: None
+Authors: Xiaolan Xu, Lushun Jiang, Yifan Zeng, Li-ya Pan, Zhuo-qi Lou, B. Ruan
+Venue: Virology Journal
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Considering the predictive performance of all four aspects, it is suggested that HCC-RESCUE was the best model to utilize in clinical practice, especially in primary care and low-income areas.'}

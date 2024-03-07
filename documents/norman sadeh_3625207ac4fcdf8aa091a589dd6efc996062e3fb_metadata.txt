@@ -1,0 +1,9 @@
+Faculty Name: norman sadeh
+Metadata:
+Paperid: 3625207ac4fcdf8aa091a589dd6efc996062e3fb
+Title: Purpose in the Machine: Do Traffic Simulators Produce Distributionally Equivalent Outcomes for Reinforcement Learning Applications?
+Year: 2023
+Abstract: Traffic simulators are used to generate data for learning in intelligent transportation systems (ITSs). A key question is to what extent their modelling assumptions affect the capabilities of ITSs to adapt to various scenarios when deployed in the real world. This work focuses on two simulators commonly used to train reinforcement learning (RL) agents for traffic applications, CityFlow and SUMO. A controlled virtual experiment varying driver behavior and simulation scale finds evidence against distributional equivalence in RL-relevant measures from these simulators, with the root mean squared error and KL divergence being significantly greater than 0 for all assessed measures. While granular real-world validation generally remains infeasible, these findings suggest that traffic simulators are not a deus ex machina for RL training: understanding the impacts of inter-simulator differences is necessary to train and deploy RL-based ITSs.
+Authors: Rex Chen, K. Carley, Fei Fang, Norman M. Sadeh
+Venue: Online World Conference on Soft Computing in Industrial Applications
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work focuses on two simulators commonly used to train reinforcement learning agents for traffic applications, CityFlow and SUMO, and finds evidence against distributional equivalence in RL-relevant measures from these simulators.'}

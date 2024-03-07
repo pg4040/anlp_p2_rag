@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: 2ca8e50ffd6e2e67f3fe2fbf1af57dbedb4cf493
+Title: Answering Ambiguous Questions with a Database of Questions, Answers, and Revisions
+Year: 2023
+Abstract: Many open-domain questions are under-specified and thus have multiple possible answers, each of which is correct under a different interpretation of the question. Answering such ambiguous questions is challenging, as it requires retrieving and then reasoning about diverse information from multiple passages. We present a new state-of-the-art for answering ambiguous questions that exploits a database of unambiguous questions generated from Wikipedia. On the challenging ASQA benchmark, which requires generating long-form answers that summarize the multiple answers to an ambiguous question, our method improves performance by 15% (relative improvement) on recall measures and 10% on measures which evaluate disambiguating questions from predicted outputs. Retrieving from the database of generated questions also gives large improvements in diverse passage retrieval (by matching user questions q to passages p indirectly, via questions q' generated from p).
+Authors: Haitian Sun, William W. Cohen, R. Salakhutdinov
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A new state-of-the-art for answering ambiguous questions that exploits a database of unambiguous questions generated from Wikipedia, which improves performance by 15% (relative improvement) on recall measures and 10% on measures which evaluate disambiguating questions from predicted outputs.'}

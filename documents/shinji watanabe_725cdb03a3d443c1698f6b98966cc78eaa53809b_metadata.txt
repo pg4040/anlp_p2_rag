@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 725cdb03a3d443c1698f6b98966cc78eaa53809b
+Title: Software Design and User Interface of ESPnet-SE++: Speech Enhancement for Robust Speech Processing
+Year: 2023
+Abstract: None
+Authors: Yen-Ju Lu, Xuankai Chang, Chenda Li, Wangyou Zhang, Samuele Cornell, Zhaoheng Ni, Yoshiki Masuyama, Brian Yan, Robin Scheibler, Zhong-Qiu Wang, Yu Tsao, Yanmin Qian, Shinji Watanabe
+Venue: Journal of Open Source Software
+Tldr: None

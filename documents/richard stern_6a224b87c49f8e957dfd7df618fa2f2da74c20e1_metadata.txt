@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: 6a224b87c49f8e957dfd7df618fa2f2da74c20e1
+Title: Sulfate recycling at subduction zones indicated by sulfur isotope systematics of Mesozoic ultramafic island arc cumulates in the North American Cordillera
+Year: 2023
+Abstract: None
+Authors: D. Milidragovic, J. Nott, D. Spence, D. Schumann, J. Scoates, G. Nixon, R. Stern
+Venue: Earth and Planetary Science Letters
+Tldr: None

@@ -1,0 +1,9 @@
+List of 2023 Open Access papers by alon lavie are:
+The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics
+Towards Multilingual Automatic Dialogue Evaluation
+Results of WMT23 Metrics Shared Task: Metrics Might Be Guilty but References Are Not Innocent
+Appropriateness is all you need!
+Towards Multilingual Automatic Open-Domain Dialogue Evaluation
+Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation
+Assessing and comparing alternative certification programs: The teacher-classroom-community model
+Using citizen science to protect threatened amphibian populations in urban spaces: ecology, life history, and conservation of green toads and fire salamanders in Jerusalem and Haifa

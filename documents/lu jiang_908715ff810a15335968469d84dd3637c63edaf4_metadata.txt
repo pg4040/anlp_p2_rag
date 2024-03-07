@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 908715ff810a15335968469d84dd3637c63edaf4
+Title: How to drive corporate responsible innovation? A dual perspective from internal and external drivers of environmental protection enterprises
+Year: 2023
+Abstract: Responsible innovation has been widely concerned by the public sector and actively explored by scholars for its great role in supporting eco-innovation and sustainable development. However, as the main body of innovation, enterprises have not been fully recognized. Moreover, the research on the driving factors of responsible innovation is mostly the direct influence of a single factor, lacking the overall consideration of the internal and external environment. To bridge this research gap, this study, by deeply interviewing 13 entrepreneurs in environmental protection enterprises, clarified the concept of corporate responsible innovation and its four-dimensional framework (inclusion, anticipation, reflexivity, responsiveness), and then proposed the MPN-MSE driving factor model of corporate responsible innovation from the internal and external perspectives. The external factors include market pressure (M), policy pressure (P), and normative pressure (N), while the internal factors include responsible innovation motivation (M), responsible innovation system (S), and responsible innovation elements (E). The research findings provide an important theoretical contribution to the research of corporate responsible innovation.
+Authors: Yi Li, Lu-jie Jiang, Peilin Yang
+Venue: Frontiers in Environmental Science
+Tldr: None

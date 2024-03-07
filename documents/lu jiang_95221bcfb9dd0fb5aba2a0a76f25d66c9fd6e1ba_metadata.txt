@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 95221bcfb9dd0fb5aba2a0a76f25d66c9fd6e1ba
+Title: Global mapping of urban thermal anisotropy reveals substantial potential biases for remotely sensed urban climates.
+Year: 2023
+Abstract: None
+Authors: Huilin Du, W. Zhan, Zihan Liu, E. Scott Krayenhoff, T. Chakraborty, Lei Zhao, Lu-lu Jiang, Pan Dong, Long Li, F. Huang, Shasha Wang, Yuyue Xu
+Venue: Science Bulletin
+Tldr: None

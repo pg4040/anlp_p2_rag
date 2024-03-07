@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 82aefa38673ab37a5c8c2d4931ad623651941be7
+Title: Observational signatures of Schwarzschild-MOG black holes in scalar–tensor–vector gravity: images of the accretion disk
+Year: 2023
+Abstract: None
+Authors: Shiyang Hu, Chen Deng, Sen Guo, Xin Wu, Enwei Liang
+Venue: The European Physical Journal C
+Tldr: None

@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: a64ab230ee2d32f91a05fa2881fb159d90187ee0
+Title: Study on thermal stability and biocompatibility of bimodal microstructure in Cr–Mn–N austenitic stainless steel
+Year: 2023
+Abstract: None
+Authors: G. Niu, Leilei Li, Haoxiu Chen, C. Gu, Jinxu Liu, N. Gong, Hui-bin Wu
+Venue: Journal of Materials Research and Technology
+Tldr: None

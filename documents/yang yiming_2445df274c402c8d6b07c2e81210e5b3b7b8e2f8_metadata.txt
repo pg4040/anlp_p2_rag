@@ -1,0 +1,10 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 2445df274c402c8d6b07c2e81210e5b3b7b8e2f8
+Title: Extension of Pt–Ag cluster units by incorporating silver salts
+Year: 2023
+Abstract: 
+ A sterically controlled Z-shaped Pt2Ag2 complex showed a metalation reaction with a Ag ion via the formation of the thermodynamically unfavorable Pt2Ag2 complex with U-shaped configuration. Multiple dative bond formation between Pt and an additional Ag ion endowed enough thermodynamic stability on the Pt2Ag3 cluster to overcome the unfavorable steric effect from bulky substituents on the ligands in the U-shaped structure. A single crystal X-ray structural analysis revealed dimerized structure of the cationic Pt2Ag3 complex units bridged by [Ag2(OTf)4]2− (OTf− = triflate anion) via strong Ag–π coordination with pyrazole moiety in the solid state. The heteropolynuclear complexes showed photoluminescence properties depending on the structure of the Pt–Ag clusters.
+Authors: Yiming Yang, Shinnosuke Horiuchi, Kenichiro Omoto, Eri Sakuda, Yasuhiro Arikawa, K. Umakoshi
+Venue: Chemistry Letters
+Tldr: None

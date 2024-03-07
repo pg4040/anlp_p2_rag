@@ -1,0 +1,37 @@
+Title: Yonatan Bisk -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Yonatan Bisk, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Embodiment;Grounding;RoboNLP;Unsupervised Learning;Vision and Language" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Yonatan Bisk - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Yonatan Bisk, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Yonatan"/>
+<meta content="Lastname" property="profile:Bisk"/>
+<meta content="http://cms-staging.andrew.cmu.edu/lti/people/faculty/bisk-yonatan.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Yonatan 
+                        Bisk
+Assistant Professor, Language Technologies Institute
+Contact
+6703 Gates & Hillman Centers
+ybisk(through)cs.cmu.edu
+Research Area
+Embodiment, Grounding, RoboNLP, Unsupervised Learning, Vision and Language
+Research
+My work broadly falls into: 1. Uncovering the latent structures of natural language, 2. Modeling the semantics of the physical world, and 3. Connecting language to perception and control.
+Personal Website
+
+Links:
+https://yonatanbisk.com/

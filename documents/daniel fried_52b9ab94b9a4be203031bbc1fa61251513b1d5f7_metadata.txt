@@ -1,0 +1,9 @@
+Faculty Name: daniel fried
+Metadata:
+Paperid: 52b9ab94b9a4be203031bbc1fa61251513b1d5f7
+Title: Monitoring lesion activity on primary teeth with CP‐OCT and SWIR reflectance imaging
+Year: 2023
+Abstract: The purpose of this study was to use cross polarization optical coherence tomography (CP‐OCT) and short wavelength infrared imaging (SWIR) reflectance imaging to monitor changes in the structure and activity of early occlusal caries on primary teeth over a period of 6 months during intervention with fluoride.
+Authors: Yihua Zhu, Jungsoo Kim, B. Lin, D. Fried
+Venue: Lasers in Surgery and Medicine
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

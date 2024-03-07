@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: 6f3ce94a962170b1ed940489171494d7c43c2a85
+Title: P72: Immediate Hemodynamic and Echocardiographic Changes after Impella 5.5 Implant
+Year: 2023
+Abstract: None
+Authors: William G. Cohen, Alyson Brown, D. Rekhtman, M. Shin, A. Iyengar, M. Cevasco, Joyce W. Wald
+Venue: ASAIO journal (1992)
+Tldr: None

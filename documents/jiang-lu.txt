@@ -1,0 +1,30 @@
+Title: Lu Jiang -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Lu Jiang, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Lu Jiang - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Lu Jiang, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Lu"/>
+<meta content="Lastname" property="profile:Jiang"/>
+<meta content="http://lti.cmu.edu//people/faculty/jiang-lu.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Lu 
+                        Jiang
+Staff Research Scientist, Google
+Contact
+lujiang(through)google.com
+Personal Website
+
+Links:
+http://www.lujiang.info/

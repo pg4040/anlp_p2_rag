@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: caf1600391aa950e9b9d07a63c3edf1d2d5d1dc9
+Title: The Influence of Optically Active Impurities on the Performance of Phosphors and Scintillators
+Year: 2023
+Abstract: This paper provides examples of a strategy employed to improve specific properties of phosphors and scintillators which would otherwise have limited their performance in lighting, cathode-ray tubes, and medical imaging technologies. When electron-hole pairs are produced by the exposure to high-energy radiation, the activator ion in the lattice preferentially captures one of the charge carriers. The subsequent capture of the carrier of opposite charge yields the activator ion luminescence. The carrier of the opposite charge can also be diverted to defects in the lattice. The trapping by defects reduces the brightness of phosphors and is responsible for the unwanted afterglow in scintillators. The strategy that is adopted to suppress the trapping by defects is to deliberately introduce an impurity ion that can compete successfully with the defects for the charge carrier. Since the impurity ion traps charge of the opposite sign to the activator ion, we label them as “anti-activators.” While the use of anti-activators gained importance in the field of scintillators in the 1990’s, results on their use for improving brightness of lamp and cathode-ray phosphors were available in the literature of the 1960’s and 1970’s.
+Authors: A. Srivastava, C. Ronda, W. Beers, W. Cohen
+Venue: ECS Journal of Solid State Science and Technology
+Tldr: None

@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: e93a0de0b7ddc69cc13168b00302622f1dbfa8ba
+Title: Nonmedical Use of Prescription Psychotropic Drugs among Secondary School Students in Parakou, northern Benin
+Year: 2023
+Abstract: None
+Authors: Assad Bio-Sya, Philippe J Onzo, E. Klikpo, A. Allabi
+Venue: Research Journal of Drug Abuse
+Tldr: None

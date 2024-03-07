@@ -1,0 +1,9 @@
+Faculty Name: alon lavie
+Metadata:
+Paperid: 9364720b2ab9ac67bc08e2b0b49aadded3d4e2e5
+Title: Appropriateness is all you need!
+Year: 2023
+Abstract: The strive to make AI applications"safe"has led to the development of safety-measures as the main or even sole normative requirement of their permissible use. Similar can be attested to the latest version of chatbots, such as chatGPT. In this view, if they are"safe", they are supposed to be permissible to deploy. This approach, which we call"safety-normativity", is rather limited in solving the emerging issues that chatGPT and other chatbots have caused thus far. In answering this limitation, in this paper we argue for limiting chatbots in the range of topics they can chat about according to the normative concept of appropriateness. We argue that rather than looking for"safety"in a chatbot's utterances to determine what they may and may not say, we ought to assess those utterances according to three forms of appropriateness: technical-discursive, social, and moral. We then spell out what requirements for chatbots follow from these forms of appropriateness to avoid the limits of previous accounts: positionality, acceptability, and value alignment (PAVA). With these in mind, we may be able to determine what a chatbot may and may not say. Lastly, one initial suggestion is to use challenge sets, specifically designed for appropriateness, as a validation method.
+Authors: Hendrik Kempt, A. Lavie, S. Nagel
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This paper argues for limiting chatbots in the range of topics they can chat about according to the normative concept of appropriateness, and spells out what requirements for chatbots follow from these forms of Appropriateness to avoid the limits of previous accounts.'}

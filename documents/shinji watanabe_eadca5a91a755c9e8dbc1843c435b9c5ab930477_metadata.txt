@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: eadca5a91a755c9e8dbc1843c435b9c5ab930477
+Title: Magnetic dynamics and nonreciprocal excitation in uniform hedgehog order in icosahedral 1/1 approximant crystal
+Year: 2023
+Abstract: None
+Authors: Shinji Watanabe
+Venue: Scientific Reports
+Tldr: None

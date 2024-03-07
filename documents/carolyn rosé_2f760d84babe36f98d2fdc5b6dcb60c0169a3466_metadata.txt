@@ -1,0 +1,9 @@
+Faculty Name: carolyn rosé
+Metadata:
+Paperid: 2f760d84babe36f98d2fdc5b6dcb60c0169a3466
+Title: Studying Interdisciplinary Collaboration as a Core Skill
+Year: 2023
+Abstract: None
+Authors: Rosanna Vitiello, Joey Huang, Samantha Speer, N. Yankova, Kylie A Peppler, Melisa Orta-Martinez, Carolyn P. Rosé
+Venue: Proceedings of the International Conference on Computer-supported for Collaborative Learning
+Tldr: None

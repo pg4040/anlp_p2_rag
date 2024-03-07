@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: b4a6c010724f0459c9791018e34a982cf96987cf
+Title: Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs
+Year: 2023
+Abstract: A popular approach for improving the correctness of output from large language models (LLMs) is Self-Consistency - poll the LLM multiple times and output the most frequent solution. Existing Self-Consistency techniques always generate a constant number of samples per question, where a better approach will be to non-uniformly distribute the available budget based on the amount of agreement in the samples generated so far. In response, we introduce Adaptive-Consistency, a cost-efficient, model-agnostic technique that dynamically adjusts the number of samples per question using a lightweight stopping criterion. Our experiments over 17 reasoning and code generation datasets and three LLMs demonstrate that Adaptive-Consistency reduces sample budget by up to 7.9 times with an average accuracy drop of less than 0.1%. Our code and data are available at https://www.sample-step-by-step.info
+Authors: Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Adaptive-Consistency is introduced, a cost-efficient, model-agnostic technique that dynamically adjusts the number of samples per question using a lightweight stopping criterion that reduces sample budget by up to 7.9 times with an average accuracy drop of less than 0.1%.'}

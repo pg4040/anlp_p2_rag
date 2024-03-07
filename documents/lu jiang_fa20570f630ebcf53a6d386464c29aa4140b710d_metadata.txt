@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: fa20570f630ebcf53a6d386464c29aa4140b710d
+Title: Hydraulic-Pump Fault-Diagnosis Method Based on Mean Spectrogram Bar Graph of Voiceprint and ResNet-50 Model Transfer
+Year: 2023
+Abstract: The vibration signal of a pump is often used for analysis in the study of hydraulic-pump fault diagnosis methods. In this study, for the analysis, sound signals were used, which can be used to acquire data in a non-contact manner to expand the use scenarios of hydraulic-pump fault-diagnosis methods. First, the original data are denoised using complete ensemble empirical mode decomposition with adaptive noise and the minimum redundancy maximum relevance algorithm. Second, the noise-reduced data are plotted as mean spectrogram bar graphs, and the datasets are divided. Third, the training set graphs are input into the ResNet-50 network to train the base model for fault diagnosis. Fourth, all the layers of the base model are frozen, except for the fully connected and softmax layers, and the support set graphs are used to train the base model through transfer learning. Finally, a fault diagnosis model is obtained. The model is tested using data from two test pumps, resulting in accuracies of 86.1% and 90.8% and providing evidence for the effectiveness of the proposed method for diagnosing faults in hydraulic plunger pumps.
+Authors: Peiyao Zhang, Wanlu Jiang, Yunfei Zheng, Shuqing Zhang, Sheng Zhang, Siyuan Liu
+Venue: Journal of Marine Science and Engineering
+Tldr: None

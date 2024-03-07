@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 8a6ac6d5f8967f2112672a9274b541f515a7380f
+Title: POLAR-2, the next generation of GRB polarization detector
+Year: 2023
+Abstract: The POLAR-2 Gamma-Ray Burst (GRB) Polarimetry mission is a follow-up to the successful POLAR mission. POLAR collected six months of data in 2016-2017 on board the Tiangong-2 Chinese Space laboratory. From a polarization study on 14 GRBs, POLAR measured an overall low polarization and a hint for an unexpected complexity in the time evolution of polarization during GRBs. Energy-dependent measurements of the GRB polarization will be presented by N. de Angelis in GA21-09 (August 2nd). These results demonstrate the need for measurements with significantly improved accuracy. Moreover, the recent discovery of gravitational waves and their connection to GRBs justifies a high-precision GRB polarimeter that can provide both high-precision polarimetry and detection of very faint GRBs. The POLAR-2 polarimeter is based on the same Compton scattering measurement principle as POLAR, but with an extended energy range and an order of magnitude increase in total effective area for polarized events. Proposed and developed by a joint effort of Switzerland, China, Poland and Germany, the device was selected for installation on the China Space Station and is scheduled to start operation for at least 2 years in 2025.
+Authors: Nicolas Produit, M. Kole, Xin Wu, Nicolas De Angelis, Hancheng Li, D. Rybka, A. Pollo, S. Mianowski, J. Greiner, J. Burgess, Jianchao Sun, Shuang-Nan Zhang
+Venue: International Conference on Rebooting Computing
+Tldr: None

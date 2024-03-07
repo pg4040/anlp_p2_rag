@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: 42f863b48ae99f2b38f449af85ced160ced1fd38
+Title: Age of the magma chamber and its physicochemical state under Elbrus Greater Caucasus, Russia using zircon petrochronology and modeling insights
+Year: 2023
+Abstract: None
+Authors: I. Bindeman, O. Melnik, M. Guillong, I. Utkin, J. Wotzlaw, A. Schmitt, R. Stern
+Venue: Scientific Reports
+Tldr: None

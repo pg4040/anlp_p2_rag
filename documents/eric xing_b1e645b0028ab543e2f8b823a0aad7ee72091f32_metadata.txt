@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: b1e645b0028ab543e2f8b823a0aad7ee72091f32
+Title: Metasurface Deflector Enhanced Grating Coupler for Perfectly Vertical Coupling
+Year: 2023
+Abstract: We propose a perfectly vertical coupling scheme based on metasurface deflectors (meta-deflectors) and grating couplers (GCs). An approach for optimizing the GCs based on the Gaussian-fitting using the genetic algorithm is proposed. An meta-deflector based on amorphous silicon (a-Si) pillars is designed to the optimal coupling angle of the GC to ensure good coupling efficiency (CE). Simulations predict peak vertical CE to be 78% at the wavelength of 2 μm, with 1 dB bandwidth ≥35 nm. The design process of GC and meta-deflector is provided in detail, and the influence of fabrication error on the CE is analyzed.
+Authors: Xin Wu, Yang Qiu, Shaonan Zheng, Xingyan Zhao, Yuan Dong, Qize Zhong, L. Jia, Ting Hu
+Venue: Photonics
+Tldr: None

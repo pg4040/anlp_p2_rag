@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 9c4af5ff92dcf12b55845d8812175a8107f04b29
+Title: Research on integrated coastal zone management from past to the future: a bibliometric analysis
+Year: 2023
+Abstract: Integrated coastal zone management (ICZM) has been regarded as an effective tool for achieving sustainable development of coastal ecosystems and reducing potential human health risks, but questions remain regarding its research status and future directions. Therefore, a bibliometric analysis was conducted using screened 6151 publications collected from Web of Science Core Collection databases. An exponential increase trend of publications revealed the continuous and strong research interests for ICZM worldwide. The most high-yield country, institution, category, and journal were USA, NOAA, Environmental Sciences, and Ocean & Coastal Management, respectively. Regarding the number of publications, academic influence, and international collaboration, the developed countries occupied the predominant positions. Co-word analysis reveals eight important topics: challenge, service, management and planning, method and technology, development, process, area, and system. Relevant future directions of the ICZM field were proposed based on the Sustainable Development Goals of the United Nations. This review addresses the question of what focal topics in the ICZM field and what should be focused on in future works by objective and quantitative methods. Our results provide valuable insights into the evolution of the ICZM field and the sustainable development of the coastal areas.
+Authors: Luqing Jiang, Tang Yang, Xuyi Wang, Jing Yu, Jia Liu, Kuncheng Zhang
+Venue: Frontiers in Marine Science
+Tldr: None

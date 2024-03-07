@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Metadata:
+Paperid: c1b6e86b51df36f400a84c4fe8b1535c3f07f605
+Title: Beyond Active Engagement: The Significance of Lurkers in a Polarized Twitter Debate
+Year: 2023
+Abstract: The emergence of new public forums in the shape of online social media has introduced unprecedented challenges to public discourse, including polarization, misinformation, and the emergence of echo chambers. While existing research has extensively studied the behavior of active users within echo chambers, little attention has been given to the hidden audience, also known as lurkers, who passively consume content without actively engaging. This study aims to estimate the share of the hidden audience and investigate their interplay with the echo chamber effect. Using Twitter as a case study, we analyze a polarized political debate to understand the engagement patterns and factors influencing the hidden audience's presence. Our findings reveal a relevant fraction of users that consume content without active interaction, which underscores the importance of considering their presence in online debates. Notably, our results indicate that the engagement of the hidden audience is primarily influenced by factors such as the reliability of media sources mentioned in tweets rather than the ideological stance of the user that produced the content. These findings highlight the need for a comprehensive understanding of the hidden audience's role in online debates and how they may influence public opinion.
+Authors: Anees Baqir, Yijing Chen, Fernando Diaz-Diaz, Sercan Kiyak, Thomas Louf, Virginia Morini, Valentina Pansanella, M. Torricelli, Alessandro Galeazzi
+Venue: arXiv.org
+Tldr: None

@@ -1,0 +1,37 @@
+Title: Raj Reddy -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Raj Reddy, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Affiliated Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Raj Reddy - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Raj Reddy, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Raj"/>
+<meta content="Lastname" property="profile:Reddy"/>
+<meta content="http://lti.cmu.edu//people/faculty/reddy-raj.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Raj 
+                        Reddy
+Moza Bint Nasser University Professor, Robotics Institute
+Language Technologies Institute
+Contact
+5327 —Wean Hall
+rr0s(through)andrew.cmu.edu
+412-268-2597
+Research
+Dr. Reddy's research interests include the study of human-computer interaction and artificial intelligence. His current research projects include spoken language systems; gigabit networks; universal digital libraries; and distance learning on demand.
+Robotics Institute
+Personal Website
+
+Links:
+https://www.ri.cmu.edu/
+http://www.rr.cs.cmu.edu/

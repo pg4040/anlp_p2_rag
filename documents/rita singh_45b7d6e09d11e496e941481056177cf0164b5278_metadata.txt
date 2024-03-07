@@ -1,0 +1,9 @@
+Faculty Name: rita singh
+Metadata:
+Paperid: 45b7d6e09d11e496e941481056177cf0164b5278
+Title: GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+Year: 2023
+Abstract: This paper presents a novel approach for detecting ChatGPT-generated vs. human-written text using language models. To this end, we first collected and released a pre-processed dataset named OpenGPTText, which consists of rephrased content generated using ChatGPT. We then designed, implemented, and trained two different models for text classification, using Robustly Optimized BERT Pretraining Approach (RoBERTa) and Text-to-Text Transfer Transformer (T5), respectively. Our models achieved remarkable results, with an accuracy of over 97% on the test dataset, as evaluated through various metrics. Furthermore, we conducted an interpretability study to showcase our model's ability to extract and differentiate key features between human-written and ChatGPT-generated text. Our findings provide important insights into the effective use of language models to detect generated text.
+Authors: Yutian Chen, Hao Kang, Vivian Zhai, Liang Li, Rita Singh, B. Ramakrishnan
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This paper designed, implemented, and trained two different models for text classification, using Robustly Optimized BERT Pretraining Approach (RoBERTa) and Text-to-Text Transfer Transformer (T5), respectively, and achieved remarkable results, with an accuracy of over 97% on the test dataset.'}

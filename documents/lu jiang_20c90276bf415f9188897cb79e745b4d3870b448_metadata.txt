@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 20c90276bf415f9188897cb79e745b4d3870b448
+Title: TMEM241 is a UDP-N-acetylglucosamine transporter required for M6P modification of NPC2 and cholesterol transport
+Year: 2023
+Abstract: None
+Authors: Nan Zhao, Gang Deng, Pei-Xin Yuan, Ya-Fen Zhang, Lu-yi Jiang, Xiaolu Zhao, B. Song
+Venue: Journal of Lipid Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is shown that the previously unannotated protein TMEM241 is required for cholesterol egressing from lysosomes through amphotericin B-based genome-wide CRISPR-Cas9 KO screening and is a Golgi-localized UDP-GlcNAc transporter and loss ofTMEM241 causes cholesterol accumulation in lysoomes because of the impaired M6P-dependent lysOSomal targeting of NPC2.'}

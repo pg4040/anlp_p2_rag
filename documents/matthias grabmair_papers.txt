@@ -1,0 +1,5 @@
+List of 2023 Open Access papers by matthias grabmair are:
+Pervasive Computational Law
+Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents
+Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases
+Leveraging Task Dependency and Contrastive Learning for Case Outcome Classification on European Court of Human Rights Cases

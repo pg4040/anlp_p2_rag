@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 6f84a90299847f661a0b6a1fa8e71425b304b945
+Title: Qualitative study of the association between psychosocial health and physical activity/sleep quality in toddlers
+Year: 2023
+Abstract: None
+Authors: Chisa Tsuyuki, Koya Suzuki, Kanako Seo, Dandan Ke, Kyoko Tsuge, Pengyu Deng, Dajiang Lu, Hisashi Naito
+Venue: Scientific Reports
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A retrospective cohort study in 3-year-old children in Shanghai, China indicated that current physical activity had a direct and moderate impact on current psychosocial health evaluated using the Strength and Difficulties Questionnaire, and past sleep quality had slight impact on current psychosocial health.'}

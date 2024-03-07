@@ -1,0 +1,36 @@
+Title: Lei Li -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio page for LTI faculty member Lei Li" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="AI;Machine Learning;Machine Translation" name="categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Lei Li - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio page for LTI faculty member Lei Li" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Lei"/>
+<meta content="Lastname" property="profile:Li"/>
+<meta content="http://cms-staging.andrew.cmu.edu/lti/people/faculty/bio.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Lei 
+                        Li
+Assistant Professor, Language Technologies Institute
+Contact
+6403 Gates & Hillman Centers
+leili(through)andrew.cmu.edu
+412-268-6355
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Personal Website
+
+Links:
+https://www.cs.cmu.edu/~leili/

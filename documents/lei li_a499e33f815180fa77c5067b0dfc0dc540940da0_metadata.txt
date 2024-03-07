@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: a499e33f815180fa77c5067b0dfc0dc540940da0
+Title: p53 deacetylation alleviates calcium oxalate deposition-induced renal fibrosis by inhibiting ferroptosis.
+Year: 2023
+Abstract: None
+Authors: Zehua Ye, Yu-qi Xia, Lei Li, Bojun Li, Lijia Chen, Wei-min Yu, Y. Ruan, T. Rao, Xiangjun Zhou, F. Cheng
+Venue: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is concluded that ferroptosis is one of the critical mechanisms contributing to CaOx crystal-induced renal fibrosis, and the pharmacological induction of ferroPTosis via sirtuin 1-mediated p53 deacetylation may be a potential target for preventing renal Fibrosis in patients with nephrolithiasis.'}

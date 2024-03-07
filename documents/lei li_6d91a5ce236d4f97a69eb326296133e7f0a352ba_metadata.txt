@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: 6d91a5ce236d4f97a69eb326296133e7f0a352ba
+Title: Research on torsional stiffness of flexspline-flexible bearing contact pair in harmonic drive based on macro-micro scale modeling
+Year: 2023
+Abstract: The flexspline and flexible bearing constitute a critical contact pair in a harmonic drive system, and their torsional stiffness has a significant impact on the performance characteristics manifested by the harmonic drive. In this study, a micro scale three-dimensional fractal model was combined with a macro scale finite element simulation method to establish an equivalent torsional stiffness model for the flexspline-flexible bearing contact pair (FS-FB contact pair), which enables the theoretical prediction of the torsional stiffness of this contact pair. A torsional stiffness testing platform was constructed for a harmonic drive, and the consistency between the experimental results of the torsional stiffness curve and the theoretical predictions validates the effectiveness of the proposed model. The influences of torque, installation eccentricity, and deformation coefficient on the torsional stiffness of the FS-FB contact pair were also discussed. The results indicate that the torsional stiffness of the FS-FB contact pair increases nonlinearly with an increase in torque. On the other hand, the torsional stiffness of the FS-FB contact pair decreases with an increase in installation eccentricity, and increases before subsequently decreasing with an increase in deformation coefficient. Moreover, as torque increases, the impact of installation eccentricity and deformation coefficient on the torsional stiffness diminishes. This article provides a theoretical reference for the optimization design and performance enhancement of harmonic drives.
+Authors: Qiushi Hu, Hengtao Li, Guang Wang, Leitao Li
+Venue: Frontiers in Materials
+Tldr: None

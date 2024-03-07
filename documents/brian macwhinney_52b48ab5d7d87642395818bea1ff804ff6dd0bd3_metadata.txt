@@ -1,0 +1,22 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: 52b48ab5d7d87642395818bea1ff804ff6dd0bd3
+Title: Collaborative Commentary for Understanding Communication Disorders.
+Year: 2023
+Abstract: PURPOSE
+The goal of the Collaborative Commentary (CC) system is to make the TalkBank adult clinical databases-including AphasiaBank, DementiaBank, RHDBank, and TBIBank-open to commentary and analysis from the full community of researchers, instructors, students, and clinicians.
+
+
+METHOD
+CC allows a group leader to establish a commentary group and invite colleagues or students to join as members of the group. Members can then browse through the transcript database using the TalkBank Browser. When they wish to insert a comment, they click on the utterance line number or drag the cursor across a range of utterances and a window opens to receive the comment. The comment can include open text along with codes selected from a predefined set of codes created by that commentary group.
+
+
+RESULTS
+CC was released for public use in August 2022. It is being used currently in five research projects and eight classes. An important feature of CC is its ability to evaluate the reliability of coding systems and to sharpen analytic categories. By familiarizing instructors and researchers with the capabilities of CC, we expect to see an increasing usage of CC for a variety of clinical and research applications.
+
+
+CONCLUSIONS
+CC can contribute to a better understanding of connected speech features in aphasia, dementia, right hemisphere disorder, and traumatic brain injury. CC represents an extreme innovation not only for the study of adult neurogenic communication disorders but also for the study of spoken language generally.
+Authors: B. MacWhinney, Davida Fromm
+Venue: American Journal of Speech-Language Pathology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'CC can contribute to a better understanding of connected speech features in aphasia, dementia, right hemisphere disorder, and traumatic brain injury and is being used currently in five research projects and eight classes.'}

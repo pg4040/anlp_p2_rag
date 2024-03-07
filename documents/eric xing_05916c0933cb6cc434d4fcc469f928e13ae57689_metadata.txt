@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 05916c0933cb6cc434d4fcc469f928e13ae57689
+Title: Recent progresses on the gamma-ray observations of DAMPE
+Year: 2023
+Abstract: None
+Authors: Z. Shen, K. Duan, Zunlei Xu, Wei Jiang, Xiang Li, Xiao Yuan Huang, Francesco Alemanno, C. Altomare, Q. An, P. Azzarello, F. Barbato, P. Bernardini, X. Bi, I. Cagnoli, M. Cai, E. Casilli, E. Catanzani, Jin Chang, Dengyi Chen, Junling Chen, Zhan-Fang Chen, Z. Chen, P. Coppin, M. Cui, T. Cui, Yu-Xin Cui, I. De Mitri, F. de Palma, Adriano Di Giovanni, M. Di Santo, Qi Ding, T. Dong, Z. Dong, G. Donvito, D. Droz, J. Duan, R. Fan, Yizhong Fan, F. Fang, K. Fang, Chang-Xue Feng, Lei Feng, M. Fernandez Alonso, J. M. Frieden, P. Fusco, Min Gao, F. Gargano, Essna Ghose, Ke Gong, Y. Gong, D. Guo, Jianhua Guo, Shuang Han, Yi-Ming Hu, Guanghan Huang, Y. Huang, M. Ionica, Luyao Jiang, Y. Jiang, J. Kong, A. Kotenko, D. Kyratzis, S. Lei, W. Li, Wen Li, X. Li, Y. Liang, Chengming Liu, Hao Liu, Jie Liu, S. Liu, Yang Liu, F. Loparco, C. Luo, Miao Ma, P. Ma, T. Ma, Xiao Ma, G. Marsella, M. N. Mazziotta, D. Mo, X. Niu, Xu Pan, A. Parenti, W. Peng, X. Peng, C. Perrina, E. Putti-Garcia, Rui Qiao, J. Rao, A. Ruina, Z. Shangguan, Weiming Shen, Z. Shen, L. Silveri, Jing Song, M. Stolpovskiy, H. Su, Meng Su, H. Sun, Zhiyu Sun, A. Surdo, X. Teng, A. Tykhonov, J. Wang, L. Wang, Shen Wang, X. Wang, Y. Wang, Ying Wang, Yuanzhu Wang, D. Wei, J. Wei, Yining Wei, Di Wu, Jian Wu, L. Wu, Sha Wu, Xin Wu, Z. Xia, E. Xu, Hailun Xu, Jing Xu, Z. Xu, Zi-zong Xu, G. Xue, Hai-Bo Yang, P. Yang, Y. Yang, H. Yao, Yu-hong Yu, G. Yuan, Qiang Yuan, C. Yue, J. Zang, Shenmin Zhang, W. Zhang, Yan Zhang, Y. Zhang, Yi Zhang, Y. Zhang, Y. Zhang, Yunlong Zhang, Zhe Zhang, Z. Zhang, Cong-Ying Zhao, Hong-yun Zhao, Xu Zhao, C. Zhou, Yanzi Zhu
+Venue: International Conference on Rebooting Computing
+Tldr: None

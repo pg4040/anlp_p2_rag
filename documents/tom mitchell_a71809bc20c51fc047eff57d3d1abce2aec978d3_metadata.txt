@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: a71809bc20c51fc047eff57d3d1abce2aec978d3
+Title: The Roles of Symbols in Neural-based AI: They are Not What You Think!
+Year: 2023
+Abstract: None
+Authors: D. Silver, Tom M. Mitchell
+Venue: International Workshop on Neural-Symbolic Learning and Reasoning
+Tldr: None

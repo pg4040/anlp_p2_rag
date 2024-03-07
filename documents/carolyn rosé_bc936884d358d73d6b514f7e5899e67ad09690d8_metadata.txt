@@ -1,0 +1,9 @@
+Faculty Name: carolyn rosé
+Metadata:
+Paperid: bc936884d358d73d6b514f7e5899e67ad09690d8
+Title: Editorial: Nine elements for robust collaborative learning analytics: A constructive collaborative critique
+Year: 2023
+Abstract: None
+Authors: A. Wise, Carolyn P. Rosé, Sanna Järvelä
+Venue: International Journal of Computer-Supported Collaborative Learning
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The four full articles of this March issue offer a view of the kind of work that the CSCL community is engaging in to capture meaningful traces of learning, map them onto valued learning constructs, and discover useful ways to present them back to teachers, students and other educational stakeholders.'}

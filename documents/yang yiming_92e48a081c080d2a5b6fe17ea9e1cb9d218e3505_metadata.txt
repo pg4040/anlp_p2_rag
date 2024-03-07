@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 92e48a081c080d2a5b6fe17ea9e1cb9d218e3505
+Title: A Graphene Geometric Diode with the Highest Asymmetry Ratio and Three States Gate‐Tunable Rectification Ability
+Year: 2023
+Abstract: Graphene geometric diodes, with applications in THz detection, energy harvesting, and high‐speed rectification, have been previously constrained by graphene quality and geometry feature size. This study presents significant advancements in graphene geometric diodes by employing the h‐BN/monolayer graphene/h‐BN heterojunction and extremely precise electron beam lithography. Two distinct designs of graphene geometric diodes with neck widths of 23 and 26 nm are fabricated, the superior of which demonstrated an asymmetry ratio of 1.97, a zero bias current responsivity of 0.6 A W−1, and a voltage responsivity of 12,000 V W−1, setting new benchmarks for such devices. Integrating this device into a rectification circuit, the experimentally validate that the rectified DC output voltage can be dynamically modulated and even inverted through adjustments to the diode's gate voltage. This behavior aligns seamlessly with graphene's intrinsic tunability of charge carriers, implying promising prospects for the device's application in advanced logic circuits, bidirectional switches, and signal modulation/demodulation techniques.
+Authors: Heng Wang, Maolin Chen, Yiming Yang, Yinchang Ma, Linqu Luo, Chen Liu, Igor Getmanov, T. Anthopoulos, Xixiang Zhang, A. Shamim
+Venue: Advanced Electronic Materials
+Tldr: None

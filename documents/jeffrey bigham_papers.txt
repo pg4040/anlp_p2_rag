@@ -1,0 +1,10 @@
+List of 2023 Open Access papers by jeffrey bigham are:
+Screen Correspondence: Mapping Interchangeable Elements between UIs
+Exploring Stigmergic Collaboration and Task Modularity Through an Expert Crowdsourcing Annotation System: The Case of Storm Phenomena in the Euro-Atlantic Region
+Nonverbal Communication through Expressive Objects
+USB: A Unified Summarization Benchmark Across Tasks and Domains
+WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics
+Never-ending Learning of User Interfaces
+Latent Phrase Matching for Dysarthric Speech
+From User Perceptions to Technical Improvement: Enabling People Who Stutter to Better Use Speech Recognition
+Towards Automated Accessibility Report Generation for Mobile Apps

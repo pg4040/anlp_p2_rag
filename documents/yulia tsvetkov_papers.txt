@@ -1,0 +1,23 @@
+List of 2023 Open Access papers by yulia tsvetkov are:
+LatticeGen: A Cooperative Framework which Hides Generated Text in a Lattice for Privacy-Aware Generation on Cloud
+Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models
+Resolving Knowledge Conflicts in Large Language Models
+On the Zero-Shot Generalization of Machine-Generated Text Detectors
+GlobalBench: A Benchmark for Global Progress in Natural Language Processing
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+BotPercent: Estimating Twitter Bot Populations from Groups to Crowds
+Examining risks of racial biases in NLP tools for child protective services
+Understanding In-Context Learning via Supportive Pretraining Data
+Assessing Language Model Deployment with Risk Cards
+From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models
+FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge
+TalkUp: Paving the Way for Understanding Empowering Language
+Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
+BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer
+Mitigating Societal Harms in Large Language Models
+Minding Language Models’ (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker
+Can Language Models Solve Graph Problems in Natural Language?
+LEXPLAIN: Improving Model Explanations via Lexicon Supervision
+MatFormer: Nested Transformer for Elastic Inference
+Understanding Ethics in NLP Authoring and Reviewing
+BotPercent: Estimating Bot Populations in Twitter Communities

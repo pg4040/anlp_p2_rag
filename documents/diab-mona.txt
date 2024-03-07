@@ -1,0 +1,37 @@
+Title: Mona Diab -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio page for Language Technologies Institute faculty member and director Mona Diab" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Fairness and Ethics in Language Technology" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Mona Diab - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio page for Language Technologies Institute faculty member and director Mona Diab" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Mona"/>
+<meta content="Lastname" property="profile:Diab"/>
+<meta content="http://lti.cmu.edu//people/faculty/diab-mona.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Mona 
+                        Diab
+LTI Director and Tenured Professor, Language Technologies Institute
+Contact
+5723 Gates & Hillman Centers
+mdiab(through)andrew.cmu.edu
+412-268-3669
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Area
+Fairness and Ethics in Language Technology
+
+Links:

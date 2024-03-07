@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 632b9672336c52c0842a67b551883de9f487f3b9
+Title: Pengaruh Konsumsi Informasi terhadap Perilaku Pencegahan COVID-19: Studi Quasi Eksperimental Time Series
+Year: 2023
+Abstract: The COVID-19 pandemic in Indonesia is still ongoing despite a decrease in the number of cases compared to last year. Based on BPS data, it is assumed that some people believe the COVID-19 pandemic is still ongoing and some believe this pandemic is over. The results of previous research show that the level of prevention behavior for COVID-19 is influenced by the level of media consumption, which is mediated by personal responsibility and the moderating role of one's health orientation. This experimental research aims to analyze the relationship between consumption of information about COVID-19 which influences prevention behavior. The method used is Quasi Experimental: The Time Series Experiment, by comparing prevention behavior after giving treatment in the form of COVID-19 information for 2 weeks in each group. The results of this study indicate that health orientation does not affect a person's personal responsibility, then differences in prevention behavior and also the duration of change in a person's preventive behavior against COVID-19 are influenced by their health orientation.
+Authors: D. Ariani, Bio Bhirawan, Pustika Chandra Kasih
+Venue: Perspektif
+Tldr: None

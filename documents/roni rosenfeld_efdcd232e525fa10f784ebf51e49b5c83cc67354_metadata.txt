@@ -1,0 +1,9 @@
+Faculty Name: roni rosenfeld
+Metadata:
+Paperid: efdcd232e525fa10f784ebf51e49b5c83cc67354
+Title: Federated Epidemic Surveillance
+Year: 2023
+Abstract: The surveillance of a pandemic is a challenging task, especially when crucial data is distributed and stakeholders cannot or are unwilling to share. To overcome this obstacle, federated methodologies should be developed to incorporate less sensitive evidence that entities are willing to provide. This study aims to explore the feasibility of pushing hypothesis tests behind each custodian's firewall and then meta-analysis to combine the results, and to determine the optimal approach for reconstructing the hypothesis test and optimizing the inference. We propose a hypothesis testing framework to identify a surge in the indicators and conduct power analyses and experiments on real and semi-synthetic data to showcase the properties of our proposed hypothesis test and suggest suitable methods for combining $p$-values. Our findings highlight the potential of using $p$-value combination as a federated methodology for pandemic surveillance and provide valuable insights into integrating available data sources.
+Authors: Ruiqi Lyu, Bryan Wilder, R. Rosenfeld
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': "This study aims to explore the feasibility of pushing hypothesis tests behind each custodian's firewall and then meta-analysis to combine the results, and to determine the optimal approach for reconstructing the hypothesis test and optimizing the inference."}

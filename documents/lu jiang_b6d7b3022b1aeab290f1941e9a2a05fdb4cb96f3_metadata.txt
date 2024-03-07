@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: b6d7b3022b1aeab290f1941e9a2a05fdb4cb96f3
+Title: Efficient conversion of biomass waste to N/O co-doped hierarchical porous carbon for high performance supercapacitors
+Year: 2023
+Abstract: None
+Authors: Huan Liu, Xiuli Huang, Menglei Zhou, Jian-Sen Gu, Maodong Xu, Luran Jiang, Maoqing Zheng, Shi-han Li, Z. Miao
+Venue: Journal of Analytical and Applied Pyrolysis
+Tldr: None

@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 06eb9ad79cf76007e6847c771a4645f1dab6c36d
+Title: US residents' preferences for sharing of electronic health record and genetic information: a discrete choice experiment.
+Year: 2023
+Abstract: None
+Authors: A. Wagner, Felicia Zhang, Kerry A Ryan, Eric Xing, Paige Nong, Sharon L. R. Kardia, Jodyn E. Platt
+Venue: Value in Health
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'For both genetic and EHR information, patients strongly prefer their data to be de-identified and to have the choice to opt out of sharing information with commercial companies.'}

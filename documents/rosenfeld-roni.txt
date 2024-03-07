@@ -1,0 +1,53 @@
+Title: Roni Rosenfeld -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Roni Rosenfeld, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Computational Epidemiology;Dialogue Systems for the Developing World" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Roni Rosenfeld - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Roni Rosenfeld, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Roni"/>
+<meta content="Lastname" property="profile:Rosenfeld"/>
+<meta content="http://lti.cmu.edu//people/faculty/rosenfeld-roni.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Roni 
+                        Rosenfeld
+Professor, Language Technologies Institute
+Head, Machine Learning
+Contact
+8002 —Gates & Hillman Centers
+roni.rosenfeld(through)cs.cmu.edu
+412-268-7678
+Research Area
+Computational Epidemiology, Dialogue Systems for the Developing World
+Research
+My research interests lie in two areas: forecasting epidemics, and information and communication technologies for development (ICT4D).
+Forecasting Epidemics
+DELPHI
+The long term vision of our DELPHI research group is to make epidemiological forecasting as universally accepted and useful as weather forecasting. While this will likely take several decades, in the shorter term we've selected high-value epidemiological forecasting targets like influenza and dengue that we can work with. We've created forecasting methods for them, established metrics for measuring and tracking forecasting accuracy, estimated our forecasting limits for each target, and identified new data sources to support that forecasting goal. We are part of the multi-university MIDAS research group.
+Machine Learning for Social Good
+ML4SG
+Machine Learning for Social Good (ML4SG) is an undertaking of Carnegie Mellon University’s School of Computer Science to enhance SCS’s research and education in applying machine learning to problems of societal impact.
+Information and Communication Technologies for Development
+ICT4D
+We work in a subfield of this research area, in what we've termed spoken language technologies for development (SLT4D). As part of this work, we're finding ways to use spoken language technologies — like automatic speech recognition, speech synthesis and human-machine dialog systems — to aid socio-economic development around the world.
+Our current project, Polly, uses a telephone-based viral entertainment service to reach low-literacy people in Pakistan and India. Polly familiarizes individuals with speech interfaces and introduces them to development-related services. First deployed in Lahore in May 2012, Polly reached more than 165,000 users all over Pakistan and fielded more than 2.5 million calls in eight months. In 2013 we launched Polly in Bangalore, India, and it spread virally to West Bengal, New Delhi and other areas of India. As of March 2015, we are collaborating with the US embassy in Conakry to deploy Polly in Guinea, where we hope to achieve person-to-person spreading of approved public health messages about Ebola in many languages. A previous project, HealthLine, investigated using a telephone-based automated dialog system for access to healthcare information by low-literate community health workers in Pakistan.
+Machine Learning Department
+Personal Website
+
+Links:
+https://delphi.midas.cs.cmu.edu/
+https://www.cmu.edu/scs/ml4sg/
+http://www.cs.cmu.edu/~Polly/
+https://www.ml.cmu.edu/
+http://www.cs.cmu.edu/~roni/

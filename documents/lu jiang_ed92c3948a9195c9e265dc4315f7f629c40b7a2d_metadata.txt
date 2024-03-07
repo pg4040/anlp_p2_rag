@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: ed92c3948a9195c9e265dc4315f7f629c40b7a2d
+Title: Estimability study on the age of toddlers’ gait development based on gait parameters
+Year: 2023
+Abstract: None
+Authors: Chisa Tsuyuki, Haruna Hiraga, M. Sudo, T. Ueda, Kanako Seo, Masayuki Minatozaki, Yuko Fukuda, Yasuyuki Okuda, Hiroyuki Iwasaki, H. Naito, Dajiang Lu
+Venue: Scientific Reports
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The age of gait development, or the level of gait development with age as its indicator, can be estimated from several gait parameters related to gait development and its estimability is investigated.'}

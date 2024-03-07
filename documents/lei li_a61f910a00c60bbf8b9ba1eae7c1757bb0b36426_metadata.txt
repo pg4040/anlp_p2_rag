@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: a61f910a00c60bbf8b9ba1eae7c1757bb0b36426
+Title: PTTG1 reprograms asparagine metabolism to promote hepatocellular carcinoma progression.
+Year: 2023
+Abstract: Hepatocellular carcinoma (HCC) is the most common type of primary liver cancer and has a poor prognosis. Pituitary tumor transforming gene 1 (PTTG1) is highly expressed in HCC, suggesting it could play an important role in hepatocellular carcinogenesis. Here, we evaluated the impact of PTTG1 deficiency on HCC development using a diethylnitrosamine (DEN)-induced HCC mouse model and a hepatitis B virus regulatory X protein (HBx)-induced spontaneous HCC mouse model. PTTG1 deficiency significantly suppressed DEN- and HBx-induced hepatocellular carcinogenesis. Mechanistically, PTTG1 promoted asparagine synthetase (ASNS) transcription by binding to its promoter, and asparagine levels were correspondingly increased. The elevated levels of asparagine subsequently activated the mTOR pathway to facilitate HCC progression. In addition, asparaginase treatment reversed the proliferation induced by PTTG1 overexpression. Furthermore, HBx promoted ASNS and asparagine metabolism by upregulating PTTG1 expression. Overall, PTTG1 is involved in the reprogramming of asparagine metabolism to promote HCC progression and may serve as a therapeutic and diagnostic target for HCC.
+Authors: Qi Zhou, Leijia Li, Feifei Sha, Yiming Lei, Xuanen Tian, Lingjun Chen, Yan Chen, Huiling Liu, Yunwei Guo
+Venue: Cancer Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Overall, PTTG1 is involved in the reprogramming of asparagine metabolism to promote HCC progression and may serve as a therapeutic and diagnostic target for HCC.'}

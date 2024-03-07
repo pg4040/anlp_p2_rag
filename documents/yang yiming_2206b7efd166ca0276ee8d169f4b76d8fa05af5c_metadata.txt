@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 2206b7efd166ca0276ee8d169f4b76d8fa05af5c
+Title: Experimental Study on Secondary Anchorage Bond Performance of Residual Stress after Corrosion Fracture at Ends of Prestressed Steel Strands
+Year: 2023
+Abstract: In order to explore the secondary bond anchorage performance between prestressed tendons and concrete after the fracture of steel strands in post-tensioned, prestressed concrete (PPC) beams, a total of seven post-tensioned, prestressed concrete specimens with a size of 3 × 7ϕ15.2 mm were constructed firstly, and the steel strands at the anchorage end were subjected to corrosion fracture. Then, the pull-out test of the specimens was conducted to explore the secondary anchorage bond mechanism of the residual stress of prestressed tendons experiencing local fracture. Moreover, the influences of factors such as the embedded length, release-tensioning speed, concrete strength, and stirrup configuration on anchorage bond performance were analyzed. Finally, the test results were further verified via finite element analysis. The results show that the failure of pull-out specimens under different parameters can be divided into two types: bond anchorage failure induced by the entire pull-out of steel strands and material failure triggered by the rupture of steel strands. The bond anchorage failure mechanism between steel strands and the concrete was revealed by combining the failure characteristics and pull-out load–slippage relation curves. The bond strength between prestressed steel strands and concrete can be enhanced by increasing the embedded length of steel strands, elevating the concrete strength grade, and enlarging the diameter of stirrups so that the specimens are turned from bond anchorage failure into material failure.
+Authors: Rihua Yang, Yiming Yang, Xuhui Zhang, Xinzhong Wang
+Venue: Materials
+Tldr: None

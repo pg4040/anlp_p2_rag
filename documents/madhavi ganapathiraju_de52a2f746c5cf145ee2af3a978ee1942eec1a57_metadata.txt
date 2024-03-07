@@ -1,0 +1,9 @@
+Faculty Name: madhavi ganapathiraju
+Metadata:
+Paperid: de52a2f746c5cf145ee2af3a978ee1942eec1a57
+Title: Editorial: Systems biology, women in science 2021/22: translational systems biology and in silico trials
+Year: 2023
+Abstract: None
+Authors: Jane A. Leopold, M. Ganapathiraju, N. Yanamala
+Venue: Frontiers in Systems Biology
+Tldr: None

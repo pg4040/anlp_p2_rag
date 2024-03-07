@@ -1,0 +1,9 @@
+Faculty Name: mona diab
+Metadata:
+Paperid: 4286d07449447f3bfffc1eeb2ee0de9b00dfadfd
+Title: ALERT: Adapt Language Models to Reasoning Tasks
+Year: 2023
+Abstract: None
+Authors: Ping Yu, Tianlu Wang, O. Yu. Golovneva, Badr AlKhamissi, Siddharth Verma, Zhijing Jin, Gargi Ghosh, Mona T. Diab, Asli Celikyilmaz
+Venue: Annual Meeting of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The extensive empirical analysis shows that language models learn more reasoning skills such as textual entailment, abductive reasoning, and analogical reasoning during the finetuning stage compared to pretraining stage, but also finds that when language models are finetuned they tend to overfit to the prompt template, which hurts the robustness of models causing generalization problems.'}

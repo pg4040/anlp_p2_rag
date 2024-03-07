@@ -1,0 +1,11 @@
+List of 2023 Open Access papers by brian macwhinney are:
+Assessment and Therapy Goal Planning Using Free Computerized Language Analysis Software.
+Automation of Language Sample Analysis
+The role of novelty stimuli in second language acquisition: evidence from the optimized training by the Pinyin Tutor at TalkBank
+Using diagnostic feedback to enhance the development of phonetic knowledge of an L2: a CALL design based on the unified competition model and the implementation with the Pinyin Tutor
+A New Benchmark of Aphasia Speech Recognition and Detection Based on E-Branchformer and Multi-task Learning
+Collaborative Commentary for Understanding Communication Disorders.
+Establishing the DementiaBank Delaware Corpus: An Online Multimedia Database for the Study of Language and Cognition in Dementia
+Evaluating Picture Description Speech for Dementia Detection using Image-text Alignment
+Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge
+DementiaBank: Theoretical Rationale, Protocol, and Illustrative Analyses

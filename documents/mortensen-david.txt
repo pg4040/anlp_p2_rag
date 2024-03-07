@@ -1,0 +1,38 @@
+Title: David Mortensen -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of David Mortensen, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Corpus Annotation and Resources;Natural Language Processing and Computational Linguistics" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="David Mortensen - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of David Mortensen, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:David"/>
+<meta content="Lastname" property="profile:Mortensen"/>
+<meta content="http://lti.cmu.edu//people/faculty/mortensen-david.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+David 
+                        Mortensen
+Assistant Research Professor, Language Technologies Institute
+Contact
+5707 —Gates & Hillman Centers
+dmortens(through)cs.cmu.edu
+412-268-2894
+Research Area
+Corpus Annotation and Resources, Natural Language Processing and Computational Linguistics
+Education
+Master of Science in Intelligent Information Systems
+Personal Website
+
+Links:
+https://www.cs.cmu.edu/~dmortens/

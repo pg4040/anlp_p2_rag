@@ -1,0 +1,54 @@
+List of 2023 Open Access papers by lu jiang are:
+The response linearity of energy measurement up to TeV in the DAMPE experiment
+Direct measurement of Ne-Mg-Si nuclei in cosmic rays with DAMPE
+DArk Matter Particle Explorer: 7 years in Space
+A PCA-based Method for Electron-Proton Discrimination of the DAMPE Experiment
+Measurements of the boron-to-carbon and boron-to-oxygen flux ratios in cosmic rays with DAMPE
+A phosphoglycerate mutase 1 allosteric inhibitor overcomes drug resistance to EGFR-targeted therapy via disrupting IL-6/JAK2/STAT3 signaling pathway in lung adenocarcinoma.
+PGAM1 Inhibition Promotes HCC Ferroptosis and Synergizes with Anti‐PD‐1 Immunotherapy
+Enterococcus faecalis promotes the progression of colorectal cancer via its metabolite: biliverdin
+HCC prediction models in chronic hepatitis B patients receiving entecavir or tenofovir: a systematic review and meta-analysis
+Changing incidence of hepatitis B and persistent infection risk in adults: a population-based follow-up study from 2011 in China
+The efficacy and safety of asleep and awake subthalamic deep brain stimulation for Parkinson’s disease patients: A 1-year follow-up
+Effects of STN‐DBS surgery on cerebral glucose metabolism and distribution of DAT in Parkinson's disease
+Multi-Omics Unravels Metabolic Alterations in the Ileal Mucosa of Neonatal Piglets Receiving Total Parenteral Nutrition
+Analysis of Individual Cosmic-Ray Proton and Helium Fluxes towards PeV Energies with DAMPE
+Decreased Expression of KLF4 Leading to Functional Deficit in Pediatric Patients with Intestinal Failure and Potential Therapeutic Strategy Using Decanoic Acid
+Carbon Flux with DAMPE Using Machine Learning Methods
+Lactobacillus johnsonii Attenuates Liver Steatosis and Bile Acid Dysregulation in Parenteral Nutrition-Fed Rats
+Probing hadronic cross sections in the TeV - PeV regime with DAMPE through machine learning techniques
+Measurement of Heavy Nulei beyond Iron in Cosmic Rays with the DAMPE Experiment
+Cosmic Ray Carbon and Oxygen Flux Measurements with the DAMPE Experiment
+Study of hadronic cross-sections with cosmic ray Carbon from GeV to TeV by the DAMPE experiment
+Latest results on searching for fractionally charged particles with the DAMPE experiment
+Analysis of cosmic lithium, beryllium and boron with the DAMPE mission
+Median mandibular flexure—the unique physiological phenomenon of the mandible and its clinical significance in implant restoration
+BAC Transgenic Expression of Human TREM2-R47H Remodels Amyloid Plaques but Unable to Reprogram Plaque-associated Microglial Reactivity in 5xFAD Mice
+TMEM241 is a UDP-N-acetylglucosamine transporter required for M6P modification of NPC2 and cholesterol transport
+Reduced electron relaxation time of perovskite films via g-C3N4 quantum dot doping for high-performance perovskite solar cells
+How to drive corporate responsible innovation? A dual perspective from internal and external drivers of environmental protection enterprises
+Inchworm‐Like Soft Robot with Multimodal Locomotion Using an Acrylic Stick‐Constrained Dielectric Elastomer Actuator
+Paradoxical Induction of ALOX15/15B by Cortisol in Human Amnion Fibroblasts: Implications for Inflammatory Responses of the Fetal Membranes at Parturition
+Recent progresses on the gamma-ray observations of DAMPE
+GRB 200829A: External-shock Origin of the Very Early Prompt Emission?
+Measurement of the p+He energy spectrum with the DAMPE space mission
+Hydraulic-Pump Fault-Diagnosis Method Based on Mean Spectrogram Bar Graph of Voiceprint and ResNet-50 Model Transfer
+Combining Spatiotemporally Global and Local Interpolations Improves Modeling of Annual Land Surface Temperature Cycles
+Global mapping of urban thermal anisotropy reveals substantial potential biases for remotely sensed urban climates.
+Impact of Varicella Immunization and Public Health and Social Measures on Varicella Incidence: Insights from Surveillance Data in Shanghai, 2013–2022
+Coverage and impact of influenza vaccination among children in Minhang District, China, 2013–2020
+Associations of Morphological Changes in Skeletal Muscles of Preschool Children in China Following Physical Activity
+Qualitative study of the association between psychosocial health and physical activity/sleep quality in toddlers
+Estimability study on the age of toddlers’ gait development based on gait parameters
+Advances in gene therapy hold promise for treating hereditary hearing loss.
+Research on integrated coastal zone management from past to the future: a bibliometric analysis
+Low-Light Image Enhancement via Structure Modeling and Guidance
+Edge Preserving Implicit Surface Representation of Point Clouds
+Accuracy of narrow band imaging for detecting the malignant transformation of oral potentially malignant disorders: A systematic review and meta-analysis
+Updates on immunological mechanistic insights and targeting of the oral lichen planus microenvironment
+CD8+ tissue-resident memory T cells induce oral lichen planus erosion via cytokine network
+Single-cell immune profiling reveals immune responses in oral lichen planus
+Auditing Gender Presentation Differences in Text-to-Image Models
+“Easier or Harder, Depending on Who the Hearing Person Is”: Codesigning Videoconferencing Tools for Small Groups with Mixed Hearing Status
+Efficient conversion of biomass waste to N/O co-doped hierarchical porous carbon for high performance supercapacitors
+Editorial: Emerging talents in comparative immunology: 2022

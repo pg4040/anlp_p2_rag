@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: a3c4a5c18ef9bfffd9c8aac0dc2b75b8f18b9f7c
+Title: Effects of Coupling Constants on Chaos of Charged Particles in the Einstein–Æther Theory
+Year: 2023
+Abstract: There are two free coupling parameters c13 and c14 in the Einstein–Æther metric describing a non-rotating black hole. This metric is the Reissner–Nordström black hole solution when 0≤2c13<c14<2, but it is not for 0≤c14<2c13<2. When the black hole is immersed in an external asymptotically uniform magnetic field, the Hamiltonian system describing the motion of charged particles around the black hole is not integrable; however, the Hamiltonian allows for the construction of explicit symplectic integrators. The proposed fourth-order explicit symplectic scheme is used to investigate the dynamics of charged particles because it exhibits excellent long-term performance in conserving the Hamiltonian. No universal rule can be given to the dependence of regular and chaotic dynamics on varying one or two parameters c13 and c14 in the two cases of 0≤2c13<c14<2 and 0≤c14<2c13<2. The distributions of order and chaos in the binary parameter space (c13,c14) rely on different combinations of the other parameters and the initial conditions.
+Authors: Caiyu Liu, Xin Wu
+Venue: Universe
+Tldr: None

@@ -1,0 +1,38 @@
+Title: Alon Lavie -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Alon Lavie, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Machine Translation;Natural Language Processing and Computational Linguistics" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Alon Lavie - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Alon Lavie, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Alon"/>
+<meta content="Lastname" property="profile:Lavie"/>
+<meta content="http://lti.cmu.edu//people/faculty/lavie-alon.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Alon 
+                        Lavie
+Consulting Professor, Language Technologies Institute
+Vice President of Language Technologies, Unbabel
+Contact
+alavie(through)cs.cmu.edu
+Research Area
+Machine Translation, Natural Language Processing and Computational Linguistics
+Research
+Since joining Carnegie Mellon in 1996, my research has focused primarily on machine translation (MT) and natural language processing (NLP). In particular, I'm interested in NLP technologies applied to language translation and multilingual processing problems. My current research investigates machine translation adaptation approaches with human feedback; and syntax-driven statistical and hybrid approaches to MT, applied to both high-resource language pairs and low-resource and minority languages. One of my main focus areas has been developing novel syntax-based methods for acquiring the resources necessary for MT. I have also actively worked on frameworks for multi-engine machine translation (MEMT) and on developing automatic metrics for MT evaluation (particularly, METEOR). In the past, I worked extensively on developing parsing approaches for accurate annotation of grammatical relations (GRs) in spoken language data, on robust parsing algorithms for analysis of spoken language, and on the design and development of speech-to-speech machine translation systems.
+In 2009, I co-founded Safaba Translation Solutions, where I serve as chairman of the board, president and CTO. Safaba develops automated translation solutions for large global enterprises that allow them to migrate and maintain large volumes of content in all the languages in their markets. We also develop advanced solutions that integrate machine translation (MT) technology into the workflow processes used by commercial language service providers (LSPs).
+Personal Website
+
+Links:
+http://www.cs.cmu.edu/~alavie/

@@ -1,0 +1,9 @@
+Faculty Name: matthias grabmair
+Metadata:
+Paperid: ff28f812113a7082f7d285ed3bf6dcbed49d0320
+Title: Leveraging Task Dependency and Contrastive Learning for Case Outcome Classification on European Court of Human Rights Cases
+Year: 2023
+Abstract: We report on an experiment in case outcome classification on European Court of Human Rights cases where our model first learns to identify the convention articles allegedly violated by the state from case facts descriptions, and subsequently uses that information to classify whether the court finds a violation of those articles. We assess the dependency between these two tasks at the feature and outcome level. Furthermore, we leverage a hierarchical contrastive loss to pull together article-specific representations of cases at the higher level, leading to distinctive article clusters. The cases in each article cluster are further pulled closer based on their outcome, leading to sub-clusters of cases with similar outcomes. Our experiment results demonstrate that, given a static pre-trained encoder, our models produce a small but consistent improvement in classification performance over single-task and joint models without contrastive loss.
+Authors: Santosh T.Y.S.S, Santosh T.Y.S.S, Phillip Kemper, Matthias Grabmair
+Venue: Conference of the European Chapter of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

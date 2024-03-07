@@ -1,0 +1,27 @@
+List of 2023 Open Access papers by rita singh are:
+Implementing International Federation of Gynecology and Obstetrics Nutrition Checklist for Pregnant Women: Opportunities and Challenges in Low- and Middle-income Countries
+Mean Platelet Volume in Type 2 Diabetes: Correlation with Poor Glycaemic Control
+BASS: Block-wise Adaptation for Speech Summarization
+Rethinking Voice-Face Correlation: A Geometry View
+A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice
+Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation
+Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations
+The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features
+Pengi: An Audio Language Model for Audio Tasks
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+Token Prediction as Implicit Classification to Identify LLM-Generated Text
+Effect of myo-inositol and di-chiro inositol plus vitamin D supplementation during pregnancy on prevention of gestational diabetes: a multi-centric, prospective, randomized, double-blind clinical trial
+Plant-Avian Frugivory in the Urban Ecosystem of Delhi
+LoFT: Local Proxy Fine-tuning For Improving Transferability Of Adversarial Attacks Against Large Language Model
+Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech
+Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition
+Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text
+Importance of negative sampling in weak label learning
+Completing Visual Objects via Bridging Generation and Segmentation
+Training Audio Captioning Models without Audio
+Prompting Audios Using Acoustic Properties For Emotion Representation
+Pairwise Similarity Learning is SimPLE
+Gonadotropin Receptor Cross-Talk and Altered Functions in Gonadal and Non-Gonadal Tissues
+Comparison of freeze-thaw and sonication cycle-based methods for extracting AMR-associated metabolites from Staphylococcus aureus
+APPLIED ASPECT OF SATVAVAJAYA CHIKITSA
+Utilization of the Whole Cowpea Pod and Barley Husk in The Production of Nutritionally Enriched Composite Flour

@@ -1,0 +1,31 @@
+Title: Sean Welleck -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio page for Sean Welleck" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Sean Welleck - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio page for Sean Welleck" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Sean"/>
+<meta content="Lastname" property="profile:Welleck"/>
+<meta content="http://lti.cmu.edu//people/faculty/welleck-sean.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Sean 
+                        Welleck
+Assistant Professor, Language Technologies Institute
+Contact
+swelleck(through)andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+
+Links:

@@ -1,0 +1,37 @@
+Title: Daniel Fried -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Daniel Fried, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Conversational AI;Discourse and Pragmatics;Intelligent Agents and Dialogue;Multimodal AI;Natural Language Processing and Computational Linguistics" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Daniel Fried - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Daniel Fried, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Daniel"/>
+<meta content="Lastname" property="profile:Fried"/>
+<meta content="http://lti.cmu.edu//people/faculty/fried-daniel.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Daniel 
+                        Fried
+Assistant Professor, Language Technologies Institute
+Contact
+6411 —Gates & Hillman Centers
+dfried(through)andrew.cmu.edu
+Research Area
+Conversational AI, Discourse and Pragmatics, Intelligent Agents and Dialogue, Multimodal AI, Natural Language Processing and Computational Linguistics
+Education
+Master of Science in Intelligent Information Systems
+Personal Website
+
+Links:
+https://dpfried.github.io/

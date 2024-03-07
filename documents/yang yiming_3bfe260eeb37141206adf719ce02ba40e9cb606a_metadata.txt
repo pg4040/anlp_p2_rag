@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 3bfe260eeb37141206adf719ce02ba40e9cb606a
+Title: An Ultra-Low-Power Analog Multiplier–Divider Compatible with Digital Code for RRAM-Based Computing-in-Memory Macros
+Year: 2023
+Abstract: This manuscript presents an ultra-low-power analog multiplier–divider compatible with digital code words, which is applicable to the integrated structure of resistive random-access memory (RRAM)-based computing-in-memory (CIM) macros. Current multiplication and division are accomplished by a current-mirror-based structure. Compared with digital dividers to achieve higher precision and operation speed, analog dividers present the advantages of a reduced power consumption and a simple circuit structure in lower precision operations, thus improving the energy efficiency. Designed and fabricated in a 55 nm CMOS process, the proposed work is capable of achieving 8-bit precision for analog current multiplication and division operations. Measurement results show that the signal delay is 1 μs when performing 8-bit operation, with a bandwidth of 1.4 MHz. The power consumption is less than 6.15 μW with a 1.2 V supply voltage. The proposed multiplier–divider can increase the operation capacity by dividing the input current and digital code while reducing the power consumption and complexity required by division, which can be further utilized in real-time operation of edge computing devices.
+Authors: Yiming Yang, Shidong Lv, Xiaoran Li, Xinghua Wang, Qian Wang, Yiyang Yuan, Sen Liang, Feng Zhang
+Venue: Micromachines
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'An ultra-low-power analog multiplier–divider compatible with digital code words, which is applicable to the integrated structure of resistive random-access memory (RRAM)-based computing-in-memory (CIM) macros, is presented, capable of achieving 8-bit precision for analog current multiplication and division operations.'}

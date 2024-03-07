@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 9b385b5efd3508be0d7176d958887fee3e45efd7
+Title: Effects of STN‐DBS surgery on cerebral glucose metabolism and distribution of DAT in Parkinson's disease
+Year: 2023
+Abstract: : Parkinson's disease (PD) is a neurodegenerative disorder that affects millions of people worldwide. Subthalamic nucleus (STN) deep brain stimulation (DBS) has been shown to be an effective treatment for PD; however, the effects of this surgery on cerebral metabolism and presynaptic dopamine transporter (DAT) distribution are still being studied.
+Authors: Gan-hua Luo, Xinchong Shi, Lulu Jiang, Lei Wu, C. Yi, Wen-biao Xian, Yanmei Liu, Fuhua Wen, H. Qian, Jie Chen, Xiaoli Fu, Jinlong Liu, Xiangsong Zhang, Ling Chen
+Venue: Brain and Behavior
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Subthalamic nucleus (STN) deep brain stimulation (DBS) has been shown to be an effective treatment for PD; however, the effects of this surgery on cerebral metabolism and presynaptic dopamine transporter (DAT) distribution are still being studied.'}

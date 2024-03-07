@@ -1,0 +1,5 @@
+List of 2023 Open Access papers by roni rosenfeld are:
+Federated Epidemic Surveillance
+Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations
+Computationally Assisted Quality Control for Public Health Data Streams
+Correcting for heterogeneity in real-time epidemiological indicators

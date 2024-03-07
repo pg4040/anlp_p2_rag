@@ -1,0 +1,38 @@
+List of 2023 Open Access papers by lei li are:
+Establishment of a N1-methyladenosine-related risk signature for breast carcinoma by bioinformatics analysis and experimental validation
+Population pharmacokinetic analysis and dosing regimen optimization of teicoplanin in critically ill patients with sepsis
+The effects of pharmaceutical interventions on potentially inappropriate medications in older patients: a systematic review and meta-analysis
+P53 protein and the diseases in central nervous system
+Correction: Polydopamine-functionalized selenium nanoparticles as an efficient photoresponsive antibacterial platform
+Editorial: Strategies for functional polymeric nanocomposites and its multifunctional applications
+Polydopamine-functionalized selenium nanoparticles as an efficient photoresponsive antibacterial platform
+Antimicrobial properties of heterojunction BiSnSbO_6-ZnO composites in wastewater treatment
+Research on torsional stiffness of flexspline-flexible bearing contact pair in harmonic drive based on macro-micro scale modeling
+Integrated Valve Product Fluid Simulation and Test Verification
+Failure Analysis and Improvement of Check Valve Reverse Cut-off Seal
+A Study of Yuediao Folk Music Knowledge Development in Zhoukou, Henan Province, China
+Influence of banded ε-martensite and deformation twin on cryogenic toughness of Fe-Mn-xAl-C steel
+Study on thermal stability and biocompatibility of bimodal microstructure in Cr–Mn–N austenitic stainless steel
+Effect of intragranular κ carbides and intergranular precipitates on the hot deformation mechanism and dynamic recrystallization mechanism of Fe-28Mn-11Al-1.5C-5Cr lightweight steel
+Wavefront shaping improves the transparency of the scattering media: a review
+An ultrahigh-fidelity 3D holographic display using scattering to homogenize the angular spectrum
+Intraoperative molecular imaging: 3rd biennial clinical trials update
+PTTG1 reprograms asparagine metabolism to promote hepatocellular carcinoma progression.
+A Multilabel Learning-Based Automatic Annotation Method for Semantic Roles in English Text
+Variation of virtual temperature and wind in the atmospheric boundary layer over the pearl river estuary during 2011–2020
+Numerical simulation research on the overturning of gantry crane by downbursts
+Combining non-negative matrix factorization with graph Laplacian regularization for predicting drug-miRNA associations based on multi-source information fusion
+Phosphorus Availability Affects the Photosynthesis and Antioxidant System of Contrasting Low-P-Tolerant Cotton Genotypes
+Integrated Transcriptome and Small RNA Sequencing Analyses Reveals Insights into the Molecular Mechanism of Seed Germination in Mung Bean
+Low-Voltage Solution-Processed Zinc-Doped CuI Thin Film Transistors with NOR Logic and Artificial Synaptic Function
+Optimizing Heat Treatment to Improve the Microstructures and Mechanical Properties of 5CrNiMoV Steel
+Oral phage therapy with microencapsulated phage A221 against Escherichia coli infections in weaned piglets
+Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning
+Provable Robust Watermarking for AI-Generated Text
+MCM6 is a Poor Prognostic Biomarker and Promotes Progression in Breast Cancer.
+p53 deacetylation alleviates calcium oxalate deposition-induced renal fibrosis by inhibiting ferroptosis.
+Gut microbiota in patients with kidney stones: a systematic review and meta-analysis
+Effect of instant surgery compared with traditional management on paediatric complicated acute appendicitis post‐surgery wound: A meta‐analysis
+Protecting Language Generation Models via Invisible Watermarking
+Comprehensive Analysis of Cuproptosis Genes and Identification of Cuproptosis Subtypes in Breast Cancer
+Long-tailed Extreme Multi-label Text Classification by the Retrieval of Generated Pseudo Label Descriptions

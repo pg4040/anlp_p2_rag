@@ -1,0 +1,9 @@
+Faculty Name: bhiksha raj
+Metadata:
+Paperid: 74664618ad3b44eb191ba96fdff5b93f27a29ced
+Title: Training on Foveated Images Improves Robustness to Adversarial Attacks
+Year: 2023
+Abstract: Deep neural networks (DNNs) have been shown to be vulnerable to adversarial attacks -- subtle, perceptually indistinguishable perturbations of inputs that change the response of the model. In the context of vision, we hypothesize that an important contributor to the robustness of human visual perception is constant exposure to low-fidelity visual stimuli in our peripheral vision. To investigate this hypothesis, we develop \RBlur, an image transform that simulates the loss in fidelity of peripheral vision by blurring the image and reducing its color saturation based on the distance from a given fixation point. We show that compared to DNNs trained on the original images, DNNs trained on images transformed by \RBlur are substantially more robust to adversarial attacks, as well as other, non-adversarial, corruptions, achieving up to 25\% higher accuracy on perturbed data.
+Authors: Muhammad A Shah, B. Raj
+Venue: Neural Information Processing Systems
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'DNNs trained on images transformed by \\RBlur are substantially more robust to adversarial attacks, as well as other, non-adversarial, corruptions, achieving up to 25\\% higher accuracy on perturbed data.'}

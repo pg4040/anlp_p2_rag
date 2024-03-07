@@ -1,0 +1,9 @@
+Faculty Name: mona diab
+Metadata:
+Paperid: 45f7ab2dd1bd86703f3fc0f713d35851ae15b038
+Title: Author Correction: Arabic natural language processing for Qur’anic research: a systematic review
+Year: 2023
+Abstract: None
+Authors: M. Bashir, Aqil M. Azmi, H. Nawaz, W. Zaghouani, Mona T. Diab, Ala I. Al-Fuqaha, Junaid Qadir
+Venue: Artificial Intelligence Review
+Tldr: None

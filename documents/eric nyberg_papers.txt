@@ -1,0 +1,8 @@
+List of 2023 Open Access papers by eric nyberg are:
+GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets
+InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers
+Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+Chain-of-Skills: A Configurable Model for Open-Domain Question Answering
+A super wear-resistant coating for Mg alloys achieved by plasma electrolytic oxidation and discontinuous deposition
+Difference-Masking: Choosing What to Mask in Continued Pretraining
+Using Implicit Feedback to Improve Question Generation

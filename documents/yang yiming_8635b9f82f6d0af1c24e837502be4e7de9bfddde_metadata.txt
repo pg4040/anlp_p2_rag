@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 8635b9f82f6d0af1c24e837502be4e7de9bfddde
+Title: A Via-Less Fully Screen-Printed Reconfigurable Intelligent Surface for 5G Millimeter Wave Communication
+Year: 2023
+Abstract: In this paper, we propose a via-less fully screen-printed reconfigurable intelligent surface which can establish a second line-of-sight communication from 23.5GHz to 29.5GHz. By serially connecting the H shaped resonator along the H field of the incident wave, we minimize the effect of the biasing lines and make a via-less design, which reduces the fabrication difficulty and cost. The unit-cell simulation of the array with screen-printed VO2 switches shows a 215° to 160° phase shift difference between the ON and OFF states within bandwidth. During the field testing of the ideal arrays, we verify that the array can redirect the 45° incident wave to 0° reflection with a signal enhancement of at least 10 dB as compared to the array which has all unit cells in the OFF condition.
+Authors: Yiming Yang, Ruiqi Wang, M. Vaseem, Behrooz Makki, A. Shamim
+Venue: 2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A via-less fully screen-printed reconfigurable intelligent surface which can establish a second line-of-sight communication and can redirect the 45° incident wave to 0° reflection with a signal enhancement of at least 10 dB as compared to the array which has all unit cells in the OFF condition.'}

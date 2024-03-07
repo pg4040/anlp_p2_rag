@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: b2274c9fcd2d2c56e64441b4f93013d83faa24cb
+Title: An ultrahigh-fidelity 3D holographic display using scattering to homogenize the angular spectrum
+Year: 2023
+Abstract: A three-dimensional (3D) holographic display (3DHD) can preserve all the volumetric information about an object. However, the poor fidelity of 3DHD constrains its applications. Here, we present an ultrahigh-fidelity 3D holographic display that uses scattering for homogenization of angular spectrum. A scattering medium randomizes the incident photons and homogenizes the angular spectrum distribution. The redistributed field is recorded by a photopolymer film with numerous modulation modes and a half-wavelength scale pixel size. We have experimentally improved the contrast of a focal spot to 6 × 106 and tightened its spatial resolution to 0.5 micrometers, respectively ~300 and 4.4 times better than digital approaches. By exploiting the spatial multiplexing ability of the photopolymer and the transmission channel selection capability of the scattering medium, we have realized a dynamic holographic display of 3D spirals consisting of 20 foci across 1 millimeter × 1 millimeter × 26 millimeters with uniform intensity.
+Authors: Jiamiao Yang, Lei S Li, Qiaozhi He, Chengmingyue Li, Yuan Qu, Lihong V Wang
+Venue: Science Advances
+Tldr: None

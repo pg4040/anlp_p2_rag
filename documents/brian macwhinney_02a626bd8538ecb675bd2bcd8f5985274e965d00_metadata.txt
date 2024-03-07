@@ -1,0 +1,22 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: 02a626bd8538ecb675bd2bcd8f5985274e965d00
+Title: Assessment and Therapy Goal Planning Using Free Computerized Language Analysis Software.
+Year: 2023
+Abstract: Background
+We discuss a free software system (Computerized Language Analysis [CLAN]) that can enable fast, thorough, and informative language sample analysis (LSA).
+
+
+Method
+We describe methods for eliciting, transcribing, analyzing, and interpreting language samples. Using a hypothetical child speaker, we illustrate use KidEval to generate a diagnostic report.
+
+
+Results
+Given LSA results suggestive of expressive language delay, we analyze further using CLAN's Developmental Sentence Score and Index of Productive Syntax routines, and outline the child's use of Brown's morphemes.
+
+
+Discussion
+This tutorial provides an introduction to the use of free CLAN software. We discuss how LSA results can be used to structure therapy goals that address specific aspects of grammatical structure that the child may not yet demonstrate in their spoken language. Finally, we provide answers to common questions, including user support.
+Authors: N. Ratner, B. MacWhinney
+Venue: Perspectives of the ASHA Special Interest Groups
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This tutorial provides an introduction to the use of free CLAN software and discusses how LSA results can be used to structure therapy goals that address specific aspects of grammatical structure that the child may not yet demonstrate in their spoken language.'}

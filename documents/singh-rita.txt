@@ -1,0 +1,30 @@
+Title: Rita Singh -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Rita Singh, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Rita Singh - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Rita Singh, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Rita"/>
+<meta content="Lastname" property="profile:Singh"/>
+<meta content="http://lti.cmu.edu//people/faculty/singh-rita.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Rita 
+                        Singh
+Associate Research Professor, Language Technologies Institute
+Contact
+6703 —Gates & Hillman Centers
+rsingh(through)cs.cmu.edu
+412-268-9859
+
+Links:

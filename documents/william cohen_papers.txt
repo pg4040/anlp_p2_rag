@@ -1,0 +1,12 @@
+List of 2023 Open Access papers by william cohen are:
+Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute
+Answering Ambiguous Questions with a Database of Questions, Answers, and Revisions
+MEMORY-VQ: Compression for Tractable Internet-Scale Memory
+Subject-driven Text-to-Image Generation via Apprenticeship Learning
+GLIMMER: generalized late-interaction memory reranker
+Orbital Hybridization and Hypersensitivity of Eu3+ in YXO4 (X=P, As, V)
+The Influence of Optically Active Impurities on the Performance of Phosphors and Scintillators
+Figure of eight suture technique in aortic valve replacement decreases prosthesis-patient mismatch
+P72: Immediate Hemodynamic and Echocardiographic Changes after Impella 5.5 Implant
+CARC5: Midterm Impella Support: A Review of Seventy-Two Patients Successfully Supported with Impella 5.5 Device
+Cardiothoracic Surgery Training: An Honest and Anonymous Assessment of the Trainee Experience

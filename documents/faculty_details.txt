@@ -1,0 +1,220 @@
+Name: Malihe    Alikhani
+Designation: Assistant Professor, Northeastern University
+Links: alikhani-malihe.html, alikhani-malihe.html, alikhani-malihe.html
+
+Name: Taylor    Berg-Kirkpatrick
+Designation: Assistant Professor, University of California, San Diego
+Links: berg-kirkpatrick-taylor.html, berg-kirkpatrick-taylor.html, berg-kirkpatrick-taylor.html
+
+Name: Jeffrey    Bigham
+Designation: Associate Professor
+Links: bigham-jeffrey.html, bigham-jeffrey.html, bigham-jeffrey.html
+
+Name: Yonatan    Bisk
+Designation: Assistant Professor
+Links: bisk-yonatan.html, bisk-yonatan.html, bisk-yonatan.html
+
+Name: Ralf    Brown
+Designation: Senior Systems Scientist/Chair of Admissions
+Links: brown-ralf.html, brown-ralf.html, brown-ralf.html
+
+Name: Jamie     Callan
+Designation: Professor
+Links: callan-jamie.html, callan-jamie.html, callan-jamie.html
+
+Name: Justine    Cassell
+Designation: Professor (On Leave)
+Links: cassell-justine.html, cassell-justine.html, cassell-justine.html
+
+Name: William    Cohen
+Designation: Director of Research Engineering, Google AI
+Links: cohen-william.html, cohen-william.html, cohen-william.html
+
+Name: Mona    Diab
+Designation: LTI Director and Tenured Professor
+Links: diab-mona.html, diab-mona.html, diab-mona.html
+
+Name: Fernando    Diaz
+Designation: Associate Professor
+Links: diaz-fernando.html, diaz-fernando.html, diaz-fernando.html
+
+Name: Christopher    Dyer
+Designation: Senior Staff Scientist, DeepMind
+Links: dyer-christopher.html, dyer-christopher.html, dyer-christopher.html
+
+Name: Scott    Fahlman
+Designation: Professor Emeritus
+Links: fahlman-scott.html, fahlman-scott.html, fahlman-scott.html
+
+Name: Robert    Frederking
+Designation: Associate Dean for PhD Programs and Chair for MLT Program
+Links: frederking-robert.html, frederking-robert.html, frederking-robert.html
+
+Name: Daniel    Fried
+Designation: Assistant Professor
+Links: fried-daniel.html, fried-daniel.html, fried-daniel.html
+
+Name: Madhavi    Ganapathiraju
+Designation: Associate Professor, University of Pittsburgh
+Links: ganapathiraju-madhavi.html, ganapathiraju-madhavi.html, ganapathiraju-madhavi.html
+
+Name: Matt    Gormley
+Designation: Assistant Teaching Professor
+Links: gormley-matt.html, gormley-matt.html, gormley-matt.html
+
+Name: Matthias    Grabmair
+Designation: Assistant Professor, Technical University of Munich, Germany
+Links: grabmair-matthias.html, grabmair-matthias.html, grabmair-matthias.html
+
+Name: Alexander    Hauptmann
+Designation: Research Professor
+Links: hauptmann-alexander.html, hauptmann-alexander.html, hauptmann-alexander.html
+
+Name: Daphne    Ippolito
+Designation: Assistant Professor
+Links: ippolito-daphne.html, ippolito-daphne.html, ippolito-daphne.html
+
+Name: Lu    Jiang
+Designation: Staff Research Scientist, Google
+Links: jiang-lu.html, jiang-lu.html, jiang-lu.html
+
+Name: Alon    Lavie
+Designation: Consulting Professor
+Links: lavie-alon.html, lavie-alon.html, lavie-alon.html
+
+Name: Lori    Levin
+Designation: Research Professor
+Links: levin-lori.html, levin-lori.html, levin-lori.html
+
+Name: Lei    Li
+Designation: Assistant Professor
+Links: bio.html, bio.html, bio.html
+
+Name: Brian    MacWhinney
+Designation: Professor (On Leave)
+Links: macwhinney-brian.html, macwhinney-brian.html, macwhinney-brian.html
+
+Name: Michael    Mauldin
+Designation: Adjunct Research Computer Scientist
+Links: mauldin-michael.html, mauldin-michael.html, mauldin-michael.html
+
+Name: Florian    Metze
+Designation: Adjunct Professor
+Links: metze-florian.html, metze-florian.html, metze-florian.html
+
+Name: Teruko    Mitamura
+Designation: Research Professor
+Links: mitamura-teruko.html, mitamura-teruko.html, mitamura-teruko.html
+
+Name: Tom    Mitchell
+Designation: E. Fredkin University Professor
+Links: mitchell-tom.html, mitchell-tom.html, mitchell-tom.html
+
+Name: Louis-Philippe     Morency
+Designation: Leonardo Associate Professor of Computer Science (On Leave)
+Links: morency-louis-philippe.html, morency-louis-philippe.html, morency-louis-philippe.html
+
+Name: David    Mortensen
+Designation: Assistant Research Professor
+Links: mortensen-david.html, mortensen-david.html, mortensen-david.html
+
+Name: Jack    Mostow
+Designation: Research Professor Emeritus
+Links: mostow-jack.html, mostow-jack.html, mostow-jack.html
+
+Name: Graham    Neubig
+Designation: Associate Professor
+Links: neubig-graham.html, neubig-graham.html, neubig-graham.html
+
+Name: Eric    Nyberg
+Designation: Professor
+Links: nyberg-eric.html, nyberg-eric.html, nyberg-eric.html
+
+Name: Kemal    Oflazer
+Designation: Teaching Professor
+Links: oflazer-kemal.html, oflazer-kemal.html, oflazer-kemal.html
+
+Name: Bhiksha    Raj
+Designation: Professor
+Links: raj-bhiksha.html, raj-bhiksha.html, raj-bhiksha.html
+
+Name: Raj    Reddy
+Designation: Moza Bint Nasser University Professor
+Links: reddy-raj.html, reddy-raj.html, reddy-raj.html
+
+Name: Roni    Rosenfeld
+Designation: Professor
+Links: rosenfeld-roni.html, rosenfeld-roni.html, rosenfeld-roni.html
+
+Name: Carolyn    Rosé
+Designation: Professor
+Links: rosé-carolyn.html, rosé-carolyn.html, rosé-carolyn.html
+
+Name: Alexander    Rudnicky
+Designation: Research Professor Emeritus
+Links: rudnicky-alexander.html, rudnicky-alexander.html, rudnicky-alexander.html
+
+Name: Norman    Sadeh
+Designation: Professor
+Links: sadeh-norman.html, sadeh-norman.html, sadeh-norman.html
+
+Name: Maarten    Sap
+Designation: Assistant Professor
+Links: sap-maarten.html, sap-maarten.html, sap-maarten.html
+
+Name: Thomas    Schaaf
+Designation: Principal Research Scientist, 3M | M*Modal
+Links: schaaf-thomas.html, schaaf-thomas.html, schaaf-thomas.html
+
+Name: Michael    Shamos
+Designation: Distinguished Career Professor
+Links: shamos-michael.html, shamos-michael.html, shamos-michael.html
+
+Name: Rita    Singh
+Designation: Associate Research Professor
+Links: singh-rita.html, singh-rita.html, singh-rita.html
+
+Name: Ravi    Starzl
+Designation: Adjunct Professor
+Links: starzl-ravi.html, starzl-ravi.html, starzl-ravi.html
+
+Name: Richard    Stern
+Designation: Professor
+Links: stern-richard.html, stern-richard.html, stern-richard.html
+
+Name: Emma    Strubell
+Designation: Assistant Professor
+Links: strubell-emma.html, strubell-emma.html, strubell-emma.html
+
+Name: Yulia    Tsvetkov
+Designation: Assistant Professor, University of Washington
+Links: tsvetkov-yulia.html, tsvetkov-yulia.html, tsvetkov-yulia.html
+
+Name: Alexander    Waibel
+Designation: Professor (On Leave)
+Links: waibel-alexander.html, waibel-alexander.html, waibel-alexander.html
+
+Name: Shinji    Watanabe
+Designation: Associate Professor
+Links: watanabe-shinji.html, watanabe-shinji.html, watanabe-shinji.html
+
+Name: Sean    Welleck
+Designation: Assistant Professor
+Links: welleck-sean.html, welleck-sean.html, welleck-sean.html
+
+Name: Monika    Woszczyna
+Designation: Head of Speech Technology Group, Multimodal Technologies Inc.
+Links: woszczyna-monika.html, woszczyna-monika.html, woszczyna-monika.html
+
+Name: Eric  P.  Xing
+Designation: Professor (On Leave)
+Links: xing-eric.html, xing-eric.html, xing-eric.html
+
+Name: Chenyan    Xiong
+Designation: Associate Professor
+Links: xiong-chenyan.html, xiong-chenyan.html, xiong-chenyan.html
+
+Name: Yiming    Yang
+Designation: Professor
+Links: yiming-yang.html, yiming-yang.html, yiming-yang.html
+

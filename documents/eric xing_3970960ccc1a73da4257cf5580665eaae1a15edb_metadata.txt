@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 3970960ccc1a73da4257cf5580665eaae1a15edb
+Title: ViT-Based Terrain Recognition System for wearable soft exosuit
+Year: 2023
+Abstract: None
+Authors: Fangliang Yang, Chunjie Chen, Zhuo Wang, Hui Chen, Yao Liu, Gang Li, Xin Wu
+Venue: Biomimetic Intelligence and Robotics
+Tldr: None

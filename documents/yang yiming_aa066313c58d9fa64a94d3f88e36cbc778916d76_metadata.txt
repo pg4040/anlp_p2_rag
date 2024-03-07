@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: aa066313c58d9fa64a94d3f88e36cbc778916d76
+Title: Optimization of Critical Factors Affecting Dynamic Membrane Formation in a Gravity-Driven Self-Forming Dynamic Membrane Bioreactor towards Low-Cost and Low-Maintenance Wastewater Treatment
+Year: 2023
+Abstract: Self-forming dynamic membrane (SFDM) formation is affected by a variety of operating conditions. However, previous studies have only focused on individual influencing factors and a systematic analysis of important factors is lacking. In this study, an aerobic self-forming dynamic membrane bioreactor (SFDMBR) was developed for the treatment of domestic wastewater with the critical factors that affect the effective formation of SFDM optimized, and the operational performances under optimized formation conditions confirmed. The results indicated that SFDM could be formed within 5 min using 48 μm stainless-steel mesh as the supporting material at a sludge concentration of 5–6 g/L and a gravity waterhead of 15 cm. And the SFDM formed could maintain a stable flux of 30–50 LMH, and the removals of COD, SCOD, and NH4+-N were 93.28%, 82.85%, and 95.46%, respectively. Furthermore, the cake layer resistance (reversible fouling) contributed to 95.93% of the total filtration resistance, thus a simple physical cleaning can effectively restore the flux indicating a low-maintenance requirement. This study provides valuable insights into the optimization and application of the SFDMBR process.
+Authors: Luhe Tang, Jingyu Zhang, Lulu Zha, Yisong Hu, Yiming Yang, Yunsheng Zhao, Xinglong Dong, Zhanjiu Wang, Weihang Deng, Yuan Yang
+Venue: Water
+Tldr: None

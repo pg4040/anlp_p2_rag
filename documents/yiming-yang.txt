@@ -1,0 +1,86 @@
+Title: Yiming Yang -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Yiming Yang, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Yiming Yang - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Yiming Yang, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Yiming"/>
+<meta content="Lastname" property="profile:Yang"/>
+<meta content="http://lti.cmu.edu//people/faculty/yiming-yang.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Yiming 
+                        Yang
+Professor, Language Technologies Institute
+Contact
+6717 —Gates & Hillman Centers
+yiming(through)cs.cmu.edu
+412-268-1364
+Research
+My research has centered on statistical learning methods/algorithms and application to very-large-scale text categorization, web-mining for concept graph discovery, semi-supervised clustering, multitask learning, novelty-based information retrieval, large-scale optimization for online advertising, social network analysis for personalized email prioritization, etc. My recent research focuses on the following topics:
+Large-Scale Structured Learning for Hierarchical Classification
+(
+Gopal & Yang, KDD 2013
+;
+Gopal
+& Yang, ICML 2013 & Supplementary  ;
+Gopal et al., NIPS 2012
+)
+Providing organizational views of multi-source Big Data (e.g., Wikipedia, online shops, Coursera)
+State-of-the-art classifiers for large-scale classification over hundreds of thousands of categories
+Scalable variational inference for joint optimization of one trillion (4 TB) model parameters
+Scalable Machine Learning for Time Series Analysis (
+Topic Detection and Tracking)
+From scientific literature, news stories, sensor signals, maintenance reports, etc.
+Modeling multi-source and multi-scale evidence of dynamic chances in temporal sequences. (
+On-going NSF project
+;
+Gopal, PhD Thesis
+)
+A new family of Bayesian von Mices Fischer (vMF) clustering techniques (
+Gopal & Yang, ICML 2014
+&
+Supplementary
+)
+Unsupervised clustering and semi-supervised metric learning and supervised classification (
+Gopal & Yang, UAI 2014
+&
+Supplimentary
+).
+Concept Graph Learning for Online Education
+(
+NSF project
+;
+Yang et al., WSDM 2015
+)
+Mapping online course materials to Wikipedia categories as the Interlingua (universal concepts)
+Predicting conceptual dependencies among courses based on partially observed prerequisites
+Planning customized curriculum for individuals based on backgrounds and goals
+Macro-Level Information Fusion for Events and Entities
+(joint effort with Jaime Carbonell in the DARPA DEFT project)
+Detecting entities and events of interest in various forms of mentions in text to enable high-precision, semi-structured information fusion and summarization. Using a corporate acquisition event as an example, different (and partially redundant) sentences can mention acquirer, price, date, approvals, joint-management, etc. This multi-aspect information needs to be jointly extracted into a unified structured form for this event type, with uncertainty estimates in the aggregated representation.
+Personal Website
+
+Links:
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-kdd13.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-icml13.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-nips12.pdf
+http://nyc.lti.cs.cmu.edu/mfhdt/index.html
+http://lti.cs.cmu.edu/sites/default/files/research/reports/2014/CMU-LTI-14-005-D.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-icml14-vmf.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-icml14-supp.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-uai14.pdf
+http://nyc.lti.cs.cmu.edu/yiming/Publications/gopal-uai14-supp.pdf
+http://nyc.lti.cs.cmu.edu/teacher/index.html
+http://nyc.lti.cs.cmu.edu/yiming/Publications/yang-wsdm15.pdf
+http://www.cs.cmu.edu/~yiming/

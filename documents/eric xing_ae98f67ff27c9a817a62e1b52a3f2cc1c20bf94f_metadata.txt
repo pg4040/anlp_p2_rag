@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: ae98f67ff27c9a817a62e1b52a3f2cc1c20bf94f
+Title: Integrating symbol similarities with knowledge graph embedding for entity alignment: an unsupervised framework
+Year: 2023
+Abstract: None
+Authors: Tingting Jiang, Chenyang Bu, Yi Zhu, Xin Wu
+Venue: Intelligent Computing
+Tldr: None

@@ -1,0 +1,34 @@
+Title: Kemal Oflazer -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Kemal Oflazer, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Kemal Oflazer - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Kemal Oflazer, Affiliated Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Kemal"/>
+<meta content="Lastname" property="profile:Oflazer"/>
+<meta content="http://lti.cmu.edu//people/faculty/oflazer-kemal.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Kemal 
+                        Oflazer
+Teaching Professor, Language Technologies Institute
+Computer Science Department
+Contact
+1009 —Carnegie Mellon - Qatar Campus
+ko(through)qatar.cmu.edu
+Computer Science - Qatar
+Personal Website
+
+Links:
+https://www.qatar.cmu.edu/academics-research/academics/computer-science/#/?feed=news&category=49&limit=3&featuredCategory=49&page=1
+https://www.andrew.cmu.edu/user/ko/

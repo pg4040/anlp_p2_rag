@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 3b93dd5f2d2512a4b58f6c776af59f74a90764a5
+Title: Unsupervised Data Selection for TTS: Using Arabic Broadcast News as a Case Study
+Year: 2023
+Abstract: .
+Authors: Massa Baali, Tomoki Hayashi, Hamdy Mubarak, Soumi Maiti, Shinji Watanabe, W. El-Hajj, Ahmed Ali
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

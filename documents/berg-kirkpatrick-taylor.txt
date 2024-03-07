@@ -1,0 +1,42 @@
+Title: Taylor Berg-Kirkpatrick -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Taylor Berg-Kirkpatrick, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Machine Learning;Natural Language Processing and Computational Linguistics" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Taylor Berg-Kirkpatrick - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Taylor Berg-Kirkpatrick, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Taylor"/>
+<meta content="Lastname" property="profile:Berg-Kirkpatrick"/>
+<meta content="http://lti.cmu.edu//people/faculty/berg-kirkpatrick-taylor.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Taylor 
+                        Berg-Kirkpatrick
+Assistant Professor, University of California, San Diego
+Contact
+6403 —Gates & Hillman Centers
+tberg(through)cs.cmu.edu
+Research Area
+Machine Learning, Natural Language Processing and Computational Linguistics
+Research
+Unsupervised Learning
+Developing models and methods that can learn to understand aspects of human language without relying on hand-labeled data
+Structured Prediction
+Building inference procedures that can efficiently and accurately produce complex outputs, including both structured linguistic annotations (like parse trees) and natural language utterances (like summaries)
+Analysis of Human Artifacts
+Using automated methods to analyze and decipher structured human artifacts, including text but also sources like piano music, images of early modern books (e.g., First Folio of Shakespeare), and cuneiform tablets
+Personal Website
+
+Links:
+https://cseweb.ucsd.edu/~tberg/

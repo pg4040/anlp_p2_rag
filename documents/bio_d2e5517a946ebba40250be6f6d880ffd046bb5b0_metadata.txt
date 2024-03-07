@@ -1,0 +1,22 @@
+Faculty Name: bio
+Metadata:
+Paperid: d2e5517a946ebba40250be6f6d880ffd046bb5b0
+Title: Clinicopathological Characteristics of NRG1 Fusion-Positive Solid Tumors in Korean Patients.
+Year: 2023
+Abstract: Purpose
+NRG1 gene fusion is a potentially actionable oncogenic driver. The oncoprotein binds to ERBB3-ERBB2 heterodimers and activates downstream signaling, supporting a therapeutic approach for inhibiting ERBB3/ERBB2. However, the frequency and clinicopathological features of solid tumors harboring NRG1 fusions in Korean patients remain largely unknown.
+
+
+Materials and Methods
+We reviewed archival data from next-generation sequencing panel tests conducted at a single institution, specifically selecting patients with in-frame fusions that preserved the functional domain. The clinicopathological characteristics of patients harboring NRG1 fusions were retrospectively reviewed.
+
+
+Results
+Out of 8,148 patients, NRG1 fusions were identified in 22 patients (0.27%). The average age of the patients was 59 years (range, 32-78 years), and the male-to-female ratio was 1:1.2. The lung was the most frequently observed primary site (n=13), followed by the pancreaticobiliary tract (n=3), gastrointestinal tract (n=2, stomach and rectum each), ovary (n=2), breast (n=1), and soft tissue (n=1). Histologically, all tumors demonstrated adenocarcinoma histology, with the exception of one case of sarcoma. CD74 (n=8) and SLC3A2 (n=4) were the most frequently identified fusion partners. Dominant features included the presence of fewer than three co-occurring genetic alterations, a low tumor mutation burden, and low programmed death-ligand 1 expression. Various clinical responses were observed in patients with NRG1 fusions.
+
+
+Conclusion
+Despite the rarity of NRG1 fusions in Korean patients with solid tumors, identification through next-generation sequencing enables the possibility of new targeted therapies.
+Authors: Y. Cha, Chung Lee, B. Joo, Kyung A Kim, Choong-kun Lee, H. Shim
+Venue: Cancer research and treatment : official journal of Korean Cancer Association
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Despite the rarity of NRG1 fusions in Korean patients with solid tumors, identification through next-generation sequencing enables the possibility of new targeted therapies.'}

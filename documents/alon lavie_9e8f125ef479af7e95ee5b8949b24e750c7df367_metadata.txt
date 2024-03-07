@@ -1,0 +1,9 @@
+Faculty Name: alon lavie
+Metadata:
+Paperid: 9e8f125ef479af7e95ee5b8949b24e750c7df367
+Title: Towards Multilingual Automatic Open-Domain Dialogue Evaluation
+Year: 2023
+Abstract: The main limiting factor in the development of robust multilingual open-domain dialogue evaluation metrics is the lack of multilingual data and the limited availability of open-sourced multilingual dialogue systems. In this work, we propose a workaround for this lack of data by leveraging a strong multilingual pretrained encoder-based Language Model and augmenting existing English dialogue data using Machine Translation. We empirically show that the naive approach of finetuning a pretrained multilingual encoder model with translated data is insufficient to outperform the strong baseline of finetuning a multilingual model with only source data. Instead, the best approach consists in the careful curation of translated data using MT Quality Estimation metrics, excluding low quality translations that hinder its performance.
+Authors: John Mendonça, A. Lavie, I. Trancoso
+Venue: SIGDIAL Conferences
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is empirically show that the naive approach of finetuning a pretrained multilingual encoder model with translated data is insufficient to outperform the strong baseline of finETuning a multilingual model with only source data.'}

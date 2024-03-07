@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 35f6015045c2fe38c8a063c3787fc516f9babfaa
+Title: Strain-driven Kovacs-like memory effect in glasses
+Year: 2023
+Abstract: None
+Authors: Yu Tong, L. Song, Yurong Gao, Longlong Fan, Fucheng Li, Yiming Yang, Guang Mo, Yanhui Liu, Xiaoxue Shui, Yan Zhang, Meng Gao, J. Huo, Jichao Qiao, E. Pineda, Jun-Qiang Wang
+Venue: Nature Communications
+Tldr: None

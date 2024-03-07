@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 1d54cbcb331af0f618c4f9537b1164061727007d
+Title: The split delivery vehicle routing problem with time windows and three-dimensional loading constraints
+Year: 2023
+Abstract: None
+Authors: Miao Yan, L. Chu, Xin Wu
+Venue: Journal of Industrial and Management Optimization
+Tldr: None

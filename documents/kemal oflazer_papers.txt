@@ -1,0 +1,2 @@
+List of 2023 Open Access papers by kemal oflazer are:
+Abstractive summarization with deep reinforcement learning using semantic similarity rewards

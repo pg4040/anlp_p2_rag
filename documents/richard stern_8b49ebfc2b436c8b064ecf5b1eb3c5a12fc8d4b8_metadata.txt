@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: 8b49ebfc2b436c8b064ecf5b1eb3c5a12fc8d4b8
+Title: Unsupervised Voice Type Discrimination Score Adaptation Using X-Vector Clusters
+Year: 2023
+Abstract: Voice type discrimination (VTD) is the task of automatically detecting speech produced in the same room as a recording device ("live speech") among other speech and non-speech noises, such as traffic noises or radio broadcasts ("distractor audio"). Existing work has described methods for performing the VTD task. This paper presents a method for adapting the output of these existing methods in an unsupervised manner via x-vector clustering and correlation. This adaptation method can be applied to the output of any VTD algorithm, requires no additional training data, and has been shown to yield a relative decrease in decision cost function (DCF) score of up to 47% on a standardized database collected for the task.
+Authors: Mark Lindsey, Tyler Vuong, R. Stern
+Venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This adaptation method can be applied to the output of any VTD algorithm, requires no additional training data, and has been shown to yield a relative decrease in decision cost function (DCF) score of up to 47% on a standardized database collected for the task.'}

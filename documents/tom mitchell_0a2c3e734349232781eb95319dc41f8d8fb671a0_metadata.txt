@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: 0a2c3e734349232781eb95319dc41f8d8fb671a0
+Title: SmartPlay : A Benchmark for LLMs as Intelligent Agents
+Year: 2023
+Abstract: Recent large language models (LLMs) have demonstrated great potential toward intelligent agents and next-gen automation, but there currently lacks a systematic benchmark for evaluating LLMs' abilities as agents. We introduce SmartPlay: both a challenging benchmark and a methodology for evaluating LLMs as agents. SmartPlay consists of 6 different games, including Rock-Paper-Scissors, Tower of Hanoi, Minecraft. Each game features a unique setting, providing up to 20 evaluation settings and infinite environment variations. Each game in SmartPlay uniquely challenges a subset of 9 important capabilities of an intelligent LLM agent, including reasoning with object dependencies, planning ahead, spatial reasoning, learning from history, and understanding randomness. The distinction between the set of capabilities each game test allows us to analyze each capability separately. SmartPlay serves not only as a rigorous testing ground for evaluating the overall performance of LLM agents but also as a road-map for identifying gaps in current methodologies. We release our benchmark at github.com/microsoft/SmartPlay
+Authors: Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': "SmartPlay is introduced: both a challenging benchmark and a methodology for evaluating LLMs' abilities as agents, which consists of 6 different games, including Rock-Paper-Scissors, Tower of Hanoi, Minecraft, and understanding randomness."}

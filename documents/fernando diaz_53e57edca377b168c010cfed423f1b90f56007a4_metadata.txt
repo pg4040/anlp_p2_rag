@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Metadata:
+Paperid: 53e57edca377b168c010cfed423f1b90f56007a4
+Title: Understanding of the Effect of the Adsorption of Atom and Cluster Silver on Chitosan: An In Silico Analysis
+Year: 2023
+Abstract: In this work, the structural, electronic, and optical stability properties of the chitosan monomer (M-Ch) and atomic silver complex are reported, as well as a unitary cell of a silver cluster in the gas phase and acetic acid. The generalized gradient approximation HSEh1PBE/def2-TZVPP50 results established the structures’ anionic charge (Q = −1|e|) and the doublet state (M = 2). The high cohesive energy indicates structural stability, and the quantum-mechanical descriptors show a high polarity and low chemical reactivity. Also, the quantum-mechanical descriptors present a low work function that shows the structures are suitable for applications in light-emitting diodes. Finally, the electronic behavior observed by the |HOMO-LUMO| gap energy changes depending on the atomic silver incorporated into the complex.
+Authors: A. Rodríguez-Juárez, Veronica Carmona-Álvarez, F. Díaz-Monge, E. Chigo-Anota, O. Zaca-Moran
+Venue: Molecules
+Tldr: None

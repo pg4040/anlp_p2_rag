@@ -1,0 +1,35 @@
+Title: Michael Shamos -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Michael Shamos, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Michael Shamos - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Michael Shamos, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Michael"/>
+<meta content="Lastname" property="profile:Shamos"/>
+<meta content="http://lti.cmu.edu//people/faculty/shamos-michael.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Michael 
+                        Shamos
+Distinguished Career Professor, Language Technologies Institute
+Institute for Software Research
+Contact
+6707 —Gates & Hillman Centers
+shamos(through)cs.cmu.edu
+412-268-8193
+Institute for Software Research
+Personal Website
+
+Links:
+https://www.cs.cmu.edu/~brassmars/
+http://www.cs.cmu.edu/~jbigham/

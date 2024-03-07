@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 1ddaf16b2c7a9ce4b81bf361d972e58d8afe03f1
+Title: Reduced electron relaxation time of perovskite films via g-C3N4 quantum dot doping for high-performance perovskite solar cells
+Year: 2023
+Abstract: Perovskite film-quality is a crucial factor to improve the photovoltaic properties of perovskite solar cells, which is closely related to the morphology of crystallization grain size of the perovskite layer. However, defects and trap sites are inevitably generated on the surface and at the grain boundaries of the perovskite layer. Here, we report a convenient method for preparing dense and uniform perovskite films, employing g-C3N4 quantum dots doped into the perovskite layer by regulating proper proportions. This process produces perovskite films with dense microstructures and flat surfaces. As a result, the higher fill factor (0.78) and a power conversion efficiency of 20.02% are obtained by the defect passivation of g-C3N4QDs.
+Authors: Lu-Lu Jiang, Meng-Meng Chen, Xiao-Dan Tang, Ying Tang, Shaoxin Li, Y. Li, Hang-Hui Li, Hairui Liu
+Venue: RSC Advances
+Tldr: None

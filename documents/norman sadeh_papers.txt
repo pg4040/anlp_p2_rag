@@ -1,0 +1,7 @@
+List of 2023 Open Access papers by norman sadeh are:
+Do Privacy Labels Answer Users' Privacy Questions?
+Exploring Smart Commercial Building Occupants’ Perceptions and Notification Preferences of Internet of Things Data Collection in the United States
+Comparing Privacy Label Disclosures of Apps Published in both the App Store and Google Play Stores
+ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels
+Purpose in the Machine: Do Traffic Simulators Produce Distributionally Equivalent Outcomes for Reinforcement Learning Applications?
+Understanding How to Inform Blind and Low-Vision Users about Data Privacy through Privacy Question Answering Assistants

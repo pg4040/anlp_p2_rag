@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 83aa9762c0fa099e6f893bb895e287a18b482d7e
+Title: Evaluating emotional labor from a career management perspective
+Year: 2023
+Abstract: Emotional labor claims its significance as the key indicator both of the psychological health of contemporary employees, and the productivity of service-based businesses depending upon genuine emotional input of employees. By far, research on emotional labor of employees in an organizational context is still lacking. This study aims to explore the relationships among emotional labor, organizational support, career competences and career commitment to investigate how emotional labor interacts with the organizational context and affects the career management of the employee. Data were collected from a sample of 387 frontline employees working at two luxury hotel brands in China. Structural equation modeling (SEM) was utilized to estimate the relationships among the constructs. It is demonstrated by the findings that organizational support mediates positively on emotional labor, which exerts positive influences on career competences and career commitment. Sound handling of emotional labor, boosted by a supportive organizational environment, has been ascertained to positively predict long-term career paths of the employees at the company. This study provides insights into how the tourism and hospitality industry can optimize the functions of emotional labor for in enhancing service quality and customer satisfaction, as well as promoting the psychological well-being of the employees.
+Authors: Yunhong Hu, Wei Tu, Li Zhou, Xin Wu, Qi Yan
+Venue: Frontiers in Psychology
+Tldr: None

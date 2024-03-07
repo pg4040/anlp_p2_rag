@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: 42a2c532f30f4144919211a7098d26f7de7bae00
+Title: Diamonds reveal subducted slab harzburgite in the lower mantle
+Year: 2023
+Abstract: Characterizing compositional heterogeneity in Earth’s lower mantle is critical to understanding its dynamics. Three low-nitrogen diamonds from Koffiefontein (South Africa), containing inclusion assemblages of ferropericlase ± orthopyroxene ± magnesite, constrain diamond formation in an Mg-rich lower-mantle environment. Ferropericlase inclusions have Mg# 82.7–88.5 and orthopyroxene inclusions (retrogressed bridgmanite) have Mg# 95.0–95.1 and mantle-like δ18O of +5.6‰ ± 0.2‰. Magnesite included in one diamond implicates carbonated fluids in diamond formation. High Mg# and low Ca, Al, and Na of the assemblage indicate a melt-depleted meta-harzburgitic environment, in contrast to more fertile compositions expected for primitive lower mantle. Extremely low Ca in orthopyroxene inclusions may reflect a combination of melt depletion and low equilibration temperatures at the time of trapping. Inclusion compositions implicate subducted oceanic slab meta-harzburgite as the host for diamond growth. Mantle-like δ18O of the orthopyroxene inclusions indicates unaltered oceanic lithosphere. Similar melt-depleted characteristics in lower-mantle inclusion assemblages worldwide support that meta-harzburgite is the dominant host of lower-mantle diamonds.
+Authors: N. A. Meyer, T. Stachel, D. Pearson, R. Stern, J. Harris, M. Walter
+Venue: Geology
+Tldr: None

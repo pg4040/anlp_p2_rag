@@ -1,0 +1,15 @@
+List of 2023 Open Access papers by berg kirkpatrick taylor are:
+Smaller Language Models are Better Black-box Machine-Generated Text Detectors
+Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction
+Jointly modeling products and resource pages for task-oriented recommendation
+MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies
+Universal Source Separation with Weakly Labelled Data
+CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models
+Membership Inference Attacks against Language Models via Neighbourhood Comparison
+Contrastive Attention Networks for Attribution of Early Modern Print
+Text Conditional Alt-Text Generation for Twitter Images
+Exploring the Relationship Between Model Architecture and In-Context Learning Ability
+A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation
+Misusing Tools in Large Language Models With Visual Adversarial Examples
+Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN
+CuneiML: A Cuneiform Dataset for Machine Learning

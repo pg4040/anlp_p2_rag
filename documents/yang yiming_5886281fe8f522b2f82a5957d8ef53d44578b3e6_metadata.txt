@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 5886281fe8f522b2f82a5957d8ef53d44578b3e6
+Title: Matrine induces ferroptosis in cervical cancer through activation of piezo1 channel.
+Year: 2023
+Abstract: None
+Authors: Jiaqi Jin, Zhaofeng Fan, Yonglin Long, Yinping Li, Qian He, Yiming Yang, Weijian Zhong, Disheng Lin, Dawei Lian, Xiao Wang, Jing Xiao, Yang Chen
+Venue: Phytomedicine
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is indicated that matrine exerts a protective effect against cervical cancer by inducing ferroptosis through the activation of Piezo1, but not xCT or Tfr, while transferrin receptor and System Xc- (xCT) expression and interaction remained unaffected.'}

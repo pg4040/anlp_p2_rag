@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Metadata:
+Paperid: 6c2b800cd03ad064922c8596a18d784ce25d47ac
+Title: Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition
+Year: 2023
+Abstract: Although frame-based models, such as CTC and transducers, have an affinity for streaming automatic speech recognition, their decoding uses no future knowledge, which could lead to incorrect pruning. Conversely, label-based attention encoder-decoder mitigates this issue using soft attention to the input, while it tends to overestimate labels biased towards its training domain, unlike CTC. We exploit these complementary attributes and propose to integrate the frame- and label-synchronous (F-/L-Sync) decoding alternately performed within a single beam-search scheme. F-Sync decoding leads the decoding for block-wise processing, while L-Sync decoding provides the prioritized hypotheses using look-ahead future frames within a block. We maintain the hypotheses from both decoding methods to perform effective pruning. Experiments demonstrate that the proposed search algorithm achieves lower error rates compared to the other search methods, while being robust against out-of-domain situations.
+Authors: E. Tsunoo, Hayato Futami, Yosuke Kashiwagi, Siddhant Arora, Shinji Watanabe
+Venue: Interspeech
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work proposes to integrate the frame- and label-synchronous (F-/L-Sync) decoding alternately performed within a single beam-search scheme and maintains the hypotheses from both decoding methods to perform effective pruning.'}

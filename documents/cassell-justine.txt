@@ -1,0 +1,34 @@
+Title: Justine Cassell -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Justine Cassell, Faculty Member at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Core Faculty" name="categories-1"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="Justine Cassell - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Justine Cassell, Faculty Member at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Justine"/>
+<meta content="Lastname" property="profile:Cassell"/>
+<meta content="http://lti.cmu.edu//people/faculty/cassell-justine.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Justine 
+                        Cassell
+Professor (On Leave), Language Technologies Institute
+Contact
+5107 —Gates & Hillman Centers
+jcassell(through)andrew.cmu.edu
+412-204-6268
+Human-Computer Interaction Institute
+Personal Website
+
+Links:
+https://hcii.cmu.edu/
+http://www.justinecassell.com/

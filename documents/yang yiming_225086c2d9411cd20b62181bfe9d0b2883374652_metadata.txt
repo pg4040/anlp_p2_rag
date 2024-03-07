@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 225086c2d9411cd20b62181bfe9d0b2883374652
+Title: 16p11.2 CNV gene Doc2α functions in neurodevelopment and social behaviors through interaction with Secretagogin.
+Year: 2023
+Abstract: None
+Authors: Qiu-Wen Wang, Junhong Qin, Yan-Fen Chen, Yingfeng Tu, Yun-Yun Xing, Yuchen Wang, Lvyu Yang, Si-Yao Lu, Libo Geng, Wei Shi, Yiming Yang, Jun Yao
+Venue: Cell Reports
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is shown that Doc2α-deficient mice have neuronal morphological abnormalities and defects in neural activity, and it is demonstrated that SCGN functions in social/repetitive behaviors, glutamate release, and neuronal morphology of the mice through its Doc2 α-interacting activity, likely contributing to neurodevelopmental disorders through its interaction with SCGN.'}

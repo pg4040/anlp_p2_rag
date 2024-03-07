@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: af7115085a46a2b884c38164050c0a4f23fb92af
+Title: Integrated Transcriptome and Small RNA Sequencing Analyses Reveals Insights into the Molecular Mechanism of Seed Germination in Mung Bean
+Year: 2023
+Abstract: None
+Authors: Yan-yan Pu, Liwen Wang, Leilei Li, Yujun Si, Shubin Xie, Yunzhe Cong, Dong Wang, Yongchao Gong, Rumei Tian, Xue Chen, Xiao-yue Zhang, Min Liu, H. Ding, Nana Li
+Venue: Phyton
+Tldr: None

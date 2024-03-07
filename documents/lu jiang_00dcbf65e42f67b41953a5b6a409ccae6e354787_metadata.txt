@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 00dcbf65e42f67b41953a5b6a409ccae6e354787
+Title: Impact of Varicella Immunization and Public Health and Social Measures on Varicella Incidence: Insights from Surveillance Data in Shanghai, 2013–2022
+Year: 2023
+Abstract: To evaluate the impact of a two-dose VarV program on varicella incidence among the whole population, considering the influence of public health and social measures (PHSMs), we extracted surveillance data on varicella cases during 2013–2022 in Minhang, Shanghai. Then, we estimated the incidence trend of varicella through interrupted time-series analyses and quantified the impact of the immunization program and PHSMs using Serfling regression. We also explored the associations between PHSMs and varicella cases. The implementation of the two-dose VarV strategy was followed by a significant decrease in varicella incidence (−1.84% per month). After one year of the program, varicella incidence was estimated at a 45.25% reduction, which was higher in children (59.12% and 54.09%) than in adults (19.49%). The decrease attributed to PHSMs was 31.26% during 2020–2022, and school closing was identified as the most relevant PHSM (b = −8.03 cases, r = −0.67 with a 1-week lag). These findings indicate that the two-dose immunization program has more effectively reduced the varicella incidence compared with the one-dose vaccine, and interventions like school closings are also encouraged to serve as supplementary measures to prevent varicella epidemics.
+Authors: Liming Shi, Jia Lu, Xiaodong Sun, Zhi Li, Liping Zhang, Yihan Lu, Ye Yao
+Venue: Vaccines
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The findings indicate that the two-dose immunization program has more effectively reduced the varicella incidence compared with the one-dose vaccine, and interventions like school closings are also encouraged to serve as supplementary measures to prevent varICElla epidemics.'}

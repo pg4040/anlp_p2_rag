@@ -1,0 +1,40 @@
+Title: William Cohen -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of William Cohen, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Information Extraction, Summarization and Question Answering;Machine Learning" name="categories-2"/>
+<meta content="Yes" name="show-categories-2"/>
+<meta content="Faculty" name="global-categories"/>
+<meta content="William Cohen - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of William Cohen, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:William"/>
+<meta content="Lastname" property="profile:Cohen"/>
+<meta content="http://lti.cmu.edu//people/faculty/cohen-william.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+William 
+                        Cohen
+Director of Research Engineering, Google AI
+Consulting Professor, School of Computer Science
+Contact
+8217 —Gates & Hillman Centers
+wcohen(through)cs.cmu.edu
+412-268-7664
+Research Area
+Information Extraction, Summarization and Question Answering, Machine Learning
+Research
+My research interests include information integration and machine learning, particularly information extraction, text categorization and learning from large datasets. I have a longstanding interest in statistical relational learning and learning models, or learning from data that display non-trivial structure.
+Projects I'm currently involved with include NELL, a large-scale information extraction system (which uses SEAL, as well as other techniques); and ProPPR, a locally groundable probabilistic first-order logic.
+Personal Website
+
+Links:
+http://www.cs.cmu.edu/~wcohen/

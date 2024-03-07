@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: bde44227630b017525a9b39aa2643d86090cb9d6
+Title: Dual Responsive Magnetic Drug Delivery Nanomicelles with Tumor Targeting for Enhanced Cancer Chemo/Magnetothermal Synergistic Therapy
+Year: 2023
+Abstract: Introduction Stimulus-responsive nanocarrier systems are promising in cancer treatment. They improve drug stability and facilitate controlled drug release. However, single-responsive nanocarriers still face insufficient tumor targeting and low efficacy. Methods In this study, we synthesized folate-modified DSPE-PEOz nanomicelles with PEG chains and loaded them with magnetic iron particles and doxorubicin (DOX). Folic acid (FA) was employed as a ligand to target cancer cells actively. The nanomicelles are biocompatible and acid-sensitive drug carriers. Magnetic field-responsive nanoparticles enable moderately controlled magnetothermal therapy of tumors regardless of tumor location. The pH/magnetic field dual-responsive nanomicelles shed their PEG layer in response to tumor tissue acidity and react to magnetic fields through magnetothermal effects. Results In vitro and in vivo experiments demonstrated that the nanomicelles could efficiently target cancer cells, release drugs in response to pH changes, and enhance drug uptake through magnetothermal effects. Discussion The dual-responsive magnetic nanomicelles are expected to enhance the anti-cancer efficacy of chemo/magnetothermal synergistic therapy.
+Authors: Jianmeng Zhu, Yiming Yang, Jian Wang, Wenzhong Hong, Yiping Li, Zhen Wang, Kaiqiang Li
+Venue: International Journal of Nanomedicine
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'In vitro and in vivo experiments demonstrated that the dual-responsive magnetic nanomicelles could efficiently target cancer cells, release drugs in response to pH changes, and enhance drug uptake through magnetothermal effects.'}

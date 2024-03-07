@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 60bbc8ae6f5065419fe7d10e2b5e33415c97cdea
+Title: Updates on immunological mechanistic insights and targeting of the oral lichen planus microenvironment
+Year: 2023
+Abstract: Oral lichen planus (OLP) is a chronic immune inflammatory disease that is an oral potentially malignant disorder (OPMD), occurs in the oral mucosa and affects approximately 0.5% to 4% of the general population. There are usually five types of OLP: reticular/papular, plaque-like, atrophic/erythematous, erosive/ulcerative, and bullous. Furthermore, the chance of causing oral squamous cell carcinoma (OSCC) is 1.4%. Although the etiology of OLP is still unknown, accumulating evidence supports that immune dysregulation may play a vital role in the pathogenesis of OLP, especially the massive production of various inflammatory cells and inflammatory mediators. In this review, we focus on the relationship between OLP and its immune microenvironment. We summarize current developments in the immunology of OLP, summarizing functional cell types and crucial cytokines in the OLP immune microenvironment and the underlying mechanisms of key signaling pathways in the OLP immune microenvironment. We highlight the application potential of targeted immune microenvironment therapy for OLP.
+Authors: Xiaoting Deng, Ying Wang, Lu Jiang, Jing Li, Qianming Chen
+Venue: Frontiers in Immunology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This review highlights the application potential of targeted immune microenvironment therapy for OLP and summarizes current developments in the immunology of OLP, summarizing functional cell types and crucial cytokines in the OLP immune micro environment and the underlying mechanisms of key signaling pathways in the NLP immunemicroenvironment.'}

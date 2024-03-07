@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 811f15fd63b63a39db75d326fde993c8afc2ab91
+Title: Prominent cerebral veins on susceptibility‐weighted angiography in acute meningoencephalitis
+Year: 2023
+Abstract: We have commonly observed prominent cerebral veins on susceptibility‐weighted angiography (SWAN) in acute meningoencephalitis. This study aimed to investigate the clinical significance of these findings.
+Authors: Y. Jung, Mina Park, B. Joo, Sang Hyun Suh, Kyung-Yul Lee, S. Ahn
+Venue: Brain and Behavior
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This study aimed to investigate the clinical significance of findings from commonly observed prominent cerebral veins on susceptibility‐weighted angiography (SWAN) in acute meningoencephalitis.'}

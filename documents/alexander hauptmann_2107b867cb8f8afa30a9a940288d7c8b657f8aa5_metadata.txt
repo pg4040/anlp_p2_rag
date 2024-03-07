@@ -1,0 +1,9 @@
+Faculty Name: alexander hauptmann
+Metadata:
+Paperid: 2107b867cb8f8afa30a9a940288d7c8b657f8aa5
+Title: Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation
+Year: 2023
+Abstract: Zero-shot and few-shot stance detection identify the polarity of text with regard to a certain target when we have only limited or no training resources for the target. Previous work generally formulates the problem into a classification setting, ignoring the potential use of label text. In this paper, we instead utilize a conditional generation framework and formulate the problem as denoising from partially-filled templates, which can better utilize the semantics among input, label, and target texts. We further propose to jointly train an auxiliary task, target prediction, and to incorporate manually constructed incorrect samples with unlikelihood training to improve the representations for both target and label texts. We also verify the effectiveness of target-related Wikipedia knowledge with the generation framework. Experiments show that our proposed method significantly outperforms several strong baselines on VAST, and achieves new state-of-the-art performance.
+Authors: Haoyang Wen, A. Hauptmann
+Venue: Annual Meeting of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This paper utilizes a conditional generation framework and formulates the zero-shot and few-shot stance detection problem as denoising from partially-filled templates, which can better utilize the semantics among input, label, and target texts.'}

@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 15705015ad838324e7db6f585f9b527327994803
+Title: Approximation and interpolation with neural network
+Year: 2023
+Abstract: In this paper we show that multilayer feedforward networks with one single hidden layer.and certain types of activation functions can approximate univariant continuous functions defined on a compact set. arbitrarily well. In particular, our results contain some usual activation functions such as sigmoidal functions, RELU functions and threshold functions. Besides, since interpolation problems are highly related to approximation problem, we demonstrate that a wide range of functions have the ability to interpolate and generalize our results to functions which are not polynomial on R. Compared to existing results by numerous work, our methods are more intuitive and less technical. Lastly, the paper discusses the possibility of combining interpolation property and approximating property together, and demonstrates that given any Riemann integrable functions on a compact set in R, with several points on its graph, the finite combination of monotone sigmoidal functions can pass through these points and approximate the given function arbitrarily well with respect to L^1 (dx) (in the sense of Riemann integral) when the number of points getting large.
+Authors: Yiming Yang
+Venue: Theoretical and Natural Science
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

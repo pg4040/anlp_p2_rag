@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: 64b802537c34bc000be7c04652753c1c38d60dbc
+Title: Poverty Alleviation Resettlement and Household Natural Resources Dependence: A Case Study from Ankang Prefecture, China
+Year: 2023
+Abstract: In order to assess the degree to which China’s poverty alleviation resettlement (PAR) has been able to address the development conundrum of natural resources reliance and human welfare, it was necessary to investigate the effects of PAR on rural households with regard to their dependence on natural resources. This article evaluated households’ natural resources dependence in rural China by constructing a natural resources dependence index and empirically analyzing the effect of PAR on households by using household survey data from Ankang Prefecture, located in southern Shaanxi Province. The findings demonstrated that PAR could effectively decrease the dependence of households on local natural resources, thus safeguarding the natural environment. Moreover, there were noteworthy distinctions regarding households’ natural resources dependence. This research endeavored to complete the fusion of natural resource dependence and PAR at the household level, and then contemplated the policy implications of PAR on rural households’ dependence on resources, furnishing fresh information for future evaluations of nature conservation and development policies.
+Authors: Wei Liu, Xin Wu
+Venue: Agriculture
+Tldr: None

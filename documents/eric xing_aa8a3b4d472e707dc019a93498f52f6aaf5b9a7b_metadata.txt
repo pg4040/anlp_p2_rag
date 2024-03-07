@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Metadata:
+Paperid: aa8a3b4d472e707dc019a93498f52f6aaf5b9a7b
+Title: Applicability of the 0–1 test for chaos in magnetized Kerr–Newman spacetimes
+Year: 2023
+Abstract: None
+Authors: Daqi Yang, Xin Wu
+Venue: The European Physical Journal C
+Tldr: None

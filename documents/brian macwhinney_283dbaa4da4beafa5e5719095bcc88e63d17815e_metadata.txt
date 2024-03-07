@@ -1,0 +1,9 @@
+Faculty Name: brian macwhinney
+Metadata:
+Paperid: 283dbaa4da4beafa5e5719095bcc88e63d17815e
+Title: The role of novelty stimuli in second language acquisition: evidence from the optimized training by the Pinyin Tutor at TalkBank
+Year: 2023
+Abstract: None
+Authors: Yanhui Zhang, B. MacWhinney
+Venue: Smart Learning Environments
+Tldr: None

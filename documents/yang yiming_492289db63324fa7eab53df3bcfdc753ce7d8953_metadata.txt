@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 492289db63324fa7eab53df3bcfdc753ce7d8953
+Title: Research on Comprehensive Performance Optimization Method of Explosives and Propellants Oriented to the Whole Process
+Year: 2023
+Abstract: Explosives and propellants are common basic energy for weapons and equipment to achieve delivery, damage, and control, and are an important manifestation of national defense power. However, due to the wide variety of products and complex performance, the traditional serial design optimization mode can no longer meet the requirements of product diversification and rapid development. In this paper, the design process of explosives is deeply studied, and a method for optimizing the comprehensive performance of explosives and propellants oriented to the whole process is proposed. The method uses a comprehensive performance optimization engine to numerically model different design links in a unified parameter space, connects different links horizontally, and adopts a multi-objective optimization algorithm to comprehensively consider the optimization objectives of different links, realizing the automatic execution of the optimization process according to the design process. In order to verify the effectiveness of the method, this paper optimizes the formula of explosives and propellants based on two different types of explosives, gun propellant and rocket propellant. Experimental results show that this method improves the design efficiency and improves product quality under the premise of ensuring safety and manufacturability.
+Authors: Lin Zhang, Yiming Yang, Tongqing Liu, Rui Yan
+Venue: Highlights in Science Engineering and Technology
+Tldr: None

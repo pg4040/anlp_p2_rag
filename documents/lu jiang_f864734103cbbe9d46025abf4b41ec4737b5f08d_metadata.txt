@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: f864734103cbbe9d46025abf4b41ec4737b5f08d
+Title: Editorial: Emerging talents in comparative immunology: 2022
+Year: 2023
+Abstract: (LPS)
+Authors: Yanjing Liu, Xin-Jiang Lu, Chris Hauton, Guanjun Yang, Jing Chen
+Venue: Frontiers in Immunology
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}

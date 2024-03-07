@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: 1782bb8c2eb9fd97a7e07ba464a49f263ca6170c
+Title: Age validation of Black Rockfish, Copper Rockfish, and Cabezon using secondary ion mass spectrometry (SIMS) to elucidate seasonal patterns in otolith stable oxygen isotopes
+Year: 2023
+Abstract: None
+Authors: M. Terwilliger, L. Rasmuson, R. Stern
+Venue: Environmental Biology of Fishes
+Tldr: None

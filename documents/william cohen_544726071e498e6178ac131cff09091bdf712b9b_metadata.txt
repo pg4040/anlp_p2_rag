@@ -1,0 +1,10 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: 544726071e498e6178ac131cff09091bdf712b9b
+Title: Orbital Hybridization and Hypersensitivity of Eu3+ in YXO4 (X=P, As, V)
+Year: 2023
+Abstract: 
+ A comparative study of Eu3+ ion luminescence in YXO4 (X=P, As, V) with the tetragonal zircon structure is conducted in relation to the intensity of the hypersensitivity 5D07F2 (∆J=2) transition. Both the asymmetry ratio, R=(I(5_(D_0 )-7_(F_2 )))/(I(5_(D_0 )-7_(F_1 ))), and the Judd-Ofelt 2 intensity parameter increases in the order YPO4 < YAsO4 < YVO4. This correlation is interpreted qualitatively in terms of the covalency and polarizability of (XO4)3-, which increases in the order (PO4)3- < (AsO4)3- < (VO4)3-. The trend is supported by the results of electronic band structure calculations of the three compounds which establish the strength of hybridization between the X cation and the oxygen 2p states. The electronic structure of YAsO4 is calculated to probe the covalence of As-O bonding. The increasing oscillator strength of the Eu3+ 5D07F2 transition in going from YPO4 to YAsO4 to YVO4 is consistent with the expectation of ligand dipolar polarization model for hypersensitivity which states that the oscillator strength of the 5D07F2 transition is proportional to the square of the ligand dipolar polarizability. The connection between the mechanism of hypersensitivity and second harmonic generation (SHG) is presented.
+Authors: A. Srivastava, M. Brik, W. Beers, B. Lou, Chonggeng Ma, M. Piasecki, W. Cohen
+Venue: ECS Journal of Solid State Science and Technology
+Tldr: None

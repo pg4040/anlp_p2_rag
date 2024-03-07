@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: c6d4e3a005e42b466abbe3739e0275a6f7cd72ff
+Title: GRB 200829A: External-shock Origin of the Very Early Prompt Emission?
+Year: 2023
+Abstract: Long-duration GRB 200829A was detected by Fermi-GBM and Swift-BAT/XRT, and then rapidly observed by other ground-based telescopes. It has a weak γ-ray emission in the very early phase and is followed by a bright spiky γ-ray emission pulse. The radiation spectrum of the very early emission is best fitted by a power-law function with index ∼−1.7. However, the bright spiky γ-ray pulse, especially the time around the peak, exhibits a distinct two-component radiation spectrum, i.e., Band function combined with a blackbody radiation spectrum. We infer the photospheric properties and reveal a medium magnetization at a photospheric position by adopting the initial size of the outflow as r 0 = 109 cm. It implies that the Band component in this pulse may be formed during the dissipation of the magnetic field. The power-law radiation spectra found in the very early prompt emission may imply the external-shock origination of this phase. Then, we perform the Markov Chain Monte Carlo method fitting on the light curves of this burst, where the jet corresponding to the γ-ray pulse at around 20 s is used to refresh the external shock. It is shown that the light curves of the very early phase and X-ray afterglow after 40 s, involving the X-ray bump at around 100 s, can be well modeled in the external-shock scenario. For the obtained initial outflow, we estimate the minimum magnetization factor of the jet based on the fact that the photospheric emission of this jet is missed in the very early phase.
+Authors: Jing Li, D. Lin, R. Lu, Luyao Jiang, Wenqing Liang, Zhi-Lin Chen, Xiao-Yan Li, Xiang-Gao Wang, E. Liang
+Venue: Astrophysical Journal
+Tldr: None

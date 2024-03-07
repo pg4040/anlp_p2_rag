@@ -1,0 +1,9 @@
+Faculty Name: william cohen
+Metadata:
+Paperid: c67099476f2b505dfd5a22c817707fad83de9994
+Title: GLIMMER: generalized late-interaction memory reranker
+Year: 2023
+Abstract: Memory-augmentation is a powerful approach for efficiently incorporating external information into language models, but leads to reduced performance relative to retrieving text. Recent work introduced LUMEN, a memory-retrieval hybrid that partially pre-computes memory and updates memory representations on the fly with a smaller live encoder. We propose GLIMMER, which improves on this approach through 1) exploiting free access to the powerful memory representations by applying a shallow reranker on top of memory to drastically improve retrieval quality at low cost, and 2) incorporating multi-task training to learn a general and higher quality memory and live encoder. GLIMMER achieves strong gains in performance at faster speeds compared to LUMEN and FiD on the KILT benchmark of knowledge-intensive tasks.
+Authors: Michiel de Jong, Yury Zemlyanskiy, Nicholas FitzGerald, Sumit K. Sanghai, William W. Cohen, J. Ainslie
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'GLIMMER is proposed, which improves on LUMEN through exploiting free access to the powerful memory representations by applying a shallow reranker on top of memory to drastically improve retrieval quality at low cost and incorporating multi-task training to learn a general and higher quality memory and live encoder.'}

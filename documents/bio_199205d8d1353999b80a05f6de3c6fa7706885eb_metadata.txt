@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 199205d8d1353999b80a05f6de3c6fa7706885eb
+Title: Multimodal Imaging Findings of Cerebral Amyloid Angiopathy Related Inflammation With Unusual Clinical Manifestation: A Case Report
+Year: 2023
+Abstract: None
+Authors: J. Koo, Mina Park, H. S. Yoo, B. Joo, S. Ahn, Jae-Hoon Lee, Young Hoon Ryu, Sang Hyun Suh
+Venue: Investigative Magnetic Resonance Imaging
+Tldr: None

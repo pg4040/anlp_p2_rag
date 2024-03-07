@@ -1,0 +1,9 @@
+Faculty Name: yang yiming
+Metadata:
+Paperid: 9ad3bf432b4c71a7324d85c7d970e15d7681dbe0
+Title: Widely Targeted Metabolomics Was Used to Reveal the Differences between Non-Volatile Compounds in Different Wines and Their Associations with Sensory Properties
+Year: 2023
+Abstract: In this study, metabolites from six varieties of wines, including ‘Haasan’ (A1), ‘Zuoshaner’ (A2), ‘Beibinghong’ (A3), ‘Shuanghong’ (A4), ‘Zijingganlu’ (A5), and ‘Cabernet Sauvignon’ (A6), were identified and quantified using widely targeted metabolomics analysis techniques. Based on the test results, 1172 metabolites were detected and classified into 18 categories. These include 62 amino acids, 178 alkaloids, 189 flavonoids, 106 phenols, 148 terpenoids, etc. Comparing the differential metabolites between the comparison groups of each variety, differences between varieties based on P-values and VIP values were shown. Among these differential metabolites, Trimethoprim and Crotonoside were screened out as core differential metabolites. Multiple comparisons also screened the biomarkers for each species. We used widely targeted metabolomics to reveal the differences between non-volatile compounds in different wines and their associations with sensory properties. We also used the simultaneous weighted gene co-expression network analysis (WGCNA) to correlate metabolites with sensory traits, including color difference values and taste characteristics. Two of the six key modules were screened by WGCNA for relevance to sensory traits (brown module and turquoise module). This study provides a high-throughput method for linking compounds to various sensory characteristics of food, opening up new avenues for explaining differences in different varieties of wine.
+Authors: W. Cao, Nan Shu, Jinli Wen, Yiming Yang, Yanlin Wang, Wenpeng Lu
+Venue: Foods
+Tldr: None

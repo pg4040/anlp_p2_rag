@@ -1,0 +1,9 @@
+Faculty Name: bio
+Metadata:
+Paperid: 3cdce526e8bce7c785c624e5a2afe842ccd73e85
+Title: Magnetic Resonance Elastography for Clinicians and Researchers Unfamiliar With the Field
+Year: 2023
+Abstract: None
+Authors: Seungtae Lee, B. Joo, Mina Park, S. Ahn, Sang Hyun Suh
+Venue: Investigative Magnetic Resonance Imaging
+Tldr: None

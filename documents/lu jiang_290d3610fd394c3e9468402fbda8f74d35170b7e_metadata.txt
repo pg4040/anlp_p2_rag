@@ -1,0 +1,9 @@
+Faculty Name: lu jiang
+Metadata:
+Paperid: 290d3610fd394c3e9468402fbda8f74d35170b7e
+Title: A phosphoglycerate mutase 1 allosteric inhibitor overcomes drug resistance to EGFR-targeted therapy via disrupting IL-6/JAK2/STAT3 signaling pathway in lung adenocarcinoma.
+Year: 2023
+Abstract: None
+Authors: Q. Liang, Miaomiao Gong, Jing-hua Zou, M. Luo, Lu-lu Jiang, Cheng Wang, Ningzhe Shen, Mo-cong Zhang, Lu Xu, Hui-Min Lei, Ke-Ren Zhang, Rui Zhang, G. Zhuang, Liang Zhu, Hong-Zhuan Chen, Lu Zhou, Ying Shen
+Venue: Drug resistance updates
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is found that IL-6/JAK2/STAT3 signaling pathway is aberrantly activated in both erlotinib and osimertinib resistant cells and HKB99 remarkably restores EGFR inhibitor sensitivity and exerts synergistic tumoricidal effect.'}

@@ -1,0 +1,35 @@
+Title: Madhavi Ganapathiraju -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Madhavi Ganapathiraju, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Ph.D. in Language and Information Technology" name="degrees"/>
+<meta content="Alumni;Faculty" name="global-categories"/>
+<meta content="Madhavi Ganapathiraju - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Madhavi Ganapathiraju, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Madhavi"/>
+<meta content="Lastname" property="profile:Ganapathiraju"/>
+<meta content="http://lti.cmu.edu//people/faculty/ganapathiraju-madhavi.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Madhavi 
+                        Ganapathiraju
+Associate Professor, University of Pittsburgh
+Contact
+madhavi(through)pitt.edu
+Education
+Ph.D. in Language and Information Technology, CMU LTI
+2007
+Personal Website
+Doctoral Thesis
+
+Links:
+https://www.isb.pitt.edu/people/faculty/madhavi-ganapathiraju-phd

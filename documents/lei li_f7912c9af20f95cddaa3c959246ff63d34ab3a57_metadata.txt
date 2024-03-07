@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: f7912c9af20f95cddaa3c959246ff63d34ab3a57
+Title: Comprehensive Analysis of Cuproptosis Genes and Identification of Cuproptosis Subtypes in Breast Cancer
+Year: 2023
+Abstract: Background Copper-induced death (cuproptosis) is copper-dependent regulated cell death, which is different from known death mechanisms and is dependent on mitochondrial respiration. However, its effect on breast cancer (BRCA) is unclear. Objective The objective of this study is to explore the important clinical significance of cuproptosis genes and to provide a new idea for guiding the personalized immunotherapy strategy of BRCA patients. Materials and Methods We collected cuproptosis genes from published work. The gene alteration, differential expression, and prognostic value of cuproptosis genes were explored in BRCA based on TCGA database. We identified two subtypes (clusters A and B) by performing unsupervised clustering. The difference between two clusters was deeply explored, including clinical features, differential expressed genes (DEGs), pathways, and immune cell infiltration. Based on the DEGs between two clusters, a cuproptosis score was constructed and its predictive capability for overall survival of BRCA patients was validated. Results and Discussion Patients with high cuproptosis score have worse survival status, with an increased infiltration level of most immune cells. Further analysis suggested that BRCA patients with high cuproptosis score may be sensitive to immune checkpoint inhibitor (ICI) treatment. Conclusion Our findings may improve our understanding of cuproptosis in BRCA and may distinguish patients suitable for ICI treatment.
+Authors: Jialin Li, Lei Li, Yi Dong, B. Zhong, W. Yin
+Venue: Combinatorial chemistry & high throughput screening
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The findings may improve the understanding of cuproptosis in BRCA and may distinguish patients suitable for ICI treatment.'}

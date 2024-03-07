@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: aea4876c3a5b596ef95a828baea8b3d9022cda62
+Title: Failure Analysis and Improvement of Check Valve Reverse Cut-off Seal
+Year: 2023
+Abstract: Given the failure of reverse cut-off seal performance in the test process of the check valve, the fault location and mechanism analysis were carried out, and the improvement measures were proposed and verified by the test. It is analyzed that the main reason for the failure is the unreasonable design of the moving pair and the welding position of the check valve, which makes the sealing pair cannot fit effectively after the welding of the check valve, leading to the failure of the reverse cut-off seal. By controlling the ratio of the length of the guide surface to the diameter of the guide surface to 1.25, and controlling the distance between the welding position and the sealing pair to 10mm, the failure problem of the reverse cut-off seal of the check valve caused by the unreasonable design of the moving pair and the weld position is successfully solved. The effectiveness of the improved scheme of the check valve is verified by the test.
+Authors: Lei-Lei Li, Jian Zhao, Sheng-bo Gong, Baoguo Liu, H. Zhang, Xiao-lei Zhou, Lilei Miao, Peng Li
+Venue: Journal of Physics: Conference Series
+Tldr: None

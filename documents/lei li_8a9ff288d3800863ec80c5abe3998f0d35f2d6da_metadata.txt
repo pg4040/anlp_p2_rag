@@ -1,0 +1,22 @@
+Faculty Name: lei li
+Metadata:
+Paperid: 8a9ff288d3800863ec80c5abe3998f0d35f2d6da
+Title: MCM6 is a Poor Prognostic Biomarker and Promotes Progression in Breast Cancer.
+Year: 2023
+Abstract: BACKGROUND
+Breast cancer is the commonest global malignancy and the primary cause of carcinoma death. MCM6 is vital to carcinogenesis, but the pathogenesis of MCM6 remains unclear.
+
+
+METHODS
+MCM6 expression in patients with breast cancer was examined through The Cancer Genome Atlas (TCGA) database, immunohistochemistry, Quantitative Real-Time PCR (qRT‒PCR) and Western blotting. The prognostic factors were assessed by the Kaplan‒Meier method and Cox regression. On the basis of the key factors selected by multivariable Cox regression analysis, a nomogram risk prediction model was adopted for clinical risk assessment. The TCGA database was utilized to determine how MCM6 is correlated with chemotherapy sensitivity, immune checkpoint-related genes (ICGs), tumor-infiltrating immune cells, along with tumor mutation burden (TMB) and methylation. The impact of MCM6 on carcinoma cells was investigated in terms of proliferation, cell cycle as well as migrating and invasive behavior through CCK assays, flow cytometry, wound healing assays, Transwell assays and xenotransplantation experiments.
+
+
+RESULTS
+MCM6 expression was upregulated, which is closely associated with the size of the tumor (p = 0.001) and lymph node metastasis (p = 0.012) in patients with breast cancer. Multivariate analysis revealed MCM6 to be an independent risk factor for prognosis in patients with breast carcinoma. The nomograph prediction model included MCM6, age, ER, M and N stage, which displayed good discrimination with a C index of 0.817 and good calibration. Overexpression of MCM6 correlated with chemotherapy sensitivity, immune checkpoint-related genes (ICGs), tumor-infiltrating immune cells, tumor mutation burden (TMB), and methylation. Silencing MCM6 significantly inhibited proliferation, prolonged the G1 phase of the cell cycle, and restrained the proliferation, migration and invasive behavior of cancerous cells and inhibited tumor growth in vivo.
+
+
+CONCLUSIONS
+Our research shows that MCM6 is highly expressed in breast cancer and can be used as an independent prognostic factor, which is expected to become a new target for the treatment of breast cancer in the future.
+Authors: Zi Lei, Peng Wang, Da-Qi Jia, Lei Li, Yi-peng Wu, Yuan Yang, Guo-Qing Pan
+Venue: Frontiers in Bioscience
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Research shows that MCM6 is highly expressed in breast cancer and can be used as an independent prognostic factor, which is expected to become a new target for the treatment of breast cancer in the future.'}

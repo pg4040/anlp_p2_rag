@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Metadata:
+Paperid: affdee29f2c6d34e839e9e9a15afd6aa1c9b5af8
+Title: Polydopamine-functionalized selenium nanoparticles as an efficient photoresponsive antibacterial platform
+Year: 2023
+Abstract: A photoresponsive therapeutic antibacterial platform was designed and constructed using polydopamine-functionalized selenium nanoparticles as a carrier loaded with indocyanine green (Se@PDA-ICG). The therapeutic platform was confirmed by characterization and the antibacterial activity of Se@PDA-ICG against Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli) was investigated. Under 808 nm laser irradiation, the antibacterial rate of Se@PDA-ICG against E. coli and S. aureus was 100% at 125 μg mL−1. Furthermore, in a mouse wound infection model, the wound closure rate of the Se@PDA-ICG photoresponse group was 88.74% compared with 45.8% for the control group after 8 days of treatment, indicating that it could effectively kill bacteria and dramatically accelerate the wound healing process. These results suggested that Se@PDA-ICG could be a promising photo-activated antibacterial candidate material for biomedical applications.
+Authors: Meng Sun, P. Gao, Bao Wang, Xiangyang Li, Donghan Shao, Yan Xu, Leijiao Li, Yunhui Li, Jianwei Zhu, Wenliang Li, Yingxue Xue
+Venue: RSC Advances
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Results suggested that Se@PDA-ICG could be a promising photo-activated antibacterial candidate material for biomedical applications.'}

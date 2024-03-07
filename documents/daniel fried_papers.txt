@@ -1,0 +1,17 @@
+List of 2023 Open Access papers by daniel fried are:
+Analysis of the transparent surface layer formed at the surfaces of arrested enamel caries lesions with tomographic imaging methods
+Exploratory Analysis of Objective Outcome Measures for the Clinical Assessment of Erosive Tooth Wear
+Assessment of the activity of secondary caries lesions with short-wavelength infrared, thermal, and optical coherence tomographic imaging
+Monitoring lesion activity on primary teeth with CP‐OCT and SWIR reflectance imaging
+Active Surveillance of Root Caries in Vivo with CP-OCT
+Time‐resolved SWIR imaging for the assessment of the activity of occlusal caries lesions
+Diagnostic Performance of Multispectral SWIR Transillumination and Reflectance Imaging for Caries Detection
+Longitudinal assessment of dental erosion-abrasion by cross-polarization optical coherence tomography in vitro.
+AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+SantaCoder: don't reach for the stars!
+Grounding Language Models to Images for Multimodal Generation
+StarCoder: may the source be with you!
+Generating Images with Multimodal Language Models
+WebArena: A Realistic Web Environment for Building Autonomous Agents
+Amortizing Pragmatic Program Synthesis with Rankings

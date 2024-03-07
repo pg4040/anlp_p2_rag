@@ -1,0 +1,35 @@
+Title: Ravi Starzl -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University
+
+Meta Tags:
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Bio of Ravi Starzl, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" name="description"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="Adjunct Faculty" name="categories-1"/>
+<meta content="Ph.D. in Language and Information Technology" name="degrees"/>
+<meta content="Alumni;Faculty" name="global-categories"/>
+<meta content="Ravi Starzl - Language Technologies Institute - School of Computer Science - Carnegie Mellon University" property="og:title"/>
+<meta content="Bio of Ravi Starzl, Adjunct Faculty at Carnegie Mellon University's Language Technologies Institute" property="og:description"/>
+<meta content="profile" property="og:type"/>
+<meta content="Firstname" property="profile:Ravi"/>
+<meta content="Lastname" property="profile:Starzl"/>
+<meta content="http://lti.cmu.edu//people/faculty/starzl-ravi.html" property="og:url"/>
+<meta data-siteid="lti" id="siteId"/>
+<meta content="#9f0000" name="msapplication-TileColor"/>
+<meta content="//www.cmu.edu/favicon-144.png" name="msapplication-TileImage"/>
+
+Content:
+Ravi 
+                        Starzl
+Adjunct Professor, Language Technologies Institute
+Contact
+6701 —Gates & Hillman Centers
+rstarzl(through)andrew.cmu.edu
+412-268-8425
+Education
+Ph.D. in Language and Information Technology, CMU LTI
+2012
+Doctoral Thesis
+
+Links:

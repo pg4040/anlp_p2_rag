@@ -1,0 +1,9 @@
+Faculty Name: tom mitchell
+Metadata:
+Paperid: 5b7dcf469c285381a83b1bfd85d2b22da121e0cc
+Title: Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems
+Year: 2023
+Abstract: Conversational tutoring systems (CTSs) offer learning experiences driven by natural language interaction. They are known to promote high levels of cognitive engagement and benefit learning outcomes, particularly in reasoning tasks. Nonetheless, the time and cost required to author CTS content is a major obstacle to widespread adoption. In this paper, we introduce a novel type of CTS that leverages the recent advances in large language models (LLMs) in two ways: First, the system induces a tutoring script automatically from a lesson text. Second, the system automates the script orchestration via two LLM-based agents (Ruffle&Riley) with the roles of a student and a professor in a learning-by-teaching format. The system allows a free-form conversation that follows the ITS-typical inner and outer loop structure. In an initial between-subject online user study (N = 100) comparing Ruffle&Riley to simpler QA chatbots and reading activity, we found no significant differences in post-test scores. Nonetheless, in the learning experience survey, Ruffle&Riley users expressed higher ratings of understanding and remembering and further perceived the offered support as more helpful and the conversation as coherent. Our study provides insights for a new generation of scalable CTS technologies.
+Authors: Robin Schmucker, Meng Xia, A. Azaria, Tom Mitchell
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A novel type of CTS that leverages the recent advances in large language models (LLMs) and automates the script orchestration via two LLM-based agents (Ruffle&Riley) with the roles of a student and a professor in a learning-by-teaching format is introduced.'}

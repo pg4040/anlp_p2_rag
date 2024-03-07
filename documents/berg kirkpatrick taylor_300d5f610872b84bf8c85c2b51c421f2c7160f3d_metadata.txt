@@ -1,0 +1,9 @@
+Faculty Name: berg kirkpatrick taylor
+Metadata:
+Paperid: 300d5f610872b84bf8c85c2b51c421f2c7160f3d
+Title: CuneiML: A Cuneiform Dataset for Machine Learning
+Year: 2023
+Abstract: None
+Authors: Danlu Chen, Aditi Agarwal, Taylor Berg-Kirkpatrick, Jacobo Myerston
+Venue: Journal of Open Humanities Data
+Tldr: None

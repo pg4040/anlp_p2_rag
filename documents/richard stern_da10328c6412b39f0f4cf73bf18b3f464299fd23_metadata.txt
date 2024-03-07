@@ -1,0 +1,9 @@
+Faculty Name: richard stern
+Metadata:
+Paperid: da10328c6412b39f0f4cf73bf18b3f464299fd23
+Title: Fibrous calcite veins record stepwise, asymmetric opening and episodic hydrocarbon expulsion from organic-rich shales
+Year: 2023
+Abstract: Episodic fluid expulsion through fractures is widely expected during hydrocarbon generation, yet direct evidence for this process is lacking in the case of organic-rich shales. We investigated the formation of antitaxial, bed-parallel fibrous calcite veins hosted in organic-rich shales of the Eocene Dongying Depression, Bohai Bay Basin, China. Our results from detailed, in situ geochemical traverses show that while some symmetric veins exhibit broadly synchronous and steady-state opening, other asymmetric veins consist of two geochemically distinct generations of calcite to either side of the median zone, suggesting asymmetric and asynchronous growth in two discrete episodes during hydrocarbon expulsion. Thus, we argue that each asymmetric vein recording two stages of opening implies that hydrocarbons were expelled from shales episodically.
+Authors: Miao Wang, Yong Chen, R. Stern, Ashley Went, Yaoqi Zhou, G. Song, Tengfei Zhou, M. Steele‐MacInnis
+Venue: Geology
+Tldr: None
