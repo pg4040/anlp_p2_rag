@@ -9,6 +9,7 @@ from langchain_community.llms import LlamaCpp
 from langchain import hub
 from langchain_core.runnables import RunnablePassthrough, RunnablePick
 from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import PromptTemplate
 
 def get_all_docs():
     all_files = glob.glob('../Faculty_data/documents/*.txt')
@@ -33,9 +34,10 @@ print(f'et :{time.time()}')
 print("Performing similarity search.....")
 docs = vectorstore.similarity_search(question)#retriever
 print('Found most similar documents:', len(docs))
+print(docs)
 
 n_gpu_layers = 1  # Metal set to 1 is enough.
-n_batch = 512  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
+n_batch = 1  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
 
 # Make sure the model path is correct for your system!
 llm = LlamaCpp(
@@ -47,15 +49,25 @@ llm = LlamaCpp(
     verbose=True,
 )
 
-ans = llm.invoke("Simulate a rap battle between Obama and Trump")
-print(ans)
 
 # Chain
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
+# Prompt
+prompt = PromptTemplate.from_template(
+    "Summarize the main themes in these retrieved docs: {docs}"
+)
+
+chain = {"docs": format_docs} | prompt | llm | StrOutputParser()
+chain.invoke(docs)
+
+exit()
 
 rag_prompt = hub.pull("rlm/rag-prompt")
 print(rag_prompt.messages)
+
+
+
 chain = (
     RunnablePassthrough.assign(context=RunnablePick("context") | format_docs)
     | rag_prompt
