@@ -11,7 +11,7 @@ from langchain_core.runnables import RunnablePassthrough, RunnablePick
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 
-model_path = './llama-2-7b-chat.Q4_0.gguf'
+model_path = '../../models/llama-2-7b-chat.Q4_0.gguf'
 n_gpu_layers = 1  # Metal set to 1 is enough.
 n_batch = 10  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
 
