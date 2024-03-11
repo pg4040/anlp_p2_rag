@@ -3,6 +3,13 @@ from transformers import pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+def prepare_data_faculty(N=100):
+    file1 = '../Faculty_data/qa_pairs/simple-metadata-qa-pairs.csv' #Question,Answer
+    df1 = pd.read_csv(file1)
+    df1.rename(columns={'Answer':'Ref_Answer'}, inplace=True)
+    random_df1 = df1.sample(N)
+    return random_df1
+
 def prepare_data():
     file1 = '../Faculty_data/qa_pairs/simple-metadata-qa-pairs.csv' #Question,Answer
     file2 = '../Courses_data/qa_pairs/QnA_data_courses.csv' #Question,Ref_Answer
