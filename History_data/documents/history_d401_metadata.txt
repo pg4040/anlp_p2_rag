@@ -1,0 +1,4 @@
+{
+  "title": "A history of SCS | SCS25 - Carnegie Mellon University School of Computer Science"
+}
+Topic category is history

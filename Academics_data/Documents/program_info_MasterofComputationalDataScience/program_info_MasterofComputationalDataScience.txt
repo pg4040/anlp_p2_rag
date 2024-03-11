@@ -1,0 +1,25 @@
+Academic Program Name:
+Master of Computational Data Science
+
+Website:
+https://lti.cs.cmu.edu/academics/masters-programs/mcds.html
+
+Overview:
+The MCDS degree focuses on engineering and deploying large-scale information systems. Our comprehensive curriculum equips you with the skills and knowledge to develop the layers of technology involved in the next generation of massive information system deployments and analyze the data these systems generate. When you graduate, you’ll have a unified vision of these systems from your core courses; internship experience; and semester-long, group-oriented capstone project. MCDS graduates are sought-after software engineers, data scientists and project managers at leading information technology, software services and social media companies.
+
+Requirements:
+The MCDS program offers three majors: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits, split among required core courses, electives, data science seminar and capstone courses specifically defined for each major. The degree can also be earned in two different ways, depending on the length of time you spend working on it. Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate.
+Here are the options:
+Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December.
+Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second year of fall and spring study. Each semester comprises a minimum of 36 units. Students graduate in May.
+For a complete overview of the MCDS requirements read the MCDS Handbook.
+
+Curriculum:
+To earn an MCDS degree, students must pass courses in the core curriculum, the MCDS seminar, a concentration area, and electives. Students must also complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project.
+In total, students must complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses, and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+Students who plan to select the Systems concentration may wish to enroll in 15-513 “Introduction to Computing Systems” during the summer session preceding their enrollment in the program; this course is a prerequisite for many advanced Systems courses, so it should be completed during Summer if you wish to enroll in advanced Systems courses in the Fall.
+Click here to see the MCDS Course Map.
+Some example courses of study are included below.
+Example 1: Analytics Major, 16 Months
+Example 2: Systems Major, 16 Months
+Example 3: Human-Centered Data Science Major, 16 Months

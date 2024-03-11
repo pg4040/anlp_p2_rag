@@ -1,0 +1,12 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0",
+  "description": "CMU \u2014 now a global research university \u2014 began when Andrew Carnegie famously stated, \"My Heart is in the Work,\" and founded Carnegie Technical Schools in 1900.",
+  "author": "Carnegie Mellon University",
+  "og:title": "History - CMU - Carnegie Mellon University",
+  "og:description": "CMU \u2014 now a global research university \u2014 began when Andrew Carnegie famously stated, \"My Heart is in the Work,\" and founded Carnegie Technical Schools in 1900.",
+  "og:type": "website",
+  "og:url": "http://www.cmu.edu/about/history.html",
+  "msapplication-TileColor": "#9f0000",
+  "msapplication-TileImage": "//www.cmu.edu/favicon-144.png"
+}
+Topic category is cmuhistory
