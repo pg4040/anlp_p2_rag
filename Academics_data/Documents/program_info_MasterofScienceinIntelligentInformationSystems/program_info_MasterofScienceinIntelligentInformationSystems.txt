@@ -1,0 +1,38 @@
+Academic Program Name:
+Master of Science in Intelligent Information Systems
+
+Website:
+https://lti.cs.cmu.edu/academics/masters-programs/miis.html
+
+Overview:
+The Master's in Intelligent Information Systems degree focuses on recognizing and extracting meaning from text, spoken language and video. As an MIIS student, you’ll receive the department’s deepest exposure to content analysis and machine learning. In addition to completing the program’s coursework, you’ll work on directed study projects with your faculty advisor for two semesters; participate in a summer internship; and collaborate with your peers on a semester-long, group-oriented capstone project. This combination of classroom instruction, professional experience, and using new skills in significant projects with world-class colleagues will help prepare you for a successful career in industry or government. Our alumni have gone on to exciting careers at places like Apple, IBM and Google, and most have job offers within six weeks of graduation.
+
+Requirements:
+The Intelligent Information Systems degree offers students the flexibility to create their own course of study in consultation with their advisor.
+MIIS students gain three types of practical experience: software development supervised by their advisor (24 units equivalent to two courses); a summer internship (which can be waived for students that have sufficient prior professional experience); and a capstone project executed in a group of peers (42 units equivalent to three 12-unit courses and one 6-unit course). This combination is proven to help IIS students to broaden their skills quickly. The MIIS degree is offered in two options:
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship.
+Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship.
+MIIS: Advanced Study track offers an in-depth degree in one of the following areas of concentration:
+Human Language for Language Technologies
+Language Technology Application
+Machine Learning for Language Technologies
+Part-time education option is available in some cases.
+MIIS-16 students must take at least 84 units (typically 7 courses) of qualifying and elective courses that satisfy human language, machine learning, and language technology applications breadth requirements. MIIS-21 students have to take at least two more courses from the selected concentration area to satisfy their degree requirements, making it total of 108 units (typically 9 courses) of qualifying and elective courses, that also satisfy breadth requirements.
+For a full list of requirements, read the MIIS Handbook.
+
+Curriculum:
+MIIS-16:-
+Example Course of Study #1
+This schedule would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems.
+Example Course of Study #2
+This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+Example Course of Study #3
+This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+MIIS-21:-
+Example Course of Study #1
+This schedule would satisfy course requirements for a student interested in deepening their expertise in Machine Learning area of concentration.
+Example Course of Study #2
+This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
+Example Course of Study #3
+This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+For a complete breakdown of curriculum and requirements, read the MIIS Handbook.

@@ -26,10 +26,6 @@ directory_path = '../Faculty_data/documents'
 documents, filenames = prepare_documents(directory_path)
 print(len(documents))
 
-st = time.time()
-# Initialize RAGatouille with a pretrained ColBERT model
-RAG = RAGPretrainedModel.from_pretrained("./colbertv2.0")
-#RAG.index_documents(documents)
 #index_path = RAG.index(index_name="my_large_index", collection=documents, document_ids = filenames)
 index_path = '.ragatouille/colbert/indexes/my_large_index'
 RAG = RAGPretrainedModel.from_index(index_path)
@@ -64,6 +60,7 @@ Context: {context}
 prompt_template = ChatPromptTemplate.from_template(template)
 rag_prompts = []
 # Print the results
+<<<<<<< HEAD
 for query, hits in zip(questions_list, results):
     content_list = [hit['content'] for hit in hits] 
     context = ""
@@ -75,7 +72,7 @@ for query, hits in zip(questions_list, results):
     rag_prompts.append(formatted_prompt)
     #print(f"Llama prompt token length: {len(formatted_prompt.split())}")
 print(len(rag_prompts))
-with open('rag_prompt_file.txt', 'w') as file:
+with open('rag_prompt_file_2.txt', 'w') as file:
     for text in rag_prompts:
         file.write(text + '\n')  # Add a newline character to separate texts
 print(rag_prompts[0])
