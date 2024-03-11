@@ -8,6 +8,7 @@ import time
 from langchain_community.llms import LlamaCpp
 from langchain import hub
 from langchain_core.runnables import RunnablePassthrough, RunnablePick
+from langchain_core.output_parsers import StrOutputParser
 
 def get_all_docs():
     all_files = glob.glob('../Faculty_data/documents/*.txt')
@@ -38,7 +39,7 @@ n_batch = 512  # Should be between 1 and n_ctx, consider the amount of RAM of yo
 
 # Make sure the model path is correct for your system!
 llm = LlamaCpp(
-    model_path="../llama-2-7b-ft-instruct-es.Q4_0.gguf",
+    model_path="../llama-2-13b-chat.Q4_0.gguf",
     n_gpu_layers=n_gpu_layers,
     n_batch=n_batch,
     n_ctx=2048,
@@ -48,6 +49,10 @@ llm = LlamaCpp(
 
 ans = llm.invoke("Simulate a rap battle between Obama and Trump")
 print(ans)
+
+# Chain
+def format_docs(docs):
+    return "\n\n".join(doc.page_content for doc in docs)
 
 rag_prompt = hub.pull("rlm/rag-prompt")
 print(rag_prompt.messages)

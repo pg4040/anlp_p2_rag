@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 def prepare_data():
     file1 = '../Faculty_data/qa_pairs/simple-metadata-qa-pairs.csv' #Question,Answer
-    file2 = '../Courses_data/QnA_data_courses.csv' #Question,Ref_Answer
+    file2 = '../Courses_data/qa_pairs/QnA_data_courses.csv' #Question,Ref_Answer
     df1 = pd.read_csv(file1)
     df2 = pd.read_csv(file2)
     df1.rename(columns={'Answer':'Ref_Answer'}, inplace=True)
