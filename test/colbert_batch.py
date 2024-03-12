@@ -5,6 +5,7 @@ from llm_inf import prepare_data_faculty
 #from langchain_core.messages import HumanMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.llms import LlamaCpp
+import csv
 
 def prepare_documents(directory_path):
     documents = []
@@ -26,6 +27,7 @@ directory_path = '../Faculty_data/documents'
 documents, filenames = prepare_documents(directory_path)
 print(len(documents))
 
+st = time.time()
 #index_path = RAG.index(index_name="my_large_index", collection=documents, document_ids = filenames)
 index_path = '.ragatouille/colbert/indexes/my_large_index'
 RAG = RAGPretrainedModel.from_index(index_path)
@@ -48,19 +50,16 @@ print(f'Retrieval time:, {et-st}')
 #print(rag_prompt.messages)
 
 template = """
-[INST] <<SYS>>
-You are an expert extraction algorithm. Only extract relevant information from the text. If you do not know the answer for the question, given the context, return "I don't know" as the answer.
-<<SYS>>
-User: {question}
+System : You are an expert extraction algorithm. Only extract relevant information from the given context. 
+Instruction : Answer using 1 sentence only. If you do not know the answer for the question, return "I don't know" as the answer.
+Question: {question}
 Context: {context}
-[/INST]
 """
 #Add extra - Question: {question}  if needed
 # Initialize the prompt template
 prompt_template = ChatPromptTemplate.from_template(template)
 rag_prompts = []
 # Print the results
-<<<<<<< HEAD
 for query, hits in zip(questions_list, results):
     content_list = [hit['content'] for hit in hits] 
     context = ""
@@ -72,7 +71,16 @@ for query, hits in zip(questions_list, results):
     rag_prompts.append(formatted_prompt)
     #print(f"Llama prompt token length: {len(formatted_prompt.split())}")
 print(len(rag_prompts))
-with open('rag_prompt_file_2.txt', 'w') as file:
-    for text in rag_prompts:
-        file.write(text + '\n')  # Add a newline character to separate texts
-print(rag_prompts[0])
+filename = "questions_rag_prompts.csv"
+
+# Open the file in write mode ('w') and create a csv.writer object
+with open(filename, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+
+    # Write the header row
+    writer.writerow(["Question", "RAG Prompt"])
+
+    # Write the data rows
+    for question, rag_prompt in zip(questions_list, rag_prompts):
+        writer.writerow([question, rag_prompt])
+
