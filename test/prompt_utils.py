@@ -1,3 +1,4 @@
+import csv
 from transformers import pipeline
 
 def question_prompt_reader(filename='questions_rag_prompts.csv'):
