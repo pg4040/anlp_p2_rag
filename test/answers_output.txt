@@ -1,0 +1,149 @@
+What year was the paper titled "Median mandibular flexure—the unique physiological phenomenon of the mandible and its clinical significance in implant restoration" published? Please provide your answer in one sentence only.
+In which venue was the paper titled "Training Audio Captioning Models without Audio" published? Please provide the answer to the following question:
+In which venue was the paper titled "Training Audio Captioning Models without Audio" published?
+Who is the faculty member associated with the paper titled "La forêt et la faune de Côte d’Ivoire dans une situation alarmante – Synthèse des résultats de l’Inventaire forestier et faunique national"? Please provide the name of the faculty member associated with the paper titled "La forêt et la faune de Côte d’Ivoire dans une situation alarmante – Synthèse des résultats de l’Inventaire forestier et faunique national".
+Who are the authors of the paper titled "Cross-Modal Fine-Tuning: Align then Refine"? Please provide the answer to the following question based on the provided context:
+Who are the authors of the paper titled "Cross-Modal Fine-Tuning: Align then Refine"?
+Who is the faculty member associated with the paper titled "Transformed Protoform Reconstruction"? Can you please extract the name of the faculty member associated with the paper titled "Transformed Protoform Reconstruction"?
+Who are the authors of the paper titled "Research on the Training Path of Live E-commerce Talents Oriented by Industry Development"? Please provide your answer to the following question: Who are the authors of the paper titled "Research on the Training Path of Live E-commerce Talents Oriented by Industry Development"?
+In which venue was the paper titled "Towards Improved Identification of Vertebral Fractures in Routine Computed Tomography (CT) Scans: Development and External Validation of a Machine Learning Algorithm" published? Please provide the answer to the following questions:
+Where was the paper titled "Towards Improved Identification of Vertebral Fractures in Routine Computed Tomography (CT) Scans: Development and External Validation of a Machine Learning Algorithm" published?
+What year was the paper titled "Single-cell immune profiling reveals immune responses in oral lichen planus" published? Please provide your answer.
+Can you provide the abstract of the paper titled "Amortizing Pragmatic Program Synthesis with Rankings"? 
+Can you provide the abstract of the paper titled "Amortizing Pragmatic Program Synthesis with Rankings"?
+
+
+
+
+
+
+
+Who are the authors of the paper titled "Token Prediction as Implicit Classification to Identify LLM-Generated Text"? Answer: The authors of the paper titled "Token Prediction as Implicit Classification to Identify LLM-Generated Text" are Rita Singh and Bhiksha Raj.
+In which venue was the paper titled "The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment" published? Please provide your answer to the following question: In which venue was the paper titled "The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment" published?
+In which venue was the paper titled "FedNAR: Federated Optimization with Normalized Annealing Regularization" published? Please provide your answer to the following question: In which venue was the paper titled "FedNAR: Federated Optimization with Normalized Annealing Regularization" published?
+Who is the faculty member associated with the paper titled "Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin"? Answer : Alexander Hauptmann is the faculty member associated with the paper titled "Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin".
+In which venue was the paper titled "Understanding How to Inform Blind and Low-Vision Users about Data Privacy through Privacy Question Answering Assistants" published? Answer: The paper was published in a conference or journal called "Proceedings of the 2023 ACM Conference on Human Factors in Computing Systems".
+Who is the faculty member associated with the paper titled "Population pharmacokinetic analysis and dosing regimen optimization of teicoplanin in critically ill patients with sepsis"? Please provide answer to the following questions:
+Who is the faculty member associated with the paper titled "Population pharmacokinetic analysis and dosing regimen optimization of teicoplanin in critically ill patients with sepsis"?
+Who are the authors of the paper titled "Coverage and impact of influenza vaccination among children in Minhang District, China, 2013–2020"? Answer: The authors of the paper titled "Coverage and impact of influenza vaccination among children in Minhang District, China, 2013–2020" are lu jiang and colleagues.
+In which venue was the paper titled "Exploring Smart Commercial Building Occupants’ Perceptions and Notification Preferences of Internet of Things Data Collection in the United States" published? (end of document 1)
+In which venue was the paper titled "Towards Multilingual Automatic Open-Domain Dialogue Evaluation" published? Please provide a one sentence answer to the question: The paper titled "Towards Multilingual Automatic Open-Domain Dialogue Evaluation" was published in which venue?
+What year was the paper titled "Genitourinary Management and Follow-Up for Patients with Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis" published? 
+Please provide the answer to the following question: What year was the paper titled "Genitourinary Management and Follow-Up for Patients with Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis" published?
+Can you provide the abstract of the paper titled "Study of hadronic cross-sections with cosmic ray Carbon from GeV to TeV by the DAMPE experiment"? Answer: The abstract of the paper titled "Study of hadronic cross-sections with cosmic ray Carbon from GeV to TeV by the DAMPE experiment" is not available in the provided context.
+Who is the faculty member associated with the paper titled "Towards Automated Accessibility Report Generation for Mobile Apps"? Who is the faculty member associated with the paper titled "Towards Automated Accessibility Report Generation for Mobile Apps"?
+Answer: Jamie Callan
+In which venue was the paper titled "Measurement of the p+He energy spectrum with the DAMPE space mission" published? Please provide the answer to the following question:
+In which venue was the paper titled "Measurement of the p+He energy spectrum with the DAMPE space mission" published?
+In which venue was the paper titled "SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing" published? Answer : The paper was published in the SIGMORPHON conference.
+Who are the authors of the paper titled "Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction"? Answer: The authors of the paper titled "Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction" are Graham Neubig.
+Who are the authors of the paper titled "Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff"? Answer: The authors of the paper titled "Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff" are Alexander Waibel and Shinji Watanabe.
+What year was the paper titled "Reconstructing ice force-displacement development in structural assessments of freshwater, polycrystalline ice impacts" published? Please extract the year in which the paper was published based on the provided context.
+What year was the paper titled "BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer" published? Return the year of publication of the paper titled "BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer".
+In which venue was the paper titled "Low-Light Image Enhancement via Structure Modeling and Guidance" published? Please provide your answer to the following question based on the provided context:
+In which venue was the paper titled "Low-Light Image Enhancement via Structure Modeling and Guidance" published?
+In which venue was the paper titled "SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing" published? Please provide the name of the venue where the paper was published.
+Who are the authors of the paper titled "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"? What are the names of the authors of the paper titled "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"?
+Answer: The authors of the paper titled "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate" are David Mortensen.
+Who are the authors of the paper titled "Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the-loop software"? Please provide your answer to the following question: Who are the authors of the paper titled "Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the-loop software"?
+In which venue was the paper titled "Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction" published? Please select one of the following options:
+A) The paper was published in the proceedings of a conference/workshop.
+B) The paper was published in a journal.
+C) The paper was published in a book.
+D) The paper was published online but not in a specific publication.
+E) I don't know where the paper was published.
+Who is the faculty member associated with the paper titled "A Study of Yuediao Folk Music Knowledge Development in Zhoukou, Henan Province, China"? Please provide the name of the faculty member associated with the paper titled "A Study of Yuediao Folk Music Knowledge Development in Zhoukou, Henan Province, China".
+I don't know the answer to this question as the provided context does not provide enough information to identify the faculty member associated with the paper.
+What year was the paper titled "CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms" published? Please provide the year in which the paper titled "CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms" was published.
+Who is the faculty member associated with the paper titled "Integrating Pretrained ASR and LM to Perform Sequence Generation for Spoken Language Understanding"? Please provide your answer to the following question based on the given context:
+Who is the faculty member associated with the paper titled "Integrating Pretrained ASR and LM to Perform Sequence Generation for Spoken Language Understanding"?
+What year was the paper titled "BotPercent: Estimating Bot Populations in Twitter Communities" published? Please provide your answer in one sentence.
+Who are the authors of the paper titled "When to generate hedges in peer-tutoring interactions"? Answer: The authors of the paper titled "When to generate hedges in peer-tutoring interactions" are Justine Cassell and Faculty Name: justine cassell.
+In which venue was the paper titled "Beyond Active Engagement: The Significance of Lurkers in a Polarized Twitter Debate" published? Answer: arXiv.org
+Who are the authors of the paper titled "Population well-being and the COVID-19 vaccination program in Chile: evidence from Google Trends"? Please provide the name of the author(s) of the paper titled "Population well-being and the COVID-19 vaccination program in Chile: evidence from Google Trends".
+What year was the paper titled "MRI Features for Predicting Microvascular Invasion and Postoperative Recurrence in Hepatocellular Carcinoma Without Peritumoral Hypointensity" published? You are an expert extraction algorithm and have been tasked with providing the year in which the paper titled "MRI Features for Predicting Microvascular Invasion and Postoperative Recurrence in Hepatocellular Carcinoma Without Peritumoral Hypointensity" was published. Based on the provided context, I can determine that the paper was published in 2023.
+Who are the authors of the paper titled "Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction"? Who are the authors of the paper titled "Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction"?
+Answer: Berg Kirkpatrick Taylor
+Who are the authors of the paper titled "It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk"? Answer: The authors of the paper titled "It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk" are matt gormley.
+In which venue was the paper titled "Effects of Coupling Constants on Chaos of Charged Particles in the Einstein–Æther Theory" published? Please provide a one-sentence answer to the following question:
+In which venue was the paper titled "Effects of Coupling Constants on Chaos of Charged Particles in the Einstein–Æther Theory" published?
+In which venue was the paper titled "Enhancing student learning and achievement through orchestration of group processes and group composition" published? Please provide your answer for the question "In which venue was the paper titled 'Enhancing student learning and achievement through orchestration of group processes and group composition' published?"
+What year was the paper titled "Cuttlefish: Low-Rank Model Training without All the Tuning" published? Answer: 2023
+Who are the authors of the paper titled "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing"? Please provide the name of the author(s) of the paper titled "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing".
+Can you provide the abstract of the paper titled "491. Risk Factors for Severe Pediatric COVID-19: A Systematic Review"? Can you provide the abstract of the paper titled "491. Risk Factors for Severe Pediatric COVID-19: A Systematic Review"?
+In which venue was the paper titled "Carbon Flux with DAMPE Using Machine Learning Methods" published? Please provide the answer to the following question:
+In which venue was the paper titled "Carbon Flux with DAMPE Using Machine Learning Methods" published?
+What year was the paper titled "BAC Transgenic Expression of Human TREM2-R47H Remodels Amyloid Plaques but Unable to Reprogram Plaque-associated Microglial Reactivity in 5xFAD Mice" published? Please provide your answer to the following question:
+What year was the paper titled "BAC Transgenic Expression of Human TREM2-R47H Remodels Amyloid Plaques but Unable to Reprogram Plaque-associated Microglial Reactivity in 5xFAD Mice" published?
+What year was the paper titled "Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems" published? Please provide the following information: Year in which the paper titled "Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems" was published.
+What year was the paper titled "Chinese EFL learners different from English natives in cataphora resolution: Evidence from eye-tracking studies" published? Please provide your answer to the question.
+Who are the authors of the paper titled "Amortizing Pragmatic Program Synthesis with Rankings"? Answer : The authors of the paper titled "Amortizing Pragmatic Program Synthesis with Rankings" are Yewen Pu, Saujas Vaduguru, Priyan Vaithilingam, Elena L. Glassman, and Daniel Fried.
+Who is the faculty member associated with the paper titled "Enhancing the Generalization for Text Classification through Fusion of Backward Features"? Please provide the answer to the question "Who is the faculty member associated with the paper titled 'Enhancing the Generalization for Text Classification through Fusion of Backward Features'?"
+Can you provide the abstract of the paper titled "Genitourinary Management and Follow-Up for Patients with Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis"? Please provide the abstract of the paper titled "Genitourinary Management and Follow-Up for Patients with Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis".
+Who are the authors of the paper titled "SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing"? Answer: The authors of the paper titled "SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing" are David Mortensen and Lori Levin.
+What year was the paper titled "Expression of ALCAM in Clinical Colon Cancer and Relationship With Patients’ Treatment Responses" published? Can you please provide the year of publication of the paper titled "Expression of ALCAM in Clinical Colon Cancer and Relationship With Patients’ Treatment Responses"?
+Who is the faculty member associated with the paper titled "Evaluating Multilingual Speech Translation under Realistic Conditions with Resegmentation and Terminology"? Authors: Alexander Waibel,
+Venue: International Workshop on Spoken Language Translation
+Can you provide the abstract of the paper titled "The response linearity of energy measurement up to TeV in the DAMPE experiment"? Can you provide the abstract of the paper titled "The response linearity of energy measurement up to TeV in the DAMPE experiment"?
+Who is the faculty member associated with the paper titled "AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies"? Document 2: Faculty Name: daniel fried
+Metadata:
+Paperid: f983cf75e368dcd07dd3a762721c095678514e56
+Title: AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies
+Year: 2023
+Abstract: None
+Authors: Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: None 
+Can you provide the abstract of the paper titled "Memory-adaptive Depth-wise Heterogenous Federated Learning"? Answer: The paper titled "Memory-adaptive Depth-wise Heterogenous Federated Learning" introduces a new approach to federated learning that adapts to the varying memory capacities of different devices by decomposing the full model into blocks and training them sequentially. The method achieves improvements in top-1 accuracy of 5% and more than 10% on CIFAR-10 and CIFAR-100, respectively, and demonstrates the effectiveness of depth-wise fine-tuning on ViT.
+Who are the authors of the paper titled "Analysis of the transparent surface layer formed at the surfaces of arrested enamel caries lesions with tomographic imaging methods"? Please provide the author(s) of the paper titled "Analysis of the transparent surface layer formed at the surfaces of arrested enamel caries lesions with tomographic imaging methods".
+Who is the faculty member associated with the paper titled "Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study"? Please provide the name of the faculty member associated with the paper.
+What year was the paper titled "Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation" published? Can you tell me the year when the paper titled "Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation" was published?
+Who are the authors of the paper titled "Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning"? Please provide the author(s) of the paper titled "Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning".
+Who is the faculty member associated with the paper titled "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"? Please provide your answer to the following question:
+Who is the faculty member associated with the paper titled "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"?
+Who are the authors of the paper titled "Evaluating emotional labor from a career management perspective"? Please provide your answer to the following question: Who are the authors of the paper titled "Evaluating emotional labor from a career management perspective"?
+What year was the paper titled "End-to-End Evaluation for Low-Latency Simultaneous Speech Translation" published? What is the year of publication of the paper titled "End-to-End Evaluation for Low-Latency Simultaneous Speech Translation"?
+Who is the faculty member associated with the paper titled "CMU’s IWSLT 2023 Simultaneous Speech Translation System"? Please provide the answer to the question.
+What year was the paper titled "A Combination of Ruthenium Complexes and Photosensitizers to Treat Colorectal Cancer" published? Please provide your answer to the question in one sentence only.
+Who are the authors of the paper titled "Transformed Protoform Reconstruction"? Please provide the answer to the following question: Who are the authors of the paper titled "Transformed Protoform Reconstruction"?
+What year was the paper titled "Population pharmacokinetic analysis and dosing regimen optimization of teicoplanin in critically ill patients with sepsis" published? Lei Li's Publication List (2023)
+
+Answer: 2023
+Who is the faculty member associated with the paper titled "Functional targeted therapy for glioma based on platelet membrane-coated nanogels"? Please provide the answer to the following question: Who is the faculty member associated with the paper titled "Functional targeted therapy for glioma based on platelet membrane-coated nanogels"?
+In which venue was the paper titled "A Combination of Ruthenium Complexes and Photosensitizers to Treat Colorectal Cancer" published? Answer: The paper was published in Inorganics.
+Who are the authors of the paper titled "Fumarate induces vesicular release of mtDNA to drive innate immunity"? Can you please provide the author of the paper titled "Fumarate induces vesicular release of mtDNA to drive innate immunity"?
+Who is the faculty member associated with the paper titled "SALMON: Self-Alignment with Principle-Following Reward Models"? Would you like to extract a different piece of information from the provided context?
+Can you provide the abstract of the paper titled "Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models"? Please provide the abstract of the paper titled "Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models".
+In which venue was the paper titled "Long-tailed Extreme Multi-label Text Classification by the Retrieval of Generated Pseudo Label Descriptions" published? Answer: Document 0
+Can you provide the abstract of the paper titled "The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment"? Please provide the abstract of the paper titled "The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment".
+In which venue was the paper titled "The role of novelty stimuli in second language acquisition: evidence from the optimized training by the Pinyin Tutor at TalkBank" published? What is the venue where the paper was published?
+Can you provide the abstract of the paper titled "Riveter: Measuring Power and Social Dynamics Between Entities"? Answer: Riveter provides a complete easy-to-use pipeline for analyzing verb connotations associated with entities in text corpora, improving accessibility to verb lexica and facilitating a broad range of future research.
+In which venue was the paper titled "Qualitative study of the association between psychosocial health and physical activity/sleep quality in toddlers" published? Please provide a relevant answer in one sentence only.
+Who is the faculty member associated with the paper titled "Grounding Language Models to Images for Multimodal Generation"? Please provide your answer to the question.
+What year was the paper titled "Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning" published? 
+Answer: 2023
+Who are the authors of the paper titled "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model"? Please provide your answer to the question above.
+What year was the paper titled "Characterisation and Dynamics of an Emerging Seagrass Meadow" published? Please respond with a one-sentence answer to the question.
+Who are the authors of the paper titled "MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception"? (NO ANSWER) 
+Who is the faculty member associated with the paper titled "FINDINGS OF THE IWSLT 2023 EVALUATION CAMPAIGN"? Answer: The faculty member associated with the paper titled "FINDINGS OF THE IWSLT 2023 EVALUATION CAMPAIGN" is Alexander Waibel.
+Who are the authors of the paper titled "Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models"? 
+Note: The answer may vary based on the context and the type of question being asked.
+Can you provide the abstract of the paper titled "Self-Refine: Iterative Refinement with Self-Feedback"? 
+Please provide the abstract of the paper titled "Self-Refine: Iterative Refinement with Self-Feedback".
+What year was the paper titled "Measurement of Heavy Nulei beyond Iron in Cosmic Rays with the DAMPE Experiment" published? Please provide the answer to the following question: What year was the paper titled "Measurement of Heavy Nulei beyond Iron in Cosmic Rays with the DAMPE Experiment" published?
+What year was the paper titled "PAMR1 negatively impacts cell proliferation and migration of Human Colon Cancer HT29 Cell Line" published? Answer: 2023
+What year was the paper titled "Claudin-10 in the Blood Brain Barrier Function of Cerebral Endothelial Cells and Transendothelial Invasion of Breast Cancer Cells" published? Answer: The year in the question is 2023.
+Who are the authors of the paper titled "Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation"? Please provide the name of the author(s) of the paper titled "Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation".
+Who is the faculty member associated with the paper titled "Imaging Field‐Driven Melting of a Molecular Solid at the Atomic Scale"? Answer: Yiming Yang
+Can you provide the abstract of the paper titled "InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers"? Can you provide the abstract of the paper titled "InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers"?
+
+Note: The answer will be in one sentence only.
+What year was the paper titled "Are aligned neural networks adversarially aligned?" published? Would you like to know the answer to a different question?
+Who is the faculty member associated with the paper titled "Purpose in the Machine: Do Traffic Simulators Produce Distributionally Equivalent Outcomes for Reinforcement Learning Applications?"? Please provide the name of the faculty member associated with the paper titled "Purpose in the Machine: Do Traffic Simulators Produce Distributionally Equivalent Outcomes for Reinforcement Learning Applications?"
+What year was the paper titled "Self-Refine: Iterative Refinement with Self-Feedback" published? Answer: 2023
+Who is the faculty member associated with the paper titled "Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems"? Answer: Ruffle&Riley
+What year was the paper titled "Convoifilter: A case study of doing cocktail party speech recognition" published? Please select one of the following options:
+A) 2023
+B) Prior to 2023
+C) I don't know
+
