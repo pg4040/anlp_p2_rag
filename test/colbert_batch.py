@@ -82,5 +82,6 @@ with open(filename, mode='w', newline='', encoding='utf-8') as file:
 
     # Write the data rows
     for question, rag_prompt in zip(questions_list, rag_prompts):
+        rag_prompt = rag_prompt.replace('\n', '\\n')
         writer.writerow([question, rag_prompt])
 
