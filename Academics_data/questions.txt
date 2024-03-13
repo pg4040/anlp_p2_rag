@@ -1,0 +1,137 @@
+What is the name of the academic program offered through the partnership between Carnegie Mellon University and various Portuguese universities?
+Where can I find more information about the program online?
+Which Portuguese institutions partner with Carnegie Mellon University for this dual-degree program?
+How long does the dual-degree program take to complete?
+What kind of coursework is included in the dual-degree program?
+Do students receive guidance throughout the program?
+Once students finish the majority of their academic requirements, what happens next?
+What specific degrees can students earn at the partnering Portuguese universities?
+Is any prior knowledge or experience necessary to apply for the program?
+Does the program offer financial assistance or funding opportunities?
+Are there any language proficiency requirements for international students?
+Can students choose which Portuguese university to attend?
+Will students receive support finding housing in Portugal?
+What kind of background or qualifications are recommended for prospective students interested in applying to the Dual-Degree Ph.D. in Language and Information Technologies program offered through the collaboration between Carnegie Mellon University and various Portuguese universities?
+How many credits worth of coursework are required to complete the Dual-Degree Ph.D. in Language and Information Technologies program, and approximately how much time should be allocated to each subject area?
+Are there any specific professors or researchers affiliated with the Dual-Degree Ph.D. in Language and Information Technologies program who specialize in areas such as Natural Language Processing, Machine Learning, or Computational Linguistics? Please provide brief descriptions of their expertise.
+Can students undertake internships during their participation in the Dual-Degree Ph.D. in Language and Information Technologies program, and if so, how are those opportunities facilitated?
+Is there a possibility for students enrolled in the Dual-Degree Ph.D. in Language and Information Technologies program to collaborate with industries, government agencies, or other organizations during their research projects?
+Does the Dual-Degree Ph.D. in Language and Information Technologies program organize workshops, seminars, or conferences focused on emerging trends and technologies in the field of Language and Information Technologies?
+Upon completion of the Dual-Degree Ph.D. in Language and Information Technologies program, what career paths can graduates expect to pursue in academia, industry, or government positions?
+How successful have alumni been in securing employment upon completing the Dual-Degree Ph.D. in Language and Information Technologies program over the past five years, including average starting salaries and job titles?
+What measures has the Dual-Degree Ph.D. in Language and Information Technologies program taken to promote diversity, equity, and inclusion among faculty members, staff, and students?
+Considering factors such as curriculum quality, faculty reputation, student outcomes, and global rankings, how competitive is the Dual-Degree Ph.D. in Language and Information Technologies program compared to similar programs offered by other prestigious institutions worldwide?
+What are the academic activities planned for the fall semester of Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Portugal?
+What are the main subjects and activities during the spring semester of Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the primary academic activities for the summer session in Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Portugal?
+What subjects and tasks are assigned to students during the fall semester of Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main subjects and activities during the spring semester of Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the primary academic activities for the summer session in Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Pittsburgh?
+What are the main academic activities for the fall semester of Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities during the spring semester of Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities for the summer session in Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities for the fall semester of Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities during the spring semester of Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the summer session in Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the fall semester of Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities during the spring semester of Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the summer session in Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What is the website for Language Technologies Concentration?
+What is the Overview of Language Technologies Concentration?
+What are the Requirements for the Language Technologies Concentration program?
+What is the Curriculum for the Language Technologies Concentration?
+What is the main focus of Language Technologies Concentration?
+What are some examples of language technologies mentioned in the Overview?
+What are the prerequisites for students interested in the language technologies minor?
+Apart from the prerequisite courses, what additional courses are encouraged for candidates?
+How many elective courses does the Language Technologies Concentration require SCS students to complete?
+What is the total number of units required for the undergraduate research project in the Language Technologies Concentration?
+Can students with a grade lower than B (3.0) still apply for the language technologies minor?
+What are some of the suggested courses for candidates interested in the Language Technologies Concentration?
+What does the Language Technologies Concentration prepare students for?
+Are there any specific sets of stand-alone courses that students can choose as electives?
+What is the core course for the Language Technologies Concentration?
+Could you name some electives for the Language Technologies Concentration?
+How many electives are required to complete the Language Technologies Concentration?
+Describe the project requirement for the Language Technologies Concentration.
+What are the two timing options for earning the MCDS degree?
+How many total course credits must be completed to earn an MCDS degree?
+What are the three majors available in the MCDS program and their required course credits?
+What are the core curriculum, MCDS seminar, concentration area, and elective courses required for an MCDS degree?
+How many 12-unit courses are required to earn an MCDS degree, and how many of those can be electives?
+Should incoming MCDS students consider taking 15-513 “Introduction to Computing Systems”, and if yes, why?
+Where can I find example courses of study for the MCDS program?
+What are the courses offered in each season of Year 1 for the Master of Computational Data Science program?
+What is the structure of Year 2 in the Master of Computational Data Science program?
+What are the courses offered in each season of Year 1 for the Master of Computational Data Science Systems program?
+What are the courses offered in Year 2 for the Master of Computational Data Science Systems program?
+What are the Fall term courses for Empirical Analysis of Interactive Systems?
+What are the Spring term courses for Empirical Analysis of Interactive Systems?
+What are the Fall term courses for Social Web Analytics & Design?
+What are the Spring term courses for Social Web Analytics & Design?
+What are the Fall term courses for Ubiquitous Computing?
+What are the Spring term courses for Ubiquitous Computing?
+What are the Fall term courses for Educational Software Design?
+What are the Spring term courses for Educational Software Design?
+What is the duration of the MLT program and when does the program usually start and end?
+How many course units must MLT students complete, and what percentage needs to be LTI or SCS courses?
+What kinds of courses should applicants be familiar with before enrolling in the MLT program, and what are the typical durations of these courses?
+What choices do students have apart from LTI courses, and are there restrictions on selecting courses outside of CMU or Pitt?
+Why is directed research significant in the MLT program, and what assistance do students receive throughout this stage?
+Do MLT students have the option to author a thesis, and where can guidelines for composing this thesis be obtained?
+What courses are taught during the Fall semester of the first year in the Master of Language Technologies program?
+What courses are taught during the Spring semester of the first year in the Master of Language Technologies program?
+What courses are taught during the Summer term of the first year in the Master of Language Technologies program?
+What courses are taught during the Fall semester of the second year in the Master of Language Technologies program?
+What courses are taught during the Spring semester of the second year in the Master of Language Technologies program?
+What courses are taught during the Summer term of the second year in the Master of Language Technologies program?
+What is the Master of Science in Artificial Intelligence and Innovation (MSAII) program?
+Who is eligible to apply for the MSAII program?
+What are the requirements to earn the MSAII degree?
+What does the Core Curriculum cover in the MSAII program?
+What are the Knowledge Requirements for the MSAII program?
+What is the LTI Practicum in the MSAII program?
+What are the Elective options for the MSAII program?
+Do students need to complete an internship in the MSAII program?
+Can students take any course for elective credit in the MSAII program?
+Are there any preparatory classes for the MSAII program?
+What is the Master's in Intelligent Information Systems (MIIS) program focused on?
+What kind of practical experience does the MIIS program offer?
+Which tracks are available for the MIIS program?
+How many examples of course schedules are provided for the MIIS-16 and MIIS-21?
+What is the difference in the number of courses and unit requirements between MIIS-16 and MIIS-21 students?
+Does the MIIS program offer a part-time education option?
+Where can I find more information regarding requirements and curriculum for the MIIS program?
+What are the courses in Fall 1 for the MS in Intelligent Information Systems?
+What are the courses in Fall 2 for the MS in Intelligent Information Systems?
+What are the courses in Spring for the MS in Intelligent Information Systems?
+What are the courses in Summer for the MS in Intelligent Information Systems?
+What are the courses in Fall 1 for the alternative MS in Intelligent Information Systems?
+What are the courses in Fall 2 for the alternative MS in Intelligent Information Systems?
+What are the courses in Spring for the alternative MS in Intelligent Information Systems?
+What are the courses in Summer for the alternative MS in Intelligent Information Systems?
+What are the courses in Fall 1 for the third MS in Intelligent Information Systems variant?
+What are the courses in Spring for the third MS in Intelligent Information Systems variant?
+What are the courses in Summer for the third MS in Intelligent Information Systems variant?
+What are the courses in Fall 1 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Fall 2 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Spring 1 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Spring 2 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Summer for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Fall 1 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Fall 2 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Spring 1 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Spring 2 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Summer for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Fall 1 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Fall 2 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Spring 1 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Spring 2 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Summer for the sixth MS in Intelligent Information Systems configuration?
+What are the general requirements for obtaining a Ph.D. in Language and Information Technologies?
+Could you provide an example of a five-year schedule for pursuing a Ph.D. in Language and Information Technologies?
+What are the courses for Fall semester of Year 1 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Spring semester of Year 1 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Fall semester of Year 2 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Spring semester of Year 2 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Years 3, 4, and 5 in the Ph.D. in Language and Information Technologies program?
