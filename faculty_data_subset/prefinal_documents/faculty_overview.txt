@@ -1,32 +1,32 @@
-yonatan bisk - assistant professor
-ralf brown - senior systems scientist/chair of admissions
-jamie callan - professor
-justine cassel - professor (on leave)
-mona diab - lti director and tenured professor
-fernando diaz - associate professor
-scott fahlman - professor emeritus
-robert frederking - associate dean for PhD programs and chair for MLT program
-daniel fried - assistant professor
-alexander hauptmann - research professor
-daphne ippolito - assistant professor
-lori levin - research professor
-lei li - assistant professor
-teruko mitamura - research professor
-louis-philippe morency - leonardo associate professor of computer science (on leave)
-david mortensen - assistant research professor
-graham neubig - associate professor
-eric nyberg - professor
-kemal oflazer - teaching professor
-bhiksha raj - professor
-carolyn rose - professor
-alexander rudnicky - research professor emeritus
-maarten sap - assistant professor
-michael shamos - distinguished career professor
-rita singh - associate research professor
-emma strubell - assistant professor
-alexander waibel - professor (on leave)
-shinji watanabe - associate professor
-sean welleck - assistant professor
-eric xing - professor (on leave)
-chenyan xiong - associate professor
-yiming yang - professor
+yonatan bisk is an assistant professor, language technologies institute at CMU.
+ralf brown is the senior systems scientist/chair of admissions, language technologies institute at CMU.
+jamie callan is a professor, language technologies institute at CMU.
+justine cassel is a professor (on leave), language technologies institute at CMU.
+mona diab is the lti director and tenured professor, language technologies institute at CMU.
+fernando diaz is an associate professor, language technologies institute at CMU.
+scott fahlman is the professor emeritus, language technologies institute at CMU.
+robert frederking is the associate dean for PhD programs and chair for MLT program, language technologies institute at CMU.
+daniel fried is an assistant professor, language technologies institute at CMU.
+alexander hauptmann is a research professor, language technologies institute at CMU.
+daphne ippolito is an assistant professor, language technologies institute at CMU.
+lori levin is a research professor, language technologies institute at CMU.
+lei li is an assistant professor, language technologies institute at CMU.
+teruko mitamura is a research professor, language technologies institute at CMU.
+louis-philippe morency is the leonardo associate professor of computer science (on leave), language technologies institute at CMU.
+david mortensen is an assistant research professor, language technologies institute at CMU.
+graham neubig is an associate professor, language technologies institute at CMU.
+eric nyberg is a professor, language technologies institute at CMU.
+kemal oflazer is a teaching professor, language technologies institute at CMU.
+bhiksha raj is a professor, language technologies institute at CMU.
+carolyn rose is a professor, language technologies institute at CMU.
+alexander rudnicky is the "research professor emeritus", language technologies institute at CMU.
+maarten sap is an assistant professor, language technologies institute at CMU.
+michael shamos is the "distinguished career professor", language technologies institute at CMU.
+rita singh is an associate research professor, language technologies institute at CMU.
+emma strubell is an assistant professor, language technologies institute at CMU.
+alexander waibel is a professor (on leave), language technologies institute at CMU.
+shinji watanabe is an associate professor, language technologies institute at CMU.
+sean welleck is an assistant professor, language technologies institute at CMU.
+eric xing is the professor (on leave), language technologies institute at CMU.
+chenyan xiong is an associate professor, language technologies institute at CMU.
+yiming yang is a professor, language technologies institute at CMU.
