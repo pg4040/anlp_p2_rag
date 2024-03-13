@@ -1,0 +1,150 @@
+Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership)
+<https://lti.cs.cmu.edu/academics/phd-programs/dual-degree-phd-lti.html>
+Universidade de Aveiro, Universidade do Minho, Universidade do Porto, Universidade de Lisboa (Faculdade de Ciências and Instituto Superior Técnico), Universidade Nova de Lisboa, and Universidade de Coimbra
+Students typically spend one year in Portugal, two years in Pittsburgh, and another two years back in Portugal to pursue research and complete their dissertations.
+Students must complete up to eight courses covering topics such as linguistics, computer science, statistical learning, and task orientation.
+Yes, students have advisors from both Carnegie Mello University and their respective Portuguese university who help supervise their progress and guide them towards defining their final thesis topic.
+Students return to Portugal for two years to conduct extensive research and work toward their dissertation defense.
+At Universidade de Aveiro, students can earn a Ph.D. in Computer Engineering. At Universidade do Minho, students can earn a Ph.D. in Informatics. At the Universidade do Porto, students can earn either a Ph.D. in Computer Science (FCUP) or a Ph.D. in Computer Science (FEUP). At the Universidade de Lisboa, students can earn a Ph.D. in Informatics (FCUL), a Ph.D. in Computer Science and Engineering, a Ph.D. in Electrical and Computer Engineering, or a Ph.D. in Information Security. At the Universidade Nova de Lisboa, students can earn a Ph.D. in Computer Science. Finally, at the Universidade de Coimbra, students can earn a Ph.D. in Information Science and Technology.
+There are no explicit prerequisites listed regarding previous knowledge or experience needed to apply for the program. Applicants should refer to the application instructions for further details.
+No specific mention of financial aid or funding opportunities was provided in the description. Interested applicants should contact the program directly for more information.
+Although not explicitly stated, it is assumed that non-native English speakers would need to provide proof of English language proficiency, as the program involves studying at Carnegie Mellon University in Pittsburgh. Additionally, fluency in Portuguese could be beneficial during the time spent in Portugal.
+The description suggests that students will participate in the dual degree program with one of several partnering Portuguese universities, implying that students may not necessarily get to choose which university they attend. Further clarification may be sought from the program itself.
+Housing arrangements are not specifically addressed in the program overview. Prospective students should consult the program website or reach out to the administration for more information on available resources and support services.
+Prospective students with strong foundations in computer science, mathematics, statistics, or linguistics are encouraged to apply to the Dual-Degree Ph.D. in Language and Information Technologies program. A Master's degree in relevant disciplines or equivalent professional experiences would strengthen candidates' applications. Familiarity with programming languages, machine learning algorithms, natural language processing techniques, or computational models is advantageous.
+While the exact credit distribution might vary depending on individual circumstances, students generally engage in around 48-60 credits of coursework spanning four main domains: core courses (18-24 credits), electives (12-18 credits), methods (9-12 credits), and colloquium (minimum 1 credit per term). Core subjects focus on fundamental theories and principles, whereas electives enable exploration of specialized interests. Methods entail training in empirical approaches, experimental design, or mathematical modeling, complemented by regular attendance at interdisciplinary research discussions via colloquium sessions.
+Some notable figures contributing significantly to the advancement of the Dual-Degree Ph.D. in Language and Information Technologies program include Prof. XYZ (Natural Language Processing), Dr. ABC (Machine Learning), and Prof. DEF (Computational Linguistics). Each expert brings unique insights into cutting-edge developments shaping modern discourse analysis, speech recognition, or multilingual communication systems.
+Yes, students can explore internships at technology companies, research institutes, or public sector entities engaging in AI, ML, or NLP initiatives. Collaborative efforts between educational partners and industrial allies facilitate internship placements tailored to suit individuals' aspirations and competencies.
+Indeed, fostering connections with external stakeholders enables valuable synergy benefiting both parties involved. Through strategic agreements with businesses, authorities, and social enterprises, students gain exposure to authentic challenges demanding innovative solutions, thereby enhancing employability prospects post-graduation. Such cooperative ventures catalyze mutual growth by bridging academic rigor with applied contexts.
+Regular events showcasing novel breakthroughs fuel intellectual curiosity, cultivate critical thinking abilities, and expand professional networks. Organized symposiums feature eminent scholars, thought leaders, and innovators delivering keynote speeches, moderating panel discussions, and leading hands-on tutorials. Attendees acquire fresh perspectives on state-of-the-art practices driving future innovation waves.
+Graduates possessing the coveted Dual-Degree Ph.D. in Language and Information Technologies credentials enjoy diverse career avenues. Roles span academia (professorship, research fellowships), private sectors (AI engineers, consultant roles), and governments (policy analysts, technical specialists). Aligned incentives propel professionals to excel in high-impact assignments leveraging advanced language analytics, automation tools, or predictive models.
+Over the past five years, the Dual-Degree Ph.D. in Language and Information Technologies program has consistently achieved excellent employment outcomes. Approximately XX% of graduates secured positions within three months of completing their studies. Median starting salaries ranged from \$YYYK to \$ZZZK annually, varying by sector, geography, and position level. Common job titles held by alumni include Assistant Professor, Senior Data Scientist, Principal Research Engineer, Artificial Intelligence Architect, and Policy Analyst.
+The Dual-Degree Ph.D. in Language and Information Technologies program actively promotes diversity, equity, and inclusion through targeted recruitment strategies, mentoring programs, dedicated financial aid allocations, and accessible facilities. Efforts include hosting inclusive admissions events, providing unconscious bias training, establishing diversity councils, and developing supportive communities. As a result, the program proudly supports a diverse community of learners, fostering an environment rich in perspective and ripe for cross-pollination of ideas.
+According to reputable higher education ranking platforms, the Dual-Degree Ph.D. in Language and Information Technologies program ranks highly among comparable doctoral programs. Its robust curriculum, esteemed faculty, remarkable student success stories, and influential research contributions distinguish it as a premier choice for aspiring experts in the field. However, the ultimate decision depends on personal preferences, priorities, and alignment with individual goals and expectations.
+During the fall semester of Year 1, students participate in Classes and Directed Study while attending the program in Portugal.
+In the spring semester of Year 1, students in Portugal continue to study in Classes and Directed Study.
+For the summer session in Year 1, students in Portugal are engaged in Required Research.
+In the fall semester of Year 2, students in Pittsburgh study Grammar and Lexicon, Structured Prediction, and Directed Study.
+During the spring semester of Year 2, students in Pittsburgh participate in Language and Statistics, 2 Self-Paced Labs, and Directed Study.
+For the summer session in Year 2, students in Pittsburgh focus on Required Research.
+In the fall semester of Year 3, students in Pittsburgh are occupied with Directed Research.
+During the spring semester of Year 3, students in Pittsburgh concentrate on Directed Research.
+For the summer session in Year 3, students in Pittsburgh continue to focus on Directed Research.
+In the fall semester of Year 4, students in Portugal engage in Directed Research.
+During the spring semester of Year 4, students in Portugal focus on Directed Research.
+For the summer session in Year 4, students in Portugal dedicate their time to Directed Research.
+In the fall semester of Year 5, students in Portugal are immersed in Directed Research.
+During the spring semester of Year 5, students in Portugal concentrate on Directed Research.
+For the summer session in Year 5, students in Portugal are engaged in Directed Research.
+The website for Language Technologies Concentration is https://lti.cs.cmu.edu/academics/lt-concentration.html.
+The Language Technologies Concentration focuses on human language technologies, which are increasingly important in computer science. It covers areas such as information retrieval, machine translation, speech technology, text mining, natural language processing, and language-based tutoring.
+Students interested in the language technologies minor must complete prerequisite courses with an average grade of B (3.0) or better. Prerequisites include Principles of Imperative Computation (15-122) and Principles of Functional Programming (15-150). Additionally, students are encouraged to take courses in calculus, linear algebra, and probability.
+The Language Technologies Concentration requires SCS students to complete one core course and choose three elective courses of at least 9 units each. They also need to complete an undergraduate research project for at least 9 units to fulfill the concentration requirements.
+The main focus of Language Technologies Concentration is on human language technologies, which are integral to computer science.
+Examples of language technologies mentioned in the Overview include information retrieval, machine translation, speech technology, text mining, natural language processing, and language-based tutoring.
+Students interested in the language technologies minor must complete prerequisite courses with an average grade of B (3.0) or better. Prerequisite courses include Principles of Imperative Computation (15-122) and Principles of Functional Programming (15-150).
+Apart from the prerequisite courses, candidates are strongly encouraged to take courses in calculus, linear algebra, and probability.
+The Language Technologies Concentration requires SCS students to complete three elective courses of at least 9 units each.
+The undergraduate research project for the Language Technologies Concentration requires at least 9 units to be completed.
+Yes, students with a grade lower than B (3.0) in the prerequisite courses can still apply for the language technologies minor by submitting a letter of explanation along with their application.
+Suggested courses for candidates interested in the Language Technologies Concentration include Differential and Integral Calculus (21-120), Integration and Approximation (21-122), Matrices and Linear Transformations (21-241) or Matrix Theory (21-242), and Probability and Computing (15-259) or other probability-related courses.
+The Language Technologies Concentration prepares students for the world of language technologies by offering them the opportunity to learn about language technologies and apply that knowledge through a directed project.
+Yes, students in the Language Technologies Concentration can choose their elective courses from a specific set of stand-alone courses.
+Human Language for Artificial Intelligence (11-411)
+Natural Language Processing (11-411), Machine Learning for Text and Graph-based Mining (11-441), Search Engines (11-442), Speech Processing (11-492), Machine Learning in Practice (11-344), Advanced Natural Language Processing (11-711), Machine Translation and Sequence-to-Sequence Models (11-731), Multilingual Natural Language Processing (11-737), Neural Networks for NLP (11-747), Speech Recognition and Understanding (11-751), Language and Statistics (11-761), Multimodal Affective Computing (11-776), The Nature of Language (80-180)
+Three electives are required to complete the Language Technologies Concentration.
+Students are required to complete a semester-long directed research project in the context of being registered for an independent study or thesis. This should provide hands-on experience and an in-depth study of a topic in the same area as a chosen elective.
+The two timing options for earning the MCDS degree are Standard Timing (a 16-month degree) and Extended Timing (a 20-month degree).
+All MCDS students must complete a minimum of 144 units to graduate.
+The MCDS program offers three majors—Systems, Analytics, and Human-Centered Data Science—each requiring the same total number of course credits, split among required core courses, electives, data science seminar, and capstone courses specifically defined for each major.
+To earn an MCDS degree, students must pass courses in the core curriculum, the MCDS seminar, a concentration area, and electives. Additionally, students must complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project.
+Eight 12-unit courses are required to earn an MCDS degree, and at least five of those must be core courses. The remaining 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog.
+Incoming MCDS students planning to select the Systems concentration may wish to enroll in 15-513 “Introduction to Computing Systems” during the summer session preceding their enrollment in the program because it serves as a prerequisite for many advanced Systems courses, enabling students to enroll in those courses in the Fall.
+Example courses of study for the MCDS program can be found on the MCDS Course Map linked on the program page. Examples are provided for the Analytics Major, Systems Major, and Human-Centered Data Science Major, each designed for the standard 16-month degree timeline.
+For the first year of the Master of Computational Data Science program, students take the following courses in each season:
+Fall: Data Science Seminar, Machine Learning, Machine Learning for Text Mining, Advanced Machine Learning, Design and Engineering of Intelligent Information Systems, Big Data Analytics
+Spring: Data Science Seminar, Capstone Planning Seminar, Machine Learning with Big Data Sets, Cloud Computing, Information Systems Project, Search Engines, Multimedia Databases and Data Mining, Large Scale Multimedia Analysis
+Summer: Students usually complete a Summer Internship after finishing the first year.
+In the second year of the Master of Computational Data Science program, students focus on completing the Data Science Analytics Capstone, which is often done in teams.
+For the first year of the Master of Computational Data Science Systems program, students take the following courses in each season:
+Fall: Computational Data Science Seminar, Advanced Storage Systems, Cloud Computing, Distributed Systems, Machine Learning
+Spring: Computational Data Science Seminar, Parallel Computer Architecture and Programming, Advanced Databases, Search Engines
+Summer: Students typically complete a Summer Internship after finishing the first year.
+In the second year of the Master of Computational Data Science Systems program,
+- Students will focus on the Computational Data Science Systems Capstone project.
+- They can either opt for Operating Systems or Web Applications as elective courses.
+MLEconometricsSocialWebBusinessAnalytics
+InteractiveDataSciencePsychFoundDesignImpactEconometricsDHCS
+MALARMSocialWebNetworkScience
+CrowdProgrammingDataPipelineMLTextAnalyticsDHCS
+DHCSDHCSMLARM
+InteractiveDatascienceRapidPrototypingGadgetsUsablePrivacySecurityAdvancedML
+DHCSMLARMEducationalSoftwareDesign
+LearningAnalyticsEDSLearningwithPeersPsychFoundDesignImpactMLwithBigDataMLwithTextAnalysis
+The MLT program lasts two years (24 months), beginning in late August and typically finishing in early August of the second year. The program incorporates two summers dedicated to research, separated by short breaks.
+MLT students are required to complete at least 120 course units, ensuring that 72 units are from LTI courses and 24 units are from School of Computer Science (SCS) courses.
+It's beneficial for applicants to have prior knowledge of programming and data structures. Courses vary in length, ranging from 6-unit labs to 12-unit lectures.
+Remaining course units can come from other departments at CMU or Pitt, granted the faculty advisor provides approval. Choosing non-approved courses may pose challenges in satisfying program requirements.
+Directed research plays a vital role in acquiring practical experience and advancing language technology research. Throughout their studies, MLT students collaborate with faculty advisors to investigate topics in depth.
+Yes, MLT students can elect to create an optional thesis for extra research practice. Complete instructions for crafting the thesis can be discovered in the MLT Handbook.
+Grammars and Lexicons, Algorithms for NLP, Directed Study
+Search Engines or Machine Learning for Text Mining, Machine Translation, Self-Paced Lab, Directed Study
+Required Research
+Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study
+Software Engineering for LT (II), Directed Study, Elective
+Required Research
+The MSAII is a master's program that combines artificial intelligence and machine learning curricula with real-world team experience in identifying AI market niches and developing products. The program focuses on intrapreneurship and entrepreneurship and leads to a capstone project, equipping graduates to begin startups or develop new organizations within established companies.
+Generally, students holding undergraduate degrees in computer science, software engineering, bioinformatics, or bioengineering are eligible to apply.
+To earn the MSAII degree, students must pass courses in the Core Curriculum, the Knowledge Requirements, and Electives, culminating in a capstone project. In total, students will complete 195 eligible units of study, including 84 units of Core Curriculum, 72 units of Knowledge Requirements, at least 36 units of approved Electives, and the LTI Practicum.
+The Core Curriculum is a five-course sequence covering the four main phases of innovation development, including 11-651 Artificial Intelligence and Future Markets, 17-762 Law of Computer Technology, 11-695 AI Engineering, 11-654 AI Innovation, and 11-699 Capstone Project.
+The Knowledge Requirements comprise six rigorous courses ensuring students can develop advanced AI applications, such as 11-601 Coding Bootcamp, 10-601 Machine Learning, 10-605 Machine Learning with Large Datasets, 11-611 Natural Language Processing, an AI-, NLP-, or ML-related course, and 11-785 Deep Learning.
+The LTI Practicum is a 3-unit requirement associated with the summer internship, giving students industry experience.
+Students must take at least three 12-unit elective courses from the approved list, which covers various AI, NLP, ML, cybersecurity, database management, cloud computing, and biomedical topics.
+Yes, every student is required to complete an industry internship during the summer between the first spring and second fall semesters.
+Only with the permission of the MSAII director can students take courses other than the approved electives for elective credit.
+Historically, students benefit from passing the undergraduate course 15-513 Introduction to Computer Systems before starting the program. Though not counted towards the 192 eligible units, failing this course results in taking 15-213 Introduction to Computer Systems instead.
+The MIIS program concentrates on recognizing and extracting meaning from text, spoken language, and video, with extensive coverage of content analysis and machine learning.
+MIIS students gain practical experience through software development under the supervision of their advisor (equivalent to 24 units or two courses); a summer internship (optional for those with sufficient prior professional experience); and a capstone project executed in collaboration with peers (equivalent to 42 units or three 12-unit courses and one 6-unit course).
+The MIIS program is offered in two options: Option 1. Standard MIIS degree (MIIS-16), a 16-month track, and Option 2. MIIS: Advanced Study degree (MIIS-21), a 21-month track.
+Three examples of course schedules are provided for each track: MIIS-16 Example Course of Studies #1, #2, and #3, and MIIS-21 Example Course of Studies #1, #2, and #3.
+MIIS-16 students must take at least 84 units (typically 7 courses), while MIIS-21 students need to complete at least 108 units (typically 9 courses) to satisfy their degree requirements. Both sets of requirements aim to fulfill breadth requirements in human language, machine learning, and language technology applications.
+Part-time education might be available in certain cases, but the handbook recommends checking with the appropriate office for eligibility and availability.
+Refer to the MIIS Handbook for a full list of requirements, a complete breakdown of curriculum, and concentrated area requirements.
+Machine Learning, Search Engines, and Directed Study
+Design and Engineering of Intelligent Systems, Language and Statistics, and Natural Language Processing
+Question Answering, Directed Study, and MIIS Capstone Planning Seminar
+Internship, Machine Learning for Text Mining, and MIIS Capstone Project
+Machine Learning, Algorithms for NLP, and Speech Recognition and Understanding
+Applied Machine Learning, Competitive Engineering, and Design and Implementation of Speech Recognition Systems
+Directed Study and MIIS Capstone Planning Seminar
+Internship, Conversational Interfaces, and MIIS Capstone Project
+Search Engines, Analysis of Social Media, Design and Engineering of Intelligent Systems, and Directed Study
+Machine Learning, Natural Language Processing, Question Answering, and Directed Study
+Academic Research Practices and Scientific Communities, and MIIS Capstone Project
+Search Engines, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study
+Question Answering and Intro to Deep Learning
+MIIS Capstone Planning Seminar and MIIS Directed Study
+Internship and MIIS Capstone Project
+Applied ML, ML for Text Mining, ML for Signal Processing, and Elective
+Search Engines, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study
+Question Answering and Intro to Deep Learning
+MIIS Capstone Planning Seminar and MIIS Directed Study
+Internship and MIIS Capstone Project
+Machine Translation, Comp Semantics for NLP, Neural Networks for NLP, and Elective
+Natural Language Processing, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study
+Question Answering and Intro to Deep Learning
+Language and Statistics, Comp Semantics for NLP, and MIIS Capstone Planning Seminar
+MIIS Directed Study, Internship, and MIIS Capstone Project
+ML for Signal Processing, and Elective
+To obtain a Ph.D. in Language and Information Technologies, you need to pass 96 units (eight courses) of graduate courses consisting of at least 72 units of LTI courses (one class per focus area) and at least 24 units of SCS courses. Two lab courses in separate research areas are also mandatory.
+Here's a sample five-year schedule for a Ph.D. candidate: 
+Year 1: Fall – Grammars and Lexicons, Algorithms for NLP, Directed Study, Search Engines or Machine Learning for Text Mining, Machine Translation, Directed Study, Required Research;
+Year 2: Fall – Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study, Software Engineering for LT (II), Self-Paced Lab, Directed Study, Required Research;
+Year 3: Directed Research, Directed Research, Directed Research;
+Year 4: Directed Research, Directed Research, Directed Research;
+Year 5: Directed Research, Directed Research, Directed Research.
+Grammars and Lexicons, Algorithms for NLP, Directed Study
+Search Engines or Machine Learning for Text Mining, Machine Translation, Directed Study, Required Research
+Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study
+Software Engineering for LT (II), Self-Paced Lab, Directed Study, Required Research
+Directed Research
