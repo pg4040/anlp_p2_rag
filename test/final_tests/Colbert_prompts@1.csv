@@ -1,0 +1,833 @@
+question,retrieved_docs,prompt
+What is Yonatan Bisk's position?,['faculty_overview.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Yonatan Bisk's position?
+Context: yonatan bisk is an assistant professor, language technologies institute at CMU.
+ralf brown is the senior systems scientist/chair of admissions, language technologies institute at CMU.
+jamie callan is a professor, language technologies institute at CMU.
+justine cassel is a professor (on leave), language technologies institute at CMU.
+mona diab is the lti director and tenured professor, language technologies institute at CMU.
+fernando diaz is an associate professor, language technologies institute at CMU.
+scott fahlman is the professor emeritus, language technologies institute at CMU.
+robert frederking is the associate dean for PhD programs and chair for MLT program, language technologies institute at CMU.
+daniel fried is an assistant professor, language technologies institute at CMU.
+alexander hauptmann is a research professor, language technologies institute at CMU.
+daphne ippolito is an assistant professor, language technologies institute at CMU.
+lori levin is a research professor, language technologies institute at CMU.
+lei li is an assistant professor, language technologies institute at CMU.
+teruko mitamura is a research professor, language technologies institute at CMU.
+Answer: "
+What title does Ralf Brown hold?,['ralf brown_papers.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What title does Ralf Brown hold?
+Context: List of 2023 Open Access papers by ralf brown are: 0
+Answer: "
+Who are the professors currently on leave?,['justine_cassell.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who are the professors currently on leave?
+Context: Justine Cassell
+Professor (On Leave), Language Technologies Institute
+Human-Computer Interaction Institute : https://hcii.cmu.edu/
+Personal Website: http://www.justinecassell.com/
+Contact: 5107 —Gates & Hillman Centers
+Email: jcassell@andrew.cmu.edu
+Phone: 412-204-6268
+Answer: "
+Who is the LTI Director and tenured professor?,['mona_diab.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who is the LTI Director and tenured professor?
+Context: Mona Diab
+LTI Director and Tenured Professor, Language Technologies Institute
+Research Area : Fairness and Ethics in Language Technology
+Contact: 5723 Gates & Hillman Centers
+Email : mdiab@andrew.cmu.edu
+Phone : 412-268-3669
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+What is Fernando Diaz's role?,['fernando diaz_567f6bc975deb3d728feec9bfcf7d4036ceabb12_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Fernando Diaz's role?
+Context: Faculty Name: fernando diaz
+Paperid: 567f6bc975deb3d728feec9bfcf7d4036ceabb12
+Title: Fairness Through Domain Awareness: Mitigating Popularity Bias For Music Discovery
+Year: 2023
+Abstract: As online music platforms grow, music recommender systems play a vital role in helping users navigate and discover content within their vast musical databases. At odds with this larger goal, is the presence of popularity bias, which causes algorithmic systems to favor mainstream content over, potentially more relevant, but niche items. In this work we explore the intrinsic relationship between music discovery and popularity bias. To mitigate this issue we propose a domain-aware, individual fairness-based approach which addresses popularity bias in graph neural network (GNNs) based recommender systems. Our approach uses individual fairness to reflect a ground truth listening experience, i.e., if two songs sound similar, this similarity should be reflected in their representations. In doing so, we facilitate meaningful music discovery that is robust to popularity bias and grounded in the music domain. We apply our BOOST methodology to two discovery based tasks, performing recommendations at both the playlist level and user level.
+Answer: "
+Who holds the title of Professor Emeritus?,['scott_fahlman.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who holds the title of Professor Emeritus?
+Context: Scott Fahlman
+Professor Emeritus, Language Technologies Institute
+Computer Science Department
+Research Area
+AI, Knowledge Representation and Reasoning, Natural Language Processing and Computational Linguistics
+Research
+I am interested in artificial intelligence and its application to real-world problems. Over the years, I have worked in many areas of AI, including knowledge representation, planning, image processing, machine learning, massively parallel approaches to search and inference, and the development of improved learning algorithms for artificial neural networks.
+My current project is Scone, an open-source knowledge representation system and inference engine that can be used as a component in a variety of knowledge-based systems. Scone puts particular emphasis on efficiency, scalability (up to millions of entities and statements) and ease of use. One goal of our research is to support natural-language understanding, all the way from text or speech to a language-independent representation that we can reason about. This requires extensive use of background knowledge not included in the text itself. We are also working to extend Scone's capabilities for ""episodic"" representation and reasoning, by which we mean actions, events, sequences of actions, plans, goals and explanations.
+Answer: "
+Who is the Associate Dean for PhD Programs?,['robert_frederking.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who is the Associate Dean for PhD Programs?
+Context: Robert Frederking
+Associate Dean for PhD Programs and Chair for MLT Program, Language Technologies Institute
+Contact 6515 —Gates & Hillman Centers
+Email ref@cs.cmu.edu
+Phone 412-268-6656
+Answer: "
+Is Daniel Fried an associate or assistant professor?,['daniel_fried.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Is Daniel Fried an associate or assistant professor?
+Context: Daniel Fried
+Assistant Professor, Language Technologies Institute
+Research Area
+Conversational AI, Discourse and Pragmatics, Intelligent Agents and Dialogue, Multimodal AI, Natural Language Processing and Computational Linguistics
+Education
+Master of Science in Intelligent Information Systems
+Personal Website https://dpfried.github.io/
+Contact 6411 —Gates & Hillman Centers
+Email dfried@andrew.cmu.edu
+Answer: "
+Who is named as a research professor?,['faculty_overview.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who is named as a research professor?
+Context: lori levin is a research professor, language technologies institute at CMU.
+lei li is an assistant professor, language technologies institute at CMU.
+teruko mitamura is a research professor, language technologies institute at CMU.
+louis-philippe morency is the leonardo associate professor of computer science (on leave), language technologies institute at CMU.
+david mortensen is an assistant research professor, language technologies institute at CMU.
+graham neubig is an associate professor, language technologies institute at CMU.
+eric nyberg is a professor, language technologies institute at CMU.
+kemal oflazer is a teaching professor, language technologies institute at CMU.
+bhiksha raj is a professor, language technologies institute at CMU.
+carolyn rose is a professor, language technologies institute at CMU.
+alexander rudnicky is the ""research professor emeritus"", language technologies institute at CMU.
+maarten sap is an assistant professor, language technologies institute at CMU.
+michael shamos is the ""distinguished career professor"", language technologies institute at CMU.
+rita singh is an associate research professor, language technologies institute at CMU.
+Answer: "
+How many assistant professors are mentioned?,['faculty_overview.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How many assistant professors are mentioned?
+Context: maarten sap is an assistant professor, language technologies institute at CMU.
+michael shamos is the ""distinguished career professor"", language technologies institute at CMU.
+rita singh is an associate research professor, language technologies institute at CMU.
+emma strubell is an assistant professor, language technologies institute at CMU.
+alexander waibel is a professor (on leave), language technologies institute at CMU.
+shinji watanabe is an associate professor, language technologies institute at CMU.
+sean welleck is an assistant professor, language technologies institute at CMU.
+eric xing is the professor (on leave), language technologies institute at CMU.
+chenyan xiong is an associate professor, language technologies institute at CMU.
+yiming yang is a professor, language technologies institute at CMU.
+Answer: "
+What is a focus of Yiming Yang's recent research?,['yiming_yang.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is a focus of Yiming Yang's recent research?
+Context: Yiming Yang
+Professor, Language Technologies Institute
+Contact
+6717 —Gates & Hillman Centers
+Email yiming@cs.cmu.edu
+412-268-1364
+Research
+My research has centered on statistical learning methods/algorithms and application to very-large-scale text categorization, web-mining for concept graph discovery, semi-supervised clustering, multitask learning, novelty-based information retrieval, large-scale optimization for online advertising, social network analysis for personalized email prioritization, etc. My recent research focuses on the following topics:
+
+Large-Scale Structured Learning for Hierarchical Classification  (Gopal & Yang, KDD 2013;  Gopal & Yang, ICML 2013 & Supplementary  ;  Gopal et al., NIPS 2012)
+
+Providing organizational views of multi-source Big Data (e.g., Wikipedia, online shops, Coursera)
+State-of-the-art classifiers for large-scale classification over hundreds of thousands of categories
+Scalable variational inference for joint optimization of one trillion (4 TB) model parameters
+Scalable Machine Learning for Time Series Analysis (Topic Detection and Tracking)
+
+From scientific literature, news stories, sensor signals, maintenance reports, etc.
+Answer: "
+Yiming Yang's research area in web-mining?,['yiming_yang.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Yiming Yang's research area in web-mining?
+Context: Yiming Yang
+Professor, Language Technologies Institute
+Contact
+6717 —Gates & Hillman Centers
+Email yiming@cs.cmu.edu
+412-268-1364
+Research
+My research has centered on statistical learning methods/algorithms and application to very-large-scale text categorization, web-mining for concept graph discovery, semi-supervised clustering, multitask learning, novelty-based information retrieval, large-scale optimization for online advertising, social network analysis for personalized email prioritization, etc. My recent research focuses on the following topics:
+
+Large-Scale Structured Learning for Hierarchical Classification  (Gopal & Yang, KDD 2013;  Gopal & Yang, ICML 2013 & Supplementary  ;  Gopal et al., NIPS 2012)
+
+Providing organizational views of multi-source Big Data (e.g., Wikipedia, online shops, Coursera)
+State-of-the-art classifiers for large-scale classification over hundreds of thousands of categories
+Scalable variational inference for joint optimization of one trillion (4 TB) model parameters
+Scalable Machine Learning for Time Series Analysis (Topic Detection and Tracking)
+
+From scientific literature, news stories, sensor signals, maintenance reports, etc.
+Answer: "
+Which conference did Yiming Yang present on hierarchical classification?,['yiming_yang.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which conference did Yiming Yang present on hierarchical classification?
+Context: Yiming Yang
+Professor, Language Technologies Institute
+Contact
+6717 —Gates & Hillman Centers
+Email yiming@cs.cmu.edu
+412-268-1364
+Research
+My research has centered on statistical learning methods/algorithms and application to very-large-scale text categorization, web-mining for concept graph discovery, semi-supervised clustering, multitask learning, novelty-based information retrieval, large-scale optimization for online advertising, social network analysis for personalized email prioritization, etc. My recent research focuses on the following topics:
+
+Large-Scale Structured Learning for Hierarchical Classification  (Gopal & Yang, KDD 2013;  Gopal & Yang, ICML 2013 & Supplementary  ;  Gopal et al., NIPS 2012)
+
+Providing organizational views of multi-source Big Data (e.g., Wikipedia, online shops, Coursera)
+State-of-the-art classifiers for large-scale classification over hundreds of thousands of categories
+Scalable variational inference for joint optimization of one trillion (4 TB) model parameters
+Scalable Machine Learning for Time Series Analysis (Topic Detection and Tracking)
+
+From scientific literature, news stories, sensor signals, maintenance reports, etc.
+Answer: "
+What position does Chenyan Xiong hold at CMU?,['chenyan_xiong.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What position does Chenyan Xiong hold at CMU?
+Context: Chenyan Xiong
+Associate Professor, Language Technologies Institute
+Contact
+Email cx@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+How to contact Chenyan Xiong via email?,['chenyan_xiong.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Chenyan Xiong via email?
+Context: Chenyan Xiong
+Associate Professor, Language Technologies Institute
+Contact
+Email cx@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+Which institute is Chenyan Xiong associated with?,['chenyan_xiong.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which institute is Chenyan Xiong associated with?
+Context: Chenyan Xiong
+Associate Professor, Language Technologies Institute
+Contact
+Email cx@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+What is Eric P. Xing's current status at CMU?,['eric_xing.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Eric P. Xing's current status at CMU?
+Context: Eric P. Xing
+Professor (On Leave), Language Technologies Institute
+Contact
+8101 —Gates & Hillman Centers
+Email epxing@andrew.cmu.edu
+412-268-2559
+Research
+The major theme of Professor Xing's research lies in the development of machine learning and statistical methodology; especially for building quantitative models and predictive understandings of the evolutionary mechanism, regulatory circuitry, and developmental processes of biological systems; and for building intelligent systems for a wide range of applications in vision, IR and NLP that involves computational learning and reasoning under uncertainty.
+
+Foundations of Statistical Learning, including theory and algorithms for: 1) Time/space varying-coefficient models with evolving structures; 2) Sparse structured input/output models in high-dimensional problems; 3) Nonparametric Bayesian techniques for infinite-dimensional models; 4) RKHS embedding, nonparametric inference, and spectral methods for graphical models; 5) Distributed and online algorithms for optimization, approximate inference, and sampling on massive data.
+Answer: "
+Eric P. Xing's primary research focus?,['eric_xing.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Eric P. Xing's primary research focus?
+Context: Eric P. Xing
+Professor (On Leave), Language Technologies Institute
+Contact
+8101 —Gates & Hillman Centers
+Email epxing@andrew.cmu.edu
+412-268-2559
+Research
+The major theme of Professor Xing's research lies in the development of machine learning and statistical methodology; especially for building quantitative models and predictive understandings of the evolutionary mechanism, regulatory circuitry, and developmental processes of biological systems; and for building intelligent systems for a wide range of applications in vision, IR and NLP that involves computational learning and reasoning under uncertainty.
+
+Foundations of Statistical Learning, including theory and algorithms for: 1) Time/space varying-coefficient models with evolving structures; 2) Sparse structured input/output models in high-dimensional problems; 3) Nonparametric Bayesian techniques for infinite-dimensional models; 4) RKHS embedding, nonparametric inference, and spectral methods for graphical models; 5) Distributed and online algorithms for optimization, approximate inference, and sampling on massive data.
+Answer: "
+How to contact Eric P. Xing via email?,['eric_xing.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Eric P. Xing via email?
+Context: Eric P. Xing
+Professor (On Leave), Language Technologies Institute
+Contact
+8101 —Gates & Hillman Centers
+Email epxing@andrew.cmu.edu
+412-268-2559
+Research
+The major theme of Professor Xing's research lies in the development of machine learning and statistical methodology; especially for building quantitative models and predictive understandings of the evolutionary mechanism, regulatory circuitry, and developmental processes of biological systems; and for building intelligent systems for a wide range of applications in vision, IR and NLP that involves computational learning and reasoning under uncertainty.
+
+Foundations of Statistical Learning, including theory and algorithms for: 1) Time/space varying-coefficient models with evolving structures; 2) Sparse structured input/output models in high-dimensional problems; 3) Nonparametric Bayesian techniques for infinite-dimensional models; 4) RKHS embedding, nonparametric inference, and spectral methods for graphical models; 5) Distributed and online algorithms for optimization, approximate inference, and sampling on massive data.
+Answer: "
+What position does Sean Welleck hold at CMU?,['sean_welleck.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What position does Sean Welleck hold at CMU?
+Context: Sean Welleck
+Assistant Professor, Language Technologies Institute
+Contact
+Email swelleck@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+How to contact Sean Welleck via email?,['sean_welleck.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Sean Welleck via email?
+Context: Sean Welleck
+Assistant Professor, Language Technologies Institute
+Contact
+Email swelleck@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+Which institute is Sean Welleck associated with?,['sean_welleck.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which institute is Sean Welleck associated with?
+Context: Sean Welleck
+Assistant Professor, Language Technologies Institute
+Contact
+Email swelleck@andrew.cmu.edu
+Address
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Answer: "
+What is Shinji Watanabe's area of expertise?,['shinji_watanabe.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Shinji Watanabe's area of expertise?
+Context: Shinji Watanabe
+Associate Professor, Language Technologies Institute
+Contact
+6405 —Gates & Hillman Centers
+Email swatanab@andrew.cmu.edu
+412-268-3687
+Research Area
+Natural Language Processing and Computational Linguistics, Speech Processing
+
+Personal Website https://sites.google.com/view/shinjiwatanabe?pli=1
+Answer: "
+How to contact Shinji Watanabe via email?,['shinji_watanabe.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Shinji Watanabe via email?
+Context: Shinji Watanabe
+Associate Professor, Language Technologies Institute
+Contact
+6405 —Gates & Hillman Centers
+Email swatanab@andrew.cmu.edu
+412-268-3687
+Research Area
+Natural Language Processing and Computational Linguistics, Speech Processing
+
+Personal Website https://sites.google.com/view/shinjiwatanabe?pli=1
+Answer: "
+Shinji Watanabe's position at CMU?,['shinji_watanabe.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Shinji Watanabe's position at CMU?
+Context: Shinji Watanabe
+Associate Professor, Language Technologies Institute
+Contact
+6405 —Gates & Hillman Centers
+Email swatanab@andrew.cmu.edu
+412-268-3687
+Research Area
+Natural Language Processing and Computational Linguistics, Speech Processing
+
+Personal Website https://sites.google.com/view/shinjiwatanabe?pli=1
+Answer: "
+What is Alexander Waibel known for?,['alexander_waibel.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Alexander Waibel known for?
+Context: Alexander Waibel
+Professor (On Leave), Language Technologies Institute
+Contact
+205 —407 South Craig Street
+Email waibel@cs.cmu.edu
+412-268-7676
+Research Area
+Machine Learning, Machine Translation, Multimodal Computing and Interaction, Neural Networks, Speech Processing, Spoken Interfaces and Dialogue Processing, Spoken Language Translation
+
+Bio
+Dr. Alexander Waibel is a Professor of Computer Science at Carnegie Mellon University, Pittsburgh and at the Karlsruhe Institute of Technology, Germany. He is the director of the International Center for Advanced Communication Technologies (interACT). The Center works in a network with eight of the world’s top research institutions. The Center’s mission is to develop advanced machine learning algorithms to improve human-human and human-machine communication technologies.  Prof. Waibel and his team developed many statistical and neural network learning  algorithms that made such communication breakthroughs possible. Most notably, the “Time-Delay Neural Network” (1987) (the first “convolutional” neural network) now is at the heart of many of today’s AI technologies.
+Answer: "
+How to contact Alexander Waibel via email?,['alexander_waibel.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Alexander Waibel via email?
+Context: Alexander Waibel
+Professor (On Leave), Language Technologies Institute
+Contact
+205 —407 South Craig Street
+Email waibel@cs.cmu.edu
+412-268-7676
+Research Area
+Machine Learning, Machine Translation, Multimodal Computing and Interaction, Neural Networks, Speech Processing, Spoken Interfaces and Dialogue Processing, Spoken Language Translation
+
+Bio
+Dr. Alexander Waibel is a Professor of Computer Science at Carnegie Mellon University, Pittsburgh and at the Karlsruhe Institute of Technology, Germany. He is the director of the International Center for Advanced Communication Technologies (interACT). The Center works in a network with eight of the world’s top research institutions. The Center’s mission is to develop advanced machine learning algorithms to improve human-human and human-machine communication technologies.  Prof. Waibel and his team developed many statistical and neural network learning  algorithms that made such communication breakthroughs possible. Most notably, the “Time-Delay Neural Network” (1987) (the first “convolutional” neural network) now is at the heart of many of today’s AI technologies.
+Answer: "
+Alexander Waibel's research areas include?,['alexander_waibel.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Alexander Waibel's research areas include?
+Context: Alexander Waibel
+Professor (On Leave), Language Technologies Institute
+Contact
+205 —407 South Craig Street
+Email waibel@cs.cmu.edu
+412-268-7676
+Research Area
+Machine Learning, Machine Translation, Multimodal Computing and Interaction, Neural Networks, Speech Processing, Spoken Interfaces and Dialogue Processing, Spoken Language Translation
+
+Bio
+Dr. Alexander Waibel is a Professor of Computer Science at Carnegie Mellon University, Pittsburgh and at the Karlsruhe Institute of Technology, Germany. He is the director of the International Center for Advanced Communication Technologies (interACT). The Center works in a network with eight of the world’s top research institutions. The Center’s mission is to develop advanced machine learning algorithms to improve human-human and human-machine communication technologies.  Prof. Waibel and his team developed many statistical and neural network learning  algorithms that made such communication breakthroughs possible. Most notably, the “Time-Delay Neural Network” (1987) (the first “convolutional” neural network) now is at the heart of many of today’s AI technologies.
+Answer: "
+What position does Emma Strubell hold at CMU?,['emma_strubell.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What position does Emma Strubell hold at CMU?
+Context: Emma Strubell
+Assistant Professor, Language Technologies Institute
+Contact
+6709 —Gates Hillman 
+Email estrubel@andrew.cmu.edu
+Personal Website https://strubell.github.io/
+Answer: "
+How to contact Emma Strubell via email?,['emma_strubell.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Emma Strubell via email?
+Context: Emma Strubell
+Assistant Professor, Language Technologies Institute
+Contact
+6709 —Gates Hillman 
+Email estrubel@andrew.cmu.edu
+Personal Website https://strubell.github.io/
+Answer: "
+Emma Strubell's professional website?,['emma_strubell.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Emma Strubell's professional website?
+Context: Emma Strubell
+Assistant Professor, Language Technologies Institute
+Contact
+6709 —Gates Hillman 
+Email estrubel@andrew.cmu.edu
+Personal Website https://strubell.github.io/
+Answer: "
+What is Rita Singh's title at CMU?,['rita_singh.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Rita Singh's title at CMU?
+Context: Rita Singh
+Associate Research Professor, Language Technologies Institute
+Contact
+6703 —Gates & Hillman Centers
+Email rsingh@cs.cmu.edu
+412-268-9859
+Answer: "
+How to contact Rita Singh via email?,['rita_singh.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Rita Singh via email?
+Context: Rita Singh
+Associate Research Professor, Language Technologies Institute
+Contact
+6703 —Gates & Hillman Centers
+Email rsingh@cs.cmu.edu
+412-268-9859
+Answer: "
+How to contact Michael Shamos via email?,['michael_shamos.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Michael Shamos via email?
+Context: Michael Shamos
+Distinguished Career Professor, Language Technologies Institute
+Institute for Software Research
+Contact
+6707 —Gates & Hillman Centers
+Email shamos@cs.cmu.edu
+412-268-8193
+Institute for Software Research https://www.cs.cmu.edu/~brassmars/
+Personal Website http://www.cs.cmu.edu/~jbigham/
+Answer: "
+Michael Shamos is affiliated with which institute?,['michael_shamos.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Michael Shamos is affiliated with which institute?
+Context: Michael Shamos
+Distinguished Career Professor, Language Technologies Institute
+Institute for Software Research
+Contact
+6707 —Gates & Hillman Centers
+Email shamos@cs.cmu.edu
+412-268-8193
+Institute for Software Research https://www.cs.cmu.edu/~brassmars/
+Personal Website http://www.cs.cmu.edu/~jbigham/
+Answer: "
+What is Maarten Sap's research focus?,['maarten_sap.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Maarten Sap's research focus?
+Context: Maarten Sap
+Assistant Professor, Language Technologies Institute
+Contact
+6713 —Gates & Hillman Centers
+Email msap2@andrew.cmu.edu
+Research Area
+Computational Social Science, Conversational AI, Discourse and Pragmatics, Fairness and Ethics in Language Technology
+
+Personal Website http://maartensap.com/
+Answer: "
+How to contact Maarten Sap via email?,['maarten_sap.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Maarten Sap via email?
+Context: Maarten Sap
+Assistant Professor, Language Technologies Institute
+Contact
+6713 —Gates & Hillman Centers
+Email msap2@andrew.cmu.edu
+Research Area
+Computational Social Science, Conversational AI, Discourse and Pragmatics, Fairness and Ethics in Language Technology
+
+Personal Website http://maartensap.com/
+Answer: "
+Maarten Sap's professional website?,['maarten_sap.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Maarten Sap's professional website?
+Context: Maarten Sap
+Assistant Professor, Language Technologies Institute
+Contact
+6713 —Gates & Hillman Centers
+Email msap2@andrew.cmu.edu
+Research Area
+Computational Social Science, Conversational AI, Discourse and Pragmatics, Fairness and Ethics in Language Technology
+
+Personal Website http://maartensap.com/
+Answer: "
+Alexander Rudnicky's research focuses on what aspect of technology?,['alexander_rudnicky.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Alexander Rudnicky's research focuses on what aspect of technology?
+Context: Alexander Rudnicky
+Research Professor Emeritus, Language Technologies Institute
+Contact
+6511 —Gates & Hillman Centers
+Email alex.rudnicky@cs.cmu.edu
+412-268-2622
+Research Area
+Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+
+Research
+My research centers on interactive systems that use speech. I am currently interested in the following problems:
+
+Implicit Learning : Human-computer interaction generates information that the system could use to modify its behavior. For example, a speech recognition error that is repaired leaves information about a misclassification that could be used to improve subsequent accuracy. Exploiting such situations (and in fact contriving to create them) can provide a rich set of experiences that drive self-improving systems
+
+Automatic detection and recovery from error: Humans easily detect and recover from breakdowns in communication. Automatic systems are less successful at this, however we can use features of recognition, understanding and dialog to predict the likelihood of misunderstanding at a given point in an interaction, and then apply heuristic strategies for guiding the conversation back onto track.
+Answer: "
+What is a current interest of Alexander Rudnicky in speech technology?,['alexander_rudnicky.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is a current interest of Alexander Rudnicky in speech technology?
+Context: Alexander Rudnicky
+Research Professor Emeritus, Language Technologies Institute
+Contact
+6511 —Gates & Hillman Centers
+Email alex.rudnicky@cs.cmu.edu
+412-268-2622
+Research Area
+Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+
+Research
+My research centers on interactive systems that use speech. I am currently interested in the following problems:
+
+Implicit Learning : Human-computer interaction generates information that the system could use to modify its behavior. For example, a speech recognition error that is repaired leaves information about a misclassification that could be used to improve subsequent accuracy. Exploiting such situations (and in fact contriving to create them) can provide a rich set of experiences that drive self-improving systems
+
+Automatic detection and recovery from error: Humans easily detect and recover from breakdowns in communication. Automatic systems are less successful at this, however we can use features of recognition, understanding and dialog to predict the likelihood of misunderstanding at a given point in an interaction, and then apply heuristic strategies for guiding the conversation back onto track.
+Answer: "
+How to contact Alexander Rudnicky via email?,['alexander_rudnicky.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How to contact Alexander Rudnicky via email?
+Context: Alexander Rudnicky
+Research Professor Emeritus, Language Technologies Institute
+Contact
+6511 —Gates & Hillman Centers
+Email alex.rudnicky@cs.cmu.edu
+412-268-2622
+Research Area
+Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+
+Research
+My research centers on interactive systems that use speech. I am currently interested in the following problems:
+
+Implicit Learning : Human-computer interaction generates information that the system could use to modify its behavior. For example, a speech recognition error that is repaired leaves information about a misclassification that could be used to improve subsequent accuracy. Exploiting such situations (and in fact contriving to create them) can provide a rich set of experiences that drive self-improving systems
+
+Automatic detection and recovery from error: Humans easily detect and recover from breakdowns in communication. Automatic systems are less successful at this, however we can use features of recognition, understanding and dialog to predict the likelihood of misunderstanding at a given point in an interaction, and then apply heuristic strategies for guiding the conversation back onto track.
+Answer: "
+What are Carolyn Rosé's main research areas?,['carolyn_rose.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What are Carolyn Rosé's main research areas?
+Context: Carolyn Rosé
+Professor, Language Technologies Institute
+Human-Computer Interaction Institute
+Contact
+5415 —Gates & Hillman Centers
+Email
+412-268-7130
+Research Area
+Computer-Supported Collaborative Learning/MOOCs, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+
+Education
+Ph.D. in Language and Information Technology
+1997
+Employer Upon Graduation: 
+Faculty, LTI CMU
+Research
+My research focuses on better understanding the social and pragmatic nature of conversation, and using this understanding to build computational systems that improve the efficacy of conversation both between people, and between people and computers. In order to pursue these goals, I invoke approaches from computational discourse analysis and text mining, conversational agents, and computer-supported collaborative learning. I ground my research in the fields of language technologies and human-computer interaction, and am fortunate to work closely with students and post-docs from the LTI and the Human-Computer Interaction Institute, as well as to direct my own lab, TELEDIA.
+Answer: "
+What is Carolyn Rosé's research goal?,['carolyn_rose.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Carolyn Rosé's research goal?
+Context: Carolyn Rosé
+Professor, Language Technologies Institute
+Human-Computer Interaction Institute
+Contact
+5415 —Gates & Hillman Centers
+Email
+412-268-7130
+Research Area
+Computer-Supported Collaborative Learning/MOOCs, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+
+Education
+Ph.D. in Language and Information Technology
+1997
+Employer Upon Graduation: 
+Faculty, LTI CMU
+Research
+My research focuses on better understanding the social and pragmatic nature of conversation, and using this understanding to build computational systems that improve the efficacy of conversation both between people, and between people and computers. In order to pursue these goals, I invoke approaches from computational discourse analysis and text mining, conversational agents, and computer-supported collaborative learning. I ground my research in the fields of language technologies and human-computer interaction, and am fortunate to work closely with students and post-docs from the LTI and the Human-Computer Interaction Institute, as well as to direct my own lab, TELEDIA.
+Answer: "
+How does Carolyn Rosé support learning in MOOCs?,['carolyn_rose.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: How does Carolyn Rosé support learning in MOOCs?
+Context: Carolyn Rosé
+Professor, Language Technologies Institute
+Human-Computer Interaction Institute
+Contact
+5415 —Gates & Hillman Centers
+Email
+412-268-7130
+Research Area
+Computer-Supported Collaborative Learning/MOOCs, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+
+Education
+Ph.D. in Language and Information Technology
+1997
+Employer Upon Graduation: 
+Faculty, LTI CMU
+Research
+My research focuses on better understanding the social and pragmatic nature of conversation, and using this understanding to build computational systems that improve the efficacy of conversation both between people, and between people and computers. In order to pursue these goals, I invoke approaches from computational discourse analysis and text mining, conversational agents, and computer-supported collaborative learning. I ground my research in the fields of language technologies and human-computer interaction, and am fortunate to work closely with students and post-docs from the LTI and the Human-Computer Interaction Institute, as well as to direct my own lab, TELEDIA.
+Answer: "
+What are Bhiksha Raj's main research areas?,['bhiksha_raj.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What are Bhiksha Raj's main research areas?
+Context: Bhiksha Raj
+Professor, Language Technologies Institute
+Contact
+6705 —Gates & Hillman Centers
+Email bhiksha@cs.cmu.edu
+412-268-9826
+Research Area
+Machine Learning, Multimodal Computing and Interaction, Privacy and Security, Speech Processing, Spoken Interfaces and Dialogue Processing
+
+http://mlsp.cs.cmu.edu/people/bhiksha/index.php
+Answer: "
+Where does Kemal Oflazer teach?,['kemal_oflazer.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Where does Kemal Oflazer teach?
+Context: Kemal Oflazer
+Teaching Professor, Language Technologies Institute
+Computer Science Department
+Contact
+1009 —Carnegie Mellon - Qatar Campus
+Email
+Computer Science - Qatar https://www.qatar.cmu.edu/academics-research/academics/computer-science/#/?feed=news&category=49&limit=3&featuredCategory=49&page=1
+Personal Website https://www.andrew.cmu.edu/user/ko/
+Answer: "
+What are Eric Nyberg's research areas?,['eric_nyberg.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What are Eric Nyberg's research areas?
+Context: Eric Nyberg
+Professor, Language Technologies Institute
+Research Area
+Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education
+
+https://www.cs.cmu.edu/~ehn/
+6715 —Gates & Hillman Centers
+Email ehn@cs.cmu.edu
+412-268-7281
+Answer: "
+What are Graham Neubig's research areas?,['graham_neubig.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What are Graham Neubig's research areas?
+Context: Graham Neubig
+Associate Professor, Language Technologies Institute
+Research Area
+Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics, Spoken Interfaces and Dialogue Processing
+
+Education
+Master of Science in Intelligent Information Systems
+Research
+My research is concerned with language and its role in human communication. In particular, my long-term research goal is to break down barriers in human-human or human-machine communication through the development of natural language processing (NLP) technologies. This includes the development of technology for machine translation, which helps break down barriers in communication for people who speak different languages, and natural language understanding, which helps computers understand and respond to human language. Within this overall goal of breaking down barriers to human communication, I have focused on several aspects of language that both make it interesting as a scientific subject, and hold potential for the construction of practical systems.
+
+Advances in core NLP technology: Human language is complex and nuanced, and handling this complexity in a computational way requires sophisticated algorithms or learning techniques, the development of which is far from a solved problem. The first major area of my work focuses on advances in core NLP technology, which improve the accuracy with which we can analyze, translate, generate, or reply to textual inputs.
+Answer: "
+What is Graham Neubig's research goal?,['graham_neubig.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Graham Neubig's research goal?
+Context: Graham Neubig
+Associate Professor, Language Technologies Institute
+Research Area
+Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics, Spoken Interfaces and Dialogue Processing
+
+Education
+Master of Science in Intelligent Information Systems
+Research
+My research is concerned with language and its role in human communication. In particular, my long-term research goal is to break down barriers in human-human or human-machine communication through the development of natural language processing (NLP) technologies. This includes the development of technology for machine translation, which helps break down barriers in communication for people who speak different languages, and natural language understanding, which helps computers understand and respond to human language. Within this overall goal of breaking down barriers to human communication, I have focused on several aspects of language that both make it interesting as a scientific subject, and hold potential for the construction of practical systems.
+
+Advances in core NLP technology: Human language is complex and nuanced, and handling this complexity in a computational way requires sophisticated algorithms or learning techniques, the development of which is far from a solved problem. The first major area of my work focuses on advances in core NLP technology, which improve the accuracy with which we can analyze, translate, generate, or reply to textual inputs.
+Answer: "
+Where does Graham Neubig work?,['graham neubig_9bce3661f01825ad56dc9d2b3d254fd9e3792360_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Where does Graham Neubig work?
+Context: Faculty Name: graham neubig
+Paperid: 9bce3661f01825ad56dc9d2b3d254fd9e3792360
+Title: Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach
+Year: 2023
+Abstract: Humans work together to solve common problems by having discussions, explaining, and agreeing or disagreeing with each other. Similarly, if a system can have discussions with humans when solving tasks, it can improve the system's performance and reliability. In previous research on explainability, it has only been possible for the system to make predictions and for humans to ask questions about them rather than having a mutual exchange of opinions. This research aims to create a dataset and computational framework for systems that discuss and refine their predictions through dialogue. Through experiments, we show that the proposed system can have beneficial discussions with humans improving the accuracy by up to 25 points in the natural language inference task.
+Answer: "
+What degree does David Mortensen have?,['david_mortensen.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What degree does David Mortensen have?
+Context: David Mortensen
+Assistant Research Professor, Language Technologies Institute
+Research Area
+Corpus Annotation and Resources, Natural Language Processing and Computational Linguistics
+Education
+Master of Science in Intelligent Information Systems
+https://www.cs.cmu.edu/~dmortens/
+5707 —Gates & Hillman Centers
+dmortens@cs.cmu.edu
+tel:412-268-2894
+Answer: "
+What is Morency's research intersection?,['louis_philippe_morency.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Morency's research intersection?
+Context: Louis-Philippe Morency
+Leonardo Associate Professor of Computer Science (On Leave), Language Technologies Institute
+Research Area
+Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing
+
+Research
+My research interest lies at the intersection of machine learning, computer vision, computational linguistics and signal processing — building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions. Human face-to-face communication is a little like a dance: participants continuously adjust their behaviors based on their interlocutor’s speech, gestures and facial expressions during social interaction. The actual sophistication of human communication comes to the fore when we try to create computers that can understand and participate, however crudely, in this type of social interaction.
+Answer: "
+What models did Morency create?,['louis_philippe_morency.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What models did Morency create?
+Context: These energy-based probabilistic models must address core computational issues with human communication dynamics, including hierarchical and nonlinear feature representation, multiview learning and potential over fitting on smaller training sets. For example, I created a family of latent probabilistic models (HCRF, LDCRF, CCNF, etc.) designed to automatically learn the hidden dynamics present in human verbal and nonverbal communication.
+
+Health Behavior Informatics
+This research has many applications in education (learning analytics), business (negotiation, interpersonal skills training) and social multimedia (opinion mining, social influence). One area I am particularly excited about is the development of new decision support tools for healthcare applications. For example, how can we quantify, analyze and summarize patient verbal and nonverbal behaviors during psychotherapy? This information could not only help clinicians between therapy sessions but also facilitate collaboration with other medical team members by providing objective behavior measures for the patient’s medical record.
+
+Personal Website http://www.cs.cmu.edu/~morency/
+Contact 5411 —Gates & Hillman Centers
+morency@cs.cmu.edu
+tel:412-268-5508
+Answer: "
+What is Morency's application focus?,['louis philippe morency_f891e9eeedbf20cdc54429ffcc0402a10f48494e_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is Morency's application focus?
+Context: Faculty Name: louis philippe morency
+Paperid: f891e9eeedbf20cdc54429ffcc0402a10f48494e
+Title: Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions
+Year: 2023
+Abstract: Societal biases present in pre-trained large language models are a critical issue as these models have been shown to propagate biases in countless downstream applications, rendering them unfair towards specific groups of people. Since large-scale retraining of these models from scratch is both time and compute-expensive, a variety of approaches have been previously proposed that de-bias a pre-trained model. While the majority of current state-of-the-art debiasing methods focus on changes to the training regime, in this paper, we propose data intervention strategies as a powerful yet simple technique to reduce gender bias in pre-trained models. Specifically, we empirically show that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is significantly reduced.
+Answer: "
+Who focuses on Speech Processing in their research?,['alexander_rudnicky.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who focuses on Speech Processing in their research?
+Context: Alexander Rudnicky
+Research Professor Emeritus, Language Technologies Institute
+Contact
+6511 —Gates & Hillman Centers
+Email alex.rudnicky@cs.cmu.edu
+412-268-2622
+Research Area
+Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+
+Research
+My research centers on interactive systems that use speech. I am currently interested in the following problems:
+
+Implicit Learning : Human-computer interaction generates information that the system could use to modify its behavior. For example, a speech recognition error that is repaired leaves information about a misclassification that could be used to improve subsequent accuracy. Exploiting such situations (and in fact contriving to create them) can provide a rich set of experiences that drive self-improving systems
+
+Automatic detection and recovery from error: Humans easily detect and recover from breakdowns in communication. Automatic systems are less successful at this, however we can use features of recognition, understanding and dialog to predict the likelihood of misunderstanding at a given point in an interaction, and then apply heuristic strategies for guiding the conversation back onto track.
+Answer: "
+Name professors who have contributed to Computational AI?,['scott_fahlman.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Name professors who have contributed to Computational AI?
+Context: Scott Fahlman
+Professor Emeritus, Language Technologies Institute
+Computer Science Department
+Research Area
+AI, Knowledge Representation and Reasoning, Natural Language Processing and Computational Linguistics
+Research
+I am interested in artificial intelligence and its application to real-world problems. Over the years, I have worked in many areas of AI, including knowledge representation, planning, image processing, machine learning, massively parallel approaches to search and inference, and the development of improved learning algorithms for artificial neural networks.
+My current project is Scone, an open-source knowledge representation system and inference engine that can be used as a component in a variety of knowledge-based systems. Scone puts particular emphasis on efficiency, scalability (up to millions of entities and statements) and ease of use. One goal of our research is to support natural-language understanding, all the way from text or speech to a language-independent representation that we can reason about. This requires extensive use of background knowledge not included in the text itself. We are also working to extend Scone's capabilities for ""episodic"" representation and reasoning, by which we mean actions, events, sequences of actions, plans, goals and explanations.
+Answer: "
+What paper introduces SPAE for multimodal generation with frozen LLMs?,['alexander hauptmann_376f494126d1ea4f571ea0263c43ac2b6331800a_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What paper introduces SPAE for multimodal generation with frozen LLMs?
+Context: Faculty Name: alexander hauptmann
+Paperid: 376f494126d1ea4f571ea0263c43ac2b6331800a
+Title: SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+Year: 2023
+Abstract: In this work, we introduce Semantic Pyramid AutoEncoder (SPAE) for enabling frozen LLMs to perform both understanding and generation tasks involving non-linguistic modalities such as images or videos. SPAE converts between raw pixels and interpretable lexical tokens (or words) extracted from the LLM's vocabulary. The resulting tokens capture both the semantic meaning and the fine-grained details needed for visual reconstruction, effectively translating the visual content into a language comprehensible to the LLM, and empowering it to perform a wide array of multimodal tasks. Our approach is validated through in-context learning experiments with frozen PaLM 2 and GPT 3.5 on a diverse set of image understanding and generation tasks. Our method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image understanding tasks, under the same setting, by over 25%.
+Answer: "
+Which 2023 paper by Yonatan Bisk focuses on open-vocabulary mobile manipulation?,['yonatan bisk_papers.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which 2023 paper by Yonatan Bisk focuses on open-vocabulary mobile manipulation?
+Context: List of 2023 Open Access papers by yonatan bisk are:
+SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+HomeRobot: Open-Vocabulary Mobile Manipulation
+Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents
+MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+Reasoning about the Unseen for Efficient Outdoor Object Navigation
+The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment
+WebArena: A Realistic Web Environment for Building Autonomous Agents
+Computational Language Acquisition with Theory of Mind
+Answer: "
+What is the title of Yonatan Bisk's work on learning multi-sensory object property representations?,['yonatan bisk_69b8cd15966c4c9c3e44e71769e557f1c87fb3f9_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is the title of Yonatan Bisk's work on learning multi-sensory object property representations?
+Context: Faculty Name: yonatan bisk
+Paperid: 69b8cd15966c4c9c3e44e71769e557f1c87fb3f9
+Title: MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+Year: 2023
+Abstract: A holistic understanding of object properties across diverse sensory modalities (e.g., visual, audio, and haptic) is essential for tasks ranging from object categorization to complex manipulation. Drawing inspiration from cognitive science studies that emphasize the significance of multi-sensory integration in human perception, we introduce MOSAIC (Multimodal Object property learning with Self-Attention and Interactive Comprehension), a novel framework designed to facilitate the learning of unified multi-sensory object property representations. While it is undeniable that visual information plays a prominent role, we acknowledge that many fundamental object properties extend beyond the visual domain to encompass attributes like texture, mass distribution, or sounds, which significantly influence how we interact with objects. In MOSAIC, we leverage this profound insight by distilling knowledge from multimodal foundation models and aligning these representations not only across vision but also haptic and auditory sensory modalities.
+Answer: "
+Which paper by Jamie Callan discusses conversational search using random walks?,['jamie callan_papers.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which paper by Jamie Callan discusses conversational search using random walks?
+Context: List of 2023 Open Access papers by jamie callan are:
+Conversational Search with Random Walks over Entity Graphs
+KALE: Using a K-Sparse Projector for Lexical Expansion
+CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms
+Active Retrieval Augmented Generation
+Multi-Objective Improvement of Android Applications
+Answer: "
+What does KALE stand for in Jamie Callan's 2023 paper?,['jamie callan_1e0a4ff0c5d2d850ff5907e310ffcedc9cad9718_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What does KALE stand for in Jamie Callan's 2023 paper?
+Context: Faculty Name: jamie callan
+Paperid: 1e0a4ff0c5d2d850ff5907e310ffcedc9cad9718
+Title: KALE: Using a K-Sparse Projector for Lexical Expansion
+Year: 2023
+Abstract: Recent research has proposed retrieval approaches based on sparse representations and inverted indexes, with terms produced by neural language models and leveraging the advantages from both neural retrieval and lexical matching. This paper proposes KALE, a new lightweight method of this family that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary. The KALE vocabulary captures semantic concepts than perform well when used in isolation, and perform better when extending the original lexical vocabulary, this way improving first-stage retrieval accuracy. Experiments with the MSMARCOv1 passage retrieval dataset, the TREC Deep Learning dataset, and BEIR datasets, examined the effectiveness of KALE under varying conditions. Results show that the KALE terms can replace the original lexical vocabulary, with gains in accuracy and efficiency.
+Answer: "
+Name the paper by Jamie Callan that focuses on sparse lexical retrieval.,['jamie callan_papers.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Name the paper by Jamie Callan that focuses on sparse lexical retrieval.
+Context: List of 2023 Open Access papers by jamie callan are:
+Conversational Search with Random Walks over Entity Graphs
+KALE: Using a K-Sparse Projector for Lexical Expansion
+CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms
+Active Retrieval Augmented Generation
+Multi-Objective Improvement of Android Applications
+Answer: "
+Which faculty member released 0 open access papers in 2023?,['ralf brown_papers.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which faculty member released 0 open access papers in 2023?
+Context: List of 2023 Open Access papers by ralf brown are: 0
+Answer: "
+What 2023 paper by Graham Neubig discusses few-shot clustering with LLMs?,['graham neubig_8e8a1489bf4d782d2435cdeb93f7d1f165747c63_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What 2023 paper by Graham Neubig discusses few-shot clustering with LLMs?
+Context: Faculty Name: graham neubig
+Paperid: 8e8a1489bf4d782d2435cdeb93f7d1f165747c63
+Title: Large Language Models Enable Few-Shot Clustering
+Year: 2023
+Abstract: Unlike traditional unsupervised clustering, semi-supervised clustering allows users to provide meaningful structure to the data, which helps the clustering algorithm to match the user's intent. Existing approaches to semi-supervised clustering require a significant amount of feedback from an expert to improve the clusters. In this paper, we ask whether a large language model can amplify an expert's guidance to enable query-efficient, few-shot semi-supervised text clustering. We show that LLMs are surprisingly effective at improving clustering. We explore three stages where LLMs can be incorporated into clustering: before clustering (improving input features), during clustering (by providing constraints to the clusterer), and after clustering (using LLMs post-correction). We find incorporating LLMs in the first two stages can routinely provide significant improvements in cluster quality, and that LLMs enable a user to make trade-offs between cost and accuracy to produce desired clusters.
+Answer: "
+Who are the co-authors of Eric Nyberg's 2023 paper on multilingual QA?,['eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Who are the co-authors of Eric Nyberg's 2023 paper on multilingual QA?
+Context: Faculty Name: eric nyberg
+Paperid: 444737639aeea4e1e616509e368afb0bae8f89d6
+Title: Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+Year: 2023
+Abstract: The DialDoc 2023 shared task has expanded the document-grounded dialogue task to encompass multiple languages, despite having limited annotated data. This paper assesses the effectiveness of both language-agnostic and language-aware paradigms for multilingual pre-trained transformer models in a bi-encoder-based dense passage retriever (DPR), concluding that the language-agnostic approach is superior. Additionally, the study investigates the impact of query rewriting techniques using large language models, such as ChatGPT, on multilingual, document-grounded question-answering systems. The experiments conducted demonstrate that, for the examples examined, query rewriting does not enhance performance compared to the original queries. This failure is due to topic switching in final dialogue turns and irrelevant topics being considered for query rewriting.
+Answer: "
+Where was Eric Nyberg's 2023 paper on language-agnostic transformers presented?,['eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Where was Eric Nyberg's 2023 paper on language-agnostic transformers presented?
+Context: Faculty Name: eric nyberg
+Paperid: 444737639aeea4e1e616509e368afb0bae8f89d6
+Title: Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+Year: 2023
+Abstract: The DialDoc 2023 shared task has expanded the document-grounded dialogue task to encompass multiple languages, despite having limited annotated data. This paper assesses the effectiveness of both language-agnostic and language-aware paradigms for multilingual pre-trained transformer models in a bi-encoder-based dense passage retriever (DPR), concluding that the language-agnostic approach is superior. Additionally, the study investigates the impact of query rewriting techniques using large language models, such as ChatGPT, on multilingual, document-grounded question-answering systems. The experiments conducted demonstrate that, for the examples examined, query rewriting does not enhance performance compared to the original queries. This failure is due to topic switching in final dialogue turns and irrelevant topics being considered for query rewriting.
+Answer: "
+What is the TLDR of Nyberg's 2023 paper on multilingual document-grounded QA?,['eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What is the TLDR of Nyberg's 2023 paper on multilingual document-grounded QA?
+Context: Faculty Name: eric nyberg
+Paperid: 444737639aeea4e1e616509e368afb0bae8f89d6
+Title: Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+Year: 2023
+Abstract: The DialDoc 2023 shared task has expanded the document-grounded dialogue task to encompass multiple languages, despite having limited annotated data. This paper assesses the effectiveness of both language-agnostic and language-aware paradigms for multilingual pre-trained transformer models in a bi-encoder-based dense passage retriever (DPR), concluding that the language-agnostic approach is superior. Additionally, the study investigates the impact of query rewriting techniques using large language models, such as ChatGPT, on multilingual, document-grounded question-answering systems. The experiments conducted demonstrate that, for the examples examined, query rewriting does not enhance performance compared to the original queries. This failure is due to topic switching in final dialogue turns and irrelevant topics being considered for query rewriting.
+Answer: "
+Which grants supported Fernando Diaz's 2023 study on pneumococcal vaccines?,['fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: Which grants supported Fernando Diaz's 2023 study on pneumococcal vaccines?
+Context: Interestingly, this phenotype only affected adjuvanted vaccine responses, providing an opportunity for precision vaccinology for pneumococcus disease.
+ Supported by grants from National Institute of Health (R35 GM124922, R01 AG052608) and JAX cancer center (JAX-CC).
+Authors: S. Ravichandran, F. E. Díaz, Onur E Karakaslar, R. Marches, Robert J. Rossi, M. Nahm, D. Chaussabel, G. Kuchel, J. Banchereau, D. Ucar
+Venue: Journal of Immunology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This is the first study to uncover older adults’ responses to two pneumococcal vaccines; an activated immune phenotype of Th and NK cell subsets that impedes responses to Prevnar is uncovered.'}
+Url: https://journals.aai.org/jimmunol/article-pdf/210/1_Supplement/252.03/1632514/252_03.pdf
+Answer: "
+What significance does Fernando Diaz's 2023 paper hold regarding pneumococcal vaccines?,['fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What significance does Fernando Diaz's 2023 paper hold regarding pneumococcal vaccines?
+Context: Faculty Name: fernando diaz
+Paperid: a76e7e394112a26116446a2920467a2702de5f56
+Title: Pre-vaccination CD56 dimCD16 +NK cell abundance and T h1/T h17 ratio predict responsiveness to conjugated pneumococcal vaccine in older adults
+Year: 2023
+Abstract: 
+ Older adults are at high risk of morbidity and mortality from Streptococcus pneumoniae (pneumococcus) infections. There are two available vaccines for pneumococcus: T-cell-independent capsular polysaccharide Pneumovax and T-cell-dependent conjugated Prevnar. However, how older adults respond to these vaccines at the cellular level and whether there are baseline predictors for responsiveness, is not known. To address this, we recruited older adults (60+ yrs), who are vaccinated with Prevnar (n=19) or Pneumovax (n=20). Vaccine responsiveness was quantified using opsonophagocytic assays, which revealed that both vaccines induce strong responses. Interestingly, sex was associated with Prevnar responses, where women mounted stronger responses than men.
+Answer: "
+What predicts vaccine responsiveness in older adults according to Fernando Diaz's 2023 study?,['fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt'],"You are a helpful assistant. Answer the question concisely in 1-10 words using the context.
+Question: What predicts vaccine responsiveness in older adults according to Fernando Diaz's 2023 study?
+Context: Faculty Name: fernando diaz
+Paperid: a76e7e394112a26116446a2920467a2702de5f56
+Title: Pre-vaccination CD56 dimCD16 +NK cell abundance and T h1/T h17 ratio predict responsiveness to conjugated pneumococcal vaccine in older adults
+Year: 2023
+Abstract: 
+ Older adults are at high risk of morbidity and mortality from Streptococcus pneumoniae (pneumococcus) infections. There are two available vaccines for pneumococcus: T-cell-independent capsular polysaccharide Pneumovax and T-cell-dependent conjugated Prevnar. However, how older adults respond to these vaccines at the cellular level and whether there are baseline predictors for responsiveness, is not known. To address this, we recruited older adults (60+ yrs), who are vaccinated with Prevnar (n=19) or Pneumovax (n=20). Vaccine responsiveness was quantified using opsonophagocytic assays, which revealed that both vaccines induce strong responses. Interestingly, sex was associated with Prevnar responses, where women mounted stronger responses than men.
+Answer: "

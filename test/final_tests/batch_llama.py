@@ -97,4 +97,5 @@ def main():
         print(predicted_answers[i])
     
 if __name__ == '__main__':
-   main() 
+    pass
+    #main() 
