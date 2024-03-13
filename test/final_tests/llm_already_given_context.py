@@ -78,7 +78,7 @@ def t5_answers(prompts):
 from llama_cpp import Llama
 def llama_cpp_trial(prompts):
     llama = Llama(model_path="../../../models/llama-2-7b-chat.Q4_0.gguf", n_ctx=2048, n_gpu_layers=30)
-
+    answers = []
 
     for prompt in prompts:
         print("PROMPT=====")
@@ -91,7 +91,8 @@ def llama_cpp_trial(prompts):
         answer = response['choices'][0]['message']['content']
         print("LLAMA-7B PREDICTED ANSWER=====")
         print(answer)
-        
+        answers.append(answer)
+    return answers        
 
 
 #Function to generate predicted answers using Hugging Face model
@@ -162,7 +163,70 @@ def evaluation_metrics(ground_truth, predictions):
     print(f"Recall Score: {recall_score:.2f}")
     print(f"Partial Match (Jaccard Similarity): {partial_match_score:.2f}%")
     return f1_score, exact_match_score, recall_score
-    
+
+def read_from_log(filename):
+    answers = []
+    cur_answer = ''
+    start = 'LLAMA-7B PREDICTED ANSWER====='
+    end = "PROMPT====="
+    start_found  = False
+    with open(filename, 'r') as f:
+        for line in f:
+            #print(line)
+            if line.strip().strip('\n') == start and not start_found:
+                start_found=True
+            elif line.strip().strip('\n') == end:
+                start_found = False
+                if cur_answer != '':
+                    answers.append(cur_answer.strip().strip('\n'))
+                cur_answer = ''
+            elif start_found:
+                cur_answer+=line.strip().strip('\n')+'\n'
+                #print("cur_answer: ", cur_answer)
+    if not start_found:
+        start_found = False
+        answers.append(cur_answer.strip().strip('\n'))
+        cur_answer = ''
+        
+    return answers
+
+from transformers import BertModel, BertTokenizer
+import torch
+from torch.nn.functional import cosine_similarity
+
+def compute_answer_BERT_similarity(question, answers, predicted_answers):
+    # Initialize tokenizer and model
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    model = BertModel.from_pretrained('bert-base-uncased')
+
+    print(len(question), len(answers), len(predicted_answers))
+    print(question[-1], answers[-1], predicted_answers[-1])
+    # Storage for cosine similarities
+    similarities = []
+
+    for i in range(len(predicted_answers)):
+        # Format the ground truth and predicted strings
+        ground_truth = f"Q: {question[i]}\nA: {answers[i].strip().strip('\n')}"
+        predicted = f"Q: {question[i]}\nA: {predicted_answers[i].strip().strip('\n')}"
+
+        # Tokenize and encode both strings to BERT's format
+        tokens_truth = tokenizer(ground_truth, return_tensors='pt', padding=True, truncation=True)
+        tokens_pred = tokenizer(predicted, return_tensors='pt', padding=True, truncation=True)
+
+        # Get BERT embeddings
+        with torch.no_grad():
+            embeddings_truth = model(**tokens_truth).last_hidden_state.mean(dim=1)
+            embeddings_pred = model(**tokens_pred).last_hidden_state.mean(dim=1)
+
+        # Compute cosine similarity
+        similarity = cosine_similarity(embeddings_truth, embeddings_pred).item()
+        similarities.append(similarity)
+
+    # Compute overall similarity score
+    overall_similarity = sum(similarities) / len(similarities) * 100  # Scale to 100
+
+    return overall_similarity
+
 # Main function
 def main():
     # Read data
@@ -180,11 +244,16 @@ def main():
     prompts = generate_prompts(data, directory)
 
     # Generate predicted answers
-    predicted_answers = llama_cpp_trial(prompts)
+    #predicted_answers = llama_cpp_trial(prompts)
+    predicted_answers = read_from_log('answer_log.txt')
+    print("predicted answers===")
+    print(predicted_answers)
 
     # Evaluate metrics
     f1, accuracy, recall = evaluation_metrics(answers, predicted_answers)
 
+    semantic_similarity = compute_answer_BERT_similarity(questions, answers, predicted_answers)
+    print("semantic similarity :", semantic_similarity)
     # Print metrics
     #print("F1 Score:", f1)
     #print("Exact Match Accuracy:", accuracy)
