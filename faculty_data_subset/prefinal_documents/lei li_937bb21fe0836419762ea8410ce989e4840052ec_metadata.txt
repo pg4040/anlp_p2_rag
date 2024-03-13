@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 937bb21fe0836419762ea8410ce989e4840052ec
+Title: Wavefront shaping improves the transparency of the scattering media: a review
+Year: 2023
+Abstract: Abstract. Significance Wavefront shaping (WFS) can compensate for distortions by optimizing the wavefront of the input light or reversing the transmission matrix of the media. It is a promising field of research. A thorough understanding of principles and developments of WFS is important for optical research. Aim To provide insight into WFS for researchers who deal with scattering in biomedicine, imaging, and optical communication, our study summarizes the basic principles and methods of WFS and reviews recent progress. Approach The basic principles, methods of WFS, and the latest applications of WFS in focusing, imaging, and multimode fiber (MMF) endoscopy are described. The practical challenges and prospects of future development are also discussed. Results Data-driven learning-based methods are opening up new possibilities for WFS. High-resolution imaging through MMFs can support small-diameter endoscopy in the future. Conclusion The rapid development of WFS over the past decade has shown that the best solution is not to avoid scattering but to find ways to correct it or even use it. WFS with faster speed, more optical modes, and more modulation degrees of freedom will continue to drive exciting developments in various fields.
+Authors: Chunxu Ding, Rongjun Shao, Qiaozhi He, Lei S Li, Jiamiao Yang
+Venue: Journal of Biomedical Optics
+Tldr: None
+Url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-29/issue-S1/S11507/Wavefront-shaping-improves-the-transparency-of-the-scattering-media/10.1117/1.JBO.29.S1.S11507.pdf

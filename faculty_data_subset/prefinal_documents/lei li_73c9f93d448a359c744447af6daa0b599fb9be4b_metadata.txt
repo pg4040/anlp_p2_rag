@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 73c9f93d448a359c744447af6daa0b599fb9be4b
+Title: Optimizing Heat Treatment to Improve the Microstructures and Mechanical Properties of 5CrNiMoV Steel
+Year: 2023
+Abstract: A strategy combining intercritical quenching, pre-tempering, and tempering processes was implemented to optimize the microstructures and mechanical properties of 5CrNiMoV steel. By intercritically quenching at 1050 °C, pr-tempering at 600 °C, and tempering at 550 °C, the steel exhibited a comprehensive performance with a yield strength of 1120 MPa, an ultimate tensile strength of 1230 MPa, and an elongation of 8.2%. The high strength of the steel is attributed to the presence of tempered martensite and abundant secondary carbides. The favorable ductility is mainly provided by the pearlite inherited from intercritical quenching and tempering. Additionally, the precipitation of secondary carbides not only enhances precipitation strengthening, but also reduces the dislocation density and lattice strain of the matrix, thereby enhancing strength and ductility. This study offers a scheme for producing strong and ductile 5CrNiMoV steel.
+Authors: Wanhui Huang, Li-sheng Lei, G. Fang
+Venue: Metals
+Tldr: None
+Url: https://www.mdpi.com/2075-4701/13/7/1263/pdf?version=1689243786

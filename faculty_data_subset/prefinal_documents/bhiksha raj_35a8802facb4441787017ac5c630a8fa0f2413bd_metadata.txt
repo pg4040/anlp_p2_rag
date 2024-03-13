@@ -1,0 +1,9 @@
+Faculty Name: bhiksha raj
+Paperid: 35a8802facb4441787017ac5c630a8fa0f2413bd
+Title: Prolonged school closure during the pandemic time in successive waves of COVID-19- vulnerability of children to sexual abuses – A case study in Tamil Nadu, India
+Year: 2023
+Abstract: None
+Authors: Kandaswamy Paramasivan, B. Raj, Nandan Sudarasanam, R. Subburaj
+Venue: Heliyon
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Considering that the median delay in filing CSA complaints was above 30 days in the mild and post-intervention periods, the upsurge of cases in the more relaxed phases indicates increased occurrences of CSA during strict lockdowns.'}
+Url: http://www.cell.com/article/S2405844023050739/pdf

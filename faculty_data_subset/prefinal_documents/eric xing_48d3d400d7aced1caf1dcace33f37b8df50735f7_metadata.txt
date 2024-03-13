@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 48d3d400d7aced1caf1dcace33f37b8df50735f7
+Title: Special issue on wearable robots and intelligent device
+Year: 2023
+Abstract: None
+Authors: Xin Wu, S. Bai, L. O’Sullivan
+Venue: Biomimetic Intelligence and Robotics
+Tldr: None
+Url: N/A

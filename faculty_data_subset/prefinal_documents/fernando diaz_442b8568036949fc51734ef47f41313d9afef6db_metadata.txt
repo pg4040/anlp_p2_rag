@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: 442b8568036949fc51734ef47f41313d9afef6db
+Title: Discordance Between Social Vulnerability and Cancer-Related Mortality in Border Counties - A Letter to the Editor Regarding “Local Social Vulnerability as a Predictor for Cancer-Related Mortality Among US Counties”
+Year: 2023
+Abstract: This letter to the editor remarks on results of a recently published study and highlights the need for multinational and interinstitutional registries so health departments in the US and Latin American countries can accurately capture cancer incidence and mortality data.
+Authors: M. LaPelusa, F. Diaz, Patricia Mae G Santos, H. Verduzco-Aguirre, E. Soto-Pérez-de-Celis
+Venue: The Oncologist
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyad271/51791454/oyad271.pdf

@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: a2a5830e49b94349f4ff7d672fa6693888e54b82
+Title: Magnetism and topological property in icosahedral quasicrystal
+Year: 2023
+Abstract: Quasicrystal (QC) has no periodicity but has a unique rotational symmetry forbidden in periodic crystals. Lack of microscopic theory of the crystalline electric field (CEF) in the QC and approximant crystal (AC) has prevented us from understanding the electric property, especially the magnetism. By developing the general formulation of the CEF in the rare-earth based QC and AC, we have analyzed the CEF in the QC Au-SM-Tb and AC (SM=Si, Ge, and Ga). The magnetic anisotropy arising from the CEF plays an important role in realizing unique magnetic states on the icosahedron (IC). By constructing the minimal model with the magnetic anisotropy, we have analyzed the ground-state properties of the IC, 1/1 AC, and QC. The hedgehog state is characterized by the topological charge of one and the whirling-moment state is characterized by the topological charge of three. The uniform arrangement of the ferrimagnetic state is stabilized in the QC with the ferromagnetic (FM) interaction, which is a candidate for the magnetic structure recently observed FM long-range order in the QC Au-Ga-Tb. The uniform arrangement of the hedgehog state is stabilized in the QC with the antiferromagnetic interaction, which suggests the possibility of the topological magnetic long-range order.
+Authors: S. Watanabe
+Venue: Journal of Physics: Conference Series
+Tldr: None
+Url: https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012011/pdf

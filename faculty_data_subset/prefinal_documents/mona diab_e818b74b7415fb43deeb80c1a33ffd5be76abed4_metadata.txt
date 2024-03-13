@@ -1,0 +1,9 @@
+Faculty Name: mona diab
+Paperid: e818b74b7415fb43deeb80c1a33ffd5be76abed4
+Title: A Combination of Ruthenium Complexes and Photosensitizers to Treat Colorectal Cancer
+Year: 2023
+Abstract: Treatment regimens are regularly evolving alongside novel therapies and drugs. Such evolution is necessary to circumvent resistance mechanisms and to give patients the best possible health care. When dealing with cancer, most regimens involve multiple treatments (surgery, radiation therapy, chemotherapy, immunotherapy, etc.). The purpose of this study was to associate in a single compound metal-based drugs and photosensitizers to combine chemotherapy and photodynamic therapy. Two arene–ruthenium tetrapyridylporphyrin compounds (2H-TPyP-arene-Ru and Zn-TPyP-arene-Ru) have been synthesized and evaluated on two colorectal cancer cell lines (HCT116 and HT-29). Their cytotoxicity and phototoxicity have been evaluated. In addition, the anticancer mechanism and the cell death process mediated by the two compounds were studied. The results showed that the two arene–ruthenium photosensitizer-containing complexes have a strong phototoxic effect after photoactivation. The 2H-TPyP-arene-Ru complex induced outstanding cytotoxicity when compared to the Zn-TPyP-arene-Ru analogue. Moreover, under light, these two arene–ruthenium photosensitizers induce an apoptotic process in human colorectal cancer cell lines.
+Authors: Jacquie Massoud, A. Pinon, M. Gallardo-Villagrán, L. Paulus, Catherine Ouk, Claire Carrion, Sayed Antoun, Mona Diab-Assaf, Bruno Therrien, B. Liagre
+Venue: Inorganics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Results showed that the two arene–ruthenium photosensitizer-containing complexes have a strong phototoxic effect after photoactivation, and induce an apoptotic process in human colorectal cancer cell lines.'}
+Url: https://www.preprints.org/manuscript/202309.1909/v1/download

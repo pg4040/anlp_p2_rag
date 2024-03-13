@@ -1,0 +1,17 @@
+Faculty Name: rita singh
+Paperid: b5d8e7e1e1543cf39b84cd894a6a899e086e058b
+Title: Mean Platelet Volume in Type 2 Diabetes: Correlation with Poor Glycaemic Control
+Year: 2023
+Abstract: Background: Diabetes is a global pandemic. Mean platelet volume (MPV) is an indicator of increased platelet activity, which is considered to play a role in the development of vascular complications in diabetes. Platelet volume is strongly and independently related with glycaemic control in Type 2 diabetes (T2D).
+
+Aim: To study the MPV in patients with T2D, and its correlation with HbA1c, duration of T2D, and microvascular complications.
+
+Methodology: This was a cross-sectional, observational study conducted at the Department of Medicine, Gandhi Medical College, Bhopal, India, during a period of 18 months on 300 patients with T2D. Blood glucose, HbA1c, MPV, fundoscopy, and 24-hour urine protein were done. Data were represented as mean+/-standard deviation and statistical analysis was done using SPSS software (IBM, Armonk, New York, USA).
+
+Results: The mean age of patients was 56.64±8.69 years, with 52% of the patients being females. Of these patients, 18.3% had HbA1c between 6.5–8.0%, 51.7% between 8.1–10.0% and the rest above 10.0%. A total of 51% of the patients had diabetes for 6–10 years of duration and 30% for more than 10 years. Patients with higher HbA1c level and prolonged duration of diabetes had higher MPV (p<0.001). Patients with advanced diabetic retinopathy changes and nephropathy also had higher MPV (p<0.05).
+
+Conclusion: Measurement of MPV in patients with T2D can be a useful and easily available prognostic marker, and hence assist clinicians to anticipate the occurrence of microvascular complications associated with the disease, especially in resource-poor settings, and reduce the burden of cost for the patient.
+Authors: Avarna Agarwal, Anita Arya, R. Saxena, Simmi Dube
+Venue: EMJ Diabetes
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Measurement of MPV in patients with T2D can be a useful and easily available prognostic marker, and hence assist clinicians to anticipate the occurrence of microvascular complications associated with the disease, especially in resource-poor settings, and reduce the burden of cost for the patient.'}
+Url: https://www.emjreviews.com/wp-content/uploads/2023/11/Mean-Platelet-Volume-in-Type-2-Diabetes.pdf

@@ -1,0 +1,9 @@
+Faculty Name: bhiksha raj
+Paperid: e2572e0adacfb116b19b25691e7f6b3749490a88
+Title: Training Audio Captioning Models without Audio
+Year: 2023
+Abstract: Automated Audio Captioning (AAC) is the task of generating natural language descriptions given an audio stream. A typical AAC system requires manually curated training data of audio segments and corresponding text caption annotations. The creation of these audio-caption pairs is costly, resulting in general data scarcity for the task. In this work, we address this major limitation and propose an approach to train AAC systems using only text. Our approach leverages the multimodal space of contrastively trained audio-text models, such as CLAP. During training, a decoder generates captions conditioned on the pretrained CLAP text encoder. During inference, the text encoder is replaced with the pretrained CLAP audio encoder. To bridge the modality gap between text and audio embeddings, we propose the use of noise injection or a learnable adapter, during training. We find that the proposed text-only framework performs competitively with state-of-the-art models trained with paired audio, showing that efficient text-to-audio transfer is possible. Finally, we showcase both stylized audio captioning and caption enrichment while training without audio or human-created text captions.
+Authors: Soham Deshmukh, Benjamin Elizalde, Dimitra Emmanouilidou, Bhiksha Raj, Rita Singh, Huaming Wang
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work proposes an approach to train AAC systems using only text, and finds that the proposed text-only framework performs competitively with state-of-the-art models trained with paired audio, showing that efficient text-to-audio transfer is possible.'}
+Url: https://arxiv.org/pdf/2309.07372

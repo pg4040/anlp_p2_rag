@@ -1,0 +1,9 @@
+Faculty Name: rita singh
+Paperid: 37e8e07d3ecfa43a1e64d48202c73f597e6f9fee
+Title: Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text
+Year: 2023
+Abstract: None
+Authors: Xiang Li, Jinglu Wang, Xiaohao Xu, Muqiao Yang, Fan Yang, Yizhou Zhao, Rita Singh, Bhiksha Raj
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: None
+Url: https://aclanthology.org/2023.emnlp-main.140.pdf

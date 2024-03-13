@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: c0bdff1f8bd63083641061a1996f844380f91b58
+Title: Antimicrobial properties of heterojunction BiSnSbO_6-ZnO composites in wastewater treatment
+Year: 2023
+Abstract: None
+Authors: J. Chen, M. Shan, Haojia Zhu, Shichuan Zhang, Jingmei Li, Leijiao Li
+Venue: Environmental science and pollution research international
+Tldr: None
+Url: https://www.researchsquare.com/article/rs-1747259/latest.pdf

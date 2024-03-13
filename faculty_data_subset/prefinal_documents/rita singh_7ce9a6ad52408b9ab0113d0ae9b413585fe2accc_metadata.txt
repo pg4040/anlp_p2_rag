@@ -1,0 +1,13 @@
+Faculty Name: rita singh
+Paperid: 7ce9a6ad52408b9ab0113d0ae9b413585fe2accc
+Title: Effect of myo-inositol and di-chiro inositol plus vitamin D supplementation during pregnancy on prevention of gestational diabetes: a multi-centric, prospective, randomized, double-blind clinical trial
+Year: 2023
+Abstract: Background: Aim of study was to evaluate the impact of myoinositol and D-chiro inositol plus vitamin D supplementation on the prevention of gestational diabetes mellitus (GDM) in pregnant women.
+Methods: In the multi-centric, prospective, randomised, double-blind clinical trial, either vitamin D alone (group I) or myoinositol and D-chiro inositol plus Vitamin D (group II) were administered to pregnant women from 12 weeks of gestation. The administration was continued until delivery to primigravids who were normoglycemic at 12 weeks of gestation and consented. From October 2018 to December 2019. A total of 1250 women were enrolled, and randomly allocated to either of the groups: 630 women in Group I and 620 in Group II. The allocation was blinded. The primary outcome was the rate of GDM as assessed by oral glucose tolerance test (OGTT) recommended by diabetes in pregnancy Study Group India (DIPSI), International Federation of Gynecology and Obstetrics (FIGO) and the Government of India, at first antenatal visit followed by at weeks 24 to 28 in both the groups.
+Results: The rate of GDM was found more in group I as compared to group II treated with myoinositol and D-chiro Inositol plus vitamin D, but the difference was not statistically significant (5.08% in group I and 3.22% in group II).
+Conclusions: In conclusion, an improved trend has been noticed in the reduction of the rate of GDM with myoinositol and D-chiro inositol plus vitamin D as compared to vitamin D alone. Myoinositol and D-chiro inositol plus vitamin D supplementation may be a good option for pregnant women to prevent the GDM occurrence especially in women having positive risk factors for GDM.
+ 
+Authors: H. Divakar, Sheetal S Joshi, V. Thobbi, Shobha Bembalgi, S. Gupte, V. Bhat, Rita Singh, Poorni Narayanan, Bhagyashri Kulkarni, Prachi Ahire, D. V., I. Manyonda
+Venue: International Journal of Reproduction Contraception Obstetrics and Gynecology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'An improved trend has been noticed in the reduction of the rate of GDM with myoinositol and D-chiro inositol plus vitamin D as compared to vitamin D alone, which may be a good option for pregnant women to prevent the GDM occurrence.'}
+Url: https://www.ijrcog.org/index.php/ijrcog/article/download/13237/8254

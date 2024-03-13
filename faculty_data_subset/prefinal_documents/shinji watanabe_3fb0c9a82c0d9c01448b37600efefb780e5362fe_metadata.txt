@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: 3fb0c9a82c0d9c01448b37600efefb780e5362fe
+Title: Crystalline electric field and magnetic anisotropy in Dy-based icosahedral quasicrystal and approximant
+Year: 2023
+Abstract: The lack of the theory of the crystalline electric field (CEF) in rare-earth based quasicrystal (QC) and approximant crystal (AC) has prevented us from understanding the electronic states. Recent success of the formulation of the CEF theory on the basis of the point charge model has made it possible to analyze the CEF microscopically. Here, by applying this formulation to the QC Au-SM-Dy (SM=Si, Ge, Al, and Ga) and AC, we theoretically analyze the CEF. In the Dy$^{3+}$ ion with $4f^9$ configuration, the CEF Hamiltonian is diagonalized by the basis set for the total angular momentum $J=15/2$. The ratio of the valences of the screened ligand ions $\alpha=Z_{\rm SM}/Z_{\rm Au}$ plays an important role in characterizing the CEF ground state. For $0\le\alpha<0.30$, the magnetic easy axis for the CEF ground state is shown to be perpendicular to the mirror plane. On the other hand, for $\alpha>0.30$, the magnetic easy axis is shown to be lying in the mirror plane and as $\alpha$ increases, the easy axis rotates to the clockwise direction in the mirror plane at the Dy site and tends to approach the pseudo 5 fold axis. Possible relevance of these results to experiments is discussed.
+Authors: S. Watanabe, T. Iwasaki
+Venue: Physical review B
+Tldr: None
+Url: https://arxiv.org/pdf/2307.11633

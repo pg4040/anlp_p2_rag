@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: ab84b84b4a9641a172f9874108fee07a9f92f988
+Title: E-Branchformer-Based E2E SLU Toward Stop on-Device Challenge
+Year: 2023
+Abstract: In this paper, we report our team’s study on track 2 of the Spoken Language Understanding Grand Challenge, which is a component of the ICASSP Signal Processing Grand Challenge 2023. The task is intended for on-device processing and involves estimating semantic parse labels from speech using a model with 15 million parameters. We use E2E E-Branchformer-based spoken language understanding model, which is more parameter controllable than cascade models, and reduced the parameter size through sequential distillation and tensor decomposition techniques. On the STOP dataset, we achieved an exact match accuracy of 70.9% under the tight constraint of 15 million parameters.
+Authors: Yosuke Kashiwagi, Siddhant Arora, Hayato Futami, Jessica Huynh, Shih-Lun Wu, Yifan Peng, Brian Yan, E. Tsunoo, Shinji Watanabe
+Venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'E2E E-Branchformer-based spoken language understanding model is used, which is more parameter controllable than cascade models, and the parameter size is reduced through sequential distillation and tensor decomposition techniques.'}
+Url: N/A

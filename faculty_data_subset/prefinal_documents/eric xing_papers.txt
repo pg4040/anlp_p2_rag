@@ -1,0 +1,86 @@
+List of 2023 Open Access papers by eric xing are:
+SlimPajama-DC: Understanding Data Combinations for LLM Training
+Fusing Models with Complementary Expertise
+Making Scalable Meta Learning Practical
+3D Open-vocabulary Segmentation with Foundation Models
+Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective
+One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning
+Defending Against Malicious Behaviors in Federated Learning with Blockchain
+Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming
+Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models
+KD-DLGAN: Data Limited Image Generation via Knowledge Distillation
+3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds
+Cuttlefish: Low-Rank Model Training without All the Tuning
+Does compressing activations help model parallel training?
+Federated Learning as Variational Inference: A Scalable Expectation Propagation Approach
+Memory-adaptive Depth-wise Heterogenous Federated Learning
+Identification of Nonlinear Latent Hierarchical Models
+StyleRF: Zero-Shot 3D Style Transfer of Neural Radiance Fields
+Judging LLM-as-a-judge with MT-Bench and Chatbot Arena
+Understanding Masked Autoencoders via Hierarchical Latent Variable Models
+LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers
+LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+FedNAR: Federated Optimization with Normalized Annealing Regularization
+US residents' preferences for sharing of electronic health record and genetic information: a discrete choice experiment.
+Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning
+GET: a foundation model of transcription across human cell types
+Contextualized Networks Reveal Heterogeneous Transcriptomic Regulation in Tumors at Sample-Specific Resolution
+Research on the Training Path of Live E-commerce Talents Oriented by Industry Development
+Recent progresses on the gamma-ray observations of DAMPE
+Effective Multi-Agent Deep Reinforcement Learning Control with Relative Entropy Regularization
+Convolutional Neural Network Measurement of Non-Fiducial Electrons Cosmic-Rays Using the DAMPE Experiment.
+Visible and Infrared Image Fusion of Forest Fire Scenes Based on Generative Adversarial Networks with Multi-Classification and Multi-Level Constraints
+The split delivery vehicle routing problem with time windows and three-dimensional loading constraints
+A Novel Definition of Fuzzy Difference on Non-increasing Fuzzy Real Numbers
+Analysis of Individual Cosmic-Ray Proton and Helium Fluxes towards PeV Energies with DAMPE
+The First LHAASO Catalog of Gamma-Ray Sources
+Machine Learning for Predicting Forest Fire Occurrence in Changsha: An Innovative Investigation into the Introduction of a Forest Fuel Factor
+ViT-Based Terrain Recognition System for wearable soft exosuit
+Carbon Flux with DAMPE Using Machine Learning Methods
+Acupuncture Alleviates CUMS-Induced Depression-Like Behaviors by Restoring Prefrontal Cortex Neuroplasticity
+Influence of sensor array on MS/AE source location accuracy in rock mass
+Gpr35 shapes gut microbial ecology to modulate hepatic steatosis.
+An innovative divertor concept, the fish tail divertor, for reducing the surface temperature on the divertor target plate in EAST tokamak experiments
+Special issue on wearable robots and intelligent device
+The response linearity of energy measurement up to TeV in the DAMPE experiment
+Characterization of Asphaltene Deposition Behavior in Diluted Heavy Oil under High-Pressure Conditions
+Practical Probabilistic Model-based Deep Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling
+Realization of thousand-second improved confinement plasma with Super I-mode in Tokamak EAST
+A new anti-colon cancer tumor pathway of Phenyllactic acid by reducing adhesion of Fusobacterium nucleatum
+Poverty Alleviation Resettlement and Household Natural Resources Dependence: A Case Study from Ankang Prefecture, China
+A study of Forbush Decreases effects with DAMPE experiment
+Direct measurement of Ne-Mg-Si nuclei in cosmic rays with DAMPE
+Probing hadronic cross sections in the TeV - PeV regime with DAMPE through machine learning techniques
+Point-like Source Catalog Observed by DAMPE
+DArk Matter Particle Explorer: 7 years in Space
+Observational signatures of Schwarzschild-MOG black holes in scalar–tensor–vector gravity: images of the accretion disk
+Evaluating emotional labor from a career management perspective
+Penetrating particle ANalyzer (PAN)
+POLAR-2, the next generation of GRB polarization detector
+Measurement of Heavy Nulei beyond Iron in Cosmic Rays with the DAMPE Experiment
+Recent Advances in Decellularized Extracellular Matrix-Based Bioinks for 3D Bioprinting in Tissue Engineering
+Evaluation of thermal comfort in air-conditioned rooms based on structure/control-related parameters and data-mining method
+Effects of Coupling Constants on Chaos of Charged Particles in the Einstein–Æther Theory
+A PCA-based Method for Electron-Proton Discrimination of the DAMPE Experiment
+Cosmic Ray Carbon and Oxygen Flux Measurements with the DAMPE Experiment
+Erratum: New insight into the shape coexistence and shape evolution of 
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mmultiscripts><mml:mi>Yb</mml:mi><mml:mprescripts /><mml:none /><mml:mn>157</mml:mn></mml:mmultiscripts></mml:math>
+ [Phys. Rev. C 
+<b>83</b>
+, 014318 (2011)]
+Applicability of the 0–1 test for chaos in magnetized Kerr–Newman spacetimes
+Measurements of the boron-to-carbon and boron-to-oxygen flux ratios in cosmic rays with DAMPE
+Integrating symbol similarities with knowledge graph embedding for entity alignment: an unsupervised framework
+Measurement of Ultra-High-Energy Diffuse Gamma-Ray Emission of the Galactic Plane from 10 TeV to 1 PeV with LHAASO-KM2A.
+Metasurface Deflector Enhanced Grating Coupler for Perfectly Vertical Coupling
+Forest Fire Smoke Detection Research Based on the Random Forest Algorithm and Sub-Pixel Mapping Method
+A Magnetically Controlled Guidewire Robot System with Steering and Propulsion Capabilities for Vascular Interventional Surgery
+Measurement of the p+He energy spectrum with the DAMPE space mission
+Study of hadronic cross-sections with cosmic ray Carbon from GeV to TeV by the DAMPE experiment
+Latest results on searching for fractionally charged particles with the DAMPE experiment
+Enhancing the Generalization for Text Classification through Fusion of Backward Features
+Evaluation of hydraulic fracturing of horizontal wells in tight reservoirs based on the deep neural network with physical constraints
+Exploring Fundamental Particle Acceleration and Loss Processes in Heliophysics through an Orbiting X-ray Instrument in the Jovian System
+Forest Cover Change Monitoring Using Sub-Pixel Mapping with Edge-Matching Correction
+Analysis of cosmic lithium, beryllium and boron with the DAMPE mission
+Energy-dependent polarization of Gamma-Ray Bursts' prompt emission with the POLAR and POLAR-2 instruments

@@ -1,0 +1,9 @@
+List of 2023 Open Access papers by yonatan bisk are:
+SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+HomeRobot: Open-Vocabulary Mobile Manipulation
+Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents
+MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+Reasoning about the Unseen for Efficient Outdoor Object Navigation
+The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment
+WebArena: A Realistic Web Environment for Building Autonomous Agents
+Computational Language Acquisition with Theory of Mind

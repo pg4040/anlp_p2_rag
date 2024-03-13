@@ -1,0 +1,9 @@
+Faculty Name: alexander hauptmann
+Paperid: 72cce47fd053bf916314d89a8174726c58c05e02
+Title: Towards Open-Domain Twitter User Profile Inference
+Year: 2023
+Abstract: ,
+Authors: Haoyang Wen, Zhenxin Xiao, E. Hovy, Alexander Hauptmann
+Venue: Annual Meeting of the Association for Computational Linguistics
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: https://aclanthology.org/2023.findings-acl.198.pdf

@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: edde6245557416c5911a5e29c5ea93bf2deabf1f
+Title: A Bibliometric Analysis on Cooperatives in Circular Economy and Eco-Innovation Studies
+Year: 2023
+Abstract: Cooperatives address societal challenges embracing values beyond mere profit-oriented production. Considering the ongoing shift to achieve efficient use of resources and increased circularity, cooperatives should be better equipped to incorporate circular economy (CE) and eco-innovation (EI) into their strategies (compared to regular enterprises). This paper reviews the scholarly literature focusing on the application of CE and EI within cooperative studies with the aim to understand the relationships between these topics, identify the existing scholarly communities, and to observe salient research themes. This study refined the method of van den Hoven and Rubalcaba (2016) to conduct a two-step bibliographic review of documents: a thematic analysis of citation data from Scopus (including a manual review of 16 papers) was followed by a bibliometric analysis of 101 documents from Web of Science (using R-Studio’s Biblioshiny). Our results identified three intellectual clusters of cooperative studies focusing on the downstream of CE: (1) industrial ecology; (2) recycling; and (3) waste management. Our study also revealed an emerging scholarly field focused on cooperatives and CE, and with little attention to EI. These findings aim at catalyzing the integration of cooperatives more effectively into scholarly discussions, suggesting that environmental sustainability should be recognized as an additional principle of the cooperative identity—providing a wider perspective that enhances interest in the research of these topics and their interconnections.
+Authors: Asia Guerreschi, Fernando J. Díaz López
+Venue: Sustainability
+Tldr: None
+Url: https://www.mdpi.com/2071-1050/15/21/15595/pdf?version=1699005682

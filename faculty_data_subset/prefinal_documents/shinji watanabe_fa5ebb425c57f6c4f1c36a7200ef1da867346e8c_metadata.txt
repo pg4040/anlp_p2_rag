@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: fa5ebb425c57f6c4f1c36a7200ef1da867346e8c
+Title: Speech collage: code-switched audio generation by collaging monolingual corpora
+Year: 2023
+Abstract: Designing effective automatic speech recognition (ASR) systems for Code-Switching (CS) often depends on the availability of the transcribed CS resources. To address data scarcity, this paper introduces Speech Collage, a method that synthesizes CS data from monolingual corpora by splicing audio segments. We further improve the smoothness quality of audio generation using an overlap-add approach. We investigate the impact of generated data on speech recognition in two scenarios: using in-domain CS text and a zero-shot approach with synthesized CS text. Empirical results highlight up to 34.4% and 16.2% relative reductions in Mixed-Error Rate and Word-Error Rate for in-domain and zero-shot scenarios, respectively. Lastly, we demonstrate that CS augmentation bolsters the model's code-switching inclination and reduces its monolingual bias.
+Authors: A. Hussein, Dorsa Zeinali, Ondrej Klejch, Matthew Wiesner, Brian Yan, Shammur A. Chowdhury, Ahmed Ali, Shinji Watanabe, S. Khudanpur
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': "Speech Collage is introduced, a method that synthesizes CS data from monolingual corpora by splicing audio segments that improves the smoothness quality of audio generation using an overlap-add approach and demonstrates that CS augmentation bolsters the model's code-switching inclination and reduces itsmonolingual bias."}
+Url: https://arxiv.org/pdf/2309.15674

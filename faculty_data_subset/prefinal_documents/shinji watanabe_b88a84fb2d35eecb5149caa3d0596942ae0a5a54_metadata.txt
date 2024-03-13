@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: b88a84fb2d35eecb5149caa3d0596942ae0a5a54
+Title: A community cluster of influenza A(H3N2) virus infection with reduced susceptibility to baloxavir due to a PA E199G substitution in Japan, February to March 2023
+Year: 2023
+Abstract: A community cluster of influenza A(H3N2) caused by viruses with an E199G substitution in PA was detected in Nara, Japan, between February and March 2023. The three patients with these mutant viruses had not received antiviral treatment before specimen collection but patients in the same hospital had. The sequences of the mutant viruses were closely related, suggesting clonal spread in Nara. They showed reduced susceptibility to baloxavir in vitro; however, the clinical significance of the PA E199G substitution remains unclear.
+Authors: E. Takashita, Seiichiro Fujisaki, H. Morita, Shiho Nagata, H. Miura, Yuki Matsuura, Saya Yamamoto, Shoko Chiba, Yumiko Inoue, Iori Minami, Sayaka Yoshikawa, Seiko Yamazaki, N. Kishida, Kazuya Nakamura, Masayuki Shirakura, Shinji Watanabe, Hideki Hasegawa
+Venue: Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A community cluster of influenza A(H3N2) caused by viruses with an E199G substitution in PA was detected in Nara, Japan, between February and March 2023 and showed reduced susceptibility to baloxavir in vitro; however, the clinical significance remains unclear.'}
+Url: https://www.eurosurveillance.org/deliver/fulltext/eurosurveillance/28/39/eurosurv-28-39-1.pdf?itemId=%2Fcontent%2F10.2807%2F1560-7917.ES.2023.28.39.2300501&mimeType=pdf&containerItemId=content/eurosurveillance

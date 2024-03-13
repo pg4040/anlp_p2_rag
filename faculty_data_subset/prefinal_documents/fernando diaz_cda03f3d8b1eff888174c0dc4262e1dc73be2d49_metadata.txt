@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: cda03f3d8b1eff888174c0dc4262e1dc73be2d49
+Title: Population well-being and the COVID-19 vaccination program in Chile: evidence from Google Trends
+Year: 2023
+Abstract: None
+Authors: F. Díaz, Pablo A. Henríquez, Nicolás Hardy, D. Ponce
+Venue: Public Health
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is found that mental well-being responds positively to the percentage of inoculated people, and this phenomenon appears to be permanent and affected by socioeconomic status, with the wealthier population experiencing greater improvements than the less wealthy.'}
+Url: N/A

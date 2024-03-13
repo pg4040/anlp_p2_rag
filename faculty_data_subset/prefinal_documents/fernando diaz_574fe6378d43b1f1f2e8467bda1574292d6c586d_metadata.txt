@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: 574fe6378d43b1f1f2e8467bda1574292d6c586d
+Title: Females translate male mRNA transferred during mating
+Year: 2023
+Abstract: Although RNA is found in the seminal fluid of diverse organisms, it is unknown whether this RNA is functional within females. Here, we develop an experimental proteomic method called VESPA (Variant Enabled SILAC Proteomic Analysis) to test the hypothesis that Drosophila male seminal fluid RNA is translated by females. We find strong evidence for 67 male-derived, female-translated proteins (mdFTPs) in female lower reproductive tracts at six hours postmating, many with predicted functions relevant to reproduction. Gene knockout experiments indicate that genes coding for mdFTPs play diverse roles in postmating interactions, with effects on fertilization efficiency, and the formation and persistence of the insemination reaction mass, a trait hypothesized to be involved in sexual conflict. These findings advance our understanding of reproduction by revealing a novel mechanism of postmating molecular interactions between the sexes that strengthens and extends male influences on reproductive outcomes in previously unrecognized ways. Given the diverse species known to carry RNA in seminal fluid, this discovery has broad significance for understanding molecular mechanisms of cooperation and conflict during reproduction.
+Authors: Luciano M. Matzkin, J. Bono, Helen K. Pigage, Carson W. Allan, Fernando Díaz, J. McCoy, Clinton C. Green, Jeffrey B. Callan, Stephen P. Delahunt
+Venue: bioRxiv
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'An experimental proteomic method is developed to test the hypothesis that Drosophila male seminal fluid RNA is translated by females, finding strong evidence for 67 male-derived, female-translated proteins in female lower reproductive tracts at six hours postmating, many with predicted functions relevant to reproduction.'}
+Url: N/A

@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: f3ccbd6795a89dc98558679482da836b3c12fac8
+Title: Effect of intragranular κ carbides and intergranular precipitates on the hot deformation mechanism and dynamic recrystallization mechanism of Fe-28Mn-11Al-1.5C-5Cr lightweight steel
+Year: 2023
+Abstract: None
+Authors: Jinxu Liu, Leilei Li, Shanwu Yang, Chao Ding, Enmao Wang, Xinpan Yu, Huibin Wu, G. Niu
+Venue: Journal of Materials Research and Technology
+Tldr: None
+Url: N/A

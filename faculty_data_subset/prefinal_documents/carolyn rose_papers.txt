@@ -1,0 +1,10 @@
+List of 2023 Open Access papers by carolyn rose are:
+Enhancing student learning and achievement through orchestration of group processes and group composition
+Editorial: Nine elements for robust collaborative learning analytics: A constructive collaborative critique
+High school students’ data modeling practices and processes: from modeling unstructured data to evaluating automated decisions
+Linguistic representations for fewer-shot relation extraction across domains
+Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning
+Towards Extracting and Understanding the Implicit Rubrics of Transformer Based Automatic Essay Scoring Models
+Exploring Artificial Intelligence in English Language Arts with StoryQ
+Can a family caregiver provide an evidence‐based falls prevention intervention to the person with cognitive impairment or dementia they care for?
+Hypermutator emergence in experimental Escherichia coli populations is stress-type dependent

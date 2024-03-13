@@ -1,0 +1,13 @@
+Faculty Name: fernando diaz
+Paperid: 11c44e8f63b8fb6e726cbf9c1fcd56b21053df44
+Title: PLATFORM BASED ON DATA ANALYTICS AND STATISTICS TO PREDICT AND MONITOR THE INTEGRATED AND INTELLIGENT ENERGY MANAGEMENT OF ENERGY-INTENSIVE BUILDINGS
+Year: 2023
+Abstract: ABSTRACT: 
+Currently, large buildings are often equipped with building management systems (BMS), but either because of the type of control or the difficulty of interacting with them, they do not allow optimization policies to be implemented. As far as energy efficiency is concerned, optimization strategies often result from the analysis of monitored data by a specialist, which slows down both decision making and implementation. 
+Aware of this problem, this project arises, in which a complementary platform to the BMS systems is developed to provide them with greater intelligence. For its design, the Puerta del Hierro Hospital in Madrid has been taken as a pilot case, from the data captured by its own BMS and using the 6 SIGMA methodology, algorithms have been developed capable of optimizing the production systems themselves, thus helping to make up for the weaknesses in the operation of the systems and reducing energy consumption, minimizing the environmental impact and allowing to obtain the maximum performance of its assets. 
+The platform uses the information gathered by the BMS and weather forecasts to predict a building's energy demand and, based on this, optimize energy production at any given moment.
+Keywords: Commissioning, Energy efficiency, Smart building, Degree-days, BMS, 6 SIGMA.
+Authors: Juan Manuel GALLARDO SALAZAR, Alicia Desiree MANCERAS RODRIGUEZ, Fernando DIAZ RODRIGUEZ, Fernando MORENO ABRAS, Rogelio ZUBIZARRETA JIMENEZ
+Venue: DYNA ENERGIA Y SOSTENIBILIDAD
+Tldr: None
+Url: http://www.dyna-energia.com/Reports/ArticulosMasDescargados.aspx

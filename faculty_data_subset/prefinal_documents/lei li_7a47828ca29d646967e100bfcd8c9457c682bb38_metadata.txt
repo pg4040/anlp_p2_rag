@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 7a47828ca29d646967e100bfcd8c9457c682bb38
+Title: Integrated Valve Product Fluid Simulation and Test Verification
+Year: 2023
+Abstract: The integrated valve product’s main function is to electrolytic oxygen generation subsystem to produce hydrogen and oxygen to realize automatic discharge, to maintain the space station astronauts in orbit around in comfort and safety, high reliability, easy maintenance, and the device should be easy replacement of human-computer ergonomics requirements to ensure long-term on-orbit operation station. Based on the above requirements, an integrated valve product based on environmental control and a health protection system is designed. The integrated product includes hydrogen normal and backup emission branches, oxygen normal and backup emission branches. Through fluid simulation and experimental verification, it is verified that the flow rate and other key indicators of the integrated valve product meet the requirements, which has certain reference and guiding significance for the design of similar integrated products in the future.
+Authors: Lei-Lei Li, Baorong Liu, Shengbo Gong, Jian Zhao, Q. Tao, Xu Zhou, Yingli Xu, Menglei Guo
+Venue: Journal of Physics: Conference Series
+Tldr: None
+Url: N/A

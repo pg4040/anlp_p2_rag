@@ -1,0 +1,9 @@
+Faculty Name: rita singh
+Paperid: fcddb888f01eae5c5530b2d1533d6064f207ea2b
+Title: Gonadotropin Receptor Cross-Talk and Altered Functions in Gonadal and Non-Gonadal Tissues
+Year: 2023
+Abstract: Reproduction depends on the responses of gonadotropins through their specific receptors. The gonadotropin family has three members; Follicle Stimulating Hormone (FSH), Luteinizing Hormone (LH), and Human Chorionic Gonadotropin (hCG). These glycoprotein hormones comprise two subunits, an identical α-subunit and a hormone-specific-β subunit. Their cognate receptors (FSHR and LHCGR) are two adrenergic receptor-like family A/rhodopsin-like G-Protein Coupled Receptors (GPCRs) with structurally distinct ligand binding domains. The hCG binds to LHCGR but has a longer half-life and higher affinity to LHCGR. The expression of FSHR and LHCGR is observed in both gonadal and nongonadal cells. In this review, we will be emphasizing the differential expression of gonadotropin receptors in different cells of the human body, their specific responses through cross-talk, and how a defect in the expression and activity of FSHR and LHCGR may alter the responses of FSH and LH/hCG leading to diseases like PCOS, cancer and metabolic disorders.
+Authors: Rita Singh, Anjali Pathak
+Venue: Journal of Endocrinology & Reproduction
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This review will be emphasizing the differential expression of gonadotropin receptors in different cells of the human body, their specific responses through cross-talk, and how a defect in the expression and activity of FSHR and LHCGR may alter the responses of F SH and LH/hCG leading to diseases like PCOS, cancer and metabolic disorders.'}
+Url: https://informaticsjournals.com/index.php/jer/article/download/34991/22766

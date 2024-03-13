@@ -1,0 +1,9 @@
+Faculty Name: lori levin
+Paperid: 2cdc646a6b70418e7cbd7fbdb8bb113176c4659f
+Title: Somatosensory and motor representations following bilateral transplants of the hands: A 6-year longitudinal case report on the first pediatric bilateral hand transplant patient
+Year: 2023
+Abstract: None
+Authors: W. Gaetz, C. Dockstader, P. Furlong, S. Amaral, A. Vossough, E. Schwartz, T. Roberts, Lori S. Levin
+Venue: Brain Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: N/A

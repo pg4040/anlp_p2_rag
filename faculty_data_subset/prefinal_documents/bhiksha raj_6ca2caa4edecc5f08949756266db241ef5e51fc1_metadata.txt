@@ -1,0 +1,9 @@
+Faculty Name: bhiksha raj
+Paperid: 6ca2caa4edecc5f08949756266db241ef5e51fc1
+Title: uSee: Unified Speech Enhancement and Editing with Conditional Diffusion Models
+Year: 2023
+Abstract: Speech enhancement aims to improve the quality of speech signals in terms of quality and intelligibility, and speech editing refers to the process of editing the speech according to specific user needs. In this paper, we propose a Unified Speech Enhancement and Editing (uSee) model with conditional diffusion models to handle various tasks at the same time in a generative manner. Specifically, by providing multiple types of conditions including self-supervised learning embeddings and proper text prompts to the score-based diffusion model, we can enable controllable generation of the unified speech enhancement and editing model to perform corresponding actions on the source speech. Our experiments show that our proposed uSee model can achieve superior performance in both speech denoising and dereverberation compared to other related generative speech enhancement models, and can perform speech editing given desired environmental sound text description, signal-to-noise ratios (SNR), and room impulse responses (RIR). Demos of the generated speech are available at https://muqiaoy.github.io/usee.
+Authors: Muqiao Yang, Chunlei Zhang, Yong Xu, Zhongweiyang Xu, Heming Wang, Bhiksha Raj, Dong Yu
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The proposed uSee model can achieve superior performance in both speech denoising and dereverberation compared to other related generative speech enhancement models, and can perform speech editing given desired environmental sound text description, signal-to-noise ratios (SNR), and room impulse responses (RIR).'}
+Url: https://arxiv.org/pdf/2310.00900

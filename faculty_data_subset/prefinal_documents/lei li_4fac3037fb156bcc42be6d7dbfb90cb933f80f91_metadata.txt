@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 4fac3037fb156bcc42be6d7dbfb90cb933f80f91
+Title: Correction: Polydopamine-functionalized selenium nanoparticles as an efficient photoresponsive antibacterial platform
+Year: 2023
+Abstract: Correction for ‘Polydopamine-functionalized selenium nanoparticles as an efficient photoresponsive antibacterial platform’ by Meng Sun et al., RSC Adv., 2023, 13, 9998–10004, https://doi.org/10.1039/D2RA07737J.
+Authors: Meng Sun, Ping Gao, Bao Wang, Xiangyang Li, Donghan Shao, Yan-Jun Xu, Leijiao Li, Yunhui Li, Jianwei Zhu, Wenliang Li, Yingxue Xue
+Venue: RSC Advances
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: https://pubs.rsc.org/en/content/articlepdf/2023/ra/d3ra90039h

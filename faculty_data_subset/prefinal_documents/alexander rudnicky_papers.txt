@@ -1,0 +1,10 @@
+List of 2023 Open Access papers by alexander rudnicky are:
+Advancing Regular Language Reasoning in Linear Recurrent Neural Networks
+Structured Dialogue Discourse Parsing
+A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech
+Overview of Robust and Multilingual Automatic Evaluation Metrics
+
+for Open-Domain Dialogue Systems at DSTC 11 Track 4
+Learning to Ask Questions for Zero-shot Dialogue State Tracking
+Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings
+Transformer Working Memory Enables Regular Language Reasoning and Natural Language Length Extrapolation

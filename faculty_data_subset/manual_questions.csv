@@ -1,0 +1,72 @@
+question, answer, document
+"What is Yonatan Bisk's position?","Assistant Professor","faculty_overview.txt"
+"What title does Ralf Brown hold?","Senior Systems Scientist/Chair of Admissions","faculty_overview.txt"
+"Who are the professors currently on leave?","Justine Cassell, Louis-Philippe Morency, Alexander Waibel, Eric Xing","faculty_overview.txt"
+"Who is the LTI Director and tenured professor?","Mona Diab","faculty_overview.txt"
+"What is Fernando Diaz's role?","Associate Professor","faculty_overview.txt"
+"Who holds the title of Professor Emeritus?","Scott Fahlman","faculty_overview.txt"
+"Who is the Associate Dean for PhD Programs?","Robert Frederking","faculty_overview.txt"
+"Is Daniel Fried an associate or assistant professor?","Assistant Professor","faculty_overview.txt"
+"Who is named as a research professor?","Alexander Hauptmann, Lori Levin, Teruko Mitamura","faculty_overview.txt"
+"How many assistant professors are mentioned?","7","faculty_overview.txt"
+"What is a focus of Yiming Yang's recent research?","Large-Scale Structured Learning",yiming_yang
+"Yiming Yang's research area in web-mining?","Concept graph discovery",yiming_yang
+"Which conference did Yiming Yang present on hierarchical classification?","KDD 2013",yiming_yang
+"What position does Chenyan Xiong hold at CMU?","Associate Professor",chenyan_xiong
+"How to contact Chenyan Xiong via email?","cx@andrew.cmu.edu",chenyan_xiong
+"Which institute is Chenyan Xiong associated with?","Language Technologies Institute",chenyan_xiong
+"What is Eric P. Xing's current status at CMU?","On Leave",eric_xing
+"Eric P. Xing's primary research focus?","Machine learning and statistical methodology",eric_xing
+"How to contact Eric P. Xing via email?","epxing@andrew.cmu.edu",eric_xing
+"What position does Sean Welleck hold at CMU?","Assistant Professor",sean_welleck
+"How to contact Sean Welleck via email?","swelleck@andrew.cmu.edu",sean_welleck
+"Which institute is Sean Welleck associated with?","Language Technologies Institute",sean_welleck
+"What is Shinji Watanabe's area of expertise?","NLP and Speech Processing",shinji_watanabe
+"How to contact Shinji Watanabe via email?","swatanab@andrew.cmu.edu",shinji_watanabe
+"Shinji Watanabe's position at CMU?","Associate Professor",shinji_watanabe
+"What is Alexander Waibel known for?","Time-Delay Neural Network",alexander_waibel
+"How to contact Alexander Waibel via email?","waibel@cs.cmu.edu",alexander_waibel
+"Alexander Waibel's research areas include?","Machine Translation, Speech Processing",alexander_waibel
+"What position does Emma Strubell hold at CMU?","Assistant Professor",emma_strubell
+"How to contact Emma Strubell via email?","estrubel@andrew.cmu.edu",emma_strubell
+"Emma Strubell's professional website?","https://strubell.github.io/",emma_strubell
+"What is Rita Singh's title at CMU?","Associate Research Professor",rita_singh
+"How to contact Rita Singh via email?","rsingh@cs.cmu.edu",rita_singh
+"How to contact Michael Shamos via email?","shamos@cs.cmu.edu",michael_shamos
+"Michael Shamos is affiliated with which institute?","Language Technologies Institute, Institute for Software Research",michael_shamos
+"What is Maarten Sap's research focus?","Computational Social Science, Conversational AI",maarten_sap
+"How to contact Maarten Sap via email?","msap2@andrew.cmu.edu",maarten_sap
+"Maarten Sap's professional website?","http://maartensap.com/",maarten_sap
+"Alexander Rudnicky's research focuses on what aspect of technology?","Speech-based interactive systems",alexander_rudnicky
+"What is a current interest of Alexander Rudnicky in speech technology?","Implicit Learning, Error Recovery",alexander_rudnicky
+"How to contact Alexander Rudnicky via email?","alex.rudnicky@cs.cmu.edu",alexander_rudnicky
+"What are Carolyn Rosé's main research areas?","CSCL/MOOCs, IR, Text Mining, NLP","carolyn_rose.txt"
+"What is Carolyn Rosé's research goal?","Improve conversation efficacy","carolyn_rose.txt"
+"How does Carolyn Rosé support learning in MOOCs?","Leads DANCE working group","carolyn_rose.txt"
+"What are Bhiksha Raj's main research areas?","ML, Multimodal Computing, Privacy","bhiksha_raj.txt"
+"Where does Kemal Oflazer teach?","CMU-Qatar Campus","kemal_oflazer.txt"
+"What are Eric Nyberg's research areas?","IE, Summarization, QA","eric_nyberg.txt"
+"What are Graham Neubig's research areas?","ML, Machine Translation, NLP","graham_neubig.txt"
+"What is Graham Neubig's research goal?","Break down communication barriers","graham_neubig.txt"
+"Where does Graham Neubig work?","5409 Gates & Hillman","graham_neubig.txt"
+"What degree does David Mortensen have?","MS in Intelligent Systems","david_mortensen.txt"
+"What is Morency's research intersection?","ML, Computer Vision, Linguistics","louis_philippe_morency.txt"
+"What models did Morency create?","HCRF, LDCRF, CCNF","louis_philippe_morency.txt"
+"What is Morency's application focus?","Education, Healthcare","louis_philippe_morency.txt"
+Who focuses on Speech Processing in their research?,"Shinji Watanabe, Alexander Waibel","shinji_watanabe.txt, alexander_waibel.txt"
+Name professors who have contributed to Computational AI?,Maarten Sap,maarten_sap.txt
+What paper introduces SPAE for multimodal generation with frozen LLMs?,SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs,yonatan bisk_papers.txt
+Which 2023 paper by Yonatan Bisk focuses on open-vocabulary mobile manipulation?,HomeRobot: Open-Vocabulary Mobile Manipulation,yonatan bisk_papers.txt
+What is the title of Yonatan Bisk's work on learning multi-sensory object property representations?,MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception,yonatan bisk_papers.txt
+Which paper by Jamie Callan discusses conversational search using random walks?,Conversational Search with Random Walks over Entity Graphs,"jamie callan_papers.txt"
+What does KALE stand for in Jamie Callan's 2023 paper?,Using a K-Sparse Projector for Lexical Expansion,jamie callan_papers.txt
+Name the paper by Jamie Callan that focuses on sparse lexical retrieval.,CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms,"jamie callan_papers.txt"
+Which faculty member released 0 open access papers in 2023?,"Ralf Brown","ralf brown_papers.txt"
+What 2023 paper by Graham Neubig discusses few-shot clustering with LLMs?,Large Language Models Enable Few-Shot Clustering,"graham neubig_8e8a1489bf4d782d2435cdeb93f7d1f165747c63_metadata.txt"
+
+Who are the co-authors of Eric Nyberg's 2023 paper on multilingual QA?,"Srinivas Gowriraj, Soham Dinesh Tiwari, Mitali Potnis, Srijan Bansal, T. Mitamura","eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt"
+Where was Eric Nyberg's 2023 paper on language-agnostic transformers presented?,Workshop on Document-grounded Dialogue and Conversational Question Answering,"eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt"
+What is the TLDR of Nyberg's 2023 paper on multilingual document-grounded QA?,The language-agnostic approach is superior for multilingual pre-trained transformer models in DPR.,"eric nyberg_444737639aeea4e1e616509e368afb0bae8f89d6_metadata.txt"
+Which grants supported Fernando Diaz's 2023 study on pneumococcal vaccines?,"National Institute of Health (R35 GM124922, R01 AG052608), JAX cancer center (JAX-CC)","fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt"
+What significance does Fernando Diaz's 2023 paper hold regarding pneumococcal vaccines?,It's the first study to uncover older adults’ responses to two pneumococcal vaccines,"fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt"
+What predicts vaccine responsiveness in older adults according to Fernando Diaz's 2023 study?,Pre-vaccination CD56 dimCD16 +NK cell abundance and Th1/Th17 ratio,"fernando diaz_a76e7e394112a26116446a2920467a2702de5f56_metadata.txt"

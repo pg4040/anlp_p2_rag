@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: 70753c30b5eef5fd9bf8673cee4b586105f47c20
+Title: Cross-border utilization of cancer care by patients in the US and Mexico – a survey of Mexican oncologists
+Year: 2023
+Abstract: None
+Authors: M. LaPelusa, H. Verduzco-Aguirre, F. Diaz, F. Aldaco, E. Soto-Pérez-de-Celis
+Venue: Globalization and Health
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The type of care sought, as well as the reasons for seeking it, differ between US and Mexico-based patients, highlighting unmet needs for patients with cancer in both countries and calling for policy changes to improve outcomes in border regions.'}
+Url: https://globalizationandhealth.biomedcentral.com/counter/pdf/10.1186/s12992-023-00983-0

@@ -1,0 +1,2 @@
+List of 2023 Open Access papers by scott fahlman are:
+Score: A Rule Engine for the Scone Knowledge Base System

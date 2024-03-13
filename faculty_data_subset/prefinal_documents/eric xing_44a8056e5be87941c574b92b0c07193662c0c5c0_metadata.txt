@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 44a8056e5be87941c574b92b0c07193662c0c5c0
+Title: Gpr35 shapes gut microbial ecology to modulate hepatic steatosis.
+Year: 2023
+Abstract: None
+Authors: Xin Wu, Shuobing Chen, Qingyuan Yan, Feng Yu, Hua Shao, Xiao Zheng, Xueli Zhang
+Venue: Pharmacological Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work identifies G protein-coupled receptor 35 (Gpr35) as a regulator of gut microbial ecology and the susceptibility to obesity and hepatic steatosis in mice and provides mechanistic insights into a genetic-diet-microbe interplay that dictates susceptibility to metabolic disorder.'}
+Url: N/A

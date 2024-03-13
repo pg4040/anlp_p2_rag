@@ -1,0 +1,9 @@
+Faculty Name: chenyan xiong
+Paperid: bfa7f7bec1c4553c6c382ec2dbf4f889d7fa6e4f
+Title: CompleQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering
+Year: 2023
+Abstract: None
+Authors: Donghan Yu, Yu Gu, Chenyan Xiong, Yiming Yang
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: None
+Url: https://aclanthology.org/2023.findings-emnlp.849.pdf

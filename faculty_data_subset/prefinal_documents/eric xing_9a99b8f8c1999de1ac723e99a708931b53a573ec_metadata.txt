@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 9a99b8f8c1999de1ac723e99a708931b53a573ec
+Title: Recent Advances in Decellularized Extracellular Matrix-Based Bioinks for 3D Bioprinting in Tissue Engineering
+Year: 2023
+Abstract: In recent years, three-dimensional (3D) bioprinting has been widely utilized as a novel manufacturing technique by more and more researchers to construct various tissue substitutes with complex architectures and geometries. Different biomaterials, including natural and synthetic materials, have been manufactured into bioinks for tissue regeneration using 3D bioprinting. Among the natural biomaterials derived from various natural tissues or organs, the decellularized extracellular matrix (dECM) has a complex internal structure and a variety of bioactive factors that provide mechanistic, biophysical, and biochemical signals for tissue regeneration and remodeling. In recent years, more and more researchers have been developing the dECM as a novel bioink for the construction of tissue substitutes. Compared with other bioinks, the various ECM components in dECM-based bioink can regulate cellular functions, modulate the tissue regeneration process, and adjust tissue remodeling. Therefore, we conducted this review to discuss the current status of and perspectives on dECM-based bioinks for bioprinting in tissue engineering. In addition, the various bioprinting techniques and decellularization methods were also discussed in this study.
+Authors: Man Zhe, Xin Wu, Peiyun Yu, Jiawei Xu, Ming Liu, Guang Yang, Zhou Xiang, F. Xing, U. Ritz
+Venue: Materials
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The current status of and perspectives on dECM-based bioinks for bioprinting in tissue engineering are discussed and the various biopprinting techniques and decellularization methods were discussed in this study.'}
+Url: https://www.mdpi.com/1996-1944/16/8/3197/pdf?version=1681816529

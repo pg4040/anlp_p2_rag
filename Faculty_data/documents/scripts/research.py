@@ -33,6 +33,7 @@ def fetch_open_access_papers(author_query):
         write_author_papers_file(author_query, papers)
         papers_metadata = fetch_papers_metadata(paperIdsList)
         write_paper_metadata_files(author_query, papers_metadata)
+        #TODO: extract the paper also
         return papers_of_interest
 
     except requests.exceptions.RequestException as e:

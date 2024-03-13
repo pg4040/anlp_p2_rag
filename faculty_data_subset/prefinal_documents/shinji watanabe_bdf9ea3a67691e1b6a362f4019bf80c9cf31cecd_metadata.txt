@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: bdf9ea3a67691e1b6a362f4019bf80c9cf31cecd
+Title: Findings of the 2023 ML-Superb Challenge: Pre-Training And Evaluation Over More Languages And Beyond
+Year: 2023
+Abstract: The 2023 Multilingual Speech Universal Performance Benchmark (ML-SUPERB) Challenge expands upon the acclaimed SUPERB framework, emphasizing self-supervised models in multilingual speech recognition and language identification. The challenge comprises a research track focused on applying ML-SUPERB to specific multilingual subjects, a Challenge Track for model submissions, and a New Language Track where language resource researchers can contribute and evaluate their low-resource language data in the context of the latest progress in multilingual speech recognition. The challenge garnered 12 model submissions and 54 language corpora, resulting in a comprehensive benchmark encompassing 154 languages. The findings indicate that merely scaling models is not the definitive solution for multilingual speech tasks, and a variety of speech/voice types present significant challenges in multilingual speech processing.
+Authors: Jiatong Shi, William Chen, Dan Berrebbi, Hsiu-Hsuan Wang, Wei-Ping Huang, En-Pei Hu, Ho-Lam Chuang, Xuankai Chang, Yuxun Tang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe
+Venue: Automatic Speech Recognition & Understanding
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The 2023 Multilingual Speech Universal Performance Benchmark (ML-SUPERB) Challenge expands upon the acclaimed SUPERB framework, emphasizing self-supervised models in multilingual speech recognition and language identification, resulting in a comprehensive benchmark encompassing 154 languages.'}
+Url: https://arxiv.org/pdf/2310.05513
