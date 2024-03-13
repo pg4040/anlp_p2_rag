@@ -10,6 +10,7 @@ from transformers import pipeline
 from sklearn.metrics import f1_score, accuracy_score, recall_score
 import os
 from collections import Counter
+from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 # Function to read manual_questions.csv
 def read_csv(file_path):
@@ -50,9 +51,62 @@ def read_file_content(file_path, file_directory):
         content = file.read()
     return content
 
-# Function to generate predicted answers using Hugging Face model
+def t5_answers(prompts):
+    #Exact Match: 0.00%
+    #F1 Score: 31.64
+    #Recall Score: 59.31
+    #Partial Match (Jaccard Similarity): 0.59%
+
+    tokenizer = T5Tokenizer.from_pretrained("t5-small")
+    model = T5ForConditionalGeneration.from_pretrained("t5-small")
+
+    answers = []
+    for prompt in prompts:
+        print("PROMPT=====")
+        print(prompt)
+        prompt = f"Question: {prompt['question']}\n Context:{prompt['context']}"
+        input_ids = tokenizer(prompt, return_tensors="pt").input_ids  # Batch size 1
+        outputs = model.generate(input_ids, max_length=30, num_return_sequences=1)
+        
+        # Decode the output
+        answer = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        answers.append(answer)
+        print("T5 PREDICTED ANSWER=====")
+        print(answer)
+    return answers
+
+from llama_cpp import Llama
+def llama_cpp_trial(prompts):
+    llama = Llama(model_path="../../../models/llama-2-7b-chat.Q4_0.gguf", n_ctx=2048, n_gpu_layers=30)
+
+
+    for prompt in prompts:
+        print("PROMPT=====")
+        print(prompt)
+        prompt = f"Question: {prompt['question']}\n Context:{prompt['context']}"
+        # Generate a response
+        response = llama.create_chat_completion(messages=[{"role": "system", "content": "You are a helpful assistant. Answer the question concisely in 1-10 words using the context."}, {"role": "user", "content": prompt}])
+        
+        # Extract the generated text
+        answer = response['choices'][0]['message']['content']
+        print("LLAMA-7B PREDICTED ANSWER=====")
+        print(answer)
+        
+
+
+#Function to generate predicted answers using Hugging Face model
 def generate_predicted_answers(prompts):
-    qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2", tokenizer="deepset/roberta-base-squad2")
+    #qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2", tokenizer="deepset/roberta-base-squad2")
+    #Exact Match: 20.00%
+    #F1 Score: 61.37
+    #Recall Score: 64.45
+    #Partial Match (Jaccard Similarity): 0.20%
+    #qa_pipeline = pipeline("question-answering", model="mrm8488/t5-base-finetuned-question-generation-ap", tokenizer="t5-base")
+    #Exact Match: 0.00%
+    #F1 Score: 40.25
+    #Recall Score: 50.26
+    #Partial Match (Jaccard Similarity): 1.19%
+
     predicted_answers = []
     for prompt in prompts:
         answer = qa_pipeline(prompt)["answer"]
@@ -126,7 +180,7 @@ def main():
     prompts = generate_prompts(data, directory)
 
     # Generate predicted answers
-    predicted_answers = generate_predicted_answers(prompts)
+    predicted_answers = llama_cpp_trial(prompts)
 
     # Evaluate metrics
     f1, accuracy, recall = evaluation_metrics(answers, predicted_answers)
