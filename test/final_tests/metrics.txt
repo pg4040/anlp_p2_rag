@@ -1,0 +1,20 @@
+Metrics for results : Colbert_llama_pred_answers@2.csv
+Recall@1:80.0
+Recall@2:90.0
+MAP@1:80.0
+MAP@2:47.14285714285714
+Answer match metrics
+Exact match prec:20.0
+Answer recall:49.856227106227095
+Semantic similarity:94.40936829362597
+
+Metrics for results : Colbert_llama_pred_answers@1.csv
+Retrieval Metrics
+Recall@1:80.0
+Recall@2:80.0
+MAP@1:80.0
+MAP@2:80.0
+Answer match metrics
+Exact match prec:10.0
+Answer recall:41.32552764695621
+Semantic similarity:93.83714854717255
