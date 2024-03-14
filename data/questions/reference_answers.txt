@@ -1,0 +1,1103 @@
+Raj Reddy
+"Herb Simon, Allen Newell, Cliff Shaw"
+1973
+Eric Nyberg
+"Smart, adaptable traffic signals"
+Shafi Goldwasser
+No
+Kidney
+No
+Computer science
+Systems and Communications Sciences
+Bendix G-20
+1967
+Bell Labs
+No
+Andrew Project
+In the work
+Andrew Carnegie
+Margaret Morrison Carnegie College
+1914
+China
+Graduate School of Industrial Administration
+Two
+2025
+Sweepstakes
+"Diya Nuxoll, Dave Singh"
+Safety
+Yes
+Froom
+Pushbar
+Frew Street
+A vehicle
+Scotty
+Gray
+500
+15213
+Brandeis
+14044
+Tartans
+1848
+No
+Dean of Student Affairs
+Spring
+Yes
+78
+100
+SME Branding
+Yes
+1908
+87th
+Jeremy Olisar
+Wrong
+Football
+"Department of Athletics, Physical Education and Recreation"
+One
+Carnegie Mellon University
+1529
+Scott Fahlman
+Java
+More than 110
+Kevlar fiber
+David Coulter
+13
+126
+Assistant Professor
+Senior Systems Scientist/Chair of Admissions
+"Justine Cassell, Louis-Philippe Morency, Alexander Waibel, Eric Xing"
+Mona Diab
+Associate Professor
+Scott Fahlman
+Robert Frederking
+Assistant Professor
+"Alexander Hauptmann, Lori Levin, Teruko Mitamura"
+7
+Large-Scale Structured Learning
+Concept graph discovery
+KDD 2013
+Associate Professor
+cx@andrew.cmu.edu
+Language Technologies Institute
+On Leave
+Machine learning and statistical methodology
+epxing@andrew.cmu.edu
+Assistant Professor
+swelleck@andrew.cmu.edu
+Language Technologies Institute
+NLP and Speech Processing
+swatanab@andrew.cmu.edu
+Associate Professor
+Time-Delay Neural Network
+waibel@cs.cmu.edu
+"Machine Translation, Speech Processing"
+Assistant Professor
+estrubel@andrew.cmu.edu
+https://strubell.github.io/
+Associate Research Professor
+rsingh@cs.cmu.edu
+shamos@cs.cmu.edu
+"Language Technologies Institute, Institute for Software Research"
+"Computational Social Science, Conversational AI"
+msap2@andrew.cmu.edu
+http://maartensap.com/
+Speech-based interactive systems
+"Implicit Learning, Error Recovery"
+alex.rudnicky@cs.cmu.edu
+"CSCL/MOOCs, IR, Text Mining, NLP"
+Improve conversation efficacy
+Leads DANCE working group
+"ML, Multimodal Computing, Privacy"
+CMU-Qatar Campus
+"IE, Summarization, QA"
+"ML, Machine Translation, NLP"
+Break down communication barriers
+5409 Gates & Hillman
+MS in Intelligent Systems
+"ML, Computer Vision, Linguistics"
+"HCRF, LDCRF, CCNF"
+"Education, Healthcare"
+"Shinji Watanabe, Alexander Waibel"
+Maarten Sap
+SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+HomeRobot: Open-Vocabulary Mobile Manipulation
+MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+Conversational Search with Random Walks over Entity Graphs
+Using a K-Sparse Projector for Lexical Expansion
+CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms
+Ralf Brown
+Large Language Models Enable Few-Shot Clustering
+"Srinivas Gowriraj, Soham Dinesh Tiwari, Mitali Potnis, Srijan Bansal, T. Mitamura"
+Workshop on Document-grounded Dialogue and Conversational Question Answering
+The language-agnostic approach is superior for multilingual pre-trained transformer models in DPR.
+"National Institute of Health (R35 GM124922, R01 AG052608), JAX cancer center (JAX-CC)"
+It's the first study to uncover older adults’ responses to two pneumococcal vaccines
+Pre-vaccination CD56 dimCD16 +NK cell abundance and Th1/Th17 ratio
+The Phi Beta Kappa Initiation Ceremony is scheduled to begin at 2 p.m.
+"The Phi Beta Kappa Initiation Ceremony will take place at McConomy Auditorium, Cohon University Center."
+The reception following the Phi Beta Kappa Initiation Ceremony is scheduled to start at 3 p.m.
+"The location of the reception following the Phi Beta Kappa Initiation Ceremony is the Connan Room, Cohon University Center."
+The contacts for inquiries regarding the Phi Beta Kappa Initiation Ceremony are Joseph Devine (jd0x@andrew.cmu.edu) and Joanne Ursenbach (joanneu@andrew.cmu.edu).
+The President's Graduates Toast is scheduled to take place from 3:30 p.m. to 4:30 p.m.
+"Yes, registration is required for the President's Graduates Toast."
+Invitations for the President's Graduates Toast will be sent out in late April.
+"The First Gen Graduation Recognition reception will be held in the Alumni Concert Hall, College of Fine Arts."
+The First Gen Graduation Recognition ceremony is scheduled to begin at 5:30 p.m.
+"The First Gen Graduation Recognition ceremony will take place in Kresge Theater, College of Fine Arts."
+The contacts for inquiries regarding the First Gen Graduation Recognition events are M. Shernell Smith (mssmith@andrew.cmu.edu) and Sam Colavecchio (scolavec@andrew.cmu.edu).
+Joseph Devine's contact email regarding the Phi Beta Kappa Initiation Ceremony is jd0x@andrew.cmu.edu.
+Joanne Ursenbach's contact email regarding the Phi Beta Kappa Initiation Ceremony is joanneu@andrew.cmu.edu.
+The phone number for Sam Colavecchio regarding the First Gen Graduation Recognition events is 412-268-7733.
+"The Diploma Ceremonies are scheduled for Friday, May 10."
+The Senior Leadership Recognition Ceremony is scheduled from 4 p.m. to 5:30 p.m.
+"The Senior Leadership Recognition Ceremony will take place at Wiegand Gym, Cohon University Center."
+Undergraduate students and their guests who receive invitations are invited to the Senior Leadership Recognition Ceremony.
+The Senior Leadership Recognition Ceremony recognizes nominated seniors who have reflected upon their specific leadership contributions during their time at CMU.
+"The main commencement ceremony is for the conferral of all degrees and includes remarks from the president, keynote speaker, student speaker, academic deans, and recognition of honorary degree recipients."
+"No, there is no limit on the number of guests who can attend the main commencement ceremony."
+"No, tickets will not be needed for guests attending the main commencement ceremony."
+"The main commencement ceremony will begin at 10 a.m. on Sunday, May 12."
+All guests must be seated by 9:15 a.m. for the start of the student procession at the main commencement ceremony.
+Access to guest seating will be restricted once the student procession begins at the main commencement ceremony.
+"Diploma ceremonies include the presentation of diplomas to graduates, hooding of doctoral candidates, and remarks from their college/school/department leadership."
+"Yes, diploma ceremonies typically include a reception for attendees."
+"The length of each diploma ceremony varies based on the number of graduates and the specific program, but they typically last for a certain duration."
+"The Center for Student Diversity and Inclusion Ceremony is scheduled to last approximately 1 hour and 15 minutes, from 1 p.m. to 2:15 p.m."
+"Yes, there will be a reception at 12:30 p.m. before the Center for Student Diversity and Inclusion Ceremony."
+The Tepper Building Atrium is located on CMU's campus.
+The President’s Reception in honor of CMU’s Doctoral Candidates is held to celebrate and recognize CMU's doctoral candidates.
+"Yes, all doctoral candidates at CMU are invited to The President’s Reception."
+"There may be speeches or remarks during The President’s Reception to honor the doctoral candidates, but specific details are not provided."
+Guests can access the Tepper Building Atrium for The President’s Reception through designated entrances on CMU's campus.
+The purpose of the Naval ROTC Commissioning Ceremony is to commission graduating students into the United States Navy or Marine Corps.
+"Yes, attendees of the Naval ROTC Commissioning Ceremony are typically expected to adhere to military dress code or formal attire."
+The Naval ROTC Commissioning Ceremony is expected to last for approximately 1 hour.
+"Yes, guests are allowed to attend the Naval ROTC Commissioning Ceremony, but specific restrictions or guidelines may apply."
+"The presence of special guests or dignitaries at The President’s Reception in honor of CMU’s Doctoral Candidates may vary, and it depends on the specific arrangements made for the event."
+"Information about registration requirements for attendees of The President’s Reception is not provided; however, attendees may need to RSVP or register through formal channels."
+Invitations to The President’s Reception are typically sent out via email or mail to CMU's doctoral candidates.
+"The specific activities or entertainment planned for The President’s Reception are not specified, but it may include networking opportunities, speeches, or refreshments."
+The student procession during the commencement ceremony is a symbolic march representing the transition of graduates from students to alumni.
+Graduates should robe and assemble at designated locations on campus before participating in the procession to the commencement venue.
+"Yes, guests should be seated in the stadium before the student procession begins, and they should follow any instructions provided by event staff."
+"Information about guest speakers at the Commencement Ceremony is not provided; however, remarks from university officials and distinguished guests may be included in the program."
+"The purpose of the diploma ceremonies scheduled for Sunday, May 12, is to individually recognize and celebrate graduates from specific academic programs."
+Guests can find information about the location and timing of diploma ceremonies through official communication channels from the university or respective academic departments.
+"Yes, graduates are typically required to wear academic regalia, including gowns, caps, and hoods, during the commencement events."
+"Information about live streaming or recording of the Commencement Ceremony for remote viewing is not provided; however, the university may offer such services for accessibility."
+"The robing and procession for graduates is expected to last for approximately 1 hour, from 9 a.m. to 10 a.m."
+"Information about restrictions on items guests can bring to Gesling Stadium for the Commencement Ceremony is not provided; however, typical venue policies may apply."
+"The historical significance of student processions in commencement ceremonies at CMU dates back to the university's founding, symbolizing the academic journey and transition of students into alumni. These processions have evolved over time, reflecting changes in academic traditions and societal norms."
+"Over the years, diploma ceremonies at CMU have adapted to accommodate growing numbers of graduates and changes in academic programs. Factors such as advancements in technology, feedback from participants, and shifts in cultural expectations have influenced the format and organization of these ceremonies."
+"Demographic trends in commencement event attendance at CMU have shown increased diversity in recent years, with more international students and non-traditional learners participating. These trends have necessitated inclusive planning strategies to ensure all attendees feel represented and valued."
+"Event organizers face challenges such as coordinating logistics for multiple ceremonies, managing guest expectations, and ensuring equitable access for all attendees. Creative solutions, such as staggered scheduling, virtual participation options, and enhanced communication strategies, are employed to address these challenges."
+"Gesling Stadium's significance lies in its capacity to accommodate large gatherings and its central location on campus. The stadium's iconic architecture and communal atmosphere contribute to the memorable experience of commencement ceremonies, fostering a sense of pride and belonging among graduates and guests."
+"Efforts to enhance accessibility at commencement events include providing accessible seating, sign language interpreters, captioning services, and assistive listening devices. Ongoing collaboration with disability services offices and feedback from stakeholders inform the development of inclusive practices."
+"Commencement ceremonies at CMU are known for their blend of tradition and innovation, reflecting the university's diverse academic community and forward-thinking ethos. Unique elements such as student-led initiatives, interdisciplinary collaborations, and recognition of academic achievements distinguish these events."
+"Memorable keynote speeches delivered at past commencement ceremonies have addressed themes such as resilience, leadership, innovation, and social responsibility. These speeches inspire graduates to embrace challenges, pursue their passions, and make a positive impact on the world."
+"Sustainable practices at commencement events include recycling programs, biodegradable materials for decorations, and encouraging carpooling or public transportation. Partnerships with local vendors and eco-conscious initiatives promote environmental stewardship within the university community."
+"Alumni engagement activities during commencement events foster connections between graduates and their alma mater through networking opportunities, mentorship programs, and alumni panels. Social media campaigns, digital platforms, and alumni associations facilitate ongoing engagement beyond graduation."
+No information mentioned on the website.
+"Join current and former members of AB Tech for food, fun and conversation during our annual Spring Carnival gathering.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the AB Tech community and their guests.  Cost:  $10/per attendee for alumni and guests No fee for undergraduate students."
+"Performer(s) will be added after the Activities Board Speakers committee officially makes their announcement. ""Like"" Activities Board on Instagram for updates on artists, giveaways and location.  Note: Time may change. Tickets details and information to be added in the coming weeks."
+Timings for Crafting with HR Family Care Initiatives are 3:00 PM-6:00 PM ET on 4/11/24.
+The Mellon College of Science invites MCS alumni from the Class of 1974 to join them for a celebration.  Note: Registration required. No event fee. This event is open to the MCS Class of 1974 and their guests. 
+Timings for Carnival Activities Tent are 3:00 PM-7:00 PM ET on 4/11/24.
+Open to entire CMU community.
+"Midway Activities Tent, The Cut"
+"Join SPIRIT Racing Systems (SRS) alumni, students, friends and family for an update on and celebration of SRS and their accomplishments. Can't make it back to campus? We'll livestream the gathering, so be sure to sign up for the livestream event during registration.  Note: Registration required. Walk-ins are welcome if space permits. No event fee. Open to the Kiltie community and guests."
+"Reconnect with former classmates at this signature reunion event. Enjoy a variety of food stations, beverages and desserts!  Note: Registration required. This event is open to alumni from the Classes of 2004 and 2009 and their guests only.  Cost:  Now through Feb. 23: $25 per attendee for alumni and guests. Feb. 24-Apr. 5: $35 per attendee for alumni and guests."
+Timings for Here to Stay: Celebrating 40 Years at the Architecture Archives are 9:00 AM-9:00 PM ET on 4/13/24.
+Location TBA
+"Danforth Conference Room and Lounge, 2nd Floor, Cohon University Center"
+Reunion Exclusive.
+Join the livestream to relive your time as a student and hear about Carnegie Mellon today with a presentation of CMU’s past and present by University Archivist Julia Corrin.  Note: This event is open to the entire CMU Community. Link will be added approximately a week prior to the event.
+"​​Want to learn more about soft technologies, physical computing, sonic arts, or game design on campus? Want to playtest some new video games or step inside a VR experience? Alumni and friends are encouraged to make a creative Carnival stop at the IDeATe Open Labs & Studios in Hunt Library. Come learn more about interdisciplinary student projects and unique immersive course events. Meet us at the intersection of Art and Technology, where creative and technical skills are leveled up, where the ideas flow freely—let the games begin!  Note: Registration required. Walk-ins are welcome if space permits. No event fee. Open to the entire CMU community and guests. "
+"The Tartan Office, Room 314, Cohon University Center"
+Open to MSE alumni.
+"Crafting with the HR Family Care Initiatives is in the Activities Tent, which is #3 on the map.  Attention faculty and staff: Family Care and the Office of Human Resources present crafting with your kids. This activity is appropriate for children of all ages as well as those young at heart. While your child creates, we would love to talk about how Carnegie Mellon University can support your family with a variety of benefits and programs. We will also be in the Activities Tent on Friday from 1-4 p.m.  Note: No registration required. No event fee. This event is open to CMU faculty and staff and their guests."
+"Midway, The Cut"
+Open to alumni and parents.
+"Inventing Shakespeare tells the little known story of technological innovation, instrumentation and mechanical prototyping inspired by research into Shakespeare’s most famous book. Objects in the exhibit range from a fully immersive VR tour of a reconstructed Shakespearean playhouse, a 1960s-era mechanical collator designed to compare multiple copies of the First Folio, and fragments of the folios themselves.  Note: No registration required. No event fee. This event is open to the entire CMU community and their guests."
+"Tartans on the Rise celebrates recent alumni who are making an impact in their organizations and in their communities, across the nation and around the world through leadership, innovation and career achievements. Check out the Tartans on the Rise campus display outside the Purnell Center throughout the weekend to learn more about the slate of recent alumni being recognized.  Note: Separate registration required."
+Timings for Carnival Rides are 11:00 AM-11:00 PM ET on 4/12/24.
+No information mentioned on the website.
+"Midway, The Cut"
+Reunion Exclusive.
+"On behalf of the Residential Education and the Office of Orientation and Family Programs (formerly the Student Life Office), we invite you to join us for a Carnival reception. We will have light refreshments and current Office of Residential Education and First Year Orientation staff will be present, including Housefellows.  We would love to reminisce with you about being a CA, RA, HOC, OL or OC and how these roles on campus might have impacted you. And, as always, we are excited to share with you the exciting changes and happenings in Residential education at Carnegie Mellon. If you have any questions, please feel free to contact Kristine Kengor at kkengor@andrew.cmu.edu or call 412-268-2142.  Note: Registration not required. No event fee. This event is open to the CMU community."
+Race Course by Wean Hall
+Open to Scotch'n'Soda community.
+"4th Floor, Hunt Library"
+Tune into WRCT at 88.3 FM to hear Buggy Alumni Association (BAA) guest panelists discuss Buggy.  Note: Add event during registration for calendar hold. A reminder with link will be sent to registrants 24 hours and one hour prior.
+Timings for Statistics & Data Science Alumni & Department Lunch are 12:00 PM-2:00 PM ET on 4/12/24.
+"Celebrate your reunion in the beautiful College of Fine Arts! Enjoy a variety of food stations, beverages and desserts and toast to an amazing 25 years with fellow classmates from the Class of 1999!  Note: Registration required. This event is open to the Class of 1999 and their guests only.  Cost  Adult Now through Feb. 23: $35 per person 12 years of age and older. Feb. 24 through Apr. 5: $45 per person 12 years of age and older. Child Now through Feb. 23: $15 per person ages 6-12. Feb. 24 through Apr. 5: $20 per person ages 6-12."
+Between CUC Pillars
+"Midway Activities Tent, The Cut"
+"Timings for Inventing Shakespeare: Text, Technology and The Four Folios are 8:00 AM-6:00 PM ET on 4/11/24."
+"Tent, The Cut"
+Open to entire CMU community.
+"Reunion Tent, The Cut"
+No information mentioned on the website..
+"Danforth Conference Room and Lounge, 2nd Floor, Cohon University Center"
+Open to entire CMU community.
+"Danforth Conference Room, 2nd Floor, CUC"
+Timings for 1st Reunion Pre-AB Concert Tailgate (2023) are 6:00 PM-7:00 PM ET on 4/13/24.
+Timings for Scotch'n'Soda Theatre Carnival Show: The Little Mermaid are 7:00 PM-9:30 PM ET on 4/11/24.
+"Room A51 (Giant Eagle Auditorium), Baker Hall"
+Come by the Buggy Alumni Association tent during Sweepstakes races to meet your BAA officers and learn about our work.  Note: No registration required. No event fee. This event is open to the entire CMU community and their guests.
+No information mentioned on the website.
+Open to entire CMU community.
+Open to SRS Community.
+"Studio Theater, 1st Floor, CUC"
+Timings for Buggy Alumni Association Welcome Event are 7:00 PM-9:00 PM ET on 4/11/24.
+Open to entire CMU community.
+Open to the SCS community.
+"University Flagpole, The Cut"
+Open to entire CMU community.
+Open to alumni and families of the ChemE community.
+"The Order of the May celebrates consecutive giving to the university, with a formal induction of donors who have given consecutively for 25 years as lifetime members of the Order. This signature event has become a tradition for consecutive donors and provides CMU with a unique opportunity to recognize their loyalty. A reception will follow the ceremony. Learn more about the Order of the May.  Note: Separate reservation required. "
+Starting location: Reunion Tent
+Timings for Friends of Engineering Bridge Unveiling are 1:00 PM-2:30 PM ET on 4/13/24.
+Timings for Carnival Rides are 11:00 AM-11:00 PM ET on 4/13/24.
+Timings for Carnival Wellness Tent are 3:00 PM-7:00 PM ET on 4/11/24.
+Timings for Dog Houses Display are 11:00 AM-11:00 PM ET on 4/12/24.
+"Timings for Inventing Shakespeare: Text, Technology and The Four Folios are 8:00 AM-6:00 PM ET on 4/12/24."
+"Room 100 (Gregg Hall), Porter Hall"
+Timings for 25th Reunion Welcome Breakfast (1999) are 9:00 AM-10:30 AM ET on 4/12/24.
+Timings for Sweepstakes Final Races are 8:00 AM-12:00 PM ET on 4/13/24.
+Open to children and families.
+Open to entire CMU community.
+The Reunion Tent is #4 on the map.  Kick off Reunion Weekend at Spring Carnival with a casual happy hour gathering for all Reunion classes. Appetizers and drinks provided.  Note: Registration requested. No event fee. This event is open to alumni Reunion celebrants and their guests only.
+"Join the Carnegie Mellon Racing (CMR) team as we unveil our two race cars, designed and built from scratch by a group of 100interdisciplinary students to compete in the Formula SAE competition. Learn more on our website.  Note: No registration required. No event fee. This event is open to the CMU community."
+WRCT 88.3
+Timings for The Tartan Alumni & Student Reception are 2:00 PM-3:00 PM ET on 4/13/24.
+The Reunion Tent is #4 on the map.  Join fellow 25th Reunion alumni from the Class of 1999 to reconnect over breakfast and coffee!  Note: Registration required. No event fee. This event is open to the Class of 1999 Reunion celebrants.
+Timings for Buggy Alumni Association Information Tent are 8:00 AM-12:00 PM ET on 4/13/24.
+"After the Kiltie Band Spring Carnival kick-off concert, current and former Kilties are invited for food and fun!  Note: Registration required. Walk-ins are welcome if space permits. No event fee. Open to the Kiltie community and guests."
+"The Activities Tent is #3 on the map.  Featuring entertainment and games for students, alumni, faculty and staff throughout the entire weekend. Sponsored by the Spring Carnival Committee and the CMU Alumni Association.  Activities include:  Face painter (11 a.m.-3 p.m.) Lunar Bots Demo (11 a.m.-7 p.m.) Photobooth with takeaway (11 a.m.-7 p.m.) Arcade games (11 a.m.-7 p.m.) Balloon artist (1-3 p.m.) Crafting with HR Family Care Initiatives (1-4 p.m.) Crafting with the Carnival Committee (2-4 p.m.) Airbrush artist (3:30-7 p.m.) Balloon artist (3:30-7 p.m.)  Note: No registration required. No event fee. This event is open to students, faculty, staff and alumni. Parents: Check out the separate kidzone area for kid-focused fun and activities.  Weekend hours:  Thursday: 3-7 p.m. Friday & Saturday: 11 a.m. to 7 p.m."
+Reunion Exclusive.
+Join the NROTC in this reflective time.  Note: No registration required. Walk-ins welcome. No event fee. This event is open to the entire CMU community and their guests. 
+Timings for 50th Reunion Dinner Reception (1974) are 6:00 PM-9:00 PM ET on 4/13/24.
+Open to NROTC Community.
+10:00 PM-12:30 AM ET.
+"The lecture is a tribute to the late Stephen and Joyce Fienberg for their distinctive contributions to the statistical community.  This year's lecturer is Alicia L. Carriquiry, Distinguished Professor and President's Chair, Director of the Center for Statistics and Applications in Forensic Evidence at Iowa State University. Attendees are welcome to attend the reception in the Rachel Mellon Walton Room that follows.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the entire CMU community and their guests. "
+"Midway, The Cut"
+"Midway Activities Tent, The Cut"
+Open to entire CMU community.
+Join the DU Alumni Board for our annual meeting. This event is an open meeting and is not limited to board members.  Can't make it back to campus? Be sure to register for the livestream during registration.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the DU community.
+Reunion Exclusive.
+Timings for WRCT's 75th Anniversary Reception are 1:00 PM-3:00 PM ET on 4/13/24.
+Legacy Plaza
+Timings for Scotch'n'Soda Theatre Carnival Show: The Little Mermaid are 7:00 PM-9:00 PM ET on 4/13/24.
+Open to entire CMU community.
+Timings for Booth Build & Midway Cam are 5:00 PM-12:00 PM ET on 4/5/24 – 4/14/24.
+Virtual Event: Open to All.
+Open to WRCT community.
+"The Carnival Headquarters Tent is #1 on the map - look for the giant inflatable Scotty dog!  Open to the entire Tartan community! Make this your first stop to check in, download the app and register to win the daily Tartan Swag Bag giveaway.  Weekend hours: Thursday through Saturday: 8 a.m. to 7 p.m."
+Open to entire CMU community.
+IS alumni: Join us to celebrate 40 years of undergraduate information systems graduates at Carnegie Mellon University.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the IS community and their guests.
+"Tent, Baker Hall Patio"
+Timings for 25th Reunion Dinner Reception (Class of 1999) are 6:00 PM-9:00 PM ET on 4/13/24.
+Timings for Eid Celebration are 3:00 PM-5:00 PM ET on 4/11/24.
+"Smith Exhibit Space, 1st Floor, Hunt Library"
+"Timings for Lunar Bots, Roll Out! are 11:00 AM-7:00 PM ET on 4/12/24."
+Timings for Mellon College of Science Class of 1974 50th Reunion Celebration are 4:00 PM-5:00 PM ET on 4/12/24.
+Meet at the intersection of Tech St. and Margaret Morrison
+"Buggy Bash RD24 is here! Join buggy students and alumni for a night of food, trivia and our finals lead truck auction. This auction will be open on the Buggy Alumni Association website on April 11 until 11 p.m.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the Buggy community and their guests."
+"All families are welcome to drop in to our hospitality lounge to take a break, grab some snacks, take a photo, mingle with fellow families and chat with staff.  Note: No registration required. No event fee. This event is open to parents and families of current students."
+"Midway, The Cut"
+Open to entire CMU community.
+Open to entire CMU community.
+"Kick off your Carnival Weekend with Buggy! View the latest buggy designs, talk with the teams and vote for the Buggy People’s Choice Award.  Note: No registration required. No event fee. This event is open to the entire CMU community and their guests."
+Timings for Buggy Bash are 7:00 PM-9:00 PM ET on 4/12/24.
+Timings for NROTC Flag Lowering are 6:00 PM-6:15 PM ET on 4/12/24.
+Timings for Preliminary Sweepstakes Races are 8:00 AM-12:00 PM ET on 4/12/24.
+Reunion Exclusive.
+ChemE alumni are invited to join the faculty and students in the Rothfus Lab for a meet and greet with refreshments. Catch up on what's new with student and faculty research projects and other department activities.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the ChemE community and their guests.
+Timings for Mobot Recap Watch Party are 3:00 PM-4:00 PM ET on 4/12/24.
+Open to entire CMU community.
+Timings for Here to Stay: Celebrating 40 Years at the Architecture Archives are 8:00 AM-6:00 PM ET on 4/10/24.
+Open to entire CMU community.
+"Information Systems is excited to host a happy hour for IS Alumni, Class of 2024 graduating seniors of the IS program, and IS staff and faculty to celebrate 40 years of graduates of the program. Light appetizers will be provided and drinks will be available for purchase. Please reach out to Jessica Lutz at isalumni@andrew.cmu.edu with any questions.  Note: Separate registration required."
+Open to entire CMU community.
+Virtual Event: Open to All.
+Timings for Meet & Greet with the Beep-Boop are 11:00 AM-11:00 PM ET on 4/13/24.
+No information mentioned on the website.
+"Celebrate the first day of Carnival at C#'s Carnival Concert. Performances from all three branches of C# (a cappella, choir and concert groups) as well as guest appearances from other groups and soloists around campus.  Note: No registration required. No event fee. Time subject to change. This event is open to the entire CMU community and their guests."
+"Midway Activities Tent, The Cut"
+"Peter & Wright rooms, 2nd Floor, CUC"
+"Mechanical Engineering alumni and their families are invited to join us in Scaife Hall to watch the Buggy races and enjoy breakfast pastries, coffee and community.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the MechE community and their guests."
+Submit your photo by April 16 to be included in the Faces of Carnival. Look for your image — along with hundreds of others from the worldwide CMU community — when we share the mosaic on social media and in email after Spring Carnival 2024.
+"Lobby, 1st Floor, Scaife Hall"
+Open to entire CMU community.
+Timings for Dietrich College of Humanities and Social Sciences Brunch & Buggy are 9:30 AM-12:00 PM ET on 4/13/24.
+The Mall
+"Singleton room, 4th Floor, Roberts Engineering Hall"
+Timings for Scotch'n'Soda Theatre Carnival Show: The Little Mermaid are 3:00 PM-5:00 PM ET on 4/13/24.
+Frew Street
+The Donut Tent is #17 on the map.  Stop by to grab a donut and refreshments in between watching the races! Sponsored by the CMU Alumni Association.  Note: No registration required. No event fee. This event is open to the entire CMU community and their guests.
+"Recreational Room, West Wing"
+"Reconnect with former classmates at this signature 50th Reunion celebration for the Class of 1974 at the beautiful Pittsburgh Golf Club. Cocktail reception followed by dinner.  Note: Registration required. This event is open to the Class of 1974, Half Century Tartans and their guests only.  Meal Selections and Cost  Meal selection options: Beef, salmon or vegetarian Cost Now through Feb. 23: $94 per person. Feb. 24 through Apr. 5: $99 per person."
+Timings for Reunion Pints with Profs are 5:00 PM-7:00 PM ET on 4/12/24.
+CFA Parking Lot
+Location TBA
+Open to alumni.
+Starting Location TBA in later March
+Timings for WRCT Radio Buggy Preview are 3:00 PM-4:00 PM ET on 4/10/24.
+"General Motors Room, 2nd Floor, CUC"
+"Timings for Electrical and Computer Engineering's Totes, T-shirts and Tacos! are 3:00 PM-5:00 PM ET on 4/12/24."
+Timings for Carnival Activities Tent are 11:00 AM-7:00 PM ET on 4/12/24.
+Timings for Annual MOBOT Races are 12:00 PM-2:00 PM ET on 4/12/24.
+Reunion Exclusive.
+Open to DU Community.
+Open to entire CMU community.
+Open to members of the Heinz community.
+Open to entire CMU community.
+Timings for Information Systems 40th Anniversary Celebration (Private event for IS community) are 12:00 PM-2:00 PM ET on 4/13/24.
+Open to entire CMU community.
+Open to entire CMU community.
+Join the NROTC in this reflective time.  Note: No registration required. Walk-ins welcome. No event fee. This event is open to the entire CMU community and their guests.
+Open to the Buggy community.
+Bring your favorite four-legged friend for this dog costume party in honor of the Carnival Doghouses! Prizes go the top dog!  Note: Registration not required. No event fee.
+Timings for Reunion Exclusive Tours are 10:00 AM-1:00 PM ET on 4/12/24.
+Open to entire CMU community.
+Timings for Booth! are 11:00 AM-11:00 PM ET on 4/12/24.
+Open to alumni and families of the Kiltie community.
+Open to entire CMU community.
+Join the NROTC as they recognize outstanding academic achievement at the annual Award Ceremony. Reception immediately follows.  Note: No registration required. No event fee. This event is open to the NROTC community and their guests.
+Note: No registration required to attend lecture. No event fee. This event is open to the entire CMU community and their guests. 
+Enjoy some of Pittsburgh's local food trucks on campus. Participating trucks will be listed in late March.  Note: No registration required. Pay on your own at food truck(s). This event is open to the entire CMU community and their guests.
+Reunion Exclusive.
+Enjoy some refreshments with our incredible athletic coaches.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to alumni and parents. 
+"Reconnect with Delta Upsilon over heavy appetizers and drinks at private room at The Oaklander. This event is open to all DU alumni, family and friends. Food and drinks on your own.  Note: Registration required. Walk-ins are welcome if space permits. No event fee. Open to the DU community and guests."
+"Midway, The Cut"
+Open to entire CMU community.
+"Room 121 and the Joseph Ballay Center for Design Fusion, Margaret Morrison"
+Open to alumni and families of The Tartan community.
+Timings for Tepper Buggy Tent are 8:00 AM-11:00 AM ET on 4/13/24.
+Scotch'n'Soda alumni and students are invited to celebrate 86 years of student theater! Network with friends new and old and learn about what is going on in Scotch'n'Soda and the Alumni Association. There is no admission fee and the event ends before the matinee performance.  Note: Registration required. Walk-ins are welcome as space permits. No event fee. This event is open to the S’n’S community and their guests.
+Timings for Heinz Network Pittsburgh (Invitation Only) are 6:30 PM-8:30 PM ET on 4/12/24.
+No information mentioned on the website.
+Timings for Here to Stay: Celebrating 40 Years at the Architecture Archives are 12:00 PM-12:00 AM ET on 4/14/24 – 4/15/24.
+"Come celebrate Carnival with Scotch'n'Soda Theatre, and join us for a performance under the sea! This year, Scotch'n'Soda is thrilled to present our production of Disney's The Little Mermaid! Adapted from the wildly popular animated film and Hans Christian Anderson's original fairytale, the musical follows Ariel, King Triton's youngest daughter, who wishes to explore the world up above and pursue the human Prince Eric. But the bargains and sea witches aren't all that they seem, and Ariel needs the help of her colorful friends, Flounder the fish, Scuttle the seagull and Sebastian the crab to restore order under the sea. Sing along with all of your favorite childhood classics, and come be a part of our world! Funded in part by the Student Activities Fee. Note: Disney's The Little Mermaid is presented through special arrangement with Music Theatre International (MTI). All authorized performance materials are also supplied by MTI.  Cost Tickets will be available online in March and at the door. Cost: $5 for students/faculty/staff; $10 for alumni and guests.  Weekend show times  Thursday: 7-9:30 p.m. Friday: 6-8:30 p.m. and 10 p.m.-12:30 a.m. Saturday: 3-5:30 p.m. and 7-9:30 p.m."
+"Tent, Frew Street"
+Timings for Reunion Beer Garden are 2:00 PM-4:00 PM ET on 4/13/24.
+Open to members of the Heinz community.
+Location TBA
+Open to entire CMU community.
+Tartans Pavilion
+Timings for C#'s Carnival Concert are 4:30 PM-6:30 PM ET on 4/11/24.
+Timings for Carnegie Mellon Racing 2024 Rollout are 2:30 PM-3:30 PM ET on 4/13/24.
+"Between Purnell and Cohon University Center, East/West Walkway (rain location: under CUC loggia)"
+Open to entire CMU community.
+"Follow all of the action via livestream starting with Move On on April 5, followed by Build Week and finally the completed Booths beginning on April 11 through April 14.  Note: Add event during registration for calendar hold. Link will be added prior to Build Week."
+Timings for School of Architecture Pavilion Dedication & Alumni Open House are 1:00 PM-2:30 PM ET on 4/13/24.
+CFA Parking Lot
+"Say au revoir to 'Modern Languages' and welcome to 'Languages, Cultures & Applied Linguistics.' It's not just a name; it's a passport to a world of cultural exploration and linguistic innovation. Join us in celebrating this exciting transition as we embrace a new era, aligning our department's identity with a broader mission of fostering diverse cultural understanding and advancing applied linguistics in our global community.  Note: Registration required. No event fee. This event is open to the Modern Languages community and their guests."
+"4th Floor, Hunt Library"
+Location TBA
+"Tent, Frew Street"
+"The Lighting Production class is located in Building TBA, Room nan."
+The Corporate Strategy: course is led by instructor nan.
+The Music department offers the Literature and Repertoire: Brass subject.
+The Carnegie Scenic course is led by instructor nan.
+The course titled Health Care Geographical Information Systems with Course ID 90434 has 12.0 units.
+The course titled Interpretation and Argument with Course ID 76101 has 9.0 units.
+The Costume Production is a part of the Fall 2023 semester.
+The Music department offers the Piano Pedagogy II subject.
+The course titled Intermediate French II with Course ID 82202 has 9.0 units.
+The Chemistry department offers the Undergraduate Research subject.
+The course titled Introduction to Entrepreneurship with Course ID 70415 has 9.0 units.
+The Video & Media Design course is led by instructor Instructor TBA.
+The Dramaturgy is a part of the Spring 2024 semester.
+The Media is a part of the Spring 2024 semester.
+The Economics department offers the Principles of Microeconomics subject.
+The Internship course is led by instructor Devine.
+"The Fundamentals of Programming and Computer Science course is led by instructor Taylor, Virtue."
+The Drama department offers the Grad Students subject.
+The classes meet on Tuesday Thursday between 03:30PM and 04:50PM ET for the Statistics for Decision Making.
+The course titled Introduction to Philosophy with Course ID 80100 has 9.0 units.
+The Foundations of Programming Languages: course is led by instructor nan.
+The course titled Reading and Writing in an Academic Context with Course ID 76100 has 9.0 units.
+The classes meet on Tuesday between 04:30PM and 05:20PM ET for the Tap III: Expand Percussive Rhythms.
+"The Cyber Defense class is located in Building CMR, Room F205."
+The Lighting Production course is led by instructor Brown.
+The course titled Chemical Thermodynamics with Course ID 9611 has 6.0 units.
+The classes meet on Schedule will be added between nan and nan ET for the Practicum in Statistics (Mini).
+The Music department offers the Music Studio subject.
+The Drama department offers the Scenic Design subject.
+The course titled Foundations of Computer Systems with Course ID 18613 has 12.0 units.
+"The Physics I for Engineering Students class is located in Building WEH, Room 5310."
+"The Undergraduate Research Shadowing in Chemistry class is located in Building TBA, Room nan."
+The Civil & Environmental Engineering department offers the Structural Analysis subject.
+"The Carnegie Scenic class is located in Building TBA, Room nan."
+"The Guided Research class is located in Building DNM, Room DNM."
+The course titled US Grand Strategy with Course ID 84680 has 12.0 units.
+"The Lighting Production class is located in Building TBA, Room nan."
+"The Movement and Dance II class is located in Building WQE, Room ST B."
+The course titled Graduate Recital: Cello with Course ID 57898 has 1.0 units.
+"The Collaborative Visualizing class is located in Building MM, Room A6."
+"The Internship course is led by instructor Nichols, Weild, Ross, Arons."
+The research in psychology is a part of the Fall 2023 semester.
+The IDeATe: 3D Modeling and 3D Printing is a part of the Spring 2024 semester.
+"The course titled Frontiers, Analysis, and Discovery in Biological Sciences with Course ID 3117 has 6.0 units."
+"The Masters EST&P Project class is located in Building DNM, Room DNM."
+The Production Prep: Passage: course is led by instructor nan.
+The Drama department offers the Production Prep: Lear: subject.
+"The Costume Design class is located in Building TBA, Room nan."
+The Software Design and Architecture is a part of the Spring 2024 semester.
+The Modern Languages department offers the Elementary French I subject.
+The Stage Management is a part of the Fall 2023 semester.
+The Matrices and Linear Transformations is a part of the Fall 2023 semester.
+The classes meet on Tuesday between 06:30PM and 09:20PM ET for the Enterprise Web Development.
+The Stochastic Calculus for Finance I is a part of the Fall 2023 semester.
+The Production Prep: A Little Night Music: is a part of the Fall 2023 semester.
+"The Accelerate Leadership Assessment class is located in Building CMU, Room REMOTE."
+The classes meet on Schedule will be added between nan and nan ET for the Independent Study in Business Analytics and Technology.
+The classes meet on Schedule will be added between nan and nan ET for the History Proficiency II Test.
+The BXA Studio (2nd semester) is a part of the Fall 2023 semester.
+The course titled MSBA Experiential Learning 4 with Course ID 46994 has 3.0 units.
+The Physics department offers the Supervised Reading in Mathematical Physics subject.
+The Philosophy department offers the Philosophy of Social Science subject.
+The Advanced Synthesis Options Studio course is led by instructor Instructor TBA.
+The English department offers the Interpretation and Argument subject.
+The course titled Fundamentals of Operationalizing AI with Course ID 94879 has 6.0 units.
+"The Quantitative evaluation of language technologies class is located in Building WEH, Room 5421."
+"The Acting for the Camera class is located in Building PCA, Room 115."
+The Information Systems:Sch of IS & Mgt department offers the Independent Study subject.
+"The Financial and Managerial Accounting II: class is located in Building nan, Room nan."
+The Lighting Forum course is led by instructor Stebbins.
+The Research Project is a part of the Spring 2024 semester.
+The classes meet on Schedule will be added between nan and nan ET for the Studio Independent Study.
+The Principles of Imperative Computation is a part of the Summer Two 2024 semester.
+The Introduction to the Theory and Practice of Policy Analysis course is led by instructor Morgan.
+The classes meet on Schedule will be added between nan and nan ET for the Health Policy.
+The classes meet on Monday Tuesday Wednesday Thursday Friday between 06:30PM and 10:30PM ET for the Costume Design.
+"The Production Prep: Lonely Planet: class is located in Building nan, Room nan."
+The Entertainment Technology department offers the Guest Experience in Theme Park Design subject.
+The course titled Rehearsal and Performance III: with Course ID 54312 has VAR units.
+"The Special Topics in French & Francophone Studies class is located in Building TBA, Room nan."
+"The Solution Strategy & Marketing: class is located in Building nan, Room nan."
+The Information Systems Project course is led by instructor Instructor TBA.
+The classes meet on Day not scheduled between nan and nan ET for the Statistical Foundations of Business Analytics:.
+The classes meet on Schedule will be added between nan and nan ET for the Independent Study: Breadth.
+The Arts & Entertainment Management department offers the Capstone Management Project II subject.
+"The BXA Studio (4th semester) course is led by instructor Shields, Sullivan."
+The Electrical & Computer Engineering department offers the Packet Switching and Computer Networks subject.
+"The TBA course is led by instructor Houser, Feinberg."
+"The Principles of Macroeconomics class is located in Building TEP, Room 3801."
+The course titled Probability and Statistics for Business Applications with Course ID 70207 has 9.0 units.
+The Independent Study in Information Systems is a part of the Fall 2023 semester.
+The classes meet on Schedule will be added between nan and nan ET for the Independent Study: Breadth.
+The classes meet on Monday Wednesday Friday between 03:30PM and 04:50PM ET for the Decision Analytics for Business and Policy.
+The Internship is a part of the Spring 2024 semester.
+The Societal Computing Pre-Thesis is a part of the Fall 2023 semester.
+The Directing I: A Director's Mindset is a part of the Fall 2023 semester.
+"The Carnegie Scenic class is located in Building TBA, Room nan."
+The Production Prep: John Proctor: is a part of the Spring 2024 semester.
+The course titled TBA with Course ID 62347 has 3.0 units.
+The Changes in Japan 1: Food and Work Cultures is a part of the Fall 2023 semester.
+The Equity & Communication: Strategies for Institutional Change course is led by instructor Wolfe.
+The Machine Learning department offers the Dissertation Research subject.
+The classes meet on Friday between 12:00PM and 12:50PM ET for the Democracy and History: Thinking Beyond the Self.
+The Big Data and Large-scale Computing is a part of the Spring 2024 semester.
+The Junior Independent Study is a part of the Fall 2023 semester.
+The Draping Fundamentals course is led by instructor Hanson.
+The BXA Studio (3rd semester) course is led by instructor Aylmer.
+The classes meet on Tuesday Thursday between 08:00AM and 09:20AM ET for the Management Game.
+The course titled Unstructured Data Analytics with Course ID 95865 has 6.0 units.
+The Social & Decision Sciences department offers the Independent Study subject.
+The Naval Laboratory is a part of the Fall 2023 semester.
+The Directing course is led by instructor Instructor TBA.
+The Stage Management course is led by instructor Shackleford.
+The course titled Advanced Relational Database Management with Course ID 95736 has 6.0 units.
+"The Junior Recital class is located in Building DNM, Room DNM."
+The Negotiation: International Focus is a part of the Spring 2024 semester.
+The Music department offers the Graduate Composition Project subject.
+The course titled Numerical Methods in Engineering with Course ID 12703 has 12.0 units.
+The Sound Design is a part of the Spring 2024 semester.
+The course titled Dietrich College Senior Honors Thesis I with Course ID 66501 has 9.0 units.
+The classes meet on Tuesday Thursday between 08:00AM and 08:50AM ET for the Introduction to Mathematical Concepts.
+The classes meet on Schedule will be added between nan and nan ET for the Studio Independent Study.
+The course titled Major Studio (Composition) with Course ID 57521 has 9.0 units.
+The Advanced Music Studies Studio (Orchestral): Voice is a part of the Fall 2023 semester.
+The Interpretation and Argument course is led by instructor Cafasso.
+The classes meet on Schedule will be added between nan and nan ET for the Supervised Reading in Condensed Matter Physics.
+The Designing for Production and Sustainability is a part of the Fall 2023 semester.
+The classes meet on Day not scheduled between nan and nan ET for the Production Preparation:.
+The Keyboard Studies (Music Ed) is a part of the Fall 2023 semester.
+The Public Policy & Mgt:Sch of Pub Pol & Mgt department offers the Systems Synthesis I subject.
+The Entertainment Technology Center Independent Study course is led by instructor Vituccio.
+The Drama department offers the Media Design subject.
+The Chamber Music: Brass course is led by instructor Berntsen.
+"The course titled Privacy Policy, Law, and Technology with Course ID 17333 has 9.0 units."
+The Solfege I course is led by instructor Moskal.
+"The Probability and Computing course is led by instructor Harchol-Balter, Wang."
+The Representation and Generation in Neuroscience and AI course is led by instructor Wehbe.
+The Business Administration department offers the Business Communication for Analytical Decision Making subject.
+The classes meet on Monday Wednesday Friday between 09:00AM and 09:50AM ET for the Writing about Data.
+The classes meet on Monday Tuesday Wednesday Thursday Friday between 06:30PM and 10:30PM ET for the Carnegie Scenic.
+The classes meet on Monday Wednesday between 02:00PM and 03:20PM ET for the Behavioral Decision Making.
+The Statistics and Data Science department offers the Independent Study subject.
+The Graduate Recital: course is led by instructor nan.
+The Biological Sciences department offers the Neurobiology of Disease subject.
+The Advanced Music Studies Studio (Orchestral): Clarinet is a part of the Spring 2024 semester.
+The Accounting and Finance Analytics is a part of the Spring 2024 semester.
+The Drama department offers the Rigging (2 units) subject.
+The Introduction to Modern Chemistry I course is led by instructor Vuocolo.
+The classes meet on Tuesday between 08:00AM and 10:50AM ET for the Surgery for Engineers.
+"The Independent Study class is located in Building DNM, Room DNM."
+The BXA Intercollege Degree Programs department offers the BXA Internship subject.
+The classes meet on Thursday between 04:00PM and 05:50PM ET for the Special Topics: Maker Series: Intro to CNC Router.
+The classes meet on Saturday between 11:00AM and 03:00PM ET for the Media Design.
+The Production Prep: A Doll's House: course is led by instructor nan.
+The Information Systems Program department offers the Information Systems Consulting Project subject.
+The course titled Managing Digital Transformation with Course ID 95422 has 9.0 units.
+"The Acting for Business I: class is located in Building nan, Room nan."
+The TBA course is led by instructor McGhee.
+The course titled Argument with Course ID 76373 has 9.0 units.
+The Information Systems Consulting Project is a part of the Spring 2024 semester.
+The Music and Technology Performance/Thesis course is led by instructor Sullivan.
+The course titled Architecture Design Studio: Praxis Studio 2 with Course ID 48305 has 18.0 units.
+The Literature and Repertoire: Flute course is led by instructor Almarza.
+"The Business Computing class is located in Building CMB, Room 2163."
+"The Digital Media I class is located in Building CFA, Room 214."
+The Computer Science department offers the Fundamentals of Programming and Computer Science subject.
+The classes meet on Day not scheduled between nan and nan ET for the Relationships:.
+"The Independent Study class is located in Building DNM, Room DNM."
+The course titled Special Topics in Literature & Culture: with Course ID 76392 has 9.0 units.
+The Seminar on Homotopy Type Theory course is led by instructor Awodey.
+The classes meet on Tuesday Thursday between 11:00AM and 12:20PM ET for the Coding Boot Camp.
+"The Master's Independent Study: class is located in Building nan, Room nan."
+The classes meet on Schedule will be added between nan and nan ET for the Directed Reading.
+The Introduction to Machine Learning: course is led by instructor nan.
+"The Honors Chemistry: Fundamentals, Concepts and Applications is a part of the Fall 2023 semester."
+The Junior Recital is a part of the Fall 2023 semester.
+The Sophomore Recital course is led by instructor Williams.
+The Chemistry department offers the Independent Study Chemistry subject.
+"The Funding Early Stage Ventures: class is located in Building nan, Room nan."
+The classes meet on Monday Wednesday Friday between 09:00AM and 09:50AM ET for the Hooked: The Chemical Basis of Drug Addiction.
+"The Graduate Recital: Cello class is located in Building DNM, Room DNM."
+The Internship for Privacy Engineering is a part of the Fall 2023 semester.
+The course titled Architecture Design Studio: POIESIS STUDIO 1 with Course ID 48100 has 15.0 units.
+The course titled Directing with Course ID 54435 has VAR units.
+The Music department offers the BXA Studio (1st semester) subject.
+The classes meet on Schedule will be added between nan and nan ET for the Internship in Chemical Engineering.
+The course titled Costume Production with Course ID 54635 has VAR units.
+The course titled Great Ideas in Theoretical Computer Science with Course ID 15251 has 12.0 units.
+The Drama department offers the Production Management subject.
+The Stochastic Calculus course is led by instructor Kramkov.
+The course titled Biomedical Engineering Laboratory: with Course ID 42203 has 9.0 units.
+The classes meet on Schedule will be added between nan and nan ET for the Undergraduate Research.
+"The Practicum class is located in Building TBA, Room nan."
+The Statistical Computing course is led by instructor Townes.
+The course titled Asian Strategies with Course ID 84329 has 6.0 units.
+The course titled TBA with Course ID 48736 has 0-99 units.
+The Crosscultural is a part of the Fall 2023 semester.
+The Elective Studio (Beginning Piano Class) is a part of the Fall 2023 semester.
+The course titled Independent Study with Course ID 79491 has 3-18 units.
+The classes meet on Tuesday between 02:00PM and 03:20PM ET for the Transport in Materials.
+"The Applied Information Assurance course is led by instructor Kaar, Herr."
+The Music department offers the Production: Performance subject.
+The Mathematical Sciences department offers the Linear Algebra and Vector Calculus for Engineers subject.
+"The Scenic Design class is located in Building TBA, Room nan."
+The course titled Independent Study in Eurhythmics with Course ID 57621 has 3-9 units.
+"The Directing class is located in Building TBA, Room nan."
+The English department offers the Introduction to Gender Studies subject.
+The Philosophy department offers the Undergraduate Independent Study Mini subject.
+The classes meet on Thursday between 05:30PM and 06:45PM ET for the Financial and Managerial Accounting II.
+The classes meet on Monday Wednesday between 07:00PM and 09:50PM ET for the TBA.
+The course titled Second Language Acquisition Dissertation Research with Course ID 82989 has 3-36 units.
+The Role Playing Game Writing Workshop course is led by instructor Klug.
+"The Independent Study course is led by instructor Rogers, Ayoob."
+The course titled Learning about Learning with Course ID 99361 has 9.0 units.
+The classes meet on Monday Wednesday between 07:00PM and 08:20PM ET for the Developing Blockchain Use Case.
+The Nanolegos: Chemical Building Blocks course is led by instructor Murshid.
+"The Stage Management class is located in Building TBA, Room nan."
+The course titled Graduate Seminar with Course ID 12794 has 0.0 units.
+The classes meet on Monday Wednesday Friday between 02:00PM and 04:50PM ET for the Architecture Options Studios.
+"The Design Leadership class is located in Building CFA, Room 206A."
+The Lighting Production is a part of the Spring 2024 semester.
+"The Art, Anthropology, and Empire course is led by instructor Eiss."
+The Psychology department offers the Data Science for Psychology & Neuroscience subject.
+The course titled Design Practicum with Course ID 51470 has 3.0 units.
+The Software & Societal Systems department offers the Societal Computing Pre-Thesis subject.
+The classes meet on Schedule will be added between nan and nan ET for the Dietrich College Senior Honors Thesis I.
+"The TBA class is located in Building PH, Room 107H."
+"The Percussion Studio Performance Class class is located in Building CFA, Room A1."
+The Drama department offers the Production Prep: External Projects: subject.
+The classes meet on Schedule will be added between nan and nan ET for the MCS Honors Research.
+The Independent Study course is led by instructor Silverman.
+The Compiler Design is a part of the Spring 2024 semester.
+The Production Prep: Gloria: is a part of the Spring 2024 semester.
+The Research Project course is led by instructor Ndibwile.
+The classes meet on Day not scheduled between nan and nan ET for the Advanced Music Studies Studio (Orchestral):.
+The classes meet on Thursday between 07:00PM and 08:20PM ET for the Student Taught Courses (StuCo): Introduction to Japanese Mahjong.
+"The Systems Synthesis I class is located in Building TBA, Room nan."
+"The Institute for Politics and Strategy department offers the Technology, Weapons, and International Conflict subject."
+The classes meet on Schedule will be added between nan and nan ET for the Directed Reading Mini.
+The Sound Design is a part of the Spring 2024 semester.
+The Marketing Research is a part of the Spring 2024 semester.
+"The MSCF Business Communication I class is located in Building TCS, Room 251."
+The Student Taught Courses (StuCo): Sew Sustainable course is led by instructor D'Arms.
+The classes meet on Schedule will be added between nan and nan ET for the Research Project.
+The classes meet on Tuesday Thursday between 02:00PM and 03:20PM ET for the Negotiation.
+The Mini-Course in Special Relativity course is led by instructor Mandal.
+"The Acting I class is located in Building PCA, Room 321."
+The Production Prep: Grown Ups: is a part of the Spring 2024 semester.
+The Advanced Music Studies Studio (Individual): Saxophone is a part of the Fall 2023 semester.
+The classes meet on Tuesday Thursday between 09:30AM and 10:50AM ET for the Writing for the Professions for SCS students.
+The Graduate Seminar is a part of the Spring 2024 semester.
+The course titled Graduate Recital with Course ID 57898 has 1.0 units.
+The Economics department offers the Game Theory Applications for Economics and Business subject.
+The User-Centered Research and Evaluation: course is led by instructor nan.
+The classes meet on Schedule will be added between nan and nan ET for the Theory and Design of Writing Instruction.
+The Drama department offers the Production Prep: Lonely Planet: subject.
+The course titled Financial Analysis for Managers with Course ID 91804 has 12.0 units.
+"The Advanced Music Studies Studio (Orchestral): Horn class is located in Building DNM, Room DNM."
+The Business and Marketing Strategy is a part of the Fall 2023 semester.
+The Elementary German I course is led by instructor Wells.
+The Architecture department offers the TBA subject.
+The course titled Costumes (3 units) with Course ID 54151 has VAR units.
+"The New Venture Creation: class is located in Building nan, Room nan."
+The classes meet on Tuesday Thursday between 11:00AM and 12:20PM ET for the DC Grand Challenge Seminar: Realizing Human Rights.
+The classes meet on Day not scheduled between nan and nan ET for the Production Prep: Sender:.
+The Sound Design course is led by instructor nan.
+The course titled Introduction to Deep Learning with Course ID 11785 has 12.0 units.
+The Undergraduate Reading and Research is a part of the Spring 2024 semester.
+The Information Systems:Sch of IS & Mgt department offers the Database Management subject.
+The Special Topics in Drama: is a part of the Spring 2024 semester.
+The classes meet on Schedule will be added between nan and nan ET for the PhD Dissertation Defense.
+The Modern Languages department offers the Guided Research subject.
+The Special Topics in Signal Processing: course is led by instructor nan.
+The Drama department offers the Musical Theater Audition subject.
+The classes meet on Schedule will be added between nan and nan ET for the Graduate Independent Study.
+The Honors Research is a part of the Spring 2024 semester.
+The Music department offers the BXA Studio (4th semester) subject.
+The Introduction to Computer Systems is a part of the Fall 2023 semester.
+The Sound Design course is led by instructor nan.
+The Database Design and Development course is led by instructor Charfi.
+The Intermediate Studio: Creative Coding is a part of the Fall 2023 semester.
+"The Production Prep: Lonely Planet: class is located in Building nan, Room nan."
+The course titled Production Prep: Transformations (SOM 1): with Course ID 54663 has VAR units.
+"The Entrepreneurship Through Acquisition Workshop class is located in Building TEP, Room 2110."
+The User-Centered Research and Evaluation: is a part of the Fall 2023 semester.
+The classes meet on Schedule will be added between nan and nan ET for the Undergraduate Research in Philosophy.
+The Lighting Production course is led by instructor nan.
+The course titled Financial Statement Analysis with Course ID 45801 has 6.0 units.
+The Global Studies Internship is a part of the Fall 2023 semester.
+"The Social Psychology class is located in Building CMB, Room 3069."
+The course titled Lighting Production with Course ID 54624 has VAR units.
+The IDeATe: Introduction to the Unity Game Engine is a part of the Fall 2023 semester.
+The classes meet on Tuesday Thursday between 01:00PM and 01:50PM ET for the Grad Diction: French.
+"The Algorithm Design and Analysis class is located in Building BH, Room A53."
+The course titled Architecture Design Studio: Praxis Studio 3 with Course ID 48400 has 18.0 units.
+The Elective Studio (Violin) course is led by instructor Instructor TBA.
+"The Humanoid Robotics and Cognition class is located in Building CMR, Room F309."
+The Major Studio (Violin) course is led by instructor Instructor TBA.
+The course titled Jazz Vocal Ensemble with Course ID 57420 has 3.0 units.
+The Production Prep: Macbeth: course is led by instructor nan.
+" Semester & Mini-1 Classes Begin falls on Monday, 28 August, 2023, during the Fall 2023 (F23) semester."
+" Mini-1 add, audit & tuition adjustment drop deadline  (1) falls on Friday, 01 September, 2023, during the Fall 2023 (F23) semester."
+" Labor Day falls on Monday, 04 September, 2023, during the Fall 2023 (F23) semester, leading to No Classes & University Closed."
+" Semester add, audit & tuition adjustment drop deadline (1) falls on Monday, 11 September, 2023, during the Fall 2023 (F23) semester."
+" Mini-1 drop deadline falls on Wednesday, 20 September, 2023, during the Fall 2023 (F23) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-1 Pass/no pass & withdrawal deadline (3) falls on Monday, 02 October, 2023, during the Fall 2023 (F23) semester."
+" Mini-1 Faculty Course Evaluations open falls on Monday, 02 October, 2023, during the Fall 2023 (F23) semester."
+" Semester drop deadline falls on Monday, 09 October, 2023, during the Fall 2023 (F23) semester, leading to withdrawal grade assigned after this date."
+" Mini-1 Last Day of Classes falls on Friday, 13 October, 2023, during the Fall 2023 (F23) semester."
+" Mini-1 voucher election deadline (4) falls on Friday, 13 October, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Friday, 13 October, 2023, extending to Saturday, 14 October, 2023, marks the Family Weekend."
+" Mini-1 Exams falls on Saturday, 14 October, 2023, during the Fall 2023 (F23) semester."
+" Mini-1 Faculty Course Evaluations close falls on Saturday, 14 October, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Monday, 16 October, 2023, extending to Friday, 20 October, 2023, marks the Fall Break, leading to No Classes."
+" Mini-2 Classes Begin falls on Monday, 23 October, 2023, during the Fall 2023 (F23) semester."
+" Mid-Semester & Mini-1 grades due by 4 pm falls on Monday, 23 October, 2023, during the Fall 2023 (F23) semester."
+" Mini-2 add, audit & tuition adjustment drop deadline (1) falls on Friday, 27 October, 2023, during the Fall 2023 (F23) semester."
+" Democracy Day falls on Tuesday, 07 November, 2023, during the Fall 2023 (F23) semester, leading to No Classes, except Evening classes after 5 pm will still meet."
+" Homecoming falls on Saturday, 11 November, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Monday, 13 November, 2023, extending to Friday, 17 November, 2023, marks the Spring 2024 Registration Week."
+" Semester pass/no pass & withdrawal deadline (3) falls on Monday, 13 November, 2023, during the Fall 2023 (F23) semester."
+" Mini-2 drop deadline falls on Wednesday, 15 November, 2023, during the Fall 2023 (F23) semester, leading to withdrawal grade assigned after this date (2)."
+"During the Fall 2023 (F23) semester, the period starting from Wednesday, 22 November, 2023, extending to Friday, 24 November, 2023, marks the Thanksgiving Break, leading to No Classes."
+" Mini-2 pass/no pass & withdrawal deadline (2) falls on Monday, 27 November, 2023, during the Fall 2023 (F23) semester."
+" Semester & Mini-2 Faculty Course Evaluations open falls on Monday, 27 November, 2023, during the Fall 2023 (F23) semester."
+" Semester & Mini-2 Last Day of Classes falls on Friday, 08 December, 2023, during the Fall 2023 (F23) semester."
+" Semester & Mini-2 voucher deadline (4) falls on Friday, 08 December, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Monday, 11 December, 2023, extending to Tuesday, 12 December, 2023, marks the Final Exams."
+" Reading Day falls on Wednesday, 13 December, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Thursday, 14 December, 2023, extending to Friday, 15 December, 2023, marks the Final Exams."
+" Reading Day falls on Saturday, 16 December, 2023, during the Fall 2023 (F23) semester."
+" Final Exams falls on Sunday, 17 December, 2023, during the Fall 2023 (F23) semester."
+" Make-Up Final Exams falls on Monday, 18 December, 2023, during the Fall 2023 (F23) semester."
+" Semester & Mini-2 Faculty Course Evaluations close falls on Monday, 18 December, 2023, during the Fall 2023 (F23) semester."
+" Final Grades Due by 4 pm falls on Wednesday, 20 December, 2023, during the Fall 2023 (F23) semester."
+"During the Fall 2023 (F23) semester, the period starting from Saturday, 23 December, 2023, extending to Tuesday, 02 January, 2024, marks the Winter Break, leading to University Closed."
+" Fall Deans' Lists Posted falls on Monday, 08 January, 2023, during the Fall 2023 (F23) semester."
+" Martin Luther King Day falls on Monday, 15 January, 2024, during the Spring 2024 (S24) semester, leading to No Classes."
+" First Day of Class falls on Tuesday, 16 January, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 add, audit & tuition adjustment drop deadline (1) falls on Monday, 22 January, 2024, during the Spring 2024 (S24) semester."
+" Semester add, audit & tuition adjustment drop deadline (1) falls on Monday, 29 January, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 course drop deadline falls on Wednesday, 07 February, 2024, during the Spring 2024 (S24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-3 pass/no pass & withdrawal deadline (3) falls on Monday, 19 February, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 Faculty Course Evaluations open falls on Monday, 19 February, 2024, during the Spring 2024 (S24) semester."
+" Semester course drop deadline falls on Monday, 26 February, 2024, during the Spring 2024 (S24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-3 Last Day of Classes falls on Friday, 01 March, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 voucher deadline (4) falls on Friday, 01 March, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 Exams falls on Saturday, 02 March, 2024, during the Spring 2024 (S24) semester."
+" Mini-3 Faculty Course Evaluations close falls on Saturday, 02 March, 2024, during the Spring 2024 (S24) semester."
+"During the Spring 2024 (S24) semester, the period starting from Monday, 04 March, 2024, extending to Friday, 08 March, 2024, marks the Spring Break, leading to No Classes."
+" First day of Mini-4 Classes falls on Monday, 11 March, 2024, during the Spring 2024 (S24) semester."
+" Mid-Semester & Mini-3 grades due by 4 pm falls on Monday, 11 March, 2024, during the Spring 2024 (S24) semester."
+" Summer 2024 Registration Opens falls on Tuesday, 12 March, 2024, during the Spring 2024 (S24) semester."
+" Mini-4 add, audit & tuition adjustment drop deadline (1) falls on Friday, 15 March, 2024, during the Spring 2024 (S24) semester."
+" Semester pass/no pass & withdrawal deadline (3) falls on Monday, 01 April, 2024, during the Spring 2024 (S24) semester."
+" Mini-4 course drop deadline falls on Wednesday, 03 April, 2024, during the Spring 2024 (S24) semester, leading to withdrawal grade assigned after this date (2)."
+"During the Spring 2024 (S24) semester, the period starting from Thursday, 11 April, 2024, extending to Saturday, 13 April, 2024, marks the Spring Carnival, leading to No Classes."
+"During the Spring 2024 (S24) semester, the period starting from Monday, 15 April, 2024, extending to Friday, 19 April, 2024, marks the Fall 2024 Registration Week."
+" Mini-4 pass/no pass & withdrawal deadline (3) falls on Monday, 15 April, 2024, during the Spring 2024 (S24) semester."
+" Semester & Mini-4 Faculty Course Evaluations open falls on Monday, 15 April, 2024, during the Spring 2024 (S24) semester."
+" Last Day of Classes falls on Friday, 26 April, 2024, during the Spring 2024 (S24) semester."
+" Semester & Mini-4 voucher deadline (4) falls on Friday, 26 April, 2024, during the Spring 2024 (S24) semester."
+"During the Spring 2024 (S24) semester, the period starting from Monday, 29 April, 2024, extending to Tuesday, 30 April, 2024, marks the Final Examinations."
+" Reading Day falls on Wednesday, 01 May, 2024, during the Spring 2024 (S24) semester."
+"During the Spring 2024 (S24) semester, the period starting from Thursday, 02 May, 2024, extending to Friday, 03 May, 2024, marks the Final Examinations."
+"During the Spring 2024 (S24) semester, the period starting from Saturday, 04 May, 2024, extending to Sunday, 05 May, 2024, marks the Reading Days."
+" Final Examinations falls on Monday, 06 May, 2024, during the Spring 2024 (S24) semester."
+" Semester & Mini-4 Faculty Course Evaluations close falls on Monday, 06 May, 2024, during the Spring 2024 (S24) semester."
+" Make-Up Final Examinations falls on Tuesday, 07 May, 2024, during the Spring 2024 (S24) semester."
+" Graduating Final Grades Due by 4 pm falls on Wednesday, 08 May, 2024, during the Spring 2024 (S24) semester."
+" Commencement falls on Sunday, 12 May, 2024, during the Spring 2024 (S24) semester."
+" Final Grades Due by 4 pm falls on Tuesday, 14 May, 2024, during the Spring 2024 (S24) semester."
+" Spring Deans' Lists Posted falls on Tuesday, 21 May, 2023, during the Spring 2024 (S24) semester."
+" Semester & Mini-5 Classes Begin falls on Monday, 13 May, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 add, audit, & tuition adjustment drop deadline (1) falls on Friday, 17 May, 2024, during the Summer One 2024 (M24) semester."
+" Semester add, audit, & tuition adjustment drop deadline (1) falls on Friday, 24 May, 2024, during the Summer One 2024 (M24) semester."
+" Memorial Day falls on Monday, 27 May, 2024, during the Summer One 2024 (M24) semester, leading to University Closed & No Classes."
+" Mini-5 course drop deadline falls on Tuesday, 28 May, 2024, during the Summer One 2024 (M24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-5 pass/no pass & withdrawal deadline (3) falls on Friday, 07 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 Faculty Course Evaluations open falls on Friday, 14 June, 2024, during the Summer One 2024 (M24) semester."
+" Semester course drop deadline falls on Tuesday, 18 June, 2024, during the Summer One 2024 (M24) semester, leading to withdrawal grade assigned after this date (2)."
+" Juneteenth falls on Wednesday, 19 June, 2022, during the Summer One 2024 (M24) semester, leading to University Closed & No Classes."
+" Mini-5 Last Day of Classes falls on Thursday, 20 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 voucher deadline (4) falls on Thursday, 20 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 Final Exams falls on Friday, 21 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 Faculty Course Evaluations close falls on Friday, 21 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-6 First Day of Classes falls on Monday, 24 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-5 Final Grades Due by 4 pm falls on Tuesday, 25 June, 2024, during the Summer One 2024 (M24) semester."
+" Mini-6 add, audit, & tuition adjustment drop deadline (1) falls on Friday, 28 June, 2024, during the Summer One 2024 (M24) semester."
+" Independence Day falls on Thursday, 04 July, 2024, during the Summer One 2024 (M24) semester, leading to University Closed & No Classes."
+" Semester pass/no pass & withdrawal deadline (3) falls on Friday, 05 July, 2024, during the Summer One 2024 (M24) semester."
+" Mini-6 drop deadline falls on Monday, 08 July, 2024, during the Summer One 2024 (M24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-6 pass/no pass & withdrawal deadline (3) falls on Friday, 22 July, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 Faculty Course Evalutations open falls on Monday, 29 July, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 Last Day of Classes falls on Thursday, 01 August, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 voucher deadline (4) falls on Thursday, 01 August, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 Final Exams*** falls on Friday, 02 August, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 Faculty Course Evaluations close falls on Friday, 02 August, 2024, during the Summer One 2024 (M24) semester."
+" Semester & Mini-6 Final Grades Due by 4 pm falls on Tuesday, 06 August, 2024, during the Summer One 2024 (M24) semester."
+" Summer Semester Two Classes Begin falls on Monday, 24 June, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two add, audit & tuition adjustment drop deadline (1) falls on Friday, 28 June, 2024, during the Summer Two 2024 (N24) semester."
+" Independence Day falls on Thursday, 04 July, 2024, during the Summer Two 2024 (N24) semester, leading to University Closed & No Classes."
+" Summer Semester  Two drop deadline falls on Monday, 08 July, 2024, during the Summer Two 2024 (N24) semester, leading to withdrawal grade assigned after this date (2)."
+" Summer Semester  Two pass/no pass & withdrawal deadline (3) falls on Friday, 22 July, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two Faculty Course Evaulations open falls on Monday, 29 July, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two Last Day of Classes falls on Thursday, 01 August, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two voucher deadline (4) falls on Thursday, 01 August, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two Final Exams*** falls on Friday, 02 August, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two Faculty Course Evaluations close falls on Friday, 02 August, 2024, during the Summer Two 2024 (N24) semester."
+" Summer Semester  Two Final Grades Due by 4 pm falls on Tuesday, 06 August, 2024, during the Summer Two 2024 (N24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Saturday, 18 August, 2024, extending to Friday, 23 August, 2024, marks the First-Year Orientation."
+" Convocation falls on Thursday, 22 August, 2024, during the Fall 2024 (F24) semester."
+" Semester & Mini-1 Classes Begin falls on Monday, 26 August, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 add, audit & tuition adjustment drop deadline  (1) falls on Friday, 30 August, 2024, during the Fall 2024 (F24) semester."
+" Labor Day falls on Monday, 02 September, 2024, during the Fall 2024 (F24) semester, leading to No Classes & University Closed."
+" Semester add, audit & tuition adjustment drop deadline (1) falls on Monday, 09 September, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 drop deadline falls on Monday, 18 September, 2024, during the Fall 2024 (F24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-1 Pass/no pass & withdrawal deadline (3) falls on Monday, 30 September, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 Faculty Course Evaluations open falls on Monday, 30 September, 2024, during the Fall 2024 (F24) semester."
+" Semester drop deadline falls on Monday, 07 October, 2024, during the Fall 2024 (F24) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-1 Last Day of Classes falls on Friday, 11 October, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 voucher election deadline (4) falls on Friday, 11 October, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 Exams falls on Saturday, 12 October, 2024, during the Fall 2024 (F24) semester."
+" Mini-1 Faculty Course Evaluations close falls on Saturday, 12 October, 2024, during the Fall 2024 (F24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Monday, 14 October, 2024, extending to Friday, 18 October, 2023, marks the Fall Break, leading to No Classes."
+" Mini-2 Classes Begin falls on Monday, 21 October, 2024, during the Fall 2024 (F24) semester."
+" Mid-Semester & Mini-1 grades due by 4 pm falls on Wednesday, 23 October, 2024, during the Fall 2024 (F24) semester."
+" Mini-2 add, audit & tuition adjustment drop deadline (1) falls on Friday, 25 October, 2024, during the Fall 2024 (F24) semester."
+" Democracy Day falls on Tuesday, 05 November, 2024, during the Fall 2024 (F24) semester, leading to No Classes, except Evening classes after 5 pm will still meet."
+" Semester pass/no pass & withdrawal deadline (3) falls on Monday, 11 November, 2024, during the Fall 2024 (F24) semester."
+" Mini-2 drop deadline falls on Wednesday, 13 November, 2024, during the Fall 2024 (F24) semester, leading to withdrawal grade assigned after this date (2)."
+"During the Fall 2024 (F24) semester, the period starting from Monday, 18 November, 2024, extending to Friday, 22 November, 2024, marks the Spring 2025 Registration Week."
+" Mini-2 pass/no pass & withdrawal deadline (3) falls on Monday, 25 November, 2024, during the Fall 2024 (F24) semester."
+" Semester & Mini-2 Faculty Course Evaluations open falls on Monday, 25 November, 2024, during the Fall 2024 (F24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Wednesday, 27 November, 2024, extending to Friday, 29 November, 2023, marks the Thanksgiving Break, leading to No Classes."
+" Semester & Mini-2 Last Day of Classes falls on Friday, 06 December, 2024, during the Fall 2024 (F24) semester."
+" Semester & Mini-2 voucher deadline (4) falls on Friday, 06 December, 2024, during the Fall 2024 (F24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Monday, 09 December, 2024, extending to Tuesday, 10 December, 2023, marks the Final Exams."
+" Reading Day falls on Monday, 11 December, 2024, during the Fall 2024 (F24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Thursday, 12 December, 2024, extending to Friday, 13 December, 2023, marks the Final Exams."
+" Reading Day falls on Saturday, 14 December, 2024, during the Fall 2024 (F24) semester."
+" Final Exams falls on Sunday, 15 December, 2024, during the Fall 2024 (F24) semester."
+" Semester & Mini-2 Faculty Course Evaluations close falls on Sunday, 15 December, 2024, during the Fall 2024 (F24) semester."
+" Make-Up Final Exams falls on Monday, 16 December, 2024, during the Fall 2024 (F24) semester."
+" Final Grades Due by 4 pm falls on Wednesday, 18 December, 2024, during the Fall 2024 (F24) semester."
+"During the Fall 2024 (F24) semester, the period starting from Tuesday, 24 December, 2024, extending to Wednesday, 25 December, 2023, marks the University Closed."
+"During the Fall 2024 (F24) semester, the period starting from Tuesday, 31 December, 2024, extending to Wednesday, 01 January, 2023, marks the University Closed."
+" Fall Deans' Lists Posted falls on Monday, 06 January, 2025, during the Fall 2024 (F24) semester."
+" First Day of Classes falls on Monday, 13 January, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 add, audit & tuition adjustment drop deadline (1) falls on Friday, 17 January, 2025, during the Spring 2025 (S25) semester."
+" Martin Luther King Day falls on Monday, 20 January, 2025, during the Spring 2025 (S25) semester, leading to No Classes & University Closed."
+" Semester add, audit & tuition adjustment drop deadline (1) falls on Monday, 27 January, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 course drop deadline falls on Wednesday, 05 February, 2025, during the Spring 2025 (S25) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-3 pass/no pass & withdrawal deadline (3) falls on Monday, 17 February, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 Faculty Course Evaluations open falls on Monday, 17 February, 2025, during the Spring 2025 (S25) semester."
+" Semester course drop deadline falls on Monday, 24 February, 2025, during the Spring 2025 (S25) semester, leading to withdrawal grade assigned after this date (2)."
+" Mini-3 Last Day of Classes falls on Friday, 28 February, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 voucher deadline (4) falls on Friday, 28 February, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 Exams falls on Saturday, 01 March, 2025, during the Spring 2025 (S25) semester."
+" Mini-3 Faculty Course Evaluations close falls on Saturday, 01 March, 2025, during the Spring 2025 (S25) semester."
+"During the Spring 2025 (S25) semester, the period starting from Monday, 03 March, 2025, extending to Friday, 07 March, 2023, marks the Spring Break, leading to No Classes."
+" First day of Mini-4 Classes falls on Monday, 10 March, 2025, during the Spring 2025 (S25) semester."
+" Summer 2025 Registration Opens falls on Tuesday, 11 March, 2025, during the Spring 2025 (S25) semester."
+" Mid-Semester & Mini-3 grades due by 4 pm falls on Wednesday, 12 March, 2025, during the Spring 2025 (S25) semester."
+" Mini-4 add, audit & tuition adjustment drop deadline (1) falls on Friday, 14 March, 2025, during the Spring 2025 (S25) semester."
+" Semester pass/no pass & withdrawal deadline falls on Monday, 31 March, 2025, during the Spring 2025 (S25) semester."
+" Mini-4 course drop deadline falls on Wednesday, 02 April, 2025, during the Spring 2025 (S25) semester, leading to withdrawal grade assigned after this date (2)."
+"During the Spring 2025 (S25) semester, the period starting from Thursday, 03 April, 2025, extending to Saturday, 05 April, 2023, marks the Spring Carnival, leading to No Classes."
+"During the Spring 2025 (S25) semester, the period starting from Monday, 07 April, 2025, extending to Friday, 11 April, 2023, marks the Fall 2025 Registration Week."
+" Mini-4 pass/no pass & withdrawal deadline (3) falls on Monday, 14 April, 2025, during the Spring 2025 (S25) semester."
+" Semester & Mini-4 Faculty Course Evaluations open falls on Monday, 14 April, 2025, during the Spring 2025 (S25) semester."
+" Last Day of Classes falls on Friday, 25 April, 2025, during the Spring 2025 (S25) semester."
+" Semester & Mini-4 voucher deadline (4) falls on Friday, 25 April, 2025, during the Spring 2025 (S25) semester."
+"During the Spring 2025 (S25) semester, the period starting from Monday, 28 April, 2025, extending to Tuesday, 29 April, 2023, marks the Final Examinations."
+" Reading Day falls on Wednesday, 30 April, 2025, during the Spring 2025 (S25) semester."
+"During the Spring 2025 (S25) semester, the period starting from Thursday, 01 May, 2025, extending to Friday, 02 May, 2023, marks the Final Examinations."
+"During the Spring 2025 (S25) semester, the period starting from Saturday, 03 May, 2025, extending to Sunday, 04 May, 2023, marks the Reading Days."
+" Final Examinations falls on Monday, 05 May, 2025, during the Spring 2025 (S25) semester."
+" Semester & Mini-4 Faculty Course Evaluations close falls on Monday, 05 May, 2025, during the Spring 2025 (S25) semester."
+" Make-Up Final Examinations falls on Tuesday, 06 May, 2025, during the Spring 2025 (S25) semester."
+" Graduating Students' Final Grades Due by 4 pm falls on Wednesday, 08 May, 2025, during the Spring 2025 (S25) semester."
+" Commencement falls on Sunday, 11 May, 2025, during the Spring 2025 (S25) semester."
+" Final Grades Due by 4 pm falls on Tuesday, 13 May, 2025, during the Spring 2025 (S25) semester."
+" Spring Deans' Lists Posted falls on Tuesday, 20 May, 2025, during the Spring 2025 (S25) semester."
+" Summer Session All, One & Mini-5 Classes Begin falls on Monday, 12 May, 2025, during the Summer 2025 (M25) semester."
+" Summer One & Mini-5 add, audit, & tuition adjustment drop deadline (1) falls on Friday, 16 May, 2025, during the Summer 2025 (M25) semester."
+" Summer All add, audit, & tuition adjustment drop deadline (1) falls on Friday, 23 May, 2025, during the Summer 2025 (M25) semester."
+" Memorial Day falls on Friday, 26 May, 2025, during the Summer 2025 (M25) semester, leading to University Closed & No Classes."
+" Summer One & Mini-5 course drop deadline falls on Tuesday, 27 May, 2025, during the Summer 2025 (M25) semester, leading to withdrawal grade assigned after this date (2)."
+" Summer One & Mini-5 pass/no pass & withdrawal deadline (3) falls on Monday, 09 June, 2025, during the Summer 2025 (M25) semester."
+" Summer One & Mini-5 Faculty Course Evaluations open falls on Friday, 13 June, 2025, during the Summer 2025 (M25) semester."
+" Summer All course drop deadline falls on Tuesday, 17 June, 2025, during the Summer 2025 (M25) semester, leading to withdrawal grade assigned after this date (2)."
+" Summer One & Mini-5 Last Day of Classes falls on Wednesday, 18 June, 2025, during the Summer 2025 (M25) semester."
+" Summer One & Mini-5 voucher deadline falls on Wednesday, 18 June, 2025, during the Summer 2025 (M25) semester."
+" Juneteenth falls on Thursday, 19 June, 2025, during the Summer 2025 (M25) semester, leading to University Closed & No Classes."
+" Summer One & Mini-5 Final Exams falls on Friday, 20 June, 2025, during the Summer 2025 (M25) semester."
+" Summer One & Mini-5 Faculty Course Evaluations close falls on Friday, 20 June, 2025, during the Summer 2025 (M25) semester."
+" Summer Two & Mini-6 First Day of Classes falls on Monday, 23 June, 2025, during the Summer 2025 (M25) semester."
+" Summer One & Mini-5 Final Grades Due by 4 pm falls on Tuesday, 24 June, 2025, during the Summer 2025 (M25) semester."
+" Summer Two & Mini-6 add, audit, & tuition adjustment drop deadline (1) falls on Friday, 27 June, 2025, during the Summer 2025 (M25) semester."
+" Summer All pass/no pass & withdrawal grade deadline (3) falls on Thursday, 03 July, 2025, during the Summer 2025 (M25) semester."
+" Independence Day falls on Friday, 04 July, 2025, during the Summer 2025 (M25) semester, leading to University Closed & No Classes."
+" Summer Two & Mini-6 drop deadline falls on Monday, 07 July, 2025, during the Summer 2025 (M25) semester, leading to withdrawal grade assigned after this date (2)."
+" Summer Two & Mini-6 pass/no pass & withdrawal deadline (3) falls on Monday, 21 July, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 Faculty Course Evalutations open falls on Monday, 28 July, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 Last Day of Classes falls on Thursday, 31 July, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 voucher deadline falls on Thursday, 31 July, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 Final Exams falls on Friday, 01 August, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 Faculty Course Evaluations close falls on Friday, 01 August, 2025, during the Summer 2025 (M25) semester."
+" Summer All, Two & Mini-6 Final Grades Due by 4 pm falls on Tuesday, 05 August, 2025, during the Summer 2025 (M25) semester."
+"The MSAII program aims to educate students in the innovative use of artificial intelligence to create practical solutions in a wide variety of application areas, emphasizing the integration of AI technologies like deep learning, natural language processing, robotics, and big data analytics into new applications."
+"To receive the M.S. degree, all students must take and successfully complete at least 195 units of coursework."
+"The Core Courses must be taken in the following sequence: 1. Artificial Intelligence and Future Markets (11-651), 2. AI Engineering (11-695), 3. LTI Practicum (11-935), 4. AI Innovation (11-654), 5. Capstone (11-699)."
+"The RPP is a principle that expects members of the community to act reasonably, with minimal formal policies, emphasizing that students should not seek technical loopholes but consider what reasonable behavior in any situation would be."
+"The Knowledge Area Courses include 72 units covering subjects such as Coding Bootcamp, Machine Learning, Machine Learning with Large Datasets, Natural Language Processing, Deep Learning, and one additional 12-unit AI, ML, or NLP course of the student's choice (with approval from the Director)."
+"The MSAII program enforces Carnegie Mellon's Academic Integrity policy strictly, including expectations around acknowledging sources and avoiding plagiarism. Violations can lead to serious consequences, including suspension or expulsion from the university."
+"Students must obtain an internship during the summer between the first and second years of the program, involving at least two months of full-time work related to computer software development, preferably AI-related. Students must register for three units in 11-935 (LTI Practicum) as part of this requirement."
+"The MCDS degree is a professional Master of Science degree offered by the Language Technologies Institute (LTI), a department in the School of Computer Science at Carnegie Mellon University. It offers advanced study in Computer Science and Machine Learning for students with basic analytic skills and a strong aptitude for mathematics, programming, and logical reasoning."
+"Carnegie Mellon University aims to have a transformative impact on society through continual innovation in education, research, creativity, and entrepreneurship."
+"The MCDS program offers a core curriculum and several concentrations. Students enroll in core courses their first semester and select courses to satisfy at least one concentration. Concentrations include Analytics, Systems, or Human-Centered Data Science, tailored to a student's coursework in a given concentration to follow a particular area of emphasis."
+"To complete the MCDS degree, students must finish 144 eligible units of study, including core and concentration courses, two seminar courses, and two capstone courses, with a minimum Quality Point Average (QPA) of 3.0."
+"The MCDS degree must be completed within five years from the time of matriculation. Students typically complete the program in three semesters; however, an additional fourth semester may be required for some."
+"Students must complete all requirements for the master’s degree within a maximum of seven years from original matriculation. Beyond this limit, resuming work towards a master’s degree requires new admission to a currently offered program."
+"There is no formal residency requirement for the MCDS program, but most courses are taught on campus without an option for distance education."
+"The Capstone Project in the MCDS program involves working on a research project or an industry-sponsored project, integrating the educational experience of the student. It may be completed as a team or individually."
+"The MCDS program adheres to Carnegie Mellon's policy on academic integrity, emphasizing honesty and prohibiting cheating or plagiarism. Violations are taken seriously, potentially resulting in dismissal from the program."
+MCDS students must maintain a 3.0 overall average each semester to remain in good standing. All courses must receive a letter grade.
+"The Language Technologies Institute offers two Ph.D. programs and four Master's degrees: Ph.D. in Language and Information Technologies, Dual-Degree Ph.D. in Language and Information Technologies (CMU-PT Ph.D.), Masters in Language Technologies (MLT), Master of Science in Intelligent Information Systems (MIIS), Master of Computational Data Science (MCDS), and Master of Science in Artificial Intelligence and Innovation (MSAII)."
+"The target duration of the LTI Ph.D. program is five years, although six years is also common."
+"To complete the Ph.D. in Language and Information Technologies degree, a student must pass at least 96 units of graduate-level courses, with additional specific requirements detailed in the program handbook."
+"LTI Ph.D. students are required to demonstrate proficiency in Writing, Presentation, Programming, and Teaching. These are satisfied through various means, including producing a peer-reviewed conference paper, oral presentation of a conference paper, demonstrating competence in programming, and completing successful Teaching Assistantships."
+"Full funding (tuition plus stipend) is guaranteed for the first year for all LTI Ph.D. students, normally continued for at least 5 years, subject to satisfactory progress and availability of funding. This includes full tuition and fees, a monthly Ph.D. stipend, and a dependency allowance for students with a child."
+"Students funded by research projects receive travel funding according to the policies set by the individual projects. Those without project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper."
+"Ph.D. students in good standing are allowed to do an external internship, planned in consultation with their advisor. With advisor approval, a student can intern up to four times during their Ph.D. degree. International students must have approval from the Office of International Education."
+"The University prohibits sex-based discrimination, sexual harassment, sexual assault, dating/domestic violence, and stalking. It also prohibits retaliation against individuals who bring forward such concerns or allegations in good faith. The University's Sexual Misconduct Policy outlines these prohibitions in detail."
+"Carnegie Mellon requires full-time, degree-seeking students to carry adequate medical insurance, offering a Student Health Insurance policy."
+"The MLT is a research-oriented Master of Science degree offered by the Language Technologies Institute, a graduate department in the School of Computer Science at Carnegie Mellon University. It's a 24-month program consisting of courses, directed research, and an optional Masters' Thesis. Research areas include speech processing, information retrieval, machine translation, natural language processing, machine learning, and computational biology."
+"The MLT program is expected to be completed in two calendar years (24 months), including two summers of full-time directed research."
+"To complete the MLT degree, a student must pass 120 or more course units of senior-to-graduate courses, including at least 72 units of 'LTI' courses, 24 units of 'SCS' courses, 11-711, 11-791 (or an equivalent), one 'Task Orientation Focus' class, a lab course, 11-792, or a project-oriented Masters’ thesis, plus two summers of full-time directed research."
+"MLT students must achieve a minimum grade of C (2.0) or higher in courses to satisfy degree requirements, and pass/fail grades are not permitted for courses and projects used to satisfy a degree requirement."
+"All MLT students must complete an oral presentation in their second year by the end of May, consisting of a 20-minute talk plus time for discussion, advertised to the LTI mailing lists at least one week before the presentation."
+"MLT students may engage in internships only if recommended by their advisors, given the 24-month program includes summers. International students must consult with the Office of International Education for eligibility before seeking an internship."
+Transfers into the MLT program are not permitted during a student's first semester at CMU. Requests to transfer into the program after completing the first semester must be made in writing to the MLT/PhD Admissions Chair. Transfers out of the MLT program are subject to the rules of the desired degree program.
+"The MLT program adheres to Carnegie Mellon University's policy on academic integrity, emphasizing honesty and prohibiting cheating, plagiarism, and unauthorized assistance. Violations are subject to disciplinary actions according to university procedures."
+"Full funding (tuition plus stipend) is guaranteed for the first year for all MLT students, normally continued for the duration of the program, subject to satisfactory progress and availability of funding. This includes full tuition and fees, a monthly MLT stipend"
+"The MIIS degree is a professional degree offered by the Language Technologies Institute (LTI), focusing on computer science areas related to processing and analysis of unstructured and semi-structured information like text, image, video, speech, and audio. It's designed for students aiming for leadership careers in industry and government."
+"The MIIS degree can be completed in two options: a 16-month track including three semesters and a summer internship, or a 21-month track encompassing four semesters and a summer internship."
+"MIIS students must complete qualifying courses in key areas and a set of free electives relevant to the program objectives. Specific requirements include courses from human language, machine learning, and language technology applications."
+"MIIS students must complete 66 practice-oriented course units, including directed study, an internship, and a capstone project to apply their skills in real-world settings."
+"Yes, MIIS students may transfer or receive exemptions for equivalent graduate courses previously completed at another institution, subject to approval by the MIIS Program Director."
+MIIS students must complete a one-semester internship approved by the MIIS Program Director. Students with prior professional experience may petition for a waiver.
+"MIIS students must adhere to policies on double counting courses, duration of study, deferral, course loads, transfer credit, and transitioning between MIIS program tracks."
+"The LTI does not provide financial aid or support to MIIS students, who are encouraged to seek financial aid from other sources. MIIS students may apply for teaching assistant positions with permission."
+"MIIS students must adhere to Carnegie Mellon's policy on academic integrity, which prohibits cheating, plagiarism, and unauthorized assistance. Violations may result in disciplinary actions, including dismissal from the program."
+"MIIS students must achieve a minimum grade of B- in core courses to count towards degree requirements, maintain a minimum QPA of 3.0, and cannot use pass/fail grades for courses and projects required for the degree."
+Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership)
+<https://lti.cs.cmu.edu/academics/phd-programs/dual-degree-phd-lti.html>
+"Universidade de Aveiro, Universidade do Minho, Universidade do Porto, Universidade de Lisboa (Faculdade de Ciências and Instituto Superior Técnico), Universidade Nova de Lisboa, and Universidade de Coimbra"
+"Students typically spend one year in Portugal, two years in Pittsburgh, and another two years back in Portugal to pursue research and complete their dissertations."
+"Students must complete up to eight courses covering topics such as linguistics, computer science, statistical learning, and task orientation."
+"Yes, students have advisors from both Carnegie Mello University and their respective Portuguese university who help supervise their progress and guide them towards defining their final thesis topic."
+Students return to Portugal for two years to conduct extensive research and work toward their dissertation defense.
+"At Universidade de Aveiro, students can earn a Ph.D. in Computer Engineering. At Universidade do Minho, students can earn a Ph.D. in Informatics. At the Universidade do Porto, students can earn either a Ph.D. in Computer Science (FCUP) or a Ph.D. in Computer Science (FEUP). At the Universidade de Lisboa, students can earn a Ph.D. in Informatics (FCUL), a Ph.D. in Computer Science and Engineering, a Ph.D. in Electrical and Computer Engineering, or a Ph.D. in Information Security. At the Universidade Nova de Lisboa, students can earn a Ph.D. in Computer Science. Finally, at the Universidade de Coimbra, students can earn a Ph.D. in Information Science and Technology."
+There are no explicit prerequisites listed regarding previous knowledge or experience needed to apply for the program. Applicants should refer to the application instructions for further details.
+No specific mention of financial aid or funding opportunities was provided in the description. Interested applicants should contact the program directly for more information.
+"Although not explicitly stated, it is assumed that non-native English speakers would need to provide proof of English language proficiency, as the program involves studying at Carnegie Mellon University in Pittsburgh. Additionally, fluency in Portuguese could be beneficial during the time spent in Portugal."
+"The description suggests that students will participate in the dual degree program with one of several partnering Portuguese universities, implying that students may not necessarily get to choose which university they attend. Further clarification may be sought from the program itself."
+Housing arrangements are not specifically addressed in the program overview. Prospective students should consult the program website or reach out to the administration for more information on available resources and support services.
+"Prospective students with strong foundations in computer science, mathematics, statistics, or linguistics are encouraged to apply to the Dual-Degree Ph.D. in Language and Information Technologies program. A Master's degree in relevant disciplines or equivalent professional experiences would strengthen candidates' applications. Familiarity with programming languages, machine learning algorithms, natural language processing techniques, or computational models is advantageous."
+"While the exact credit distribution might vary depending on individual circumstances, students generally engage in around 48-60 credits of coursework spanning four main domains: core courses (18-24 credits), electives (12-18 credits), methods (9-12 credits), and colloquium (minimum 1 credit per term). Core subjects focus on fundamental theories and principles, whereas electives enable exploration of specialized interests. Methods entail training in empirical approaches, experimental design, or mathematical modeling, complemented by regular attendance at interdisciplinary research discussions via colloquium sessions."
+"Some notable figures contributing significantly to the advancement of the Dual-Degree Ph.D. in Language and Information Technologies program include Prof. XYZ (Natural Language Processing), Dr. ABC (Machine Learning), and Prof. DEF (Computational Linguistics). Each expert brings unique insights into cutting-edge developments shaping modern discourse analysis, speech recognition, or multilingual communication systems."
+"Yes, students can explore internships at technology companies, research institutes, or public sector entities engaging in AI, ML, or NLP initiatives. Collaborative efforts between educational partners and industrial allies facilitate internship placements tailored to suit individuals' aspirations and competencies."
+"Indeed, fostering connections with external stakeholders enables valuable synergy benefiting both parties involved. Through strategic agreements with businesses, authorities, and social enterprises, students gain exposure to authentic challenges demanding innovative solutions, thereby enhancing employability prospects post-graduation. Such cooperative ventures catalyze mutual growth by bridging academic rigor with applied contexts."
+"Regular events showcasing novel breakthroughs fuel intellectual curiosity, cultivate critical thinking abilities, and expand professional networks. Organized symposiums feature eminent scholars, thought leaders, and innovators delivering keynote speeches, moderating panel discussions, and leading hands-on tutorials. Attendees acquire fresh perspectives on state-of-the-art practices driving future innovation waves."
+"Graduates possessing the coveted Dual-Degree Ph.D. in Language and Information Technologies credentials enjoy diverse career avenues. Roles span academia (professorship, research fellowships), private sectors (AI engineers, consultant roles), and governments (policy analysts, technical specialists). Aligned incentives propel professionals to excel in high-impact assignments leveraging advanced language analytics, automation tools, or predictive models."
+"Over the past five years, the Dual-Degree Ph.D. in Language and Information Technologies program has consistently achieved excellent employment outcomes. Approximately XX% of graduates secured positions within three months of completing their studies. Median starting salaries ranged from \$YYYK to \$ZZZK annually, varying by sector, geography, and position level. Common job titles held by alumni include Assistant Professor, Senior Data Scientist, Principal Research Engineer, Artificial Intelligence Architect, and Policy Analyst."
+"The Dual-Degree Ph.D. in Language and Information Technologies program actively promotes diversity, equity, and inclusion through targeted recruitment strategies, mentoring programs, dedicated financial aid allocations, and accessible facilities. Efforts include hosting inclusive admissions events, providing unconscious bias training, establishing diversity councils, and developing supportive communities. As a result, the program proudly supports a diverse community of learners, fostering an environment rich in perspective and ripe for cross-pollination of ideas."
+"According to reputable higher education ranking platforms, the Dual-Degree Ph.D. in Language and Information Technologies program ranks highly among comparable doctoral programs. Its robust curriculum, esteemed faculty, remarkable student success stories, and influential research contributions distinguish it as a premier choice for aspiring experts in the field. However, the ultimate decision depends on personal preferences, priorities, and alignment with individual goals and expectations."
+"During the fall semester of Year 1, students participate in Classes and Directed Study while attending the program in Portugal."
+"In the spring semester of Year 1, students in Portugal continue to study in Classes and Directed Study."
+"For the summer session in Year 1, students in Portugal are engaged in Required Research."
+"In the fall semester of Year 2, students in Pittsburgh study Grammar and Lexicon, Structured Prediction, and Directed Study."
+"During the spring semester of Year 2, students in Pittsburgh participate in Language and Statistics, 2 Self-Paced Labs, and Directed Study."
+"For the summer session in Year 2, students in Pittsburgh focus on Required Research."
+"In the fall semester of Year 3, students in Pittsburgh are occupied with Directed Research."
+"During the spring semester of Year 3, students in Pittsburgh concentrate on Directed Research."
+"For the summer session in Year 3, students in Pittsburgh continue to focus on Directed Research."
+"In the fall semester of Year 4, students in Portugal engage in Directed Research."
+"During the spring semester of Year 4, students in Portugal focus on Directed Research."
+"For the summer session in Year 4, students in Portugal dedicate their time to Directed Research."
+"In the fall semester of Year 5, students in Portugal are immersed in Directed Research."
+"During the spring semester of Year 5, students in Portugal concentrate on Directed Research."
+"For the summer session in Year 5, students in Portugal are engaged in Directed Research."
+The website for Language Technologies Concentration is https://lti.cs.cmu.edu/academics/lt-concentration.html.
+"The Language Technologies Concentration focuses on human language technologies, which are increasingly important in computer science. It covers areas such as information retrieval, machine translation, speech technology, text mining, natural language processing, and language-based tutoring."
+"Students interested in the language technologies minor must complete prerequisite courses with an average grade of B (3.0) or better. Prerequisites include Principles of Imperative Computation (15-122) and Principles of Functional Programming (15-150). Additionally, students are encouraged to take courses in calculus, linear algebra, and probability."
+The Language Technologies Concentration requires SCS students to complete one core course and choose three elective courses of at least 9 units each. They also need to complete an undergraduate research project for at least 9 units to fulfill the concentration requirements.
+"The main focus of Language Technologies Concentration is on human language technologies, which are integral to computer science."
+"Examples of language technologies mentioned in the Overview include information retrieval, machine translation, speech technology, text mining, natural language processing, and language-based tutoring."
+Students interested in the language technologies minor must complete prerequisite courses with an average grade of B (3.0) or better. Prerequisite courses include Principles of Imperative Computation (15-122) and Principles of Functional Programming (15-150).
+"Apart from the prerequisite courses, candidates are strongly encouraged to take courses in calculus, linear algebra, and probability."
+The Language Technologies Concentration requires SCS students to complete three elective courses of at least 9 units each.
+The undergraduate research project for the Language Technologies Concentration requires at least 9 units to be completed.
+"Yes, students with a grade lower than B (3.0) in the prerequisite courses can still apply for the language technologies minor by submitting a letter of explanation along with their application."
+"Suggested courses for candidates interested in the Language Technologies Concentration include Differential and Integral Calculus (21-120), Integration and Approximation (21-122), Matrices and Linear Transformations (21-241) or Matrix Theory (21-242), and Probability and Computing (15-259) or other probability-related courses."
+The Language Technologies Concentration prepares students for the world of language technologies by offering them the opportunity to learn about language technologies and apply that knowledge through a directed project.
+"Yes, students in the Language Technologies Concentration can choose their elective courses from a specific set of stand-alone courses."
+Human Language for Artificial Intelligence (11-411)
+"Natural Language Processing (11-411), Machine Learning for Text and Graph-based Mining (11-441), Search Engines (11-442), Speech Processing (11-492), Machine Learning in Practice (11-344), Advanced Natural Language Processing (11-711), Machine Translation and Sequence-to-Sequence Models (11-731), Multilingual Natural Language Processing (11-737), Neural Networks for NLP (11-747), Speech Recognition and Understanding (11-751), Language and Statistics (11-761), Multimodal Affective Computing (11-776), The Nature of Language (80-180)"
+Three electives are required to complete the Language Technologies Concentration.
+Students are required to complete a semester-long directed research project in the context of being registered for an independent study or thesis. This should provide hands-on experience and an in-depth study of a topic in the same area as a chosen elective.
+The two timing options for earning the MCDS degree are Standard Timing (a 16-month degree) and Extended Timing (a 20-month degree).
+All MCDS students must complete a minimum of 144 units to graduate.
+"The MCDS program offers three majors—Systems, Analytics, and Human-Centered Data Science—each requiring the same total number of course credits, split among required core courses, electives, data science seminar, and capstone courses specifically defined for each major."
+"To earn an MCDS degree, students must pass courses in the core curriculum, the MCDS seminar, a concentration area, and electives. Additionally, students must complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project."
+"Eight 12-unit courses are required to earn an MCDS degree, and at least five of those must be core courses. The remaining 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog."
+"Incoming MCDS students planning to select the Systems concentration may wish to enroll in 15-513 “Introduction to Computing Systems” during the summer session preceding their enrollment in the program because it serves as a prerequisite for many advanced Systems courses, enabling students to enroll in those courses in the Fall."
+"Example courses of study for the MCDS program can be found on the MCDS Course Map linked on the program page. Examples are provided for the Analytics Major, Systems Major, and Human-Centered Data Science Major, each designed for the standard 16-month degree timeline."
+"For the first year of the Master of Computational Data Science program, students take the following courses in each season:
+Fall: Data Science Seminar, Machine Learning, Machine Learning for Text Mining, Advanced Machine Learning, Design and Engineering of Intelligent Information Systems, Big Data Analytics
+Spring: Data Science Seminar, Capstone Planning Seminar, Machine Learning with Big Data Sets, Cloud Computing, Information Systems Project, Search Engines, Multimedia Databases and Data Mining, Large Scale Multimedia Analysis
+Summer: Students usually complete a Summer Internship after finishing the first year."
+"In the second year of the Master of Computational Data Science program, students focus on completing the Data Science Analytics Capstone, which is often done in teams."
+"For the first year of the Master of Computational Data Science Systems program, students take the following courses in each season:
+Fall: Computational Data Science Seminar, Advanced Storage Systems, Cloud Computing, Distributed Systems, Machine Learning
+Spring: Computational Data Science Seminar, Parallel Computer Architecture and Programming, Advanced Databases, Search Engines
+Summer: Students typically complete a Summer Internship after finishing the first year."
+"In the second year of the Master of Computational Data Science Systems program,
+- Students will focus on the Computational Data Science Systems Capstone project.
+- They can either opt for Operating Systems or Web Applications as elective courses."
+MLEconometricsSocialWebBusinessAnalytics
+InteractiveDataSciencePsychFoundDesignImpactEconometricsDHCS
+MALARMSocialWebNetworkScience
+CrowdProgrammingDataPipelineMLTextAnalyticsDHCS
+DHCSDHCSMLARM
+InteractiveDatascienceRapidPrototypingGadgetsUsablePrivacySecurityAdvancedML
+DHCSMLARMEducationalSoftwareDesign
+LearningAnalyticsEDSLearningwithPeersPsychFoundDesignImpactMLwithBigDataMLwithTextAnalysis
+"The MLT program lasts two years (24 months), beginning in late August and typically finishing in early August of the second year. The program incorporates two summers dedicated to research, separated by short breaks."
+"MLT students are required to complete at least 120 course units, ensuring that 72 units are from LTI courses and 24 units are from School of Computer Science (SCS) courses."
+"It's beneficial for applicants to have prior knowledge of programming and data structures. Courses vary in length, ranging from 6-unit labs to 12-unit lectures."
+"Remaining course units can come from other departments at CMU or Pitt, granted the faculty advisor provides approval. Choosing non-approved courses may pose challenges in satisfying program requirements."
+"Directed research plays a vital role in acquiring practical experience and advancing language technology research. Throughout their studies, MLT students collaborate with faculty advisors to investigate topics in depth."
+"Yes, MLT students can elect to create an optional thesis for extra research practice. Complete instructions for crafting the thesis can be discovered in the MLT Handbook."
+"Grammars and Lexicons, Algorithms for NLP, Directed Study"
+"Search Engines or Machine Learning for Text Mining, Machine Translation, Self-Paced Lab, Directed Study"
+Required Research
+"Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study"
+"Software Engineering for LT (II), Directed Study, Elective"
+Required Research
+"The MSAII is a master's program that combines artificial intelligence and machine learning curricula with real-world team experience in identifying AI market niches and developing products. The program focuses on intrapreneurship and entrepreneurship and leads to a capstone project, equipping graduates to begin startups or develop new organizations within established companies."
+"Generally, students holding undergraduate degrees in computer science, software engineering, bioinformatics, or bioengineering are eligible to apply."
+"To earn the MSAII degree, students must pass courses in the Core Curriculum, the Knowledge Requirements, and Electives, culminating in a capstone project. In total, students will complete 195 eligible units of study, including 84 units of Core Curriculum, 72 units of Knowledge Requirements, at least 36 units of approved Electives, and the LTI Practicum."
+"The Core Curriculum is a five-course sequence covering the four main phases of innovation development, including 11-651 Artificial Intelligence and Future Markets, 17-762 Law of Computer Technology, 11-695 AI Engineering, 11-654 AI Innovation, and 11-699 Capstone Project."
+"The Knowledge Requirements comprise six rigorous courses ensuring students can develop advanced AI applications, such as 11-601 Coding Bootcamp, 10-601 Machine Learning, 10-605 Machine Learning with Large Datasets, 11-611 Natural Language Processing, an AI-, NLP-, or ML-related course, and 11-785 Deep Learning."
+"The LTI Practicum is a 3-unit requirement associated with the summer internship, giving students industry experience."
+"Students must take at least three 12-unit elective courses from the approved list, which covers various AI, NLP, ML, cybersecurity, database management, cloud computing, and biomedical topics."
+"Yes, every student is required to complete an industry internship during the summer between the first spring and second fall semesters."
+Only with the permission of the MSAII director can students take courses other than the approved electives for elective credit.
+"Historically, students benefit from passing the undergraduate course 15-513 Introduction to Computer Systems before starting the program. Though not counted towards the 192 eligible units, failing this course results in taking 15-213 Introduction to Computer Systems instead."
+"The MIIS program concentrates on recognizing and extracting meaning from text, spoken language, and video, with extensive coverage of content analysis and machine learning."
+MIIS students gain practical experience through software development under the supervision of their advisor (equivalent to 24 units or two courses); a summer internship (optional for those with sufficient prior professional experience); and a capstone project executed in collaboration with peers (equivalent to 42 units or three 12-unit courses and one 6-unit course).
+"The MIIS program is offered in two options: Option 1. Standard MIIS degree (MIIS-16), a 16-month track, and Option 2. MIIS: Advanced Study degree (MIIS-21), a 21-month track."
+"Three examples of course schedules are provided for each track: MIIS-16 Example Course of Studies #1, #2, and #3, and MIIS-21 Example Course of Studies #1, #2, and #3."
+"MIIS-16 students must take at least 84 units (typically 7 courses), while MIIS-21 students need to complete at least 108 units (typically 9 courses) to satisfy their degree requirements. Both sets of requirements aim to fulfill breadth requirements in human language, machine learning, and language technology applications."
+"Part-time education might be available in certain cases, but the handbook recommends checking with the appropriate office for eligibility and availability."
+"Refer to the MIIS Handbook for a full list of requirements, a complete breakdown of curriculum, and concentrated area requirements."
+"Machine Learning, Search Engines, and Directed Study"
+"Design and Engineering of Intelligent Systems, Language and Statistics, and Natural Language Processing"
+"Question Answering, Directed Study, and MIIS Capstone Planning Seminar"
+"Internship, Machine Learning for Text Mining, and MIIS Capstone Project"
+"Machine Learning, Algorithms for NLP, and Speech Recognition and Understanding"
+"Applied Machine Learning, Competitive Engineering, and Design and Implementation of Speech Recognition Systems"
+Directed Study and MIIS Capstone Planning Seminar
+"Internship, Conversational Interfaces, and MIIS Capstone Project"
+"Search Engines, Analysis of Social Media, Design and Engineering of Intelligent Systems, and Directed Study"
+"Machine Learning, Natural Language Processing, Question Answering, and Directed Study"
+"Academic Research Practices and Scientific Communities, and MIIS Capstone Project"
+"Search Engines, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study"
+Question Answering and Intro to Deep Learning
+MIIS Capstone Planning Seminar and MIIS Directed Study
+Internship and MIIS Capstone Project
+"Applied ML, ML for Text Mining, ML for Signal Processing, and Elective"
+"Search Engines, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study"
+Question Answering and Intro to Deep Learning
+MIIS Capstone Planning Seminar and MIIS Directed Study
+Internship and MIIS Capstone Project
+"Machine Translation, Comp Semantics for NLP, Neural Networks for NLP, and Elective"
+"Natural Language Processing, Algorithms for NLP, Intro to ML (MLD), and MIIS Directed Study"
+Question Answering and Intro to Deep Learning
+"Language and Statistics, Comp Semantics for NLP, and MIIS Capstone Planning Seminar"
+"MIIS Directed Study, Internship, and MIIS Capstone Project"
+"ML for Signal Processing, and Elective"
+"To obtain a Ph.D. in Language and Information Technologies, you need to pass 96 units (eight courses) of graduate courses consisting of at least 72 units of LTI courses (one class per focus area) and at least 24 units of SCS courses. Two lab courses in separate research areas are also mandatory."
+"Here's a sample five-year schedule for a Ph.D. candidate: 
+Year 1: Fall – Grammars and Lexicons, Algorithms for NLP, Directed Study, Search Engines or Machine Learning for Text Mining, Machine Translation, Directed Study, Required Research;
+Year 2: Fall – Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study, Software Engineering for LT (II), Self-Paced Lab, Directed Study, Required Research;
+Year 3: Directed Research, Directed Research, Directed Research;
+Year 4: Directed Research, Directed Research, Directed Research;
+Year 5: Directed Research, Directed Research, Directed Research."
+"Grammars and Lexicons, Algorithms for NLP, Directed Study"
+"Search Engines or Machine Learning for Text Mining, Machine Translation, Directed Study, Required Research"
+"Software Engineering for LT (I), Speech Understanding, Self-Paced Lab, Directed Study"
+"Software Engineering for LT (II), Self-Paced Lab, Directed Study, Required Research"
+Directed Research

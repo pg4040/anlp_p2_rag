@@ -1,0 +1,1090 @@
+Which SCS future dean developed the first continuous speech recognition system?
+Which researchers developed a logic puzzle solving AI program and demonstrarted on 3-by-5 index cards?
+Which year was the cognitive tutoring program developed at CMU?
+The students of which CMU professor were involved in the development of IBM Watson?
+What was first rolled out in Pittsburgh's East librety area?
+Which CMU alumna was an awardee of the Turing Award in 2012?
+Does Duolingo provide tutoring for Vedic Sanskrit?
+Which organ transplant donors were benefitted from an algorithms developed by CMU researchers in 2008?
+Did CMU acquire IBM 650 computer in 1956?
+What is a concise term for the theory and design of computers?
+What is the name of the first computer science PhD program at Carnegie Tech?
+Which 1961 computer is now in Scaife Hall?
+When did CMU come into existance?
+Joe Traub left which place to work at CMU?
+Did the first PhD computer science program at Carnegie Tec incorporate oceanography?
+What was the name of the high speed computer network that was first developed at CMU?
+Where was Andrew Carnegie's heart?
+Who founded a company that became the world's largest steel producing company towards the end of the 1800s?
+What was the name of the women's college at Carnegie Tech?
+The first drama degree in the US was awarded in which year?
+Where was the first doctorate awardee at Carnegie Tech from?
+What was the original name of Tepper School of Business?
+Mellon family facilitated the creation of how many new colleges?
+Which year is the next Strategic Plan at CMU for?
+What is another name for buggy races?
+Who are the head mechanics at Fringe?
+What is the highest priority for the buggy teams?
+Do buggy teams have patterns in naming their vehicles?
+What is the name of the Fringe workshop?
+Which component of the buggy does the pusher push?
+Where do the buggies make a sharp right hand turn from Schenley Drive?
+Is a buggy a vehicle or an utensil?
+What is the official mascot of CMU?
+Cardinal along with which color are the school colors of CMU?
+What is the capacity of Wiegand Gymnasium?
+What is the zip code of the Athletic department at CMU?
+Dr. John Centor is the Alma Mater of which university?
+What was the total Fall 2021 enrollment at CMU?
+What is the nickname of the athletic teams at CMU?
+When did Andrew Carnegie come to the US?
+Did Andrew Carnegie have a Dandie Dinmont Terrier as a pet?
+Who was Jennifer Church in November 2006? 
+What was the season when the official Scotty costume was unveiled?
+Do Scottiesh terriers have agility?
+What percent of surveyed students voted for the Scottish Terrier to be the mascot of CMU?
+How many surveyed alumni thought that the Scottish terrier was already the mascot in February 2007?
+Which firm was involved in the creation of the CMU mascot?
+Is Scotty contained in a shield?
+When did the Kiltie Band begin?
+"Whch birthday would Andrew Carnegie be celebrating on 25th November, 1922?"
+Who is the current director of the Kiltie Band?
+"Kiltie band holds auditions, right?"
+Which sport does the Kiltie band mainly play in support of?
+Which department does Kiltie Band come under?
+How many holiday concerts does Kiltie Band play?
+Which University does Kiltie Band support?
+How many faculty members are currently present at CMU?
+Who created the first smile in the email?
+James Gosling invented which language at CMU?
+How many centers does CMU provide cyber support to?
+Which fiber was invented by CMU alumna Stephanie Kwolek?
+How is the chair of the board of trustees at CMU?
+How many Turing awards has CMU won?
+Students at CMU represent how many countries?
+What is Yonatan Bisk's position?
+What title does Ralf Brown hold?
+Who are the professors currently on leave?
+Who is the LTI Director and tenured professor?
+What is Fernando Diaz's role?
+Who holds the title of Professor Emeritus?
+Who is the Associate Dean for PhD Programs?
+Is Daniel Fried an associate or assistant professor?
+Who is named as a research professor?
+How many assistant professors are mentioned?
+What is a focus of Yiming Yang's recent research?
+Yiming Yang's research area in web-mining?
+Which conference did Yiming Yang present on hierarchical classification?
+What position does Chenyan Xiong hold at CMU?
+How to contact Chenyan Xiong via email?
+Which institute is Chenyan Xiong associated with?
+What is Eric P. Xing's current status at CMU?
+Eric P. Xing's primary research focus?
+How to contact Eric P. Xing via email?
+What position does Sean Welleck hold at CMU?
+How to contact Sean Welleck via email?
+Which institute is Sean Welleck associated with?
+What is Shinji Watanabe's area of expertise?
+How to contact Shinji Watanabe via email?
+Shinji Watanabe's position at CMU?
+What is Alexander Waibel known for?
+How to contact Alexander Waibel via email?
+Alexander Waibel's research areas include?
+What position does Emma Strubell hold at CMU?
+How to contact Emma Strubell via email?
+Emma Strubell's professional website?
+What is Rita Singh's title at CMU?
+How to contact Rita Singh via email?
+How to contact Michael Shamos via email?
+Michael Shamos is affiliated with which institute?
+What is Maarten Sap's research focus?
+How to contact Maarten Sap via email?
+Maarten Sap's professional website?
+Alexander Rudnicky's research focuses on what aspect of technology?
+What is a current interest of Alexander Rudnicky in speech technology?
+How to contact Alexander Rudnicky via email?
+What are Carolyn Rosé's main research areas?
+What is Carolyn Rosé's research goal?
+How does Carolyn Rosé support learning in MOOCs?
+What are Bhiksha Raj's main research areas?
+Where does Kemal Oflazer teach?
+What are Eric Nyberg's research areas?
+What are Graham Neubig's research areas?
+What is Graham Neubig's research goal?
+Where does Graham Neubig work?
+What degree does David Mortensen have?
+What is Morency's research intersection?
+What models did Morency create?
+What is Morency's application focus?
+Who focuses on Speech Processing in their research?
+Name professors who have contributed to Computational AI?
+What paper introduces SPAE for multimodal generation with frozen LLMs?
+Which 2023 paper by Yonatan Bisk focuses on open-vocabulary mobile manipulation?
+What is the title of Yonatan Bisk's work on learning multi-sensory object property representations?
+Which paper by Jamie Callan discusses conversational search using random walks?
+What does KALE stand for in Jamie Callan's 2023 paper?
+Name the paper by Jamie Callan that focuses on sparse lexical retrieval.
+Which faculty member released 0 open access papers in 2023?
+What 2023 paper by Graham Neubig discusses few-shot clustering with LLMs?
+Who are the co-authors of Eric Nyberg's 2023 paper on multilingual QA?
+Where was Eric Nyberg's 2023 paper on language-agnostic transformers presented?
+What is the TLDR of Nyberg's 2023 paper on multilingual document-grounded QA?
+Which grants supported Fernando Diaz's 2023 study on pneumococcal vaccines?
+What significance does Fernando Diaz's 2023 paper hold regarding pneumococcal vaccines?
+What predicts vaccine responsiveness in older adults according to Fernando Diaz's 2023 study?
+What time is the Phi Beta Kappa Initiation Ceremony scheduled to begin?
+Where will the Phi Beta Kappa Initiation Ceremony take place?
+When is the reception following the Phi Beta Kappa Initiation Ceremony scheduled to start?
+What is the location of the reception following the Phi Beta Kappa Initiation Ceremony?
+Who are the contacts for inquiries regarding the Phi Beta Kappa Initiation Ceremony?
+When is the President's Graduates Toast scheduled to take place?
+Is registration required for the President's Graduates Toast?
+When will invitations for the President's Graduates Toast be sent out?
+Where will the First Gen Graduation Recognition reception be held?
+What time is the First Gen Graduation Recognition ceremony scheduled to begin?
+Where will the First Gen Graduation Recognition ceremony take place?
+Who are the contacts for inquiries regarding the First Gen Graduation Recognition events?
+What is the contact email for Joseph Devine regarding the Phi Beta Kappa Initiation Ceremony?
+What is the contact email for Joanne Ursenbach regarding the Phi Beta Kappa Initiation Ceremony?
+What is the phone number for Sam Colavecchio regarding the First Gen Graduation Recognition events?
+What date are the Diploma Ceremonies scheduled for?
+What is the time frame for the Senior Leadership Recognition Ceremony?
+Where will the Senior Leadership Recognition Ceremony take place?
+Who is invited to the Senior Leadership Recognition Ceremony?
+What is the purpose of the Senior Leadership Recognition Ceremony?
+What is the purpose of the main commencement ceremony?
+Is there a limit on the number of guests who can attend the main commencement ceremony?
+Will tickets be required for guests attending the main commencement ceremony?
+What time will the main commencement ceremony begin?
+By what time must all guests be seated for the main commencement ceremony?
+What will happen if guests arrive after the student procession has begun at the main commencement ceremony?
+What activities are included in the diploma ceremonies?
+Will there be receptions at the diploma ceremonies?
+How long will each diploma ceremony last?
+What is the duration of the Center for Student Diversity and Inclusion Ceremony?
+Will there be a reception before the Center for Student Diversity and Inclusion Ceremony?
+Where is the Tepper Building Atrium located?
+What is the purpose of The President’s Reception in honor of CMU’s Doctoral Candidates?
+Are all students invited to The President’s Reception?
+Will there be any speeches or remarks during The President’s Reception?
+How can guests access the Tepper Building Atrium for The President’s Reception?
+What is the purpose of the Naval ROTC Commissioning Ceremony?
+Will there be any special protocol or dress code for attendees of the Naval ROTC Commissioning Ceremony?
+How long is the Naval ROTC Commissioning Ceremony expected to last?
+Are guests allowed to attend the Naval ROTC Commissioning Ceremony?
+Will there be any special guests or dignitaries present at The President’s Reception in honor of CMU’s Doctoral Candidates?
+Is there any registration required for attendees of The President’s Reception?
+How will attendees receive invitations to The President’s Reception?
+Will there be any specific activities or entertainment at The President’s Reception?
+What is the significance of the student procession during the commencement ceremony?
+How should graduates participate in the robing and procession?
+Are there specific instructions for guests attending the Commencement Ceremony?
+Will there be any guest speakers at the Commencement Ceremony?
+"What is the purpose of the diploma ceremonies scheduled for Sunday, May 12?"
+Where can guests find information about the location and timing of diploma ceremonies?
+Are graduates required to wear academic regalia during the commencement events?
+Will there be any live streaming or recording of the Commencement Ceremony for remote viewing?
+How long is the robing and procession expected to last?
+Are there any restrictions on items guests can bring to Gesling Stadium for the Commencement Ceremony?
+Can you provide insights into the historical significance of student processions in commencement ceremonies at CMU?
+"How has the format and organization of diploma ceremonies evolved over the years at CMU, and what factors have influenced these changes?"
+"What are the demographic trends in attendance at commencement events over the past decade, and how have these trends impacted the planning and execution of these events?"
+What are the key challenges faced by event organizers in ensuring the smooth coordination of multiple ceremonies and accommodating diverse needs and preferences of attendees?
+"Could you elaborate on the cultural and symbolic significance of Gesling Stadium as the venue for commencement ceremonies, and how has this venue contributed to the overall experience of graduates and guests?"
+"What strategies and technologies have been implemented to enhance accessibility and inclusivity for individuals with disabilities attending commencement events, and what are the ongoing efforts in this regard?"
+"How do commencement ceremonies at CMU compare to those at other universities in terms of scale, duration, and ceremonial rituals, and what unique elements set them apart?"
+"Can you provide examples of memorable keynote speeches delivered at past commencement ceremonies, and how have these speeches influenced the ethos and spirit of the CMU community?"
+"What initiatives have been undertaken to minimize the environmental footprint of commencement events, such as reducing waste generation, promoting sustainable transportation options, and sourcing eco-friendly materials?"
+"How do alumni engagement activities during commencement events contribute to fostering lifelong connections between graduates and their alma mater, and what innovative approaches have been adopted in this regard?"
+Where is Heinz Network Pittsburgh (Invitation Only) taking place?
+Can you tell me more about the AB Tech Alumni & Student Mixer?
+Can you tell me more about the Activities Board Spring Carnival Speakers Show?
+What is the timing for the Crafting with HR Family Care Initiatives?
+Can you tell me more about the Mellon College of Science Class of 1974 50th Reunion Celebration?
+What is the timing for the Carnival Activities Tent?
+Who can attend TRANSformation through Creation?
+"Where is Lunar Bots, Roll Out! taking place?"
+Can you tell me more about the SRS Post-Sweepstakes Awards Gathering?
+Can you tell me more about the 15th and 20th Reunion Reception (2004 and 2009)?
+What is the timing for the Here to Stay: Celebrating 40 Years at the Architecture Archives?
+Where is Current & Former CMU AAB Member Coffee Catch Up (Private Event) taking place?
+Where is 50th Reunion Breakfast/Then & Now Presentation (1974) taking place?
+Who can attend Reunion Buggy Watch Tent?
+Can you tell me more about the Livestream of Then & Now Presentation?
+Can you tell me more about the IDeATE Open Studios?
+Where is The Tartan Alumni & Student Reception taking place?
+Who can attend Material Science and Engineering (MSE) Alumni Deck Party?
+Can you tell me more about the Crafting with HR Family Care Initiatives?
+Where is Carnival Rides taking place?
+Who can attend Cold Ones with the Coaches?
+"Can you tell me more about the Inventing Shakespeare: Text, Technology and The Four Folios?"
+Can you tell me more about the Tartans on the Rise (Invitation Only)?
+What is the timing for the Carnival Rides?
+Where is College of Engineering Alumni Awards (Invitation Only) taking place?
+Where is Carnival Rides taking place?
+Who can attend 5th and 10th Reunion Reception (2014 and 2019)?
+Can you tell me more about the Residential Education (Student Life) Alumni Reception?
+Where is Annual MOBOT Races taking place?
+Who can attend Scotch'n'Soda Theatre Alumni Brunch?
+"Where is Inventing Shakespeare: Text, Technology and The Four Folios taking place?"
+Can you tell me more about the WRCT Radio Buggy Preview?
+What is the timing for the Statistics & Data Science Alumni & Department Lunch?
+Can you tell me more about the 25th Reunion Dinner Reception (Class of 1999)?
+Where is Dog Costume Party taking place?
+Where is Eid Celebration taking place?
+"What is the timing for the Inventing Shakespeare: Text, Technology and The Four Folios?"
+Where is Carnival Headquarters Tent: Check-In & Registration taking place?
+"Who can attend Inventing Shakespeare: Text, Technology and The Four Folios?"
+Where is Reunion Reserved Seating During Campus Community Lunch taking place?
+Who can attend Information Systems Carnival 2024 Happy Hour (Invitation Only)?
+Where is 1st Reunion Pre-AB Concert Tailgate (2023) taking place?
+Who can attend Dog Houses Display?
+"Where is HLAA Presents: Gozando y Triunfando, A Carnival Celebration taking place?"
+What is the timing for the 1st Reunion Pre-AB Concert Tailgate (2023)?
+What is the timing for the Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Where is Beta Sigma Corporation Annual Meeting taking place?
+Can you tell me more about the Buggy Alumni Association Information Tent?
+Where is Order of the May (Invitation Only) taking place?
+Who can attend Carnival Rides?
+Who can attend SRS Post-Sweepstakes Awards Gathering?
+Where is Carnegie Mellon Racing 2024 Rollout taking place?
+What is the timing for the Buggy Alumni Association Welcome Event?
+"Who can attend Inventing Shakespeare: Text, Technology and The Four Folios?"
+Who can attend SCS Breakfast & Buggy?
+Where is NROTC Flag Lowering taking place?
+Who can attend Meet & Greet with the Beep-Boop?
+"Who can attend ChemE Alumni, Faculty & Student Mixer?"
+Can you tell me more about the Order of the May (Invitation Only)?
+Where is Molly's Trolleys Reunion Tours taking place?
+What is the timing for the Friends of Engineering Bridge Unveiling?
+What is the timing for the Carnival Rides?
+What is the timing for the Carnival Wellness Tent?
+What is the timing for the Dog Houses Display?
+"What is the timing for the Inventing Shakespeare: Text, Technology and The Four Folios?"
+Where is CMBAA’s Spring Carnival Meeting taking place?
+What is the timing for the 25th Reunion Welcome Breakfast (1999)?
+What is the timing for the Sweepstakes Final Races?
+Who can attend Crafting with HR Family Care Initiatives?
+Who can attend Buggy Alumni Association Information Tent?
+Can you tell me more about the Reunion Welcome Back Happy Hour?
+Can you tell me more about the Carnegie Mellon Racing 2024 Rollout?
+Where is WRCT Radio Buggy Preview taking place?
+What is the timing for the The Tartan Alumni & Student Reception?
+Can you tell me more about the 25th Reunion Welcome Breakfast (1999)?
+What is the timing for the Buggy Alumni Association Information Tent?
+Can you tell me more about the Kiltie Band Alumni & Student Reception?
+Can you tell me more about the Carnival Activities Tent?
+Who can attend Mellon College of Science Class of 1974 50th Reunion Celebration?
+Can you tell me more about the NROTC Flag Raising?
+What is the timing for the 50th Reunion Dinner Reception (1974)?
+Who can attend NROTC Award Ceremony?
+Who can attend Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Can you tell me more about the Stephen and Joyce Fienberg Memorial Lecture?
+Where is Kidzone Tent taking place?
+"Where is Lunar Bots, Roll Out! taking place?"
+Who can attend Dog Costume Party?
+Can you tell me more about the Delta Upsilon Alumni Association Board Meeting?
+Who can attend 25th Reunion Dinner Reception (Class of 1999)?
+What is the timing for the WRCT's 75th Anniversary Reception?
+Where is Meet & Greet with the Beep-Boop taking place?
+What is the timing for the Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Who can attend CMBAA’s Spring Carnival Meeting?
+What is the timing for the Booth Build & Midway Cam?
+Who can attend Livestream of Then & Now Presentation?
+Who can attend WRCT's 75th Anniversary Reception?
+Can you tell me more about the Carnival Headquarters Tent: Check-In & Registration?
+Who can attend Carnival Activities Tent?
+Can you tell me more about the Information Systems 40th Anniversary Celebration (Private event for IS community)?
+Where is Statistics & Data Science Alumni & Department Lunch taking place?
+What is the timing for the 25th Reunion Dinner Reception (Class of 1999)?
+What is the timing for the Eid Celebration?
+"Where is Inventing Shakespeare: Text, Technology and The Four Folios taking place?"
+"What is the timing for the Lunar Bots, Roll Out!?"
+What is the timing for the Mellon College of Science Class of 1974 50th Reunion Celebration?
+"Where is The Highmark Center for Health, Wellness and Athletics Tours taking place?"
+Can you tell me more about the Buggy Bash?
+Can you tell me more about the Spring Carnival Parents and Families Hospitality Suite?
+Where is Carnival Rides taking place?
+Who can attend Carnival Rides?
+Who can attend Sweepstakes Final Races?
+Can you tell me more about the Buggy Showcase?
+What is the timing for the Buggy Bash?
+What is the timing for the NROTC Flag Lowering?
+What is the timing for the Preliminary Sweepstakes Races?
+Who can attend 15th and 20th Reunion Reception (2004 and 2009)?
+"Can you tell me more about the ChemE Alumni, Faculty & Student Mixer?"
+What is the timing for the Mobot Recap Watch Party?
+Who can attend Campus Community Lunch?
+What is the timing for the Here to Stay: Celebrating 40 Years at the Architecture Archives?
+Who can attend Crafting with the Spring Carnival Committee?
+Can you tell me more about the Information Systems Carnival 2024 Happy Hour (Invitation Only)?
+Who can attend Mixed Reality: A Virtual Reality Escape Room Experience?
+Who can attend WRCT Radio Buggy Preview?
+What is the timing for the Meet & Greet with the Beep-Boop?
+Where is Faces of Carnival Photo Mosaic taking place?
+Can you tell me more about the C#'s Carnival Concert?
+"Where is Lunar Bots, Roll Out! taking place?"
+Where is Scotch'n'Soda Theatre Alumni Brunch taking place?
+Can you tell me more about the MechE Alumni Breakfast?
+Can you tell me more about the Faces of Carnival Photo Mosaic?
+Where is MechE Alumni Breakfast taking place?
+Who can attend Holi?
+What is the timing for the Dietrich College of Humanities and Social Sciences Brunch & Buggy?
+Where is Holi taking place?
+"Where is Electrical and Computer Engineering's Totes, T-shirts and Tacos! taking place?"
+What is the timing for the Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Where is Buggy Alumni Association Information Tent taking place?
+Can you tell me more about the Buggy Donut Tent?
+Where is Residential Education (Student Life) Alumni Reception taking place?
+Can you tell me more about the 50th Reunion Dinner Reception (1974)?
+What is the timing for the Reunion Pints with Profs?
+Where is Booth! taking place?
+Where is Mixed Reality: A Virtual Reality Escape Room Experience taking place?
+"Who can attend Past, Present and Future of Energy in Pittsburgh Tours?"
+"Where is Past, Present and Future of Energy in Pittsburgh Tours taking place?"
+What is the timing for the WRCT Radio Buggy Preview?
+Where is Kiltie Band Alumni & Student Reception taking place?
+"What is the timing for the Electrical and Computer Engineering's Totes, T-shirts and Tacos!?"
+What is the timing for the Carnival Activities Tent?
+What is the timing for the Annual MOBOT Races?
+Who can attend Reunion Exclusive Tours?
+Who can attend Delta Upsilon Alumni Association Board Meeting?
+Who can attend Carnival Wellness Tent?
+Who can attend Heinz Alumni Association Awards (Invitation Only)?
+Who can attend Meet & Greet with the Beep-Boop?
+What is the timing for the Information Systems 40th Anniversary Celebration (Private event for IS community)?
+Who can attend Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Who can attend Taste of Pittsburgh Food Truck Festival?
+Can you tell me more about the NROTC Flag Lowering?
+Who can attend Buggy Bash?
+Can you tell me more about the Dog Costume Party?
+What is the timing for the Reunion Exclusive Tours?
+Who can attend Carnival Wellness Tent?
+What is the timing for the Booth!?
+Who can attend Kiltie Band Alumni & Student Reception?
+Who can attend Kiltie Band Concert?
+Can you tell me more about the NROTC Award Ceremony?
+Can you tell me more about the Teruko Yata Memorial Lecture in Robotics?
+Can you tell me more about the Taste of Pittsburgh Food Truck Festival?
+Who can attend Reunion Reserved Seating During Campus Community Lunch?
+Can you tell me more about the Cold Ones with the Coaches?
+"Can you tell me more about the Delta Upsilon Reception for Alumni, Family and Friends?"
+Where is CMU Emergency Medical Services Bystander CPR taking place?
+"Who can attend Inventing Shakespeare: Text, Technology and The Four Folios?"
+Where is Design Alumni Gathering taking place?
+Who can attend The Tartan Alumni & Student Reception?
+What is the timing for the Tepper Buggy Tent?
+Can you tell me more about the Scotch'n'Soda Theatre Alumni Brunch?
+What is the timing for the Heinz Network Pittsburgh (Invitation Only)?
+Where is Buggy Alumni Association Welcome Event taking place?
+What is the timing for the Here to Stay: Celebrating 40 Years at the Architecture Archives?
+Can you tell me more about the Scotch'n'Soda Theatre Carnival Show: The Little Mermaid?
+Where is Buggy Alumni Association Information Tent taking place?
+What is the timing for the Reunion Beer Garden?
+Who can attend Heinz Network Pittsburgh (Invitation Only)?
+Where is Engineering and Public Policy (EPP) Ice Cream Social taking place?
+Who can attend Tartans Got Talent?
+Where is Cold Ones with the Coaches taking place?
+What is the timing for the C#'s Carnival Concert?
+What is the timing for the Carnegie Mellon Racing 2024 Rollout?
+Where is Campus Community Lunch taking place?
+Who can attend Annual MOBOT Races?
+Can you tell me more about the Booth Build & Midway Cam?
+What is the timing for the School of Architecture Pavilion Dedication & Alumni Open House?
+Where is Booth! taking place?
+"Can you tell me more about the Unveiling the Department of Languages, Cultures & Applied Linguistics?"
+"Where is Inventing Shakespeare: Text, Technology and The Four Folios taking place?"
+Where is Mixed Reality: A Virtual Reality Escape Room Experience taking place?
+Where is Reunion Buggy Watch Tent taking place?
+Where are the classes for Lighting Production located on the campus?
+Who is the instructor for the Corporate Strategy:?
+Which department offers the Literature and Repertoire: Brass subject?
+Who is the instructor for the Carnegie Scenic?
+How many units does the Health Care Geographical Information Systems course offer?
+How many units does the Interpretation and Argument course offer?
+Which semester does the Costume Production belong to?
+Which department offers the Piano Pedagogy II subject?
+How many units does the Intermediate French II course offer?
+Which department offers the Undergraduate Research subject?
+How many units does the Introduction to Entrepreneurship course offer?
+Who is the instructor for the Video & Media Design?
+Which semester does the Dramaturgy belong to?
+Which semester does the Media belong to?
+Which department offers the Principles of Microeconomics subject?
+Who is the instructor for the Internship?
+Who is the instructor for the Fundamentals of Programming and Computer Science?
+Which department offers the Grad Students subject?
+When are the classes scheduled for the Statistics for Decision Making?
+How many units does the Introduction to Philosophy course offer?
+Who is the instructor for the Foundations of Programming Languages:?
+How many units does the Reading and Writing in an Academic Context course offer?
+When are the classes scheduled for the Tap III: Expand Percussive Rhythms?
+Where are the classes for Cyber Defense located on the campus?
+Who is the instructor for the Lighting Production?
+How many units does the Chemical Thermodynamics course offer?
+When are the classes scheduled for the Practicum in Statistics (Mini)?
+Which department offers the Music Studio subject?
+Which department offers the Scenic Design subject?
+How many units does the Foundations of Computer Systems course offer?
+Where are the classes for Physics I for Engineering Students located on the campus?
+Where are the classes for Undergraduate Research Shadowing in Chemistry located on the campus?
+Which department offers the Structural Analysis subject?
+Where are the classes for Carnegie Scenic located on the campus?
+Where are the classes for Guided Research located on the campus?
+How many units does the US Grand Strategy course offer?
+Where are the classes for Lighting Production located on the campus?
+Where are the classes for Movement and Dance II located on the campus?
+How many units does the Graduate Recital: Cello course offer?
+Where are the classes for Collaborative Visualizing located on the campus?
+Who is the instructor for the Internship?
+Which semester does the research in psychology belong to?
+Which semester does the IDeATe: 3D Modeling and 3D Printing belong to?
+"How many units does the Frontiers, Analysis, and Discovery in Biological Sciences course offer?"
+Where are the classes for Masters EST&P Project located on the campus?
+Who is the instructor for the Production Prep: Passage:?
+Which department offers the Production Prep: Lear: subject?
+Where are the classes for Costume Design located on the campus?
+Which semester does the Software Design and Architecture belong to?
+Which department offers the Elementary French I subject?
+Which semester does the Stage Management belong to?
+Which semester does the Matrices and Linear Transformations belong to?
+When are the classes scheduled for the Enterprise Web Development?
+Which semester does the Stochastic Calculus for Finance I belong to?
+Which semester does the Production Prep: A Little Night Music: belong to?
+Where are the classes for Accelerate Leadership Assessment located on the campus?
+When are the classes scheduled for the Independent Study in Business Analytics and Technology?
+When are the classes scheduled for the History Proficiency II Test?
+Which semester does the BXA Studio (2nd semester) belong to?
+How many units does the MSBA Experiential Learning 4 course offer?
+Which department offers the Supervised Reading in Mathematical Physics subject?
+Which department offers the Philosophy of Social Science subject?
+Who is the instructor for the Advanced Synthesis Options Studio?
+Which department offers the Interpretation and Argument subject?
+How many units does the Fundamentals of Operationalizing AI course offer?
+Where are the classes for Quantitative evaluation of language technologies located on the campus?
+Where are the classes for Acting for the Camera located on the campus?
+Which department offers the Independent Study subject?
+Where are the classes for Financial and Managerial Accounting II: located on the campus?
+Who is the instructor for the Lighting Forum?
+Which semester does the Research Project belong to?
+When are the classes scheduled for the Studio Independent Study?
+Which semester does the Principles of Imperative Computation belong to?
+Who is the instructor for the Introduction to the Theory and Practice of Policy Analysis?
+When are the classes scheduled for the Health Policy?
+When are the classes scheduled for the Costume Design?
+Where are the classes for Production Prep: Lonely Planet: located on the campus?
+Which department offers the Guest Experience in Theme Park Design subject?
+How many units does the Rehearsal and Performance III: course offer?
+Where are the classes for Special Topics in French & Francophone Studies located on the campus?
+Where are the classes for Solution Strategy & Marketing: located on the campus?
+Who is the instructor for the Information Systems Project?
+When are the classes scheduled for the Statistical Foundations of Business Analytics:?
+When are the classes scheduled for the Independent Study: Breadth?
+Which department offers the Capstone Management Project II subject?
+Who is the instructor for the BXA Studio (4th semester)?
+Which department offers the Packet Switching and Computer Networks subject?
+Who is the instructor for the TBA?
+Where are the classes for Principles of Macroeconomics located on the campus?
+How many units does the Probability and Statistics for Business Applications course offer?
+Which semester does the Independent Study in Information Systems belong to?
+When are the classes scheduled for the Independent Study: Breadth?
+When are the classes scheduled for the Decision Analytics for Business and Policy?
+Which semester does the Internship belong to?
+Which semester does the Societal Computing Pre-Thesis belong to?
+Which semester does the Directing I: A Director's Mindset belong to?
+Where are the classes for Carnegie Scenic located on the campus?
+Which semester does the Production Prep: John Proctor: belong to?
+How many units does the TBA course offer?
+Which semester does the Changes in Japan 1: Food and Work Cultures belong to?
+Who is the instructor for the Equity & Communication: Strategies for Institutional Change?
+Which department offers the Dissertation Research subject?
+When are the classes scheduled for the Democracy and History: Thinking Beyond the Self?
+Which semester does the Big Data and Large-scale Computing belong to?
+Which semester does the Junior Independent Study belong to?
+Who is the instructor for the Draping Fundamentals?
+Who is the instructor for the BXA Studio (3rd semester)?
+When are the classes scheduled for the Management Game?
+How many units does the Unstructured Data Analytics course offer?
+Which department offers the Independent Study subject?
+Which semester does the Naval Laboratory belong to?
+Who is the instructor for the Directing?
+Who is the instructor for the Stage Management?
+How many units does the Advanced Relational Database Management course offer?
+Where are the classes for Junior Recital located on the campus?
+Which semester does the Negotiation: International Focus belong to?
+Which department offers the Graduate Composition Project subject?
+How many units does the Numerical Methods in Engineering course offer?
+Which semester does the Sound Design belong to?
+How many units does the Dietrich College Senior Honors Thesis I course offer?
+When are the classes scheduled for the Introduction to Mathematical Concepts?
+When are the classes scheduled for the Studio Independent Study?
+How many units does the Major Studio (Composition) course offer?
+Which semester does the Advanced Music Studies Studio (Orchestral): Voice belong to?
+Who is the instructor for the Interpretation and Argument?
+When are the classes scheduled for the Supervised Reading in Condensed Matter Physics?
+Which semester does the Designing for Production and Sustainability belong to?
+When are the classes scheduled for the Production Preparation:?
+Which semester does the Keyboard Studies (Music Ed) belong to?
+Which department offers the Systems Synthesis I subject?
+Who is the instructor for the Entertainment Technology Center Independent Study?
+Which department offers the Media Design subject?
+Who is the instructor for the Chamber Music: Brass?
+"How many units does the Privacy Policy, Law, and Technology course offer?"
+Who is the instructor for the Solfege I?
+Who is the instructor for the Probability and Computing?
+Who is the instructor for the Representation and Generation in Neuroscience and AI?
+Which department offers the Business Communication for Analytical Decision Making subject?
+When are the classes scheduled for the Writing about Data?
+When are the classes scheduled for the Carnegie Scenic?
+When are the classes scheduled for the Behavioral Decision Making?
+Which department offers the Independent Study subject?
+Who is the instructor for the Graduate Recital:?
+Which department offers the Neurobiology of Disease subject?
+Which semester does the Advanced Music Studies Studio (Orchestral): Clarinet belong to?
+Which semester does the Accounting and Finance Analytics belong to?
+Which department offers the Rigging (2 units) subject?
+Who is the instructor for the Introduction to Modern Chemistry I?
+When are the classes scheduled for the Surgery for Engineers?
+Where are the classes for Independent Study located on the campus?
+Which department offers the BXA Internship subject?
+When are the classes scheduled for the Special Topics: Maker Series: Intro to CNC Router?
+When are the classes scheduled for the Media Design?
+Who is the instructor for the Production Prep: A Doll's House:?
+Which department offers the Information Systems Consulting Project subject?
+How many units does the Managing Digital Transformation course offer?
+Where are the classes for Acting for Business I: located on the campus?
+Who is the instructor for the TBA?
+How many units does the Argument course offer?
+Which semester does the Information Systems Consulting Project belong to?
+Who is the instructor for the Music and Technology Performance/Thesis?
+How many units does the Architecture Design Studio: Praxis Studio 2 course offer?
+Who is the instructor for the Literature and Repertoire: Flute?
+Where are the classes for Business Computing located on the campus?
+Where are the classes for Digital Media I located on the campus?
+Which department offers the Fundamentals of Programming and Computer Science subject?
+When are the classes scheduled for the Relationships:?
+Where are the classes for Independent Study located on the campus?
+How many units does the Special Topics in Literature & Culture: course offer?
+Who is the instructor for the Seminar on Homotopy Type Theory?
+When are the classes scheduled for the Coding Boot Camp?
+Where are the classes for Master's Independent Study: located on the campus?
+When are the classes scheduled for the Directed Reading?
+Who is the instructor for the Introduction to Machine Learning:?
+"Which semester does the Honors Chemistry: Fundamentals, Concepts and Applications belong to?"
+Which semester does the Junior Recital belong to?
+Who is the instructor for the Sophomore Recital?
+Which department offers the Independent Study Chemistry subject?
+Where are the classes for Funding Early Stage Ventures: located on the campus?
+When are the classes scheduled for the Hooked: The Chemical Basis of Drug Addiction?
+Where are the classes for Graduate Recital: Cello located on the campus?
+Which semester does the Internship for Privacy Engineering belong to?
+How many units does the Architecture Design Studio: POIESIS STUDIO 1 course offer?
+How many units does the Directing course offer?
+Which department offers the BXA Studio (1st semester) subject?
+When are the classes scheduled for the Internship in Chemical Engineering?
+How many units does the Costume Production course offer?
+How many units does the Great Ideas in Theoretical Computer Science course offer?
+Which department offers the Production Management subject?
+Who is the instructor for the Stochastic Calculus?
+How many units does the Biomedical Engineering Laboratory: course offer?
+When are the classes scheduled for the Undergraduate Research?
+Where are the classes for Practicum located on the campus?
+Who is the instructor for the Statistical Computing?
+How many units does the Asian Strategies course offer?
+How many units does the TBA course offer?
+Which semester does the Crosscultural belong to?
+Which semester does the Elective Studio (Beginning Piano Class) belong to?
+How many units does the Independent Study course offer?
+When are the classes scheduled for the Transport in Materials?
+Who is the instructor for the Applied Information Assurance?
+Which department offers the Production: Performance subject?
+Which department offers the Linear Algebra and Vector Calculus for Engineers subject?
+Where are the classes for Scenic Design located on the campus?
+How many units does the Independent Study in Eurhythmics course offer?
+Where are the classes for Directing located on the campus?
+Which department offers the Introduction to Gender Studies subject?
+Which department offers the Undergraduate Independent Study Mini subject?
+When are the classes scheduled for the Financial and Managerial Accounting II?
+When are the classes scheduled for the TBA?
+How many units does the Second Language Acquisition Dissertation Research course offer?
+Who is the instructor for the Role Playing Game Writing Workshop?
+Who is the instructor for the Independent Study?
+How many units does the Learning about Learning course offer?
+When are the classes scheduled for the Developing Blockchain Use Case?
+Who is the instructor for the Nanolegos: Chemical Building Blocks?
+Where are the classes for Stage Management located on the campus?
+How many units does the Graduate Seminar course offer?
+When are the classes scheduled for the Architecture Options Studios?
+Where are the classes for Design Leadership located on the campus?
+Which semester does the Lighting Production belong to?
+"Who is the instructor for the Art, Anthropology, and Empire?"
+Which department offers the Data Science for Psychology & Neuroscience subject?
+How many units does the Design Practicum course offer?
+Which department offers the Societal Computing Pre-Thesis subject?
+When are the classes scheduled for the Dietrich College Senior Honors Thesis I?
+Where are the classes for TBA located on the campus?
+Where are the classes for Percussion Studio Performance Class located on the campus?
+Which department offers the Production Prep: External Projects: subject?
+When are the classes scheduled for the MCS Honors Research?
+Who is the instructor for the Independent Study?
+Which semester does the Compiler Design belong to?
+Which semester does the Production Prep: Gloria: belong to?
+Who is the instructor for the Research Project?
+When are the classes scheduled for the Advanced Music Studies Studio (Orchestral):?
+When are the classes scheduled for the Student Taught Courses (StuCo): Introduction to Japanese Mahjong?
+Where are the classes for Systems Synthesis I located on the campus?
+"Which department offers the Technology, Weapons, and International Conflict subject?"
+When are the classes scheduled for the Directed Reading Mini?
+Which semester does the Sound Design belong to?
+Which semester does the Marketing Research belong to?
+Where are the classes for MSCF Business Communication I located on the campus?
+Who is the instructor for the Student Taught Courses (StuCo): Sew Sustainable?
+When are the classes scheduled for the Research Project?
+When are the classes scheduled for the Negotiation?
+Who is the instructor for the Mini-Course in Special Relativity?
+Where are the classes for Acting I located on the campus?
+Which semester does the Production Prep: Grown Ups: belong to?
+Which semester does the Advanced Music Studies Studio (Individual): Saxophone belong to?
+When are the classes scheduled for the Writing for the Professions for SCS students?
+Which semester does the Graduate Seminar belong to?
+How many units does the Graduate Recital course offer?
+Which department offers the Game Theory Applications for Economics and Business subject?
+Who is the instructor for the User-Centered Research and Evaluation:?
+When are the classes scheduled for the Theory and Design of Writing Instruction?
+Which department offers the Production Prep: Lonely Planet: subject?
+How many units does the Financial Analysis for Managers course offer?
+Where are the classes for Advanced Music Studies Studio (Orchestral): Horn located on the campus?
+Which semester does the Business and Marketing Strategy belong to?
+Who is the instructor for the Elementary German I?
+Which department offers the TBA subject?
+How many units does the Costumes (3 units) course offer?
+Where are the classes for New Venture Creation: located on the campus?
+When are the classes scheduled for the DC Grand Challenge Seminar: Realizing Human Rights?
+When are the classes scheduled for the Production Prep: Sender:?
+Who is the instructor for the Sound Design?
+How many units does the Introduction to Deep Learning course offer?
+Which semester does the Undergraduate Reading and Research belong to?
+Which department offers the Database Management subject?
+Which semester does the Special Topics in Drama: belong to?
+When are the classes scheduled for the PhD Dissertation Defense?
+Which department offers the Guided Research subject?
+Who is the instructor for the Special Topics in Signal Processing:?
+Which department offers the Musical Theater Audition subject?
+When are the classes scheduled for the Graduate Independent Study?
+Which semester does the Honors Research belong to?
+Which department offers the BXA Studio (4th semester) subject?
+Which semester does the Introduction to Computer Systems belong to?
+Who is the instructor for the Sound Design?
+Who is the instructor for the Database Design and Development?
+Which semester does the Intermediate Studio: Creative Coding belong to?
+Where are the classes for Production Prep: Lonely Planet: located on the campus?
+How many units does the Production Prep: Transformations (SOM 1): course offer?
+Where are the classes for Entrepreneurship Through Acquisition Workshop located on the campus?
+Which semester does the User-Centered Research and Evaluation: belong to?
+When are the classes scheduled for the Undergraduate Research in Philosophy?
+Who is the instructor for the Lighting Production?
+How many units does the Financial Statement Analysis course offer?
+Which semester does the Global Studies Internship belong to?
+Where are the classes for Social Psychology located on the campus?
+How many units does the Lighting Production course offer?
+Which semester does the IDeATe: Introduction to the Unity Game Engine belong to?
+When are the classes scheduled for the Grad Diction: French?
+Where are the classes for Algorithm Design and Analysis located on the campus?
+How many units does the Architecture Design Studio: Praxis Studio 3 course offer?
+Who is the instructor for the Elective Studio (Violin)?
+Where are the classes for Humanoid Robotics and Cognition located on the campus?
+Who is the instructor for the Major Studio (Violin)?
+How many units does the Jazz Vocal Ensemble course offer?
+Who is the instructor for the Production Prep: Macbeth:?
+When is Semester & Mini-1 Classes Begin occur during the Fall 2023 (F23) semester?
+"When is Mini-1 add, audit & tuition adjustment drop deadline  (1) occur during the Fall 2023 (F23) semester?"
+When is Labor Day occur during the Fall 2023 (F23) semester?
+"When is Semester add, audit & tuition adjustment drop deadline (1) occur during the Fall 2023 (F23) semester?"
+When is Mini-1 drop deadline occur during the Fall 2023 (F23) semester?
+When is Mini-1 Pass/no pass & withdrawal deadline (3) occur during the Fall 2023 (F23) semester?
+When is Mini-1 Faculty Course Evaluations open occur during the Fall 2023 (F23) semester?
+When is Semester drop deadline occur during the Fall 2023 (F23) semester?
+When is Mini-1 Last Day of Classes occur during the Fall 2023 (F23) semester?
+When is Mini-1 voucher election deadline (4) occur during the Fall 2023 (F23) semester?
+When is Family Weekend occur during the Fall 2023 (F23) semester?
+When is Mini-1 Exams occur during the Fall 2023 (F23) semester?
+When is Mini-1 Faculty Course Evaluations close occur during the Fall 2023 (F23) semester?
+When is Fall Break occur during the Fall 2023 (F23) semester?
+When is Mini-2 Classes Begin occur during the Fall 2023 (F23) semester?
+When is Mid-Semester & Mini-1 grades due by 4 pm occur during the Fall 2023 (F23) semester?
+"When is Mini-2 add, audit & tuition adjustment drop deadline (1) occur during the Fall 2023 (F23) semester?"
+When is Democracy Day occur during the Fall 2023 (F23) semester?
+When is Homecoming occur during the Fall 2023 (F23) semester?
+When is Spring 2024 Registration Week occur during the Fall 2023 (F23) semester?
+When is Semester pass/no pass & withdrawal deadline (3) occur during the Fall 2023 (F23) semester?
+When is Mini-2 drop deadline occur during the Fall 2023 (F23) semester?
+When is Thanksgiving Break occur during the Fall 2023 (F23) semester?
+When is Mini-2 pass/no pass & withdrawal deadline (2) occur during the Fall 2023 (F23) semester?
+When is Semester & Mini-2 Faculty Course Evaluations open occur during the Fall 2023 (F23) semester?
+When is Semester & Mini-2 Last Day of Classes occur during the Fall 2023 (F23) semester?
+When is Semester & Mini-2 voucher deadline (4) occur during the Fall 2023 (F23) semester?
+When is Final Exams occur during the Fall 2023 (F23) semester?
+When is Reading Day occur during the Fall 2023 (F23) semester?
+When is Final Exams occur during the Fall 2023 (F23) semester?
+When is Reading Day occur during the Fall 2023 (F23) semester?
+When is Final Exams occur during the Fall 2023 (F23) semester?
+When is Make-Up Final Exams occur during the Fall 2023 (F23) semester?
+When is Semester & Mini-2 Faculty Course Evaluations close occur during the Fall 2023 (F23) semester?
+When is Final Grades Due by 4 pm occur during the Fall 2023 (F23) semester?
+When is Winter Break occur during the Fall 2023 (F23) semester?
+When is Fall Deans' Lists Posted occur during the Fall 2023 (F23) semester?
+When is Martin Luther King Day occur during the Spring 2024 (S24) semester?
+When is First Day of Class occur during the Spring 2024 (S24) semester?
+"When is Mini-3 add, audit & tuition adjustment drop deadline (1) occur during the Spring 2024 (S24) semester?"
+"When is Semester add, audit & tuition adjustment drop deadline (1) occur during the Spring 2024 (S24) semester?"
+When is Mini-3 course drop deadline occur during the Spring 2024 (S24) semester?
+When is Mini-3 pass/no pass & withdrawal deadline (3) occur during the Spring 2024 (S24) semester?
+When is Mini-3 Faculty Course Evaluations open occur during the Spring 2024 (S24) semester?
+When is Semester course drop deadline occur during the Spring 2024 (S24) semester?
+When is Mini-3 Last Day of Classes occur during the Spring 2024 (S24) semester?
+When is Mini-3 voucher deadline (4) occur during the Spring 2024 (S24) semester?
+When is Mini-3 Exams occur during the Spring 2024 (S24) semester?
+When is Mini-3 Faculty Course Evaluations close occur during the Spring 2024 (S24) semester?
+When is Spring Break occur during the Spring 2024 (S24) semester?
+When is First day of Mini-4 Classes occur during the Spring 2024 (S24) semester?
+When is Mid-Semester & Mini-3 grades due by 4 pm occur during the Spring 2024 (S24) semester?
+When is Summer 2024 Registration Opens occur during the Spring 2024 (S24) semester?
+"When is Mini-4 add, audit & tuition adjustment drop deadline (1) occur during the Spring 2024 (S24) semester?"
+When is Semester pass/no pass & withdrawal deadline (3) occur during the Spring 2024 (S24) semester?
+When is Mini-4 course drop deadline occur during the Spring 2024 (S24) semester?
+When is Spring Carnival occur during the Spring 2024 (S24) semester?
+When is Fall 2024 Registration Week occur during the Spring 2024 (S24) semester?
+When is Mini-4 pass/no pass & withdrawal deadline (3) occur during the Spring 2024 (S24) semester?
+When is Semester & Mini-4 Faculty Course Evaluations open occur during the Spring 2024 (S24) semester?
+When is Last Day of Classes occur during the Spring 2024 (S24) semester?
+When is Semester & Mini-4 voucher deadline (4) occur during the Spring 2024 (S24) semester?
+When is Final Examinations occur during the Spring 2024 (S24) semester?
+When is Reading Day occur during the Spring 2024 (S24) semester?
+When is Final Examinations occur during the Spring 2024 (S24) semester?
+When is Reading Days occur during the Spring 2024 (S24) semester?
+When is Final Examinations occur during the Spring 2024 (S24) semester?
+When is Semester & Mini-4 Faculty Course Evaluations close occur during the Spring 2024 (S24) semester?
+When is Make-Up Final Examinations occur during the Spring 2024 (S24) semester?
+When is Graduating Final Grades Due by 4 pm occur during the Spring 2024 (S24) semester?
+When is Commencement occur during the Spring 2024 (S24) semester?
+When is Final Grades Due by 4 pm occur during the Spring 2024 (S24) semester?
+When is Spring Deans' Lists Posted occur during the Spring 2024 (S24) semester?
+When is Semester & Mini-5 Classes Begin occur during the Summer One 2024 (M24) semester?
+"When is Mini-5 add, audit, & tuition adjustment drop deadline (1) occur during the Summer One 2024 (M24) semester?"
+"When is Semester add, audit, & tuition adjustment drop deadline (1) occur during the Summer One 2024 (M24) semester?"
+When is Memorial Day occur during the Summer One 2024 (M24) semester?
+When is Mini-5 course drop deadline occur during the Summer One 2024 (M24) semester?
+When is Mini-5 pass/no pass & withdrawal deadline (3) occur during the Summer One 2024 (M24) semester?
+When is Mini-5 Faculty Course Evaluations open occur during the Summer One 2024 (M24) semester?
+When is Semester course drop deadline occur during the Summer One 2024 (M24) semester?
+When is Juneteenth occur during the Summer One 2024 (M24) semester?
+When is Mini-5 Last Day of Classes occur during the Summer One 2024 (M24) semester?
+When is Mini-5 voucher deadline (4) occur during the Summer One 2024 (M24) semester?
+When is Mini-5 Final Exams occur during the Summer One 2024 (M24) semester?
+When is Mini-5 Faculty Course Evaluations close occur during the Summer One 2024 (M24) semester?
+When is Mini-6 First Day of Classes occur during the Summer One 2024 (M24) semester?
+When is Mini-5 Final Grades Due by 4 pm occur during the Summer One 2024 (M24) semester?
+"When is Mini-6 add, audit, & tuition adjustment drop deadline (1) occur during the Summer One 2024 (M24) semester?"
+When is Independence Day occur during the Summer One 2024 (M24) semester?
+When is Semester pass/no pass & withdrawal deadline (3) occur during the Summer One 2024 (M24) semester?
+When is Mini-6 drop deadline occur during the Summer One 2024 (M24) semester?
+When is Mini-6 pass/no pass & withdrawal deadline (3) occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 Faculty Course Evalutations open occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 Last Day of Classes occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 voucher deadline (4) occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 Final Exams*** occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 Faculty Course Evaluations close occur during the Summer One 2024 (M24) semester?
+When is Semester & Mini-6 Final Grades Due by 4 pm occur during the Summer One 2024 (M24) semester?
+When is Summer Semester Two Classes Begin occur during the Summer Two 2024 (N24) semester?
+"When is Summer Semester  Two add, audit & tuition adjustment drop deadline (1) occur during the Summer Two 2024 (N24) semester?"
+When is Independence Day occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two drop deadline occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two pass/no pass & withdrawal deadline (3) occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two Faculty Course Evaulations open occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two Last Day of Classes occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two voucher deadline (4) occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two Final Exams*** occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two Faculty Course Evaluations close occur during the Summer Two 2024 (N24) semester?
+When is Summer Semester  Two Final Grades Due by 4 pm occur during the Summer Two 2024 (N24) semester?
+When is First-Year Orientation occur during the Fall 2024 (F24) semester?
+When is Convocation occur during the Fall 2024 (F24) semester?
+When is Semester & Mini-1 Classes Begin occur during the Fall 2024 (F24) semester?
+"When is Mini-1 add, audit & tuition adjustment drop deadline  (1) occur during the Fall 2024 (F24) semester?"
+When is Labor Day occur during the Fall 2024 (F24) semester?
+"When is Semester add, audit & tuition adjustment drop deadline (1) occur during the Fall 2024 (F24) semester?"
+When is Mini-1 drop deadline occur during the Fall 2024 (F24) semester?
+When is Mini-1 Pass/no pass & withdrawal deadline (3) occur during the Fall 2024 (F24) semester?
+When is Mini-1 Faculty Course Evaluations open occur during the Fall 2024 (F24) semester?
+When is Semester drop deadline occur during the Fall 2024 (F24) semester?
+When is Mini-1 Last Day of Classes occur during the Fall 2024 (F24) semester?
+When is Mini-1 voucher election deadline (4) occur during the Fall 2024 (F24) semester?
+When is Mini-1 Exams occur during the Fall 2024 (F24) semester?
+When is Mini-1 Faculty Course Evaluations close occur during the Fall 2024 (F24) semester?
+When is Fall Break occur during the Fall 2024 (F24) semester?
+When is Mini-2 Classes Begin occur during the Fall 2024 (F24) semester?
+When is Mid-Semester & Mini-1 grades due by 4 pm occur during the Fall 2024 (F24) semester?
+"When is Mini-2 add, audit & tuition adjustment drop deadline (1) occur during the Fall 2024 (F24) semester?"
+When is Democracy Day occur during the Fall 2024 (F24) semester?
+When is Semester pass/no pass & withdrawal deadline (3) occur during the Fall 2024 (F24) semester?
+When is Mini-2 drop deadline occur during the Fall 2024 (F24) semester?
+When is Spring 2025 Registration Week occur during the Fall 2024 (F24) semester?
+When is Mini-2 pass/no pass & withdrawal deadline (3) occur during the Fall 2024 (F24) semester?
+When is Semester & Mini-2 Faculty Course Evaluations open occur during the Fall 2024 (F24) semester?
+When is Thanksgiving Break occur during the Fall 2024 (F24) semester?
+When is Semester & Mini-2 Last Day of Classes occur during the Fall 2024 (F24) semester?
+When is Semester & Mini-2 voucher deadline (4) occur during the Fall 2024 (F24) semester?
+When is Final Exams occur during the Fall 2024 (F24) semester?
+When is Reading Day occur during the Fall 2024 (F24) semester?
+When is Final Exams occur during the Fall 2024 (F24) semester?
+When is Reading Day occur during the Fall 2024 (F24) semester?
+When is Final Exams occur during the Fall 2024 (F24) semester?
+When is Semester & Mini-2 Faculty Course Evaluations close occur during the Fall 2024 (F24) semester?
+When is Make-Up Final Exams occur during the Fall 2024 (F24) semester?
+When is Final Grades Due by 4 pm occur during the Fall 2024 (F24) semester?
+When is University Closed occur during the Fall 2024 (F24) semester?
+When is University Closed occur during the Fall 2024 (F24) semester?
+When is Fall Deans' Lists Posted occur during the Fall 2024 (F24) semester?
+When is First Day of Classes occur during the Spring 2025 (S25) semester?
+"When is Mini-3 add, audit & tuition adjustment drop deadline (1) occur during the Spring 2025 (S25) semester?"
+When is Martin Luther King Day occur during the Spring 2025 (S25) semester?
+"When is Semester add, audit & tuition adjustment drop deadline (1) occur during the Spring 2025 (S25) semester?"
+When is Mini-3 course drop deadline occur during the Spring 2025 (S25) semester?
+When is Mini-3 pass/no pass & withdrawal deadline (3) occur during the Spring 2025 (S25) semester?
+When is Mini-3 Faculty Course Evaluations open occur during the Spring 2025 (S25) semester?
+When is Semester course drop deadline occur during the Spring 2025 (S25) semester?
+When is Mini-3 Last Day of Classes occur during the Spring 2025 (S25) semester?
+When is Mini-3 voucher deadline (4) occur during the Spring 2025 (S25) semester?
+When is Mini-3 Exams occur during the Spring 2025 (S25) semester?
+When is Mini-3 Faculty Course Evaluations close occur during the Spring 2025 (S25) semester?
+When is Spring Break occur during the Spring 2025 (S25) semester?
+When is First day of Mini-4 Classes occur during the Spring 2025 (S25) semester?
+When is Summer 2025 Registration Opens occur during the Spring 2025 (S25) semester?
+When is Mid-Semester & Mini-3 grades due by 4 pm occur during the Spring 2025 (S25) semester?
+"When is Mini-4 add, audit & tuition adjustment drop deadline (1) occur during the Spring 2025 (S25) semester?"
+When is Semester pass/no pass & withdrawal deadline occur during the Spring 2025 (S25) semester?
+When is Mini-4 course drop deadline occur during the Spring 2025 (S25) semester?
+When is Spring Carnival occur during the Spring 2025 (S25) semester?
+When is Fall 2025 Registration Week occur during the Spring 2025 (S25) semester?
+When is Mini-4 pass/no pass & withdrawal deadline (3) occur during the Spring 2025 (S25) semester?
+When is Semester & Mini-4 Faculty Course Evaluations open occur during the Spring 2025 (S25) semester?
+When is Last Day of Classes occur during the Spring 2025 (S25) semester?
+When is Semester & Mini-4 voucher deadline (4) occur during the Spring 2025 (S25) semester?
+When is Final Examinations occur during the Spring 2025 (S25) semester?
+When is Reading Day occur during the Spring 2025 (S25) semester?
+When is Final Examinations occur during the Spring 2025 (S25) semester?
+When is Reading Days occur during the Spring 2025 (S25) semester?
+When is Final Examinations occur during the Spring 2025 (S25) semester?
+When is Semester & Mini-4 Faculty Course Evaluations close occur during the Spring 2025 (S25) semester?
+When is Make-Up Final Examinations occur during the Spring 2025 (S25) semester?
+When is Graduating Students' Final Grades Due by 4 pm occur during the Spring 2025 (S25) semester?
+When is Commencement occur during the Spring 2025 (S25) semester?
+When is Final Grades Due by 4 pm occur during the Spring 2025 (S25) semester?
+When is Spring Deans' Lists Posted occur during the Spring 2025 (S25) semester?
+"When is Summer Session All, One & Mini-5 Classes Begin occur during the Summer 2025 (M25) semester?"
+"When is Summer One & Mini-5 add, audit, & tuition adjustment drop deadline (1) occur during the Summer 2025 (M25) semester?"
+"When is Summer All add, audit, & tuition adjustment drop deadline (1) occur during the Summer 2025 (M25) semester?"
+When is Memorial Day occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 course drop deadline occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 pass/no pass & withdrawal deadline (3) occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 Faculty Course Evaluations open occur during the Summer 2025 (M25) semester?
+When is Summer All course drop deadline occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 Last Day of Classes occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 voucher deadline occur during the Summer 2025 (M25) semester?
+When is Juneteenth occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 Final Exams occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 Faculty Course Evaluations close occur during the Summer 2025 (M25) semester?
+When is Summer Two & Mini-6 First Day of Classes occur during the Summer 2025 (M25) semester?
+When is Summer One & Mini-5 Final Grades Due by 4 pm occur during the Summer 2025 (M25) semester?
+"When is Summer Two & Mini-6 add, audit, & tuition adjustment drop deadline (1) occur during the Summer 2025 (M25) semester?"
+When is Summer All pass/no pass & withdrawal grade deadline (3) occur during the Summer 2025 (M25) semester?
+When is Independence Day occur during the Summer 2025 (M25) semester?
+When is Summer Two & Mini-6 drop deadline occur during the Summer 2025 (M25) semester?
+When is Summer Two & Mini-6 pass/no pass & withdrawal deadline (3) occur during the Summer 2025 (M25) semester?
+"When is Summer All, Two & Mini-6 Faculty Course Evalutations open occur during the Summer 2025 (M25) semester?"
+"When is Summer All, Two & Mini-6 Last Day of Classes occur during the Summer 2025 (M25) semester?"
+"When is Summer All, Two & Mini-6 voucher deadline occur during the Summer 2025 (M25) semester?"
+"When is Summer All, Two & Mini-6 Final Exams occur during the Summer 2025 (M25) semester?"
+"When is Summer All, Two & Mini-6 Faculty Course Evaluations close occur during the Summer 2025 (M25) semester?"
+"When is Summer All, Two & Mini-6 Final Grades Due by 4 pm occur during the Summer 2025 (M25) semester?"
+What is the goal of the Master of Science in Artificial Intelligence and Innovation (MSAII) program at Carnegie Mellon University?
+How many units of coursework are required to complete the MSAII degree?
+What are the Core Courses and their sequence in the MSAII program?
+What is the Reasonable Person Principle (RPP) in the context of the MSAII program?
+What are the Knowledge Area Courses and unit requirements in the MSAII program?
+How does the MSAII program address academic integrity and what are the consequences of violating it?
+What is the internship requirement for the MSAII program?
+What is the Master of Computational Data Science (MCDS) degree?
+What is the vision of Carnegie Mellon University?
+What are the core curriculum and concentrations in the MCDS program?
+What are the MCDS program completion requirements?
+What is the duration of the MCDS degree program?
+What is the policy on Master’s Student Statute of Limitations?
+What are the residency requirements for the MCDS program?
+What is the MCDS Capstone Project?
+What is the policy on Academic Integrity in the MCDS program?
+What are the grading standards for the MCDS program?
+What degrees does the Language Technologies Institute offer?
+What is the target duration for completing the LTI Ph.D. program?
+How many units of graduate-level courses must a Ph.D. student pass to complete the LTI Ph.D. degree?
+What are the proficiency requirements for the LTI Ph.D. students?
+What financial support is available for LTI Ph.D. students?
+How can LTI Ph.D. students receive conference travel funding?
+What are the conditions under which an LTI Ph.D. student can do an external internship?
+What are the university's sexual misconduct policies for students?
+What resources are available for LTI Ph.D. students seeking health insurance?
+What is the Master of Language Technologies (MLT) degree?
+How long is the MLT program expected to take?
+What are the MLT degree course requirements?
+What are the grade requirements for MLT students?
+What is the research speaking requirement for MLT students?
+What is the policy on external internships for MLT students?
+What is the MLT student policy on transferring into or out of the MLT program?
+How does the MLT program address academic integrity?
+What financial support is available for MLT students?
+What is the Master of Science in Intelligent Information Systems (MIIS) degree?
+How long does it take to complete the MIIS degree?
+What are the core requirements for the MIIS degree?
+What practice requirements must MIIS students fulfill?
+Can MIIS students transfer courses from other institutions?
+How does the MIIS program handle internships?
+What academic policies apply to MIIS students?
+What financial support is available for MIIS students?
+What is the MIIS policy on academic integrity?
+What grading scale is used for MIIS students?
+What is the name of the academic program offered through the partnership between Carnegie Mellon University and various Portuguese universities?
+Where can I find more information about the program online?
+Which Portuguese institutions partner with Carnegie Mellon University for this dual-degree program?
+How long does the dual-degree program take to complete?
+What kind of coursework is included in the dual-degree program?
+Do students receive guidance throughout the program?
+"Once students finish the majority of their academic requirements, what happens next?"
+What specific degrees can students earn at the partnering Portuguese universities?
+Is any prior knowledge or experience necessary to apply for the program?
+Does the program offer financial assistance or funding opportunities?
+Are there any language proficiency requirements for international students?
+Can students choose which Portuguese university to attend?
+Will students receive support finding housing in Portugal?
+What kind of background or qualifications are recommended for prospective students interested in applying to the Dual-Degree Ph.D. in Language and Information Technologies program offered through the collaboration between Carnegie Mellon University and various Portuguese universities?
+"How many credits worth of coursework are required to complete the Dual-Degree Ph.D. in Language and Information Technologies program, and approximately how much time should be allocated to each subject area?"
+"Are there any specific professors or researchers affiliated with the Dual-Degree Ph.D. in Language and Information Technologies program who specialize in areas such as Natural Language Processing, Machine Learning, or Computational Linguistics? Please provide brief descriptions of their expertise."
+"Can students undertake internships during their participation in the Dual-Degree Ph.D. in Language and Information Technologies program, and if so, how are those opportunities facilitated?"
+"Is there a possibility for students enrolled in the Dual-Degree Ph.D. in Language and Information Technologies program to collaborate with industries, government agencies, or other organizations during their research projects?"
+"Does the Dual-Degree Ph.D. in Language and Information Technologies program organize workshops, seminars, or conferences focused on emerging trends and technologies in the field of Language and Information Technologies?"
+"Upon completion of the Dual-Degree Ph.D. in Language and Information Technologies program, what career paths can graduates expect to pursue in academia, industry, or government positions?"
+"How successful have alumni been in securing employment upon completing the Dual-Degree Ph.D. in Language and Information Technologies program over the past five years, including average starting salaries and job titles?"
+"What measures has the Dual-Degree Ph.D. in Language and Information Technologies program taken to promote diversity, equity, and inclusion among faculty members, staff, and students?"
+"Considering factors such as curriculum quality, faculty reputation, student outcomes, and global rankings, how competitive is the Dual-Degree Ph.D. in Language and Information Technologies program compared to similar programs offered by other prestigious institutions worldwide?"
+What are the academic activities planned for the fall semester of Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Portugal?
+What are the main subjects and activities during the spring semester of Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the primary academic activities for the summer session in Year 1 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Portugal?
+What subjects and tasks are assigned to students during the fall semester of Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main subjects and activities during the spring semester of Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the primary academic activities for the summer session in Year 2 in the Dual-Degree Ph.D. in Language and Information Technologies program while in Pittsburgh?
+What are the main academic activities for the fall semester of Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities during the spring semester of Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities for the summer session in Year 3 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Pittsburgh?
+What are the main academic activities for the fall semester of Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities during the spring semester of Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the summer session in Year 4 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the fall semester of Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities during the spring semester of Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What are the main academic activities for the summer session in Year 5 in the Dual-Degree Ph.D. in Language and Information Technologies program based in Portugal?
+What is the website for Language Technologies Concentration?
+What is the Overview of Language Technologies Concentration?
+What are the Requirements for the Language Technologies Concentration program?
+What is the Curriculum for the Language Technologies Concentration?
+What is the main focus of Language Technologies Concentration?
+What are some examples of language technologies mentioned in the Overview?
+What are the prerequisites for students interested in the language technologies minor?
+"Apart from the prerequisite courses, what additional courses are encouraged for candidates?"
+How many elective courses does the Language Technologies Concentration require SCS students to complete?
+What is the total number of units required for the undergraduate research project in the Language Technologies Concentration?
+Can students with a grade lower than B (3.0) still apply for the language technologies minor?
+What are some of the suggested courses for candidates interested in the Language Technologies Concentration?
+What does the Language Technologies Concentration prepare students for?
+Are there any specific sets of stand-alone courses that students can choose as electives?
+What is the core course for the Language Technologies Concentration?
+Could you name some electives for the Language Technologies Concentration?
+How many electives are required to complete the Language Technologies Concentration?
+Describe the project requirement for the Language Technologies Concentration.
+What are the two timing options for earning the MCDS degree?
+How many total course credits must be completed to earn an MCDS degree?
+What are the three majors available in the MCDS program and their required course credits?
+"What are the core curriculum, MCDS seminar, concentration area, and elective courses required for an MCDS degree?"
+"How many 12-unit courses are required to earn an MCDS degree, and how many of those can be electives?"
+"Should incoming MCDS students consider taking 15-513 “Introduction to Computing Systems”, and if yes, why?"
+Where can I find example courses of study for the MCDS program?
+What are the courses offered in each season of Year 1 for the Master of Computational Data Science program?
+What is the structure of Year 2 in the Master of Computational Data Science program?
+What are the courses offered in each season of Year 1 for the Master of Computational Data Science Systems program?
+What are the courses offered in Year 2 for the Master of Computational Data Science Systems program?
+What are the Fall term courses for Empirical Analysis of Interactive Systems?
+What are the Spring term courses for Empirical Analysis of Interactive Systems?
+What are the Fall term courses for Social Web Analytics & Design?
+What are the Spring term courses for Social Web Analytics & Design?
+What are the Fall term courses for Ubiquitous Computing?
+What are the Spring term courses for Ubiquitous Computing?
+What are the Fall term courses for Educational Software Design?
+What are the Spring term courses for Educational Software Design?
+What is the duration of the MLT program and when does the program usually start and end?
+"How many course units must MLT students complete, and what percentage needs to be LTI or SCS courses?"
+"What kinds of courses should applicants be familiar with before enrolling in the MLT program, and what are the typical durations of these courses?"
+"What choices do students have apart from LTI courses, and are there restrictions on selecting courses outside of CMU or Pitt?"
+"Why is directed research significant in the MLT program, and what assistance do students receive throughout this stage?"
+"Do MLT students have the option to author a thesis, and where can guidelines for composing this thesis be obtained?"
+What courses are taught during the Fall semester of the first year in the Master of Language Technologies program?
+What courses are taught during the Spring semester of the first year in the Master of Language Technologies program?
+What courses are taught during the Summer term of the first year in the Master of Language Technologies program?
+What courses are taught during the Fall semester of the second year in the Master of Language Technologies program?
+What courses are taught during the Spring semester of the second year in the Master of Language Technologies program?
+What courses are taught during the Summer term of the second year in the Master of Language Technologies program?
+What is the Master of Science in Artificial Intelligence and Innovation (MSAII) program?
+Who is eligible to apply for the MSAII program?
+What are the requirements to earn the MSAII degree?
+What does the Core Curriculum cover in the MSAII program?
+What are the Knowledge Requirements for the MSAII program?
+What is the LTI Practicum in the MSAII program?
+What are the Elective options for the MSAII program?
+Do students need to complete an internship in the MSAII program?
+Can students take any course for elective credit in the MSAII program?
+Are there any preparatory classes for the MSAII program?
+What is the Master's in Intelligent Information Systems (MIIS) program focused on?
+What kind of practical experience does the MIIS program offer?
+Which tracks are available for the MIIS program?
+How many examples of course schedules are provided for the MIIS-16 and MIIS-21?
+What is the difference in the number of courses and unit requirements between MIIS-16 and MIIS-21 students?
+Does the MIIS program offer a part-time education option?
+Where can I find more information regarding requirements and curriculum for the MIIS program?
+What are the courses in Fall 1 for the MS in Intelligent Information Systems?
+What are the courses in Fall 2 for the MS in Intelligent Information Systems?
+What are the courses in Spring for the MS in Intelligent Information Systems?
+What are the courses in Summer for the MS in Intelligent Information Systems?
+What are the courses in Fall 1 for the alternative MS in Intelligent Information Systems?
+What are the courses in Fall 2 for the alternative MS in Intelligent Information Systems?
+What are the courses in Spring for the alternative MS in Intelligent Information Systems?
+What are the courses in Summer for the alternative MS in Intelligent Information Systems?
+What are the courses in Fall 1 for the third MS in Intelligent Information Systems variant?
+What are the courses in Spring for the third MS in Intelligent Information Systems variant?
+What are the courses in Summer for the third MS in Intelligent Information Systems variant?
+What are the courses in Fall 1 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Fall 2 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Spring 1 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Spring 2 for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Summer for the fourth MS in Intelligent Information Systems variation?
+What are the courses in Fall 1 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Fall 2 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Spring 1 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Spring 2 for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Summer for the fifth MS in Intelligent Information Systems layout?
+What are the courses in Fall 1 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Fall 2 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Spring 1 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Spring 2 for the sixth MS in Intelligent Information Systems configuration?
+What are the courses in Summer for the sixth MS in Intelligent Information Systems configuration?
+What are the general requirements for obtaining a Ph.D. in Language and Information Technologies?
+Could you provide an example of a five-year schedule for pursuing a Ph.D. in Language and Information Technologies?
+What are the courses for Fall semester of Year 1 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Spring semester of Year 1 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Fall semester of Year 2 in the Ph.D. in Language and Information Technologies program?
+What are the courses for Spring semester of Year 2 in the Ph.D. in Language and Information Technologies program?
+"What are the courses for Years 3, 4, and 5 in the Ph.D. in Language and Information Technologies program?"
