@@ -16,18 +16,24 @@ from retrieval_metrics import *
 import pandas as pd
 import torch
 from batch_llama import *
+from colbert_retrieval_accuracy import prepare_documents
 
 ######### HYPERPARAMETERS ##########
 
-questions_filepath = '../../faculty_data_subset/manual_questions.csv' #This can be changed to new combined test set path
-document_directory = '../../faculty_data_subset/prefinal_documents' #This can also be changed to new combined documents path
-index_name = 'my_faculty_small_index' #This can be changed based on which kind of index we are creating
+questions_filepath = '../../data/questions/combined_data.csv' #This can be changed to new combined test set path
+document_directory = '../../data/documents' #This can also be changed to new combined documents path
+index_name = 'combined_index' #This can be changed based on which kind of index we are creating
 retrieval_k = 2 #This is no. of top_k documents to retrieve. 
-prompt_file_name = f'Colbert_prompts@{retrieval_k}.csv' #question, retrieved_documents, prompt, [answer, relevant_documents]
-output_path = f'Colbert_llama_pred_answers@{retrieval_k}.csv'
+prompt_file_name = f'combined_colbert_prompts@{retrieval_k}.csv' #question, retrieved_documents, prompt, [answer, relevant_documents]
+output_path = f'combined_colbert_llama_pred_answers@{retrieval_k}.csv'
 #Other hyperparameters like max_document_length, llama_context, split_documents = True
 
 #########################
+def prepare_index():
+    documents, filenames = prepare_documents(document_directory)
+    RAG = RAGPretrainedModel.from_pretrained('../../../models/colbertv2.0')
+    index_path = RAG.index(index_name=index_name, collection=documents, document_ids = filenames, split_documents=True, max_document_length=512)
+
 
 def write_prompts_file(index_name, questions_list, data=None):
     instruction = 'You are a helpful assistant. Answer the question concisely in 1-10 words using the context.'
@@ -75,7 +81,7 @@ def cleaned_doc_list(document_list):
         cleaned_docs_list.append(true_docs)
     return cleaned_docs_list
 
-if __name__ == '__main__':
+def final_pipeline():
     #TODO: generate new index
     data_df = pd.read_csv(questions_filepath)
     questions_list = data_df['question'].tolist()
@@ -96,3 +102,5 @@ if __name__ == '__main__':
         print(prompts_list[i])
         print(pred_answers[i])
             
+if __name__ == '__main__':
+    prepare_index()
