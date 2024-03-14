@@ -1,0 +1,4 @@
+Title: A Gold Standard Dataset for the Reviewer Assignment Problem
+Authors: Ivan Stelmakh, John Wieting, Graham Neubig, Nihar B. Shah
+Section: 6.1 Comparison of the algorithms
+in a dataset-specific manner, or by leveraging larger pre-trained models like T5 (Raffel et al., 2020) with added fine-tuning in the scientific domain. However, our observation suggests that the off-the-shelf performance of the best algorithm (Specter+MFR) is comparable to that of much simpler TPMS algorithm. Finally, we note that some of the confidence intervals for the performance of the different algorithms, as well as for the relative differences, are overlapping. It is, therefore, crucial to increase the size of our dataset to enable more fine-grained comparisons between the algorithms.

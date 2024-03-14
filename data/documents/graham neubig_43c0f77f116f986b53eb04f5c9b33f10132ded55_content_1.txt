@@ -1,0 +1,4 @@
+Title: User-Centric Evaluation of OCR Systems for Kwak’wala
+Authors: Shruti Rijhwani, Daisy Rosenblum, Michayla King, Antonios Anastasopoulos, Graham Neubig
+Section: A Appendix
+or correcting predictions from a model? Why? 3. If you are a Kwak’wala language learner, did the annotation help your language learning? How? 4. Did the practice task help you become familiar with the keyboard? 5. After annotating a few pages, do you feel like you become faster at annotation? 6. Which do you feel is faster: typing from scratch or correcting predictions? 7. Any other feedback or thoughts on the task?

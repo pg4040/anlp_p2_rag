@@ -1,0 +1,4 @@
+Title: MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception
+Authors: Gyan Tatiya, Jonathan Francis, Ho-Hsiang Wu, Yonatan Bisk, Jivko Sinapov
+Section: IV. EXPERIMENTAL DESIGN
+raw multisensory data for object category classification. For the fetch object task (see Algorithm 2), the set B contains only the Look behavior for the non-interactive condition and all 9 interactive behaviors for the interactive condition.

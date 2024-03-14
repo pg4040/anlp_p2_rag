@@ -1,0 +1,4 @@
+Title: GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets
+Authors: Njáll Skarphéðinsson, Breki Guðmundsson, Steinar Þ. Smári, Marta K. Lárusdóttir, Hafsteinn Einarsson, Abuzar Khan, Eric Nyberg, Hrafn Loftsson
+Section: Acknowledgements
+We thank The Icelandic Web of Science, mbl.is, visir.is, and the Government Information website for allowing us to include paragraphs, from articles on their websites, in our RuQuAD corpus.

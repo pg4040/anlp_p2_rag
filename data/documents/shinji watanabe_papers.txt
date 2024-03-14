@@ -1,0 +1,83 @@
+List of 2023 Open Access papers by shinji watanabe are:
+Crystalline electric field and magnetic anisotropy in Dy-based icosahedral quasicrystal and approximant
+Magnetism and topological property in icosahedral quasicrystal
+Assessment of the frequency of SARS-CoV-2 Omicron variant escape from RNA-dependent RNA polymerase inhibitors and 3C-like protease inhibitors.
+Saturation time of exposure interval for cross-neutralization response to SARS-CoV-2: Implications for vaccine dose interval
+Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning
+Tensor decomposition for minimization of E2E SLU model toward on-device processing
+Decoder-only Architecture for Speech Recognition with CTC Prompts and Text Data Augmentation
+ML-SUPERB: Multilingual Speech Universal PERformance Benchmark
+Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding
+Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization
+A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks
+Efficient Sequence Transduction by Jointly Predicting Tokens and Durations
+Speech Summarization of Long Spoken Document: Improving Memory Efficiency of Speech/Text Encoders
+UNSSOR: Unsupervised Neural Speech Separation by Leveraging Over-determined Training Mixtures
+Segment-Level Vectorized Beam Search Based on Partially Autoregressive Inference
+Unsupervised Data Selection for TTS: Using Arabic Broadcast News as a Case Study
+BASS: Block-wise Adaptation for Speech Summarization
+I3D: Transformer Architectures with Input-Dependent Dynamic Depth for Speech Recognition
+A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech
+A New Benchmark of Aphasia Speech Recognition and Detection Based on E-Branchformer and Multi-task Learning
+Antiviral Susceptibilities of Distinct Lineages of Influenza C and D Viruses
+Paaploss: A Phonetic-Aligned Acoustic Parameter Loss for Speech Enhancement
+SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Exploring the Integration of Speech Separation and Recognition with Self-Supervised Learning Representation
+Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech
+Speaker-Independent Acoustic-to-Articulatory Speech Inversion
+Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens
+Enhancing Speech-To-Speech Translation with Multiple TTS Targets
+AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+Improving Audio Captioning Models with Fine-grained Audio Features, Text Embedding Supervision, and LLM Mix-up Augmentation
+Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks
+Learning to Speak from Text: Zero-Shot Multilingual Text-to-Speech with Unsupervised Text Pretraining
+FNeural Speech Enhancement with Very Low Algorithmic Latency and Complexity via Integrated full- and sub-band Modeling
+Improving Massively Multilingual ASR with Auxiliary CTC Objectives
+Toward Universal Speech Enhancement For Diverse Input Conditions
+The Pipeline System of ASR and NLU with MLM-based data Augmentation Toward Stop Low-Resource Challenge
+A Study on the Integration of Pipeline and E2E SLU Systems for Spoken Semantic Parsing Toward Stop Quality Challenge
+A community cluster of influenza A(H3N2) virus infection with reduced susceptibility to baloxavir due to a PA E199G substitution in Japan, February to March 2023
+Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study
+Joint Modelling of Spoken Language Understanding Tasks with Integrated Dialog History
+Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization
+Challenges of Corporate Alliance CLOMA toward Plastic Litter
+The Multimodal Information Based Speech Processing (MISP) 2023 Challenge: Audio-Visual Target Speaker Extraction
+Reproducing Whisper-Style Training Using An Open-Source Toolkit And Publicly Available Data
+The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios
+Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing
+ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit
+Multi-Channel Target Speaker Extraction with Refinement: The WavLab Submission to the Second Clarity Enhancement Challenge
+Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model
+TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement
+End-to-End Speech Recognition: A Survey
+The Multimodal Information Based Speech Processing (Misp) 2022 Challenge: Audio-Visual Diarization And Recognition
+DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models
+An external quality assessment feasibility study; cross laboratory comparison of haemagglutination inhibition assay and microneutralization assay performance for seasonal influenza serology testing: A FLUCOP study
+Multi-Channel Speaker Extraction with Adversarial Training: The Wavlab Submission to The Clarity ICASSP 2023 Grand Challenge
+AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models
+Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation
+Deep Speech Synthesis from MRI-Based Articulatory Representations
+FINDINGS OF THE IWSLT 2023 EVALUATION CAMPAIGN
+Speech collage: code-switched audio generation by collaging monolingual corpora
+Exploration on HuBERT with Multiple Resolutions
+A Randomized, Double-Blind, Controlled Trial Assessing If Medium-Chain Triglycerides in Combination with Moderate-Intensity Exercise Increase Muscle Strength in Healthy Middle-Aged and Older Adults
+Semi-Autoregressive Streaming ASR With Label Context
+Integrating Pretrained ASR and LM to Perform Sequence Generation for Spoken Language Understanding
+Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute
+FindAdaptNet: Find and Insert Adapters by Learned Layer Importance
+CMU’s IWSLT 2023 Simultaneous Speech Translation System
+Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning
+Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition
+E-Branchformer-Based E2E SLU Toward Stop on-Device Challenge
+Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff
+Bayes Risk Transducer: Transducer with Controllable Alignment Prediction
+UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network
+One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition
+Antiviral efficacy against and replicative fitness of an XBB.1.9.1 clinical isolate
+Software Design and User Interface of ESPnet-SE++: Speech Enhancement for Robust Speech Processing
+A Single Speech Enhancement Model Unifying Dereverberation, Denoising, Speaker Counting, Separation, And Extraction
+Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States
+Findings of the 2023 ML-Superb Challenge: Pre-Training And Evaluation Over More Languages And Beyond
+Magnetic dynamics and nonreciprocal excitation in uniform hedgehog order in icosahedral 1/1 approximant crystal
+TorchAudio 2.1: Advancing Speech Recognition, Self-Supervised Learning, and Audio Processing Components for Pytorch
+Effect of medium-chain triglycerides supplements and walking on health-related quality of life in sedentary, healthy middle-aged, and older adults with low BMIs: a randomized, double-blind, placebo-controlled, parallel-group trial

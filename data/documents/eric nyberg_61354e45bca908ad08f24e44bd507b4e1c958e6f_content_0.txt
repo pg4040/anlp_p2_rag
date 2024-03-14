@@ -1,0 +1,4 @@
+Title: Chain-of-Skills: A Configurable Model for Open-Domain Question Answering
+Authors: Kaixin Ma, Hao Cheng, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao
+Section: E Licenses
+We list the License of the software and data used in this paper below: • DPR: CC-BY-NC 4.0 License • MDR: CC-BY-NC 4.0 License • Contriever: CC-BY-NC 4.0 License • BLINK: MIT License • NQ: CC-BY-SA 3.0 License • HotpotQA: CC-BY-NC 4.0 License • OTT-QA: MIT License • EntityQuestions: MIT License • SQuAD: CC-BY-SA 4.0 License • WebQuestions: CC-BY 4.0 License

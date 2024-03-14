@@ -1,0 +1,4 @@
+Title: ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit
+Authors: Brian Yan, Jiatong Shi, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe
+Section: 3.2 Key Features
+(e.g. BLEU) to compare and rank n-best outputs from one or more models. For S2ST, neural vocoders are supported for both spectral and discrete inputs (Hayashi et al., 2020, 2021).

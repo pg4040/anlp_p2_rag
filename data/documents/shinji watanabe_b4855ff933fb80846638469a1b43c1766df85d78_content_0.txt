@@ -1,0 +1,4 @@
+Title: THE PIPELINE SYSTEM OF ASR AND NLU WITH MLM-BASED DATA AUGMENTATION TOWARD STOP LOW-RESOURCE CHALLENGE
+Authors: Hayato Futami, Jessica Huynh, Siddhant Arora, Shih-Lun Wu, Yosuke Kashiwagi, Yifan Peng, Brian Yan, Emiru Tsunoo, Shinji Watanabe
+Section: 5. REFERENCES
+[1] Paden Tomasello et al., “STOP: A dataset for spoken task oriented semantic parsing,” SLT, pp. 991–998, 2022. [2] Xilun Chen et al., “Low-resource domain adaptation for compositional task-oriented semantic parsing,” in EMNLP, 2020, pp. 5090–5100. [3] Alec Radford et al., “Robust speech recognition via large- scale weak supervision,” arXiv, 2022. [4] Yury Zemlyanskiy et al., “Generate-and-retrieve: Use your predictions to improve retrieval for semantic parsing,” in COLING, 2022, pp. 4946–4951. [5] Ke Tran et al., “Generating synthetic data for task- oriented semantic parsing with hierarchical representations,” in SPNLP, 2020, pp. 17–21.

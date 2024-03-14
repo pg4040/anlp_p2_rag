@@ -1,0 +1,4 @@
+Title: TOWARD UNIVERSAL SPEECH ENHANCEMENT FOR DIVERSE INPUT CONDITIONS
+Authors: Wangyou Zhang, Kohei Saijo, Zhong-Qiu Wang, Shinji Watanabe, Yanmin Qian
+Section: 5. REFERENCES
+2006. [42] C. K. Reddy et al., “DNSMOS P.835: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors,” in ICASSP, 2022, pp. 886–890. [43] A. Radford et al., “Robust speech recognition via large-scale weak supervision,” arXiv preprint arXiv:2212.04356, 2022. [44] W. Zhang et al., “Closing the gap between time-domain multichannel speech enhancement on real and simulation conditions,” in Proc. IEEE WASPAA, 2021, pp. 146–150. [45] H. Sato et al., “Learning to enhance or not: Neural networkbased switching of enhanced and observed signals for overlapping speech recognition,” in ICASSP, 2022, pp. 6287–6291. [46] K. Iwamoto et al., “How bad are artifacts?: Analyzing the impact of speech enhancement errors on ASR,” in Interspeech, 2022, pp. 5418–5422.

@@ -1,0 +1,4 @@
+Title: Defending Against Poisoning Attacks in Federated Learning with Blockchain
+Authors: Nanqing Dong, Zhipeng Wang, Jiahao Sun, Michael Kampffmeyer, William Knottenbelt
+Section: B. Results
+This raises the question of how to efficiently handle on-chain aggregation for large models. Future work thus will aim to address these limitations to facilitate the research and development of FL with blockchain.

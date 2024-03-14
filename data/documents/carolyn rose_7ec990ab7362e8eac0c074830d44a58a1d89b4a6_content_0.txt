@@ -1,0 +1,4 @@
+Title: Enhancing student learning and achievement through orchestration of group processes and group composition
+Authors: Carolyn P. Rosé, Georgios Psathas, Stergios Tegos, Stavros N. Demetriadis, C. P. Rosé, S. Järvelä
+Section: Conclusion
+The four articles of this September issue of the International Journal of Computer-Supported Collaborative Learning are interesting as a set in that they highlight a multiplicity of different research methodologies employed by CSCL researchers. These methodologies span from quantitative to qualitative to mixed-methods approaches, in most cases with new data, but sometimes including secondary data analysis, as in the final paper of this issue. Types of data include the gamut from video, to drawings, to tests and questionnaires. Within this diversity of methodological practices, common themes related to student learning through the cognitive scaffolding they offer each other run throughout this issue.

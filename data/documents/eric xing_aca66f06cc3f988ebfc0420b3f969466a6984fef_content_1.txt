@@ -1,0 +1,4 @@
+Title: A SCALABLE EXPECTATION PROPAGATION APPROACH
+Authors: Han Guo, Philip Greengard, Hongyi Wang, Andrew Gelman, Yoon Kim, Eric P. Xing
+Section: A APPENDIX
+6: θ ∼ N ( θ;µ\k, Σ\k,t−1 ) 7: F ← F ∪ 1|Dk | Fisher(θ,Dk). 8: end for 9: F ← Average(F ) 10: st ← βNGVIst−1 + (1− β)F 11: Σ\k,t ← ( |Dk|st + Σ−1−k )−1 12: end for 13: Output: Σ\k,TNGVI

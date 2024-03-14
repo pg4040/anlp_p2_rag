@@ -1,0 +1,21 @@
+{
+  "description": "table border=\"0\" cellspacing=\"5\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\">\n<p><img style=\"border: 1px solid black; float: right;\" src=\"/athletics/kilt ...",
+  "viewport": "width=device-width, initial-scale=1",
+  "msapplication-TileColor": "#c41230",
+  "msapplication-config": "/assets/favicons/browserconfig.xml",
+  "theme-color": "#c41230",
+  "fb:app_id": "280467664480",
+  "og:locale": "en_US",
+  "og:title": "The Kiltie Band",
+  "dcterms.title": "The Kiltie Band",
+  "og:description": "The Kiltie Band",
+  "dcterms.description": "The Kiltie Band",
+  "og:image": "https://athletics.cmu.edu/images/setup/thumbnail_default.jpg?max_width=1200&max_height=675",
+  " og:image:alt": "Carnegie Mellon University Athletics thumbnail",
+  "og:site_name": "Carnegie Mellon University Athletics",
+  "og:url": "https://athletics.cmu.edu/athletics/kiltieband/index",
+  "dcterms.identifier": "https://athletics.cmu.edu/athletics/kiltieband/index",
+  "og:type": "article",
+  "dcterms.type": "article"
+}
+Topic category is kiltieband

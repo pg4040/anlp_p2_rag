@@ -1,0 +1,4 @@
+Title: flexspline-flexible bearing contact pair in harmonic drive based on macro-micro scale modeling
+Authors: Yihao Zheng, Ziling Zhang, Qiushi Hu, Heng Li, Guang Wang, Lei Li
+Section: Publisher’s note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product thatmay be evaluated in this article, or claim thatmay bemade by itsmanufacturer, is not guaranteed or endorsed by the publisher.

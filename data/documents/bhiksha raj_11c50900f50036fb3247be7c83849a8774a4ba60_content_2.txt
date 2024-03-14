@@ -1,0 +1,4 @@
+Title: FIXED INTER-NEURON COVARIABILITY INDUCES ADVERSARIAL ROBUSTNESS
+Authors: Muhammad A. Shah, Bhiksha Raj
+Section: 1. INTRODUCTION
+improvement of 4%, 5% and 6%, and a relative improvement of 117%, 155% and 45%, compared to the MLP model on FMNIST, SpeechCommands and MNIST, respectively. Similar trends were observed when the models were trained on adversarially perturbed data, with the SCA model achieving significantly higher accuracy on the clean and adversarially perturbed data on all datasets except MNIST.

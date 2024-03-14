@@ -1,0 +1,4 @@
+Title: ONE-FOR-ALL: GENERALIZED LORA FOR PARAMETER-EFFICIENT FINE-TUNING
+Authors: Arnav Chavan, Zhuang Liu, Deepak Gupta, Eric Xing, Zhiqiang Shen, MBZUAI Transmute
+Section: H MORE RESULTS ON FEW-SHOT LEARNING DATASETS
+As shown in 6, the baseline methods include Adapter, LoRA, VPT, NOAH. GLoRA consistently performs better across five datasets and a varying number of training examples per class.

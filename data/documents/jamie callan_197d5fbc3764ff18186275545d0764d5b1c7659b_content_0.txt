@@ -1,0 +1,4 @@
+Title: Conversational Search with RandomWalks over Entity Graphs
+Authors: Gustavo Gonçalves, João Magalhães, Jamie Callan
+Section: ACKNOWLEDGMENTS
+This work has been partially funded by the FCT project NOVA LINCS Ref. UIDP/04516/2020, by the Amazon Science - TaskBot Prize Challenge and the CMU|Portugal projects iFetch (LISBOA-010247-FEDER-045920) and GoLocal (CMUP-ERI/TIC/0046/2014), and by the FCT Ph.D. scholarship grant SFRH/BD/140924/2018. Any opinions, findings, and conclusions in this paper are the authors’ and do not necessarily reflect those of the sponsors.

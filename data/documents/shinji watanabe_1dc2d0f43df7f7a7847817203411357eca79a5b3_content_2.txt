@@ -1,0 +1,4 @@
+Title: Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute
+Authors: William Chen, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe
+Section: 7. References
+Y. Peng et al., “Branchformer: Parallel MLP-attention architectures to capture local and global context for speech recognition and understanding,” 2022. [41] A. Graves et al., “Connectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks,” in Proc. ICML, 2006, pp. 369–376. [42] R. Wang et al., “LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT,” in Proc. Interspeech, 2022, pp. 1686–1690.

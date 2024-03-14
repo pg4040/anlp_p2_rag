@@ -1,0 +1,4 @@
+Title: Combining non-negative matrix factorization with graph Laplacian regularization for predicting drug-miRNA associations based on multi-source information fusion
+Authors: Mei-Neng Wang, Yu Li, Li-Lan Lei, De-Wu Ding, Xue-Jun Xie, Shulin Wang
+Section: Publisher’s note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher. Frontiers in Pharmacology frontiersin.org10

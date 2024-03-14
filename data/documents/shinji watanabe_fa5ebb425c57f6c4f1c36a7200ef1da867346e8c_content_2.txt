@@ -1,0 +1,4 @@
+Title: SPEECH COLLAGE: CODE-SWITCHED AUDIO GENERATION BY COLLAGING MONOLINGUAL CORPORA
+Authors: Amir Hussein, Dorsa Zeinali, Ondřej Klejch, Matthew Wiesner, Brian Yan, Shammur Chowdhury, Ahmed Ali, Shinji Watanabe, Sanjeev Khudanpur
+Section: 7. REFERENCES
+chapter of the international coordinating committee on speech databases and speech I/O systems and assessment (O-COCOSDA), 2017, pp. 1–5. [38] F. Hernandez et al., “Ted-lium 3: Twice as much data and corpus repartition for experiments on speaker adaptation,” in Speech and Computer: 20th International Conference, SPECOM 2018, Leipzig, Germany, September 18–22, 2018, Proceedings 20, 2018, pp. 198– 208. [39] A. Ali et al., “The MGB-2 challenge: Arabic multi-dialect broadcast media recognition,” in SLT, 2016.

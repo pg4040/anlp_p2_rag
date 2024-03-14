@@ -1,0 +1,4 @@
+Title: COMPARATIVE EFFICACY OF FIRST AND SECOND GENERATION LONG-ACTING INJECTABLE ANTIPSYCHOTIC IN SCHIZOPHRENIC PATIENTS: A SYSTEMATIC REVIEW AND NETWORK META-ANALYSIS
+Authors: Manuel Ramiro
+Section: Conclusions
+Clinical practice guidelines recommend individualized antipsychotic selection based on side effect profiles. The distinct pharmacokinetics of oral and depot antipsychotics pose challenges in managing adverse events, necessitating careful consideration before drug selection. In terms of PANSS scores, all LAIAs demonstrated similar performance compared to the placebo.

@@ -1,0 +1,6 @@
+List of 2023 Open Access papers by jamie callan are:
+Conversational Search with Random Walks over Entity Graphs
+KALE: Using a K-Sparse Projector for Lexical Expansion
+CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms
+Active Retrieval Augmented Generation
+Multi-Objective Improvement of Android Applications

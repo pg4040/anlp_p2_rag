@@ -1,0 +1,4 @@
+Title: CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code
+Authors: Shuyan Zhou, Uri Alon, Sumit Agarwal, Graham Neubig
+Section: 1 Introduction
+BLEU, CodeBLEU, and CrystalBLEU. (c) We pretrain and release five language-specific CodeBERT models to use with our publicly available code, for Java, Python, C, C++, and JavaScript. As of the time of this submission, our models have been downloaded from the Huggingface Hub more than 1,000,000 times.

@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 1386e5712607e293f0b0288a133540e60aaeae67
+Title: Influence of banded ε-martensite and deformation twin on cryogenic toughness of Fe-Mn-xAl-C steel
+Year: 2023
+Abstract: None
+Authors: Leilei Li, G. Niu, N. Gong, Hongfei Liu, Xuelin Wang, Chengjia Shang, Yong Wang, Huibin Wu
+Venue: Journal of Materials Research and Technology
+Tldr: None
+Url: N/A

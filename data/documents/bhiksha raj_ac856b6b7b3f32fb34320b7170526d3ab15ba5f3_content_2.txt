@@ -1,0 +1,4 @@
+Title: Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
+Authors: Thanh-Dat Truong, Hoang-Quan Nguyen, Bhiksha Raj, Khoa Luu
+Section: 3.1 Fairness Learning Approach to Continual Semantic Segmentation
+U , i.e., q(yi,j) ∼ U(C) (C is the number of classes). • The Conditional Structural Consistency Objective The third term, i.e., Lcons = log ( q(y\(i,j)|yi,j) p(y\(i,j)|yi,j) ) , regularizes the structural consistency of the prediction. This objec- tive acts as a metric to constrain the structure of the predicted segmentation under the ideal distribution assumption. To model this conditional structure consistency, we introduce a conditional structural constraint based on the Markovian assumption discussed in Sec. 3.4.

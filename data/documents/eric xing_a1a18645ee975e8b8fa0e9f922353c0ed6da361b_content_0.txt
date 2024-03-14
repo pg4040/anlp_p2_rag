@@ -1,0 +1,4 @@
+Title: DOES COMPRESSING ACTIVATIONS HELP MODEL PARALLEL TRAINING?
+Authors: Song Bian, Dacheng Li, Hongyi Wang, Eric P. Xing, Shivaram Venkataraman, MBZUAI Petuum
+Section: A MORE EXPERIMENTAL RESULTS
+We provide more experimental results in this section.

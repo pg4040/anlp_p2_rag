@@ -1,0 +1,9 @@
+List of 2023 Open Access papers by david mortensen are:
+ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Construction Grammar Provides Unique Insight into Neural Language Models
+Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation
+Transformed Protoform Reconstruction
+PWESuite: Phonetic Word Embeddings and Tasks They Facilitate
+Kuki-Chin Phonology: An Overview

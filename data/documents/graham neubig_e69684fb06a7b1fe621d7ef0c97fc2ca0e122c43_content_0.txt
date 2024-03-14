@@ -1,0 +1,4 @@
+Title: PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions
+Authors: Vijay Viswanathan, Chenyang Zhao, Amanda Bertsch, Tongshuang Wu, Graham Neubig
+Section: Acknowledgements
+This work was supported in part by a fellowship from NEC Research Laboratories. We are grateful to Alex Cabrera, Will Epperson, Nelson Liu, Arjun Ramani, Zirui Cheng, Zhiyuan Zeng, Tianci Xue, Yanchen Liu, Yi-Hsin Hung and Zhilin Yang for their feedback and guidance. We particularly appreciate Zirui Cheng’s video production support for our demo.

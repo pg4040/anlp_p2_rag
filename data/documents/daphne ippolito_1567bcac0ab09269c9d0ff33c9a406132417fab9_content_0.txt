@@ -1,0 +1,4 @@
+Title: A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity
+Authors: Shayne Longpre, Gregory Yauney, Emily Reif, Katherine Lee, Adam Roberts, Barret Zoph, Denny Zhou, Jason Wei, Kevin Robinson, David Mimno, Daphne Ippolito
+Section: E.2 Toxicity & Quality Filtering Results
+We also provide full results for our experiments with toxicity and quality filters, presented in Section 5. The evaluation results of the models with toxicity filters applied to their data are visualized in Figure 5 (left) and Figure 13, with full details in Table 14. The evaluation results of the models with quality filters applied to their data are visualized in Figure 5 (right) and detailed in Table 15.

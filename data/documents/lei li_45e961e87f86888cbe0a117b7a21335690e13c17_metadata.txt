@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 45e961e87f86888cbe0a117b7a21335690e13c17
+Title: Oral phage therapy with microencapsulated phage A221 against Escherichia coli infections in weaned piglets
+Year: 2023
+Abstract: None
+Authors: Xinyu Mao, Yuxin Wu, Runwen Ma, Lei Li, Leping Wang, Yizhou Tan, Ziyong Li, Hui Liu, Kaiou Han, Yajie Cao, Yinan Li, Hao Peng, Xun Li, Chuan-Huo Hu, Xiaoye Wang
+Venue: BMC Veterinary Research
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Oral microencapsulated phage A221 has a good therapeutic effect on bacterial diarrhea of weaned piglets, which provides guidance for the clinical application of phage therapy in the future.'}
+Url: https://bmcvetres.biomedcentral.com/counter/pdf/10.1186/s12917-023-03724-y

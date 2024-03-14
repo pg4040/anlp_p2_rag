@@ -1,0 +1,10 @@
+Faculty Name: rita singh
+Paperid: 8aac453851c7b6178e2aea7c4d53f070380c25e2
+Title: APPLIED ASPECT OF SATVAVAJAYA CHIKITSA
+Year: 2023
+Abstract: The human being is a tripod having three pillars, Satva (mind), Atma (soul) and Sharira (body). Here, Satva is a connecting link between Atma and Sharira, which is otherwise called Manas. It has an immense influence on the health and ill health of the individual. ‘Prasanna’ Manah is a sign of a healthy life. 
+In Ayurvedic contexts, Chikitsa is classified into two parts based on resources (Vyapashraya Bheden): 1. Daivvyapashray Chikitsa 2. Yuktivyapashray Chikitsa. Daivvyapashray Chikitsa refers to Mantra, Ausadhi, Mani, Mangala, Bali, Upahara, Home, Niyam, Prayashchita, Upvasa, Swastyayanapatha, Pranipata, Gamana etc. Yuktivyapashrya Chikitsa refers to Samsodhana (Vamanadi) and Upshamana (Pachanadi). In another context, Acharya Charak and Acharya Vagbhat explained Trividham Ausdham as; 1. Daivvyapashray Chikitsa, 2. Yuktivyapashrya Chikitsa 3. Satvavajaya Chikitsa. Their Satvavajaya Chikitsa further explained, "Aiming to control the mind or is a method of restraining the mind from unwholesome objects.” Satvavajaya Chikitsa is that typical Ayurvedic approach that prevents the impaired Dhi, Dhriti and Smriti and brings them back to a normal state. Hence, it plays a significant role in maintaining a harmonious state between these three factors, ultimately leading to a happy and healthy state of the individual.
+Authors: Rita Singh, C. B. Singjh, Yogesh Kumar, Ajay Kumar, Shailendra Singh
+Venue: International Ayurvedic Medical Journal
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Satvavajaya Chikitsa is that typical Ayurvedic approach that prevents the impaired Dhi, Dhriti and Smriti, and brings them back to a normal state.'}
+Url: https://doi.org/10.46607/iamj2011112023

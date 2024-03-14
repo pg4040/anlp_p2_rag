@@ -1,0 +1,4 @@
+Title: Point-like source catalog observed by DAMPE
+Authors: Kai-Kai Duan, Zhao-Qiang Shen, Zun-Lei Xu, Wei Jiang
+Section: 4. Detection of gamma-ray sources
+Binary Unassociated pre limi nar y Figure 4: The types and spatial distribution of the gamma-ray sources observed by DAMPE. 0.0 0.1 0.2 0.3 0.4 0.5 Distances from 4FGL [degree] 0 5 10 15 20 25 30 Nu m be r o f s ou rc es pre limi nar y Figure 5: The separations distribution between sources observed by DAMPE and their associations in the 4FGL catalog. P o S ( I C R C 2 0 2 3 ) 6 6 9

@@ -1,0 +1,4 @@
+Title: Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition
+Authors: Xiang Li, Jinglu Wang, Xiaohao Xu, Xiulian Peng, Rita Singh, Yan Lu, Bhiksha Raj
+Section: 4.2. Ablation Study
+to align with global ones using a shared codebook and not updating it after local LSD. With the local calibration scheme, the audio representation is learned more robustly with long-term information, gaining 1.5 in J&F and 2.1 in mIoU (as is shown in Row 5). Ablation on codebook size, semantic token number, frame number, and input resolution are in the Appendix.

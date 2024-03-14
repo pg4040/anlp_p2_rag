@@ -1,0 +1,4 @@
+Title: Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity
+Authors: Lindia Tjuatja, Emmy Liu, Lori Levin, Graham Neubig
+Section: F Adjusting Threshold for Exp 2
+We also considered the possibility that the models may have a bias towards either the “agent” or “patient” label and may actually be correctly classifying nouns given an appropriate non-zero threshold for δ-LL. To account for this, we recalculate accuracies with thresholds that provide the best performance for each model as an “upper bound” for performance, as seen in Figure 8. After this adjustment, all models do at least as well as predicting the majority class, with GPT-2 xl experiencing the largest gain in accuracy. Nevertheless, GPT-3 davinci-003 still outperforms all other models by far.

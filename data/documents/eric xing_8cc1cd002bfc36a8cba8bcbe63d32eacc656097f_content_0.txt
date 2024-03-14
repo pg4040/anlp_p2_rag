@@ -1,0 +1,4 @@
+Title: StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields
+Authors: Kunhao Liu, Fangneng Zhan, Yiwen Chen, Jiahui Zhang, Yingchen Yu, Abdulmotaleb El Saddik, Shijian Lu, Eric Xing
+Section: Acknowledgement
+This project is funded by the Ministry of Education Singapore, under the Tier-1 project scheme with project number RT18/22.

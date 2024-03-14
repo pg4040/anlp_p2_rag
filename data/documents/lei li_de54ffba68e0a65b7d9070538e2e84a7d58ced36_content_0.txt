@@ -1,0 +1,4 @@
+Title: Establishment of a N1‐methyladenosine‐related risk signature for breast carcinoma by bioinformatics analysis and experimental validation
+Authors: Leilei Li, Wenhui Yang, Yuzhe Gao
+Section: Authors and Affiliations
+Leilei Li1 · Wenhui Yang2 · Daqi Jia1 · Shiqi Zheng1 · Yuzhe Gao3 · Guanghui Wang3 1 Department of Pathology, Kunming Medical University, Kunming, Yunnan 650500, People’s Republic of China 2 Department of Digestive Oncology, Cancer Center, Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences, Tongji Shanxi Hospital, Third Hospital of Shanxi Medical University, Taiyuan, Shanxi 030032, People’s Republic of China 3 Department of Breast Surgery, Guizhou Provincial People’s Hospital, Guiyang, Guizhou 550002, People’s Republic of China

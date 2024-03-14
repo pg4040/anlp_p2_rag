@@ -1,0 +1,4 @@
+Title: The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation
+Authors: Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat
+Section: 6.1 Experimental Setup
+P (S⋆maj)| |P (S⋆maj)| (2) Intuitively, we care for overall precision (regardless of severity) since we want to make sure predicted errors tend to be marked by annotators as well, but for recall we care mostly for major errors, as these have a larger impact on translation quality and are more critical to identify. Additionally, we also report the (3) Matthews Correlation Coefficient (MCC), one of the official metrics in the wordlevel quality estimation tasks (Zerva et al., 2022).

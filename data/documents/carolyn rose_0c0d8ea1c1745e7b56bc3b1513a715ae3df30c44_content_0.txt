@@ -1,0 +1,4 @@
+Title: Linguistic representations for fewer-shot relation extraction across domains
+Authors: Sireesh Gururaja, Ritam Dutt, Tinglong Liao, Carolyn Rosé
+Section: Acknowledgments
+This research was sponsored by the Defense Advanced Research Projects Agency and the Army Research Office and was accomplished under Grant Number W911NF-20-1-0006. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Defense Advanced Research Projects Agency, the Army Research Office, or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation herein.

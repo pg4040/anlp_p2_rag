@@ -1,0 +1,4 @@
+Title: THE MULTIMODAL INFORMATION BASED SPEECH PROCESSING (MISP) 2023 CHALLENGE: AUDIO-VISUAL TARGET SPEAKER EXTRACTION
+Authors: Shilong Wu, Chenxi Wang, Hang Chen, Yusheng Dai, Chenyue Zhang, Ruoyu Wang, Hongbo Lan, Jun Du, Chin-Hui Lee, Jingdong Chen, Shinji Watanabe, Sabato Marco Siniscalchi, Odette Scharenborg, Zhong-Qiu Wang, Jia Pan, Jianqing Gao
+Section: 6. REFERENCES
+7, pp. 2011–2022, 2007.

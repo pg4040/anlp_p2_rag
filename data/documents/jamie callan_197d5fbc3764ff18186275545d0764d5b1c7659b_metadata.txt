@@ -1,0 +1,9 @@
+Faculty Name: jamie callan
+Paperid: 197d5fbc3764ff18186275545d0764d5b1c7659b
+Title: Conversational Search with Random Walks over Entity Graphs
+Year: 2023
+Abstract: The entities that emerge during a conversation can be used to model topics, but not all entities are equally useful for this task. Modeling the conversation with entity graphs and predicting each entity's centrality in the conversation provides additional information that improves the retrieval of answer passages for the current question. Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+Authors: Gustavo Gonçalves, João Magalhães, Jamie Callan
+Venue: International Conference on the Theory of Information Retrieval
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.'}
+Url: https://dl.acm.org/doi/pdf/10.1145/3578337.3605125

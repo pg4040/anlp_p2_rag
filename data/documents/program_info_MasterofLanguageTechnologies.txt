@@ -1,0 +1,17 @@
+Academic Program Name:
+Master of Language Technologies
+
+Website:
+https://lti.cs.cmu.edu/academics/masters-programs/mlt.html
+
+Overview:
+The MLT program prepares students for a research career in academia or industry. In this program, you’ll be immersed in research for two full years. During the academic year, your time will be evenly split between taking courses and doing research with your faculty advisor. Your summer will be devoted entirely to research. Many MLT grads continue on to Ph.D. programs at CMU and other top institutions, while others pursue careers at companies emphasizing research and rapid innovation.
+
+Requirements:
+The MLT program lasts two years (24 months), and students must complete two summers of research. Students should usually expect to graduate in August of their second year.
+MLT students take 120 or more course units (about 10 courses), at least 72 of which are LTI courses, and 24 of which are School of Computer Science (SCS) courses. Most of these are 12-unit courses, although lab courses are typically 6 units. Our courses generally assume knowledge of programming and data structures. The remaining units may also be taken from the LTI, or with approval from the faculty advisor, any other senior- or graduate-level course offered at CMU or Pitt.
+Directed research is another integral part of the MLT program; MLT students carry out directed research during their studies, with guidance from their faculty advisors.
+Students may also choose to complete an optional MLT thesis. Guidelines can be found in the MLT Handbook.
+
+Curriculum:
+Here's an example of how your two years in the MLT program may break down.

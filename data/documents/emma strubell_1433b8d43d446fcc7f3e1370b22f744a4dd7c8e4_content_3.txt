@@ -1,0 +1,4 @@
+Title: To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing
+Authors: Sireesh Gururaja, Amanda Bertsch, Clara Na, David Gray Widder, Emma Strubell
+Section: 3 Exploit-explore cycles of work
+that is farther from current norms/methodologies requires higher upfront time investment. This competitiveness can manifest in harsher reviews, and one participant described a “deadly combination” (19) of higher standards for papers and lower quality of reviews. Some participants described this as a reason they were choosing to engage less with NLP conferences; one industry researcher stated that “I just find it difficult to publish papers in *CL that have ideas in them.” (22).

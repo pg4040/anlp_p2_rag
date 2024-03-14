@@ -1,0 +1,4 @@
+Title: Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming
+Authors: Hanlin Zhang, ∗Jiani Huang, Ziyang Li, Mayur Naik, Eric Xing, Bin Zayed
+Section: B Additional Experimental Results
+In Table 8, we showcase the failure cases of large LMs for logical inference, where Zero-shot-CoT denotes zero-shot chain-of-thoughts (Kojima et al., 2022b).

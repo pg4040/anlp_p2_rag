@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 8c2fae4c9622fefe0e7594e7637175d2bb4e2125
+Title: Variation of virtual temperature and wind in the atmospheric boundary layer over the pearl river estuary during 2011–2020
+Year: 2023
+Abstract: Most studies of the effects of urbanisation on local climate have been based on ground observation data. In contrast, we used observation data from a boundary layer radar wind profiler, radio-acoustic sounding system, and automatic meteorological station located at Shenzhen Bao’an International Airport to analyse changes in wind and virtual temperature in the upper level atmosphere, with a top height of 1,200 m, over the Pearl River Estuary between 2011 and 2020. Our results show that during the decade evaluated, the wind speed and virtual temperature of the upper level atmosphere over the Pearl River Estuary changed very significantly and faster than the changes observed at ground level. During the study period, the linear warming rate of the virtual temperature of the upper level atmosphere reached 0.24°C/a, whereas that on the land surface was 0.17°C/a. The mean decreases in the upper level atmosphere and land surface wind speeds were −0.12 and −0.05 m/s·a, respectively. Additionally, the rate of change in the upper level climate was faster in winter than in summer for both wind speed and virtual temperature. These changes in the climate of the upper level atmosphere over the Pearl River Estuary may be related to the rapid increase in the number of high-rise buildings in the region during that decade, which generally negatively affected the atmospheric environment.
+Authors: Lei Li, Qian-Jin Zhou, P. Chan, Hong-Long Yang
+Venue: Frontiers in Environmental Science
+Tldr: None
+Url: https://www.frontiersin.org/articles/10.3389/fenvs.2022.1104553/pdf

@@ -1,0 +1,4 @@
+Title: AUTOREPLY: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies
+Authors: Weiyan Shi, Emily Dinan, Adithya Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis
+Section: 2.2 AUTOREPLY: Automatically Generating Discriminative Replies
+examples. We can tune c to get different subsets of the generated follow-up replies. A larger c leads to a smaller ensemble of higher-recall replies whose individual recalls are ≥ c/N . We show in Section 4.1 that ensembling these classifiers produces a highprecision, high-recall classifier.

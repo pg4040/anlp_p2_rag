@@ -1,0 +1,4 @@
+Title: Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings
+Authors: Ta-Chung Chi, Ting-Han Fan, Li-Wei Chen, Peter J. Ramadge
+Section: A Proofs
+m∑ i,j=1 [ E[Tr(rlr⊤k viv⊤j )] ]d k,l=1 = 1 m2 m∑ i,j=1 [ Tr(E[rlr⊤k ]E[viv⊤j ]) ]d k,l=1 (∗) = 1 m2 m∑ i,j=1 [ Tr((1k=lσ2) · I · (1i=jdσ2) · I) ]d k,l=1 = d2σ4 m I (∗) follows from Lemma 1: because cov(v(h)i ,v (h) j ) = (1i=jdσ 2) · Id/H , a concatenation for all h ∈ H gives E[viv⊤j ] = (1i=jdσ2) · Id.

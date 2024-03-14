@@ -1,0 +1,4 @@
+Title: Weakly Supervised 3D Open-vocabulary Segmentation
+Authors: Kunhao Liu, Fangneng Zhan, Jiahui Zhang, Muyu Xu, Yingchen Yu, Abdulmotaleb El Saddik, Christian Theobalt, Eric Xing, Shijian Lu
+Section: 4.1 Results
+compared to the full model. When reducing to only 10% of input views, equivalent to 2-3 views in our dataset, we observe a modest 9% drop in the mIoU score and a 1% decrease in the Accuracy score, while retaining accurate segmentation across most classes. Using a single scale of CLIP features also only incurs minimal degradation (< 1%). Even under extreme conditions, i.e., extracting a single scale of features from 10% of input views (total only 1/30 input of the full model), performance degradation is limited to 10%. This efficient approach even outperforms LERF [2] which utilizes all input views and scales, highlighting our method’s robustness.

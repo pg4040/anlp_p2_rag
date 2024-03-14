@@ -1,0 +1,21 @@
+{
+  "description": "p><strong>Who founded Carnegie Mellon University?<br>\n\n</strong> Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years late ...",
+  "viewport": "width=device-width, initial-scale=1",
+  "msapplication-TileColor": "#c41230",
+  "msapplication-config": "/assets/favicons/browserconfig.xml",
+  "theme-color": "#c41230",
+  "fb:app_id": "280467664480",
+  "og:locale": "en_US",
+  "og:title": "Tartan Facts",
+  "dcterms.title": "Tartan Facts",
+  "og:description": "Tartan Facts",
+  "dcterms.description": "Tartan Facts",
+  "og:image": "https://athletics.cmu.edu/images/setup/thumbnail_default.jpg?max_width=1200&max_height=675",
+  " og:image:alt": "Carnegie Mellon University Athletics thumbnail",
+  "og:site_name": "Carnegie Mellon University Athletics",
+  "og:url": "https://athletics.cmu.edu/athletics/tartanfacts",
+  "dcterms.identifier": "https://athletics.cmu.edu/athletics/tartanfacts",
+  "og:type": "article",
+  "dcterms.type": "article"
+}
+Topic category is tartanfacts

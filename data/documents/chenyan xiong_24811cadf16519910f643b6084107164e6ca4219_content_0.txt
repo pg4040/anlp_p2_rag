@@ -1,0 +1,4 @@
+Title: Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In
+Authors: Zichun Yu, Chenyan Xiong, Shi Yu, Zhiyuan Liu
+Section: D Fine-tuning Results
+We also report the fine-tuning results of FlanT5Base and Flan-T5Large on MMLU auxiliary training data (Hendrycks et al., 2021) in Table 7. Due to the limitation of the computational resources, we do not include the fine-tuning result of Flan-T5XL. We take batch size as 32, learning rate as 5e-5, and epochs as 3 in fine-tuning. In general, the LM that has already been massively multi-task instructionfinetuned, such as Flan-T5, improves little from fine-tuning on extra tasks but benefits greatly from our AAR. The results further validate the power of zero-shot retrieval augmentation.

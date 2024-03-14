@@ -1,0 +1,4 @@
+Title: Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models
+Authors: Harnoor Dhingra, Preetiha Jayashanker, Sayali Moghe, Emma Strubell
+Section: 7 Discussion
+need of trained classifier which is able to detect linguistic differences between source and target styles.

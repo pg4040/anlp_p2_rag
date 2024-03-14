@@ -1,0 +1,4 @@
+Title: Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective
+Authors: Zeyuan Yin, Eric Xing, Zhiqiang Shen, Mohamed bin Zayed
+Section: 3.2 Recovering Analysis
+best in Table 4.

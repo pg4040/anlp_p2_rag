@@ -1,0 +1,4 @@
+Title: Energy-dependent polarization of Gamma-Ray Bursts’ prompt emission with the POLAR and POLAR-2 instruments
+Authors: Nicolas De Angelisa, Nicolas De Angelis
+Section: 2. Energy resolved polarization analysis with the POLAR data
+posterior distributions of the PD (see Figure 5), the PD at low energy seems again more constrained towards low values than the PD at high energy, which is spanning towards higher polarization fraction values. By using a Heaviside fit, no significant energy dependence of the PD is observed on the POLAR catalog and the fitting parameters are not well constrained due to limited statistics and energy resolution. The next step to this work is to check for energy dependence of the polarization angle using a Heaviside function, and to try a linear fit of the PD and PA as a function of energy.

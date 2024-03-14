@@ -1,0 +1,4 @@
+Title: Amortizing Pragmatic Program Synthesis with Rankings
+Authors: Yewen Pu, Saujas Vaduguru, Priyan Vaithilingam, Elena Glassman, Daniel Fried
+Section: Human study interface
+The interface for the human study on regular expression programs is shown in Figure 14. 1 choice of expansion (Program, Shape, and Colour). The rules where these two programs differ are marked with a box .

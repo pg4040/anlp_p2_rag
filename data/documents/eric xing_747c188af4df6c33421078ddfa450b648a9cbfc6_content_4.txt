@@ -1,0 +1,4 @@
+Title: Probing hadronic cross sections in the TeV - PeV regime with DAMPE through machine learning techniques
+Authors: Paul Coppina, Andrii Tykhonov, Andrii Kotenko, Arshia Ruina, Paul Coppin
+Section: 4. Analysis
+in interaction vertex as our re-weighted samples, thus validating the procedure. Cross section derivation. As cross sections vary smoothly as a function of energy, the same can be expected of the survival fraction 𝛼(𝐸). To reduce the effect of fluctuations due to MC statistics on our results, we use a fourth order smoothing spline to obtain a continual parametrisation of 𝛼MC as a function of energy. The weighting procedure described above is then used to determine the change in cross section required to make 𝛼MC(𝐸) match the survival fraction in data.

@@ -1,0 +1,4 @@
+Title: Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+Authors: Jiefu Ou, Benno Krojer, Daniel Fried
+Section: 2 Related Work
+of image captions requires multifaceted evaluation. Prior work on contrastive/discriminative captioning investigates the tradeoff of model performance between discriminativeness and accuracy/fluency (Wang et al., 2021; Liu et al., 2019; Honda et al., 2022; Cho et al., 2022; Vedantam et al., 2017; Andreas and Klein, 2016). In this paper, we also perform an extensive study on the tradeoff between informativeness and fluency. Specifically, we focus on analyzing the robustness of the proposed and baseline methods in the tradeoff according to the selection of hyperparameters.

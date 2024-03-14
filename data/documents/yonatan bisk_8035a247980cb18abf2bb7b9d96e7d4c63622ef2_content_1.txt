@@ -1,0 +1,4 @@
+Title: Reasoning about the Unseen for Efficient Outdoor Object Navigation
+Authors: Quanting Xie, Tianyi Zhang, Kedi Xu, Matthew Johnson-Roberson, Yonatan Bisk
+Section: A. A Compute Aware Metric for LLM-based Robotic Agents
+optimize gait to further improve TT. Again, as many commodity UAVs approach speeds of 100k/h, even existing hardware can for many domains shrink TT → 0 if routing is correct. In our comparisons, UAV is compared to UAV and UGV to UGV so morphology does not affect comparisons, only routing.

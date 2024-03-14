@@ -1,0 +1,9 @@
+Faculty Name: alexander hauptmann
+Paperid: 8ccda6de0223bcd897d5dc0efc8f33222a899d0d
+Title: DocumentNet: Bridging the Data Gap in Document Pre-training
+Year: 2023
+Abstract: Document understanding tasks, in particular, Visually-rich Document Entity Retrieval (VDER), have gained significant attention in recent years thanks to their broad applications in enterprise AI. However, publicly available data have been scarce for these tasks due to strict privacy constraints and high annotation costs. To make things worse, the non-overlapping entity spaces from different datasets hinder the knowledge transfer between document types. In this paper, we propose a method to collect massive-scale and weakly labeled data from the web to benefit the training of VDER models. The collected dataset, named DocumentNet, does not depend on specific document types or entity sets, making it universally applicable to all VDER tasks. The current DocumentNet consists of 30M documents spanning nearly 400 document types organized in a four-level ontology. Experiments on a set of broadly adopted VDER tasks show significant improvements when DocumentNet is incorporated into the pre-training for both classic and few-shot learning settings. With the recent emergence of large language models (LLMs), DocumentNet provides a large data source to extend their multi-modal capabilities for VDER.
+Authors: Lijun Yu, Jin Miao, Xiaoyu Sun, Jiayi Chen, A. Hauptmann, H. Dai, Wei Wei
+Venue: Conference on Empirical Methods in Natural Language Processing
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This paper proposes a method to collect massive-scale and weakly labeled data from the web to benefit the training of VDER models, and provides a large data source to extend their multi-modal capabilities for VDER.'}
+Url: https://aclanthology.org/2023.emnlp-industry.66.pdf

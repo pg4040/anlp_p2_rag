@@ -1,0 +1,4 @@
+Title: A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity
+Authors: Shayne Longpre, Gregory Yauney, Emily Reif, Katherine Lee, Adam Roberts, Barret Zoph, Denny Zhou, Jason Wei, Kevin Robinson, David Mimno, Daphne Ippolito
+Section: C.4 Time Evaluation Details
+models with the same finetuning tf and evaluation years te. In other words, given Stp→tf→te , we will only compare its performance to St′p→tf→te where t ′ p ̸= tp, but tf and te are fixed to their respective values. D(t′p → te) = −(St′p→t′′f→te − Stp→t′′f→te) ∗ sign(t ′ p − te) In some edge cases, there is no evaluation year equivalent to a pretraining year, ∀t ∈ T, tp ̸= te, and so the term Stp→t′′f→te) does not exist. In this case, we set this term to be the one where tp and te are closest. And, as before, the precise term used will depend on which version of tf is being calculated for.

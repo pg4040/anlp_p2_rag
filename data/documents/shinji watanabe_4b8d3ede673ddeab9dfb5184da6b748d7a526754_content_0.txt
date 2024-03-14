@@ -1,0 +1,4 @@
+Title: A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech
+Authors: Li-Wei Chen, Shinji Watanabe, Alexander Rudnicky
+Section: Acknowledgments
+We are grateful to Amazon Alexa for the support of this research. We thank Sid Dalmia and Soumi Maiti for the discussions and feedback.

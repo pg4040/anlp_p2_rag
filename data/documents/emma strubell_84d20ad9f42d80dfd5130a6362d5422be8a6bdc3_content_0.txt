@@ -1,0 +1,4 @@
+Title: Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation
+Authors: Hao Peng, Qingqing Cao, Jesse Dodge, Matthew E. Peters, Jared Fernandez, Tom Sherborne, Kyle Lo, Sam Skjonsberg, Emma Strubell, Darrell Plessas, Iz Beltagy, Evan Pete Walsh, Noah A. Smith, Hannaneh Hajishirzi
+Section: Results on WMT14 EN->DE.
+Figure 6 provides a summary of the efficiency performance of various models on the WMT14 Englishto-German (EN->DE) translation task. The results are shown for both FP32 and FP16 models. The observed trends align with those discussed in Section 3.

@@ -1,0 +1,4 @@
+Title: CAN LARGE LANGUAGE MODELS INFER CAUSATION FROM CORRELATION?
+Authors: Zhijing Jin, Jiarui Liu, Zhiheng Lyu, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona Diab, Bernhard Schölkopf
+Section: B GENERATING NATURAL STORIES
+for various verbalizations of the correlation-to-causation inference task. For more information, the exact prompt we use is “Here is a causal inference rule: [symbolic form] Please provide a real-world example instantiating this phenomenon. Format it also as "Premise:", "Hypothesis:", and "Relation between the promise and hypothesis:".”

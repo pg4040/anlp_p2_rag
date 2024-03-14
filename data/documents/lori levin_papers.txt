@@ -1,0 +1,8 @@
+List of 2023 Open Access papers by lori levin are:
+SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Construction Grammar Provides Unique Insight into Neural Language Models
+Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation
+Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity
+Somatosensory and motor representations following bilateral transplants of the hands: A 6-year longitudinal case report on the first pediatric bilateral hand transplant patient
+Identifying Health-Related Quality of Life Domains after Upper Extremity Transplantation.
+Assessment of quality of life after upper extremity transplantation: Framework for patient-reported outcome scale domains

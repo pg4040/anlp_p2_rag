@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: b3a587d4cbe94d5e86f80ef7cce0b80fd9bf5bcd
+Title: Gut microbiota in patients with kidney stones: a systematic review and meta-analysis
+Year: 2023
+Abstract: None
+Authors: Tianhui Yuan, Yu-qi Xia, Bojun Li, Wei-min Yu, T. Rao, Zehua Ye, Xinzhou Yan, Baofeng Song, Lei Li, Fangyou Lin, F. Cheng
+Venue: BMC Microbiology
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'There is a characteristic gut microbiota dysbiosis in kidney stone patients and individualized therapies like microbial supplementation, probiotic or synbiotic preparations and adjusted diet patterns based on individual gut microbial characteristics of patients may be more effective in preventing stone formation and recurrence.'}
+Url: https://bmcmicrobiol.biomedcentral.com/counter/pdf/10.1186/s12866-023-02891-0

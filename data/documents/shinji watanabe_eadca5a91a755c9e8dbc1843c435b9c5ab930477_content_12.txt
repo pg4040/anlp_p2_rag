@@ -1,0 +1,4 @@
+Title: Magnetic dynamics and nonreciprocal excitation in uniform hedgehog order in icosahedral 1/1 approximant crystal
+Authors: Shinji Watanabe
+Section: Results
+nonreciprocity in the QC18.

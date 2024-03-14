@@ -1,0 +1,4 @@
+Title: CROSS-MODAL MULTI-TASKING FOR SPEECH-TO-TEXT TRANSLATION VIA HARD PARAMETER SHARING
+Authors: Brian Yan, Xuankai Chang, Antonios Anastasopoulos, Yuya Fujita, Shinji Watanabe
+Section: 7. REFERENCES
+Li et al., “Multilingual speech translation from efficient finetuning of pretrained models,” in Proc. ACL, 2021. [51] B. Yan et al., “Cmu’s iwslt 2023 simultaneous speech translation system,” in Proc. IWSLT, 2023. [52] M. Post, “A call for clarity in reporting bleu scores,” in Proc. WMT, 2018. [53] N.-Q. Pham et al., “Effective combination of pretrained models-kit@ iwslt2022,” IWSLT 2022, 2022. [54] Z. Zhang et al., “The yitrans end-to-end speech translation system for iwslt 2022 offline shared task,” Proc. IWSLT, 2022. [55] O. Day and T. M. Khoshgoftaar, “A survey on heterogeneous transfer learning,” Journal of Big Data, 2017. [56] H. Inaguma et al., “UnitY: Two-pass direct speech-to-speech translation with discrete units,” in Proc. ACL, 2023.

@@ -1,0 +1,9 @@
+Faculty Name: carolyn rose
+Paperid: 41646e0908c7e5086b868ca9dd3e74fe56894368
+Title: Can a family caregiver provide an evidence‐based falls prevention intervention to the person with cognitive impairment or dementia they care for?
+Year: 2023
+Abstract: Falls are a common reason that persons with cognitive impairment or dementia (PwCID) cannot remain at home. FallsTalk is a one‐month evidence‐based falls prevention program that focuses attention on the individual causes of losses of balance or falls. FallsTalk encourages new falls prevention behaviors, which have been shown to decrease falls. We adapted FallsTalk for family Caregiver (FCG) administration to a PwCID with a recent history of falls to determine if FallsTalk‐Caregiver could influence the number of new falls prevention behaviors reported by the FCG or the number of falls.
+Authors: V. Panzer, Veronica Smith, Dorothy Wakefield, J. Maher, C. Ham, R. Fortinsky
+Venue: Alzheimer's &amp; Dementia
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work adapted FallsTalk for family Caregiver administration to a PwCID with a recent history of falls to determine if FallsTalk‐Caregiver could influence the number of new falls prevention behaviors reported by the FCG or the numberof falls.'}
+Url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.066371

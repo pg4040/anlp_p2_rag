@@ -1,0 +1,4 @@
+Title: SHAP-based Prediction of Mother’s History of Depression to Understand the Influence on Child Behavior
+Authors: Maneesh Bilalpur, Laura Cariola, Lisa Sheeber, Saurabh Hinduja, Nicholas Allen, Louis-Philippe Morency, Jefrey F. Cohn
+Section: ACKNOWLEDGMENTS
+This research was supported in part by the U.S. National Institutes of Health through U.S. National Institute of Mental Health award MH096951.

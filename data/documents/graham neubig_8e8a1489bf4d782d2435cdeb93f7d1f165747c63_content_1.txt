@@ -1,0 +1,4 @@
+Title: Large Language Models Enable Few-Shot Clustering
+Authors: Vijay Viswanathan, Kiril Gashteovski, Carolin Lawrence, Tongshuang Wu, Graham Neubig
+Section: B Keyphrase Expansion Prompt
+Toronto ." 3) "Its 1977 premiere was staged at the Royal Festival Hall in London as part of Queen Elizabeth ’s Silver Jubilee ."" Alternate Entity Names: ["Elizabeth II", "HM"] Entity: "Napoleon" Context Sentences: 1) "Napoleon ’s Imperial Guard is an example of this ." 2) "He studied at Paris until Napoleon ’s return from Elba ." 3) "He said he had traveled to Egypt with Napoleon ’s expedition ."" Alternate Entity Names: ["Napoleon Bonaparte", "Emperor Napoleon", "Napoleon I"]

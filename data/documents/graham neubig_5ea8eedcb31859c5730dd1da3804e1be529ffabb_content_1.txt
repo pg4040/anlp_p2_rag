@@ -1,0 +1,4 @@
+Title: A Gold Standard Dataset for the Reviewer Assignment Problem
+Authors: Ivan Stelmakh, John Wieting, Graham Neubig, Nihar B. Shah
+Section: B More details on the ACL algorithm
+to be zero.

@@ -1,0 +1,14 @@
+List of 2023 Open Access papers by maarten sap are:
+Modeling Empathic Similarity in Personal Narratives
+COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements
+Riveter: Measuring Power and Social Dynamics Between Entities
+Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+BiasX: "Thinking Slow" in Toxic Content Moderation with Explanations of Implied Social Biases
+Improving Language Models with Advantage-based Offline Policy Gradients
+From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models
+NLPositionality: Characterizing Design Biases of Datasets and Models
+Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+Queer In AI: A Case Study in Community-Led Participatory AI
+Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties
+Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models
+Towards Countering Essentialism through Social Bias Reasoning

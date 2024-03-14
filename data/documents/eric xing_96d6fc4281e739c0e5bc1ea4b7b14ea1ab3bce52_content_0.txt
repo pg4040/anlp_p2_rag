@@ -1,0 +1,4 @@
+Title: Measurement of Heavy Nuclei beyond Iron in Cosmic Rays with the DAMPE experiment
+Authors: Haoran Sun, Yongjie Zhang, Tiekuang Dong, Yuhong Yu
+Section: 4. Results and summary
+After the above analysis, a preliminary result about the charge spectrum of elements (20≤Z≤40) could be obtained. Thanks to these corrections, the charge resolution is improved to 0.27e for iron. This is a crucial prerequisite for next analysis of relative abundance and flux energy spectrum of heavy nuclei beyond iron in cosmic rays.

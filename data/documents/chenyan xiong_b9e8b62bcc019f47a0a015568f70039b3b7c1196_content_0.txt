@@ -1,0 +1,4 @@
+Title: Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model
+Authors: Cheng Qian, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu
+Section: Toolkit for task: Unit Interpretation (LV1) - Tool 1:
+Seqencial Tool Calling: Multiply a matrix of shape (2,2,2) with a matrix of shape (2,2,1). Add the result to a matrix of shape (2,2,1). Compute the kronecker product of the result with a matrix of shape (2,4,3). Sum the result over the second axis.

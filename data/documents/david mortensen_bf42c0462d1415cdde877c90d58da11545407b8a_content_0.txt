@@ -1,0 +1,4 @@
+Title: Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation
+Authors: David R. Mortensen, Ela Gulsen, Taiqi He, Nathaniel Robinson, Jonathan D. Amith, Lindia Tjuatja, Lori Levin
+Section: Acknowledgments
+We gratefully acknowledge the support of US National Science Foundation, grant number 2211951, numerous examples Mixtec examples from Rey Castillo Garcia, and generous contributions from three anonymous reviewers.

@@ -1,0 +1,9 @@
+Faculty Name: eric nyberg
+Paperid: daf657e9dc60e104827b6f574d3946c489188e69
+Title: Using Implicit Feedback to Improve Question Generation
+Year: 2023
+Abstract: Question Generation (QG) is a task of Natural Language Processing (NLP) that aims at automatically generating questions from text. Many applications can benefit from automatically generated questions, but often it is necessary to curate those questions, either by selecting or editing them. This task is informative on its own, but it is typically done post-generation, and, thus, the effort is wasted. In addition, most existing systems cannot incorporate this feedback back into them easily. In this work, we present a system, GEN, that learns from such (implicit) feedback. Following a pattern-based approach, it takes as input a small set of sentence/question pairs and creates patterns which are then applied to new unseen sentences. Each generated question, after being corrected by the user, is used as a new seed in the next iteration, so more patterns are created each time. We also take advantage of the corrections made by the user to score the patterns and therefore rank the generated questions. Results show that GEN is able to improve by learning from both levels of implicit feedback when compared to the version with no learning, considering the top 5, 10, and 20 questions. Improvements go up from 10%, depending on the metric and strategy used.
+Authors: Hugo Rodrigues, Eric Nyberg, Luísa Coheur
+Venue: arXiv.org
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'A system that learns from both levels of implicit feedback when compared to the version with no learning, considering the top 5, 10, and 20 questions, and improvements go up from 10%, depending on the metric and strategy used.'}
+Url: http://arxiv.org/pdf/2304.13664

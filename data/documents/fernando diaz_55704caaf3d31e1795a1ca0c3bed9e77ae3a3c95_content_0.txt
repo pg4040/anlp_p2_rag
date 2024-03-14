@@ -1,0 +1,4 @@
+Title: Best-Case Retrieval Evaluation: Improving the Sensitivity of Reciprocal Rank with Lexicographic Precision
+Authors: Fernando Diaz
+Section: 7 CONCLUSION
+Motivated by ceiling effects in evaluation with reciprocal rank, we have attempted to increase our understanding of the metric and designed a well-grounded mitigation to conducting best-case retrieval evaluation. We have shown that lexiprecision can effectively address the limitations of reciprocal rank in retrieval evaluation. Our results highlight the importance of considering the effects of tie-breaking in the evaluation process and provide a method for conducting more reliable best-case retrieval evaluation. Given the use of retrieval metrics—including reciprocal rank—outside of information retrieval contexts, we believe these contributions will be relevant to a researchers in the broader research community.

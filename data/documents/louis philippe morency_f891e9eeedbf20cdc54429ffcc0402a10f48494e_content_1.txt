@@ -1,0 +1,4 @@
+Title: Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions
+Authors: Himanshu Thakur, Atishay Jain, Praneetha Vaddamanu, Paul Pu Liang, Louis-Philippe Morency
+Section: A Appendix
+StereoSet Gender SS score out of all our intervention methods. Similarily, naive-masking obtains the lowest Crow-S pair score.

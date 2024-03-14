@@ -1,0 +1,4 @@
+Title: Structured Dialogue Discourse Parsing
+Authors: Ta-Chung Chi, Alexander I. Rudnicky
+Section: 4.1 Model Parameterization
+upper-triangular matrix due to the h < m constraint. In practice, this can be enforced by setting the lower triangular and diagonal elements to -inf. We illustrate the overall idea in Figure 2.

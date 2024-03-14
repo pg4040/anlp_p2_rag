@@ -1,0 +1,4 @@
+Title: Protecting Language Generation Models via Invisible Watermarking
+Authors: Xuandong Zhao, Yu-Xiang Wang, Lei Li
+Section: A. Appendix
+QG2 + ε (1 + z2(x)) 1 + 2ε ≤ 1 QG1 + ε (1 + z1(x)) 1 + 2ε + QG2 + ε (1 + z2(x)) 1 + 2ε = (QG1 +QG2) + 2ε+ ε (z1(x) + z2(x)) 1 + 2ε = 1 + 2ε 1 + 2ε = 1

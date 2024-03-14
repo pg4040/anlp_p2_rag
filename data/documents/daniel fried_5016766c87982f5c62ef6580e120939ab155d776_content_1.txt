@@ -1,0 +1,4 @@
+Title: Amortizing Pragmatic Program Synthesis with Rankings
+Authors: Yewen Pu, Saujas Vaduguru, Priyan Vaithilingam, Elena Glassman, Daniel Fried
+Section: Stability of Ranks Across RSA Iterations
+study may provide an alternative explanation as to why humans do not perform RSA for more than few iterations (Franke and Degen 2016). In addition to it being computationally expensive, it is also not necessary as the majority of top-k orderings becomes available at σL1 , and remains stable for all subsequent iterations of the RSA algorithm. In another word, Ltop−k1 ∼= Ltop−ki>1 . Code in simulation/single utter

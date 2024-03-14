@@ -1,0 +1,4 @@
+Title: Transformer Working Memory Enables Regular Language Reasoning And Natural Language Length Extrapolation
+Authors: Ta-Chung Chi, Ting-Han Fan, Alexander I. Rudnicky, Peter J. Ramadge
+Section: C Proof of Lemma 1
+2 ) W2 = get_W2 ( 2 ) f l a t_AB = np . maximum ( x @ W1 −1 ,0) @ W2

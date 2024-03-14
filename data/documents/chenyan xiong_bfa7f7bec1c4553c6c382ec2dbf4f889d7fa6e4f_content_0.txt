@@ -1,0 +1,4 @@
+Title: COMPLEQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering
+Authors: Donghan Yu, Yu Gu, Chenyan Xiong, Yiming Yang
+Section: C Filtering Incorrect Triplets
+As additional experiments for Section 4.1, we present the question-answering performance of other KGC methods besides ComplEx after discarding incorrect triplets and retaining only the correct ones. As depicted in Figure 4, it’s clear that QA efficacy significantly improves when incorrect triplets are excluded, notably when the knowledge graph is 80% incomplete, which reflects a situation where KGC quality is notably poor, with a high frequency of incorrect triplet predictions.

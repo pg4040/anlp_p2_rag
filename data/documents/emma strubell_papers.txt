@@ -1,0 +1,11 @@
+List of 2023 Open Access papers by emma strubell are:
+To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing
+Understanding the Effect of Model Compression on Social Bias in Large Language Models
+Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research
+On the Interactions of Structural Constraints and Data Resources for Structured Prediction
+Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation
+Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models
+Making Scalable Meta Learning Practical
+Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints
+The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment
+Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training

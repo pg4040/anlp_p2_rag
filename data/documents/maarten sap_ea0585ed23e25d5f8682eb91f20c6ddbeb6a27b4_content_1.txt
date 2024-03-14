@@ -1,0 +1,4 @@
+Title: Towards Countering Essentialism through Social Bias Reasoning
+Authors: Emily Allaway, Nina Taneja, Sarah-Jane Leslie, Maarten Sap
+Section: 5.3 Limitations, Challenges, and Future Directions
+different people (e.g., our system proposes that “taylor swift, sarah palin, and scarlett johansson” are not vain). Producing accurate and relevant direct exceptions to a stereotype is important for understanding the role of such examples to counter essentialist beliefs. Our results and discussion highlight the complexity of countering essentialist beliefs. We propose that future work should improve the factuality of counterstatements, particularly of direct counterevidence, and consider both variation in respondent demographics and community-specific needs. Therefore, we argue that working at the intersection of NLP and psychology is crucial for further investigations in this area.

@@ -1,0 +1,4 @@
+Title: Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity
+Authors: Lindia Tjuatja, Emmy Liu, Lori Levin, Graham Neubig
+Section: C Human Annotation Details
+4 = somewhat likely to be an agent 5 = very likely to be an agent

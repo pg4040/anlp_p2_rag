@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 3ed28c3ee6f1d7645fa46b7353f1475a3122a6c4
+Title: Influence of sensor array on MS/AE source location accuracy in rock mass
+Year: 2023
+Abstract: None
+Authors: Lin-qi Huang, Xin Wu, Xi-bing Li, Shao-feng Wang
+Venue: Transactions of Nonferrous Metals Society of China
+Tldr: None
+Url: N/A

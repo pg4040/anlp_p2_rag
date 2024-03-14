@@ -1,0 +1,4 @@
+Title: Reasoning about the Unseen for Efficient Outdoor Object Navigation
+Authors: Quanting Xie, Tianyi Zhang, Kedi Xu, Matthew Johnson-Roberson, Yonatan Bisk
+Section: VII. CONCLUSIONS
+The emergence of LLMs has opened new avenues in the embodied agent domain. This paper introduced the OUTDOOR task, a pioneering approach aimed at propelling embodied agents into challenging outdoor settings. Further, we introduced a novel, general, mechanism for using LLMs to reason about robot plans in unseen environments, and proposed the CASR, the first metric to assess balance between reasoning and action for embodied agents. Our formulation more closely mirrors how humans navigate and explore, trading off between thinking and acting to both leverage what we know in general and can see in the specific.

@@ -1,0 +1,4 @@
+Title: Neural Mixed Efects for Nonlinear Personalized Predictions
+Authors: Torsten Wörtwein, Nicholas B. Allen, Lisa B. Sheeber, Randy P. Auerbach, Jefrey F. Cohn, Louis-Philippe Morency
+Section: 6.2 NME-CRF Experiments
+little data, NME-CRF always performs better than the Generic-CRF despite having more parameters. As described in subsection 4.1, mixed efect models tend to learn smaller person-specifc parameters for a person with little data which helps avoid overftting. In the extreme case of having very little data per person, the NME-CRF should converge to the Generic-CRF as the person-specifc parameters will barely be used [43]. This trend can be observed in Figure 6 as the performance gap between NME-CRF and Generic-CRF narrows with fewer observations per person.

@@ -1,0 +1,4 @@
+Title: Advancing Regular Language Reasoning in Linear Recurrent Neural Networks
+Authors: Ting-Han Fan, Ta-Chung Chi, Alexander I. Rudnicky
+Section: 1 Introduction
+Pair, and Modular Arithmetic.

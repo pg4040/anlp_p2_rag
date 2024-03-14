@@ -1,0 +1,4 @@
+Title: Multi-Objective Improvement of Android Applications
+Authors: James, Callan, Justyna Petke
+Section: 10 Statements and Declarations
+Data availability All our code and results are available in our repository GIDroid (2023). A permissive open source license will be added upon acceptance. Funding This work was supported by EPSRC grant no. EP/P023991/1. Copyright For the purpose of open access, the authors have applied a Creative Commons Attribution (CC BY) license to any Accepted Manuscript version arising.

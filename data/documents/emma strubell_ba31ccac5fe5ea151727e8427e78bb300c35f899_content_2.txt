@@ -1,0 +1,4 @@
+Title: Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training
+Authors: Zhisong Zhang, Emma Strubell, Eduard Hovy
+Section: A More Details of Task Settings
+in NER. For the relational sub-task, we simply adopt a local pairwise model with the standard crossentropy loss. Since the relation model is local, no special treatment is needed for PA.

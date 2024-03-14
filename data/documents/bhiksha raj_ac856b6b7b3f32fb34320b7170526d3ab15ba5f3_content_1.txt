@@ -1,0 +1,4 @@
+Title: Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
+Authors: Thanh-Dat Truong, Hoang-Quan Nguyen, Bhiksha Raj, Khoa Luu
+Section: 4.3 Comparison with State-of-the-Art Methods
+(DART), and Googler Initiated Research Grant. We also thank Utsav Prabhu for invaluable discussions and suggestions and acknowledge the Arkansas High-Performance Computing Center for providing GPUs.

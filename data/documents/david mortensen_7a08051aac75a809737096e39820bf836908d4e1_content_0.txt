@@ -1,0 +1,4 @@
+Title: Construction Grammar Provides Unique Insight into Neural Language Models
+Authors: Leonie Weissweiler, Taiqi He, Naoki Otani, David R. Mortensen, Lori Levin, Hinrich Schütze
+Section: 6 Conclusion
+We have motivated why probing large PLMs for CxG is a very important topic both for computational linguists interested in the ideal LM and for applied NLP scientists seeking to analyse and improve the current challenges that models are facing. We then summarised and analysed the existing literature on this topic. Finally, we have given our reasons for why CxG probing remains a challenge, and detailed suggestions for further development in this field, within the realms of data, methodology, and fundamental research questions.

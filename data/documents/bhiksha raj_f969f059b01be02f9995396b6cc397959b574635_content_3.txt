@@ -1,0 +1,4 @@
+Title: Pairwise Similarity Learning is SimPLE
+Authors: Yandong Wen, Weiyang Liu, Yao Feng, Bhiksha Raj, Rita Singh, Adrian Weller, Michael J. Black, Bernhard Schölkopf
+Section: 3. An Embarrassingly Simple PSL Framework
+state-of-the-art performance.

@@ -1,0 +1,4 @@
+Title: Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology
+Authors: Elizabeth Salesky, Kareem Darwish, Mohamed Al-Badrashiny, Mona Diab, Jan Niehues
+Section: A.8 Segmentation Examples
+Examples of each transcript segmentation approach discussed (VAD, subtitles, and sentences) for sample data from the development set. Examples were chosen to show segments from the longest and shortest VAD quartiles, and the resulting subtitles following subtitle guidelines from §A.7.

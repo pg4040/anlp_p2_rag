@@ -1,0 +1,4 @@
+Title: Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation
+Authors: Haoyang Wen, Alexander G. Hauptmann
+Section: 1 Introduction
+performance compared to classification, demonstrating the effectiveness of connecting input, target, and label semantics for stance detection. Further analysis illustrates the benefits of joint target prediction, unlikelihood training, and Wikipedia knowledge. Our model can achieve new state-of-the-art performance, outperforming several strong baselines from previous work.

@@ -1,0 +1,4 @@
+Title: Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints
+Authors: Rajshekhar Das, Jonathan Francis, Sanket Vaibhav Mehta, Jean Oh, Emma Strubell, José Moura
+Section: C. Additional Visualisations
+38: U .append(Uk) . Valid-region list update 39: Lk = arg max c Fk[c] . Region-label assignment 40: L.append(Lk) . Valid-region label list update 41: end if 42: end for 43: Using U and L, compute Ltobj,i . Objectness constraint, Eqn. . 7 44: Lobj = Lobj + L t obj,i 45: end for 46: Lpac = Luda + αobj NBt ∗ Ltobj . Overall PAC-UDA objective 47: θt ← θt−1 − η∇Lpac . Parameter update 48: end for 15

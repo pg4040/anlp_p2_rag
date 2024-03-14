@@ -1,0 +1,4 @@
+Title: Identification of Nonlinear Latent Hierarchical Models
+Authors: Lingjing Kong, Biwei Huang, Feng Xie, Eric Xing, Yuejie Chi, Kun Zhang
+Section: C.1 Relaxation of Condition 2.4-ii
+without observed non-leaf variables, which can be tackled by Algorithm 1.

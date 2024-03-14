@@ -1,0 +1,4 @@
+Title: Measuring Power and Social Dynamics Between Entities
+Authors: Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap
+Section: A Appendix: GPT-3.5 Generation Setup
+Here we further detail our steps to evaluate our framework as discussed in Section 4.1. To generate characters with clear roles, names, and power differences, we used 32 dyadic relation pairs with explicit power asymmetry in our prompt. The full list of relations are shown in Table 2. The following is an example of the prompt used to generate such stories: Tell me a short story about a doctor and a patient, and give them names. doctor’s name: Using text-davinci-003 model, we generated 3 stories per pair with temperature set to 0.7 and max tokens set to 256. After cleaning ill-formatted results, we analyzed a total of 85 stories. A few examples of the generated stories along with the power scores of the characters are shown in Table 3.

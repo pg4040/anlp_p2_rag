@@ -1,0 +1,4 @@
+Title: Representation Learning for Interpersonal and Multimodal Behavior Dynamics: A Multiview Extension of Latent Change Score Models
+Authors: Alexandria K. Vail, Jefrey M. Girard, Lauren M. Bylsma, Jay Fournier, Holly A. Swartz, Jefrey F. Cohn, Louis-Philippe Morency
+Section: ACKNOWLEDGMENTS
+This material is based upon work partially supported by U.S. National Science Foundation (NSF) awards 1722822 and 1750439 and U.S. National Institutes of Health (NIH) awards U01MH116923, R01HD081362, R01MH125740, R01MH096951, R21MH130767 and R01MH132225. Any opinions, fndings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily refect the views of the sponsors, and no ofcial endorsement should be inferred.

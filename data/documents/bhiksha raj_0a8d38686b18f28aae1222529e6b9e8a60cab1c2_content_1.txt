@@ -1,0 +1,4 @@
+Title: UTOPIA: Unconstrained Tracking Objects without Preliminary Examination via Cross-Domain Adaptation
+Authors: Pha Nguyen, Kha Gia Quach, John Gauch, Samee U. Khan, Bhiksha Raj, Khoa Luu
+Section: 5.4 Ablation Study
+that an off-the-shelf feature extractor is not always reliable [7], our adaptable framework can learn to embed discriminative features in pose and shape, result in an enhancement in IDF1 by 12.7%, from 26.10% to 38.80%.

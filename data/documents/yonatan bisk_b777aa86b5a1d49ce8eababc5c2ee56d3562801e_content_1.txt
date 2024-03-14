@@ -1,0 +1,4 @@
+Title: The Framework Tax: Disparities Between Inference Efficiency in NLP Research and Deployment
+Authors: Jared Fernandez, Jacob Kahn, Clara Na, Yonatan Bisk, Emma Strubell
+Section: 5 Discussion
+Throughput and input size can be increased at minimal cost for framework-bound models. For a given model, latency is constant regardless of batch size until compute kernels saturate and exceed CPU launch costs. If computation is bot-

@@ -1,0 +1,4 @@
+Title: Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research
+Authors: Ji-Ung Lee, Haritz Puerto, Betty van Aken, Yuki Arase, Jessica Zosa Forde, Leon Derczynski, Andreas Rücklé, Iryna Gurevych, Roy Schwartz, Emma Strubell, Jesse Dodge
+Section: Acknowledgements
+This work was initiated at and benefited substantially from the Dagstuhl Seminar 22232: Efficient and Equitable Natural Language Processing in the Age of Deep Learning. We further thank Niranjan Balasubramanian, Jonathan Frankle, Michael Hassid, Kenneth Heafield, Sara Hooker, Alexander Koller, Alexandra Sasha Luccioni, Alexander Löser, André F. T. Martins, Colin Raffel, Nils Reimers, Leonardo Riberio, Anna Rogers, Edwin Simpson, Noam Slonim, Noah A. Smith, and Thomas Wolf for a fruitful discussion and helpful feedback at the seminar. We further thank Leshem Choshen for helpful feedback on this work.

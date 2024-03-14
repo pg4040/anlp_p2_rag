@@ -1,0 +1,4 @@
+Title: Care4Lang at MEDIQA-Chat 2023: Fine-tuning Language Models for Classifying and Summarizing Clinical Dialogues
+Authors: Amal Alqahtani, Rana Salama, Mona Diab, Abdou Youssef
+Section: 6 Conclusion
+diagnoses or treatments. Overall, it is essential to approach the development of an automated system for clinical note generation with a solid ethical framework to ensure that it aligns with the highest standards of patient care and ethical conduct.

@@ -1,0 +1,4 @@
+Title: SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Authors: Taiqi He, Lindia Tjuatja, Nate Robinson, Shinji Watanabe, David R. Mortensen, Graham Neubig, Lori Levin
+Section: 2.1 Artificial Data
+unable to capture phonological changes in the surface form and corresponding translations may be nonsensical), this method guarantees that the structure of the gloss is a naturally occurring sequence (as we only use gloss skeletons that are present in the input). However, a limitation of this method is that it does not extend to out-of-vocabulary tokens or unseen gloss structures. Furthermore, as we cannot generate a gold-standard translation for the artificial data, we do not make use of a translation in training.

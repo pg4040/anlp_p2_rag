@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 83cf0caccd1d55c7af171604eca38c85e379a1cf
+Title: Penetrating particle ANalyzer (PAN)
+Year: 2023
+Abstract: The Penetrating particle Analyzer (PAN) is a compact magnetic spectrometer with relatively low power budget allowing it to be used in deep space and interplanetary missions for cosmic rays, solar physics and space weather studies. It can precisely measure and monitor the flux, composition, and direction of highly penetrating particles in the range between 100 MeV/n and 10 GeV/n. The device consists of permanent magnet sections, silicon strip detectors, scintillating detectors and silicon pixel detectors. At the current stage of the R&D, the first smaller prototype, called Mini.PAN, was built. Mini.PAN is designed to demonstrate the capabilities and performance of the instrument concept. The key component of Mini.PAN is the fine-pitched and thin
+Authors: D. Sukhonos, G. Ambrosi, P. Azzarello, M. Barbanera, Benedikt Bergmann, P. Burian, F. Cadoux, Y. Favre, J. Hulsman, D. Marra, T. Iizawa, M. Ionica, Eduardo Mancini, L. Nicola, M. Paniccia, G. Silvestre, P. Smolyanskiy, Jerry Stauffer, Adrien Stil, P. Thonet, P. Xie, Xin Wu
+Venue: International Conference on Rebooting Computing
+Tldr: None
+Url: https://pos.sissa.it/444/045/pdf

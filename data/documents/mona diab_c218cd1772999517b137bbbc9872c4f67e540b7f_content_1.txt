@@ -1,0 +1,4 @@
+Title: OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models
+Authors: Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz, Mona Diab
+Section: 6 Conclusion
+can be optimized for specific reasoning skills. We hope our findings will inspire further research on developing ethical and responsible approaches for developing and deploying LLMs.

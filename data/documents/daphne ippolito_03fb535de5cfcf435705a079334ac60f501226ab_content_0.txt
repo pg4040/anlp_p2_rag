@@ -1,0 +1,4 @@
+Title: Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System
+Authors: Daphne Ippolito, Nicholas Carlini, Katherine Lee, Milad Nasr, Yun William Yu
+Section: G Additional Results
+Table 6 gives the numbers used in Figure 2 in the main paper, as well as the root mean-square error between the true and estimated p values.

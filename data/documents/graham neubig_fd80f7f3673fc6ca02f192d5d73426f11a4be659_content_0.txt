@@ -1,0 +1,4 @@
+Title: The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation
+Authors: Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat
+Section: C Additional Results
+Figures 12, 13, and 14 present additional experimental results.

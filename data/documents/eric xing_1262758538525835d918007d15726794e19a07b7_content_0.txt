@@ -1,0 +1,4 @@
+Title: Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective
+Authors: Zeyuan Yin, Eric Xing, Zhiqiang Shen, Mohamed bin Zayed
+Section: E More Visualization of Synthetic Data
+We provide more visualization comparisons on synthetic Tiny-ImageNet between MTT and SRe2L in Fig. 8. Additionally, we visualize synthetic samples pertaining to ImageNet-1K in Fig. 9 and Fig. 10 for a more comprehensive understanding. It can be observed that our synthetic data has the stronger semantic information than MTT with more object textures, shapes and details, which demonstrates the superior quality of our synthesized data. S R e2 T M TT S R e2 T M TT 20

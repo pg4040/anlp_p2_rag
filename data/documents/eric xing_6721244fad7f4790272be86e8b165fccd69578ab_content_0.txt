@@ -1,0 +1,4 @@
+Title: KD-DLGAN: Data Limited Image Generation via Knowledge Distillation
+Authors: Kaiwen Cui, Yingchen Yu, Fangneng Zhan, Shengcai Liao, Shijian Lu, Eric Xing, Mohamed bin Zayed
+Section: Acknowledgement
+This study is funded by the Ministry of Education Singapore, under the Tier-1 scheme with a project number RG94/20, as well as cash and in-kind contribution from Singapore Telecommunications Limited (Singtel), through Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU).

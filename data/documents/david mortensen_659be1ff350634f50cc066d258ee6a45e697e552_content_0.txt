@@ -1,0 +1,4 @@
+Title: SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Authors: Taiqi He, Lindia Tjuatja, Nate Robinson, Shinji Watanabe, David R. Mortensen, Graham Neubig, Lori Levin
+Section: A Hyperparameter Settings
+We use Adafactor (Shazeer and Stern, 2018) as the optimizer across all experiments, with the default scheduler from Hugging Face Transformers, a batch size of 32 for RoBERTa based models and a batch size of 4 with a gradient accumulation step of 8 for ByT5 based models. We train the token classification models for 40 epochs except for Arapaho, on which we train 20 epochs, and Gitksan, on which we train 2,000 steps. We train the ByT5 based models for 20 epochs on all of the data mixed together.

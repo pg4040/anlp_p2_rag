@@ -1,0 +1,4 @@
+Title: STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition
+Authors: Xiaoyu Zhu, Po-Yao Huang, Junwei Liang, Celso M. de Melo, Alexander Hauptmann
+Section: 4.6. Analysis
+shows that STMT with meshes as input, is more robust to input noise compared to other state-of-the-art methods with 3D skeletons or point clouds as input.

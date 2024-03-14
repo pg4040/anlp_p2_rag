@@ -1,0 +1,4 @@
+Title: Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model
+Authors: Cheng Qian, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu
+Section: 3.3 Open-Source Model Adaptation
+toolkit KTi . Next, we employ ChatGPT to select useful tools for each query and generate the calling decision. The decision’s output is compared against the standard answer, and minor adjustments may be made to ensure the validity of these newly-constructed tool-augmented data. Finetuning of Model. Together with DCoS, we apply the tool-augmented samples DTi-tool from all target tasks to finetune Mopen: Mopen DCoS∪{DTi-tool|Ti∈Tall}−−−−−−−−−−−−−−−→ Mtool. (4) We expect the derived tool-augmented open-source model Mtool to have the CoS ability to apply useful tools in the toolkit for problem-solving. With excellency in planning and calling, Mtool links the created toolkit with specific queries, which realizes the final goal of the Toolink framework.

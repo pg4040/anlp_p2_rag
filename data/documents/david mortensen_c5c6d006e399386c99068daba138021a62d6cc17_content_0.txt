@@ -1,0 +1,4 @@
+Title: Transformed Protoform Reconstruction
+Authors: Young Min Kim, Kalvin Chang, Chenxuan Cui, David Mortensen
+Section: C Supplementary Results
+In order to compare our model to earlier work, we used the Rom-phon and Rom-orth datasets from Meloni et al. (2021). However, this set includes a subset from Ciobanu and Dinu (2018) which is not freely redistributable. So that our results can be reproduced, we also computed them on the publicly available subset of Meloni et al. (2021)’s dataset, which is presented in Table 7. Phylogenetic trees for Chinese were also extracted from the RNN and Transformer models. These are shown in Figures 3 and 4. We also plot the dendrograms derived from the Rom-orto dataset in Figure 5.

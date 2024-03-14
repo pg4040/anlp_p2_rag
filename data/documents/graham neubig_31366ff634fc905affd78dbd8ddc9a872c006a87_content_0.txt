@@ -1,0 +1,4 @@
+Title: CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code
+Authors: Shuyan Zhou, Uri Alon, Sumit Agarwal, Graham Neubig
+Section: G Additional Examples
+In this section, we provide additional examples in which CodeBERTScore prefers the functionally correct prediction, while the best baseline metric in each language ranks higher a functionally incorrect prediction, which is inequivalent to the reference. Figure 9 shows an example in Java, and Figure 10 shows a C++ example.

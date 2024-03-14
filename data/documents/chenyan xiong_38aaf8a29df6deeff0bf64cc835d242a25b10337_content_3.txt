@@ -1,0 +1,4 @@
+Title: Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers
+Authors: Linyuan Gong, Chenyan Xiong, Xiaodong Liu, Payal Bajaj, Yiqing Xie, Alvin Cheung, Jianfeng Gao, Xia Song
+Section: A Appendix
+is a masked language model (MLM), tries to fill masked positions with predicted tokens “2 6 4” and “6 4” respectively. The resulting main model input is “1 2 6 4 5” for both cases, but the target is “2 3 4” for case 1 and “3 4” for case 2. This is an ambiguity where the main model is unsure where it should begin to generate predictions: “2” or “3”. ACL 2023 Responsible NLP Checklist

@@ -1,0 +1,4 @@
+Title: DocumentNet: Bridging the Data Gap in Document Pre-Training
+Authors: Lijun Yu, Jin Miao, Xiaoyu Sun, Jiayi Chen, Alexander G. Hauptmann, Hanjun Dai, Wei Wei
+Section: D.1 Financial Documents
+quit • notice of lease termination • doctor prescription • patient history form • patient intake form • consent to treat minor • form petition for name change • medical intake form

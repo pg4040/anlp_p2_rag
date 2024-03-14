@@ -1,0 +1,4 @@
+Title: SYNERGY BETWEEN HUMAN AND MACHINE APPROACHES TO SOUND/SCENE RECOGNITION AND PROCESSING: AN OVERVIEW OF ICASSP SPECIAL SESSION
+Authors: Laurie M. Heller, Benjamin Elizalde, Bhiksha Raj, Soham Deshmukh
+Section: 5. REFERENCES
+and Bhiksha Raj, “Sound event classification using ontology-based neural networks,” in Proceedings of the Annual Conference on Neural Information Processing Systems, 2018, vol. 9.

@@ -1,0 +1,4 @@
+Title: COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements
+Authors: Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas Davidson, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap
+Section: C GPT-3 prompts used in this paper
+The example prompts for generating likely contexts are in Figure 8. The example prompts for generating adversarial contexts are in Figure 9. The example prompts for generating the likely explanations are in Figure 10. 11https://github.com/huggingface/transformers

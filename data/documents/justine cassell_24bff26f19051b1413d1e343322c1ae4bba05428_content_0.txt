@@ -1,0 +1,4 @@
+Title: When to generate hedges in peer-tutoring interactions
+Authors: Alafate Abulimiti, Chloé Clavel, Justine Cassell
+Section: Acknowledgments
+We thank the anonymous reviewers for their helpful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the ArticuLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French government, administered by the Agence Nationale de la Recherche, as part of the "Investissements d’avenir" program, with reference to ANR-19P3IA-0001 (PRAIRIE 3IA Institute).

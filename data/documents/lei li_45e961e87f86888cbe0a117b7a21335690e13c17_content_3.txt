@@ -1,0 +1,4 @@
+Title: Oral phage therapy with microencapsulated phage A221 against
+Authors: Xinyu Mao, Yuxing Wu, Runwen Ma, Lei Li, Leping Wang, Yizhou Tan, Ziyong Li, Hui Liu, Kaiou Han, Yajie Cao, Yinan Li, Hao Peng, Xun Li, Chuanhuo Hu, Xiaoye Wang
+Section: Declarations
+S, Stecher G, Li M, Knyaz C, Tamura K. MEGA X: molecular evolutionary genetics analysis across computing platforms. Mol Biol Evol. 2018;35(6):1547.

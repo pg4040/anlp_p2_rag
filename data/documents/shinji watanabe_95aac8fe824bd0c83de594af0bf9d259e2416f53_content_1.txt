@@ -1,0 +1,4 @@
+Title: Learning to Speak from Text: Zero-Shot Multilingual Text-to-Speech with Unsupervised Text Pretraining
+Authors: Takaaki Saeki, Soumi Maiti, Xinjian Li, Shinji Watanabe, Shinnosuke Takamichi, Hiroshi Saruwatari
+Section: 4 Related Work
+2022] as the inputs of the MLM pretraining. Our work proposes multilingual MLM pretraining for TTS using text tokens shared across languages, rather than focusing on monolingual pretraining.

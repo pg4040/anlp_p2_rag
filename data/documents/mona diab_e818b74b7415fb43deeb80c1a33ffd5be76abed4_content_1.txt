@@ -1,0 +1,4 @@
+Title: A Combination of Ruthenium Complexes and Photosensitizers to Treat Colorectal Cancer
+Authors: Jacquie Massoud, Bruno Therrien, Aline Pinon, Manuel Gallardo-Villagrán, Lucie Paulus, Catherine Ouk, Claire Carrion, Sayed Antoun, Mona Diab-Assaf, Bertrand Liagre
+Section: 5. Conclusions
+Institute medium / SDS-PAGE: Electrophoresis in polyacrylamide gel containing sodium dodecyl sulfate / SEM: Standard Error of the Mean / TPyP: Tetrapyridylporphin.

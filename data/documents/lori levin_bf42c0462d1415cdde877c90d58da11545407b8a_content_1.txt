@@ -1,0 +1,4 @@
+Title: Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation
+Authors: David R. Mortensen, Ela Gulsen, Taiqi He, Nathaniel Robinson, Jonathan D. Amith, Lindia Tjuatja, Lori Levin
+Section: 2 Background
+structure makes it difficult to read and write without special software tools. We propose GGG to take the best of the both frameworks. It has the following properties: • General and adaptable • Human readable • Machine readable and unambiguous • Editable with general-purpose tools • Consistent and formally-rigorous in its representation of non-concatenative processes

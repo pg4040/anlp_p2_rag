@@ -1,0 +1,4 @@
+Title: COMPLEQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering
+Authors: Donghan Yu, Yu Gu, Chenyan Xiong, Yiming Yang
+Section: 4 Experiments
+The F1 score, in this context, is a more direct measure of the quality of predicted triplets compared to MRR. To delve further, we measured the overlap of predicted triplets among various models and found that no model’s predictions, correct or incorrect, fully encompassed the other’s. For example, in a 20% incomplete KG, ComplEx and RotatE had about 80% shared correct predictions and 30% shared incorrect ones. In this case, despite ComplEx’s superior performance in KGC, it doesn’t solely determine QA performance as various predicted triplets impact QA differently, and this impact may not align well with their contribution to KGC performance. This discrepancy points to the need for KGC methods that optimize both KG completion and downstream task performance.

@@ -1,0 +1,4 @@
+Title: Training on Foveated Images Improves Robustness to Adversarial Attacks
+Authors: Muhammad A. Shah
+Section: H Hardware Details
+We trained our models on compute clusters with Nvidia GeForce 2080 Ti and V100 GPUs. Most of the Imagenet and Ecoset models were trained and evaluated on the V100s, while the CIFAR-10 and Ecoset-10 models were trained and evaluated on the 2080 Ti’s.

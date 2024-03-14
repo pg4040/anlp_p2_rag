@@ -1,0 +1,4 @@
+Title: Cosmic Ray Carbon and Oxygen Flux Measurements with the DAMPE Experiment
+Authors: Yifeng Wei, Chuan Yue, Dimitrios Kyratzis, Felicia Barbatod, Mikhail Stolpovskiy
+Section: 3.1 Event selection
+The selection windows [𝑃𝑒𝑎𝑘𝐶−2𝐹𝑊𝐻𝑀𝐶 , 𝑃𝑒𝑎𝑘𝐶+2.5𝐹𝑊𝐻𝑀𝐶] and [𝑃𝑒𝑎𝑘𝑂−2𝐹𝑊𝐻𝑀𝑂, 𝑃𝑒𝑎𝑘𝑂+3𝐹𝑊𝐻𝑀𝑂] were used to obtain the carbon and oxygen candidates, respectively.

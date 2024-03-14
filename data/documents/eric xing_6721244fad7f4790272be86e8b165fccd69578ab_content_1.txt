@@ -1,0 +1,4 @@
+Title: KD-DLGAN: Data Limited Image Generation via Knowledge Distillation
+Authors: Kaiwen Cui, Yingchen Yu, Fangneng Zhan, Shengcai Liao, Shijian Lu, Eric Xing, Mohamed bin Zayed
+Section: 4.5. Discussion
+Vision-aided GAN. We can observe that KD-DLGAN outperforms CLIP-based Vision-aided GAN consistently, demonstrating its effectiveness in mitigating discriminator overfitting and improving generation performance.

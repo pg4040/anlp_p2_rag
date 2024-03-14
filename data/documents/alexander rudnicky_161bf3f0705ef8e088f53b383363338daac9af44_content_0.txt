@@ -1,0 +1,4 @@
+Title: Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings
+Authors: Ta-Chung Chi, Ting-Han Fan, Li-Wei Chen, Peter J. Ramadge
+Section: D Scientific Artifacts
+We use the gpt-neox library (Andonian et al., 2021) under Apache-2.0 license. OpenWebText2 (Gao et al., 2020) is released by the authors of gpt-neox. The codebase and dataset are publicly released for research purposes. The steps taken to protect privacy and anonymization are discussed in Section 6 and 7 of Gao et al. (2020). The distribution and statistics of OpenWebext2 are also discussed in Gao et al. (2020).

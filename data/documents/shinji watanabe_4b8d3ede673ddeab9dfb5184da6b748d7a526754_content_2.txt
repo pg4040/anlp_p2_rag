@@ -1,0 +1,4 @@
+Title: A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech
+Authors: Li-Wei Chen, Shinji Watanabe, Alexander Rudnicky
+Section: 5.2 Performance
+prevalent in MQTTS; it contributes for 8.4 out of 22.3% WER in MQTTS-100M, but only 6.8 out of 24.8% for VITS-100M. We conjecture that as intermittent pauses are not annotated explicitly, and thus it encourages MQTTS to produce silence even if attending to a certain phoneme. However, if the phones are successfully produced, they often sound more natural and intelligible than those in the syntheses of VITS. We observe these errors gradually rectified as the model capacity increases (from 40M to 200M), suggesting that more data and larger models can eventually resolve these issues.

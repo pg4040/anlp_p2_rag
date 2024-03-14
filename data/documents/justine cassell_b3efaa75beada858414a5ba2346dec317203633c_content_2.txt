@@ -1,0 +1,4 @@
+Title: "You might think about slightly revising the title": Identifying Hedges in Peer-tutoring Interactions
+Authors: Yann Raphalen, Chloé Clavel, Justine Cassell
+Section: 2 Related work
+one that we also use), and they achieved their best classification result by employing an Attention-CNN model, inspired by Adel and Schütze (2017).

@@ -1,0 +1,4 @@
+Title: Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework
+Authors: Paul Pu Liang, Yun Cheng, Xiang Fan, Chun Kai Ling, Suzanne Nie, Richard J. Chen, Zihao Deng, Nicholas Allen, Randy Auerbach, Faisal Mahmood, Ruslan Salakhutdinov, Louis-Philippe Morency
+Section: C.7 Quantifying Model Predictions
+when Xi is missing, these interactions can no longer be discovered by the model which decreases robustness. For the subset of points when Ui ≤ 0.05, the correlation between S and performance drop is ρ = 0.73 while the correlation between R and performance drop is only ρ = 0.01.

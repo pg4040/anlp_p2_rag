@@ -1,0 +1,4 @@
+Title: The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation
+Authors: Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat
+Section: 6.3.1 AUTOMQM
+of spans produced by AUTOMQM, with UNICORN outperforming BISON at most metrics. Additionally, UNICORN prompted with AutoMQM predicts spans of comparable quality to the ones produced by current state-of-the-art learned wordlevel evaluators (trained on a considerable number of fine-grained annotations derived from MQM): while word-level models are more precise, their overall span correlation (MCC) is comparable, and they miss considerably more major errors than LLMs (despite only leveraging a handful of annotations).

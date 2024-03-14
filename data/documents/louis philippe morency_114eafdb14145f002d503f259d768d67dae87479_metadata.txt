@@ -1,0 +1,9 @@
+Faculty Name: louis philippe morency
+Paperid: 114eafdb14145f002d503f259d768d67dae87479
+Title: Reconstructing the neurodynamics of face perception during real world vision in humans using intracranial EEG recordings
+Year: 2023
+Abstract: None
+Authors: Arish Alreja, Michael J. Ward, J. A. Colan, Qianli Ma, R. M. Richardson, Louis-Philippe Morency, A. Ghuman
+Venue: Journal of Vision
+Tldr: None
+Url: N/A

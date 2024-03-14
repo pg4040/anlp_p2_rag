@@ -1,0 +1,4 @@
+Title: 3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds
+Authors: Aoran Xiao, Jiaxing Huang, Weihao Xuan, Ruijie Ren, Kangcheng Liu, Dayan Guan, Abdulmotaleb El Saddik, Shijian Lu, Eric Xing
+Section: 5.1. Domain Generalization
+bank B further improves the segmentation performance at 28.6%. This is because the feature embeddings in B serve as the class prototypes which help the optimization of the segmentation network, finally leading to more robust representations of 3DSS that perform better over adverse weather point clouds.

@@ -1,0 +1,4 @@
+Title: Efficient Sequence Transduction by Jointly Predicting Tokens and Durations
+Authors: Hainan Xu, Fei Jia, Somshubra Majumdar, He Huang, Shinji Watanabe, Boris Ginsburg
+Section: B. Derivations of TDT gradients with respect to pre-softmax logits
+41, 44, we have ∂LTDT ∂hvt,u = P (v|t, u)α(t, u) PTDT(y|x) [ β(t, u)− ∑ d∈D\{0} β(t+ d, u)PD(d|t, u), v = Ø∑ d∈D β(t+ d, u+ 1)PD(d|t, u), v = yu+1 0, otherwise ] (45)

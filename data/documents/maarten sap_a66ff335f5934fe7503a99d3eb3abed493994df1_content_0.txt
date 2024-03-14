@@ -1,0 +1,4 @@
+Title: NLPositionality: Characterizing Design Biases of Datasets and Models
+Authors: Sebastin Santy, Jenny T. Liang, Ronan Le Bras, Katharina Reinecke, Maarten Sap, Aditya Sharma
+Section: D Cultural Spheres
+Division of countries can be done through continents. However, continents are often not representative of the countries within it and clustering based on them can lead to inaccurate findings. For example, Asia includes both Japan and Saudi Arabia, which are different culturally. We instead adopt cultural spheres as used in World Values Survey (Haerpfer and Kizilova, 2012), which clusters the countries in terms of the values they uphold and norms they follow. Table 4 shows the countries and the spheres.

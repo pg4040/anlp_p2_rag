@@ -1,0 +1,4 @@
+Title: “Don’t Take This Out of Context!” On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+Authors: Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap
+Section: 9 Limitations & Ethical Considerations
+our work, we exposed human annotators to toxic content during the evaluation of the de-toxification task. Exposure to such offensive content can be harmful to the annotators (Liu et al., 2016). We aim to work towards developing evaluation strategies that can minimize the exposure of annotators to toxic content. Potentially Inconsistent Human Evaluations In our work, we also assume human judgments as the gold standard. Concurrent work has shown that human evaluation might not always be consistent (Clark et al., 2021; Karpinska et al., 2021); however human judgments continue to be the gold standard for evaluating open-ended text generation.

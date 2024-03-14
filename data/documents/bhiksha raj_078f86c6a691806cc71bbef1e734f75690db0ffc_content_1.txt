@@ -1,0 +1,4 @@
+Title: FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding
+Authors: Thanh-Dat Truong, Ngan Le, Bhiksha Raj, Jackson Cothren, Khoa Luu
+Section: 5.3. Comparison with SOTA Approaches
+significant improvement can be observed from the predictions of classes in the minority group, e.g., the predicted segmentation of signs, persons, and poles is sharper. The model can well segment the classes in the minor group cogently and minimize the region of classes being erroneously classified. The borders between classes are accurately identified and predicted segmentation continuity has improved compared to prior works. Although our predictions contain some noise, the boundaries are still clear and correspond to the labels. More comparisons of quantitative and qualitative results are available in the supplementary.

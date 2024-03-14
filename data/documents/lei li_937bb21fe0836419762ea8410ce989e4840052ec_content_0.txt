@@ -1,0 +1,4 @@
+Title: Wavefront shaping improves the transparency of the scattering media: a review
+Authors: Chunxu Ding, Rongjun Shao, Qiaozhi He, Lei S. Li, Jiamiao Yang
+Section: Acknowledgments
+The authors would like to acknowledge the funding from the National Natural Science Foundation of China (Grant Nos. 62375171 and 62205189), the Fundamental Research Funds for the Central Universities, Shanghai Pujiang Program (Grant No. 22PJ1407500), Shanghai Jiao Tong University 2030 Initiative (Grant No. WH510363001-10), the Oceanic Interdisciplinary Program of Shanghai Jiao Tong University (Grant No. SL2022ZD205), the Science Foundation of Donghai Laboratory (Grant No. DH-2022KF01001), and the internal fund from Rice University (Grant No. F10000205).

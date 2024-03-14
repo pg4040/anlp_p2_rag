@@ -1,0 +1,4 @@
+Title: DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions
+Authors: Vijay Viswanathan, Luyu Gao, Tongshuang Wu, Pengfei Liu, Graham Neubig
+Section: A Few-Shot Prompt for Generating Keyphrases and Queries
+then sent them a Google Form containing between 10 and 20 abstracts to annotate. An example of the form instructions is included in Figure 9. We originally had annotators label the “Training Style” (unsupervised, semi-supervised, supervised, or reinforcement learning), in addition to Task, Modality, Domain, Text Length, and Language Required. However, this field saw excessively noisy labels so we ignore this field for our experiments.

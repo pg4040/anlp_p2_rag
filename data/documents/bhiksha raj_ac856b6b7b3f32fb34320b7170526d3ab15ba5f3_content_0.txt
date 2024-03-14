@@ -1,0 +1,4 @@
+Title: Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
+Authors: Thanh-Dat Truong, Hoang-Quan Nguyen, Bhiksha Raj, Khoa Luu
+Section: 10.5 Memory Efficiency
+We would like to highlight that storing prototypical vectors requires significantly less memory than using the additional teacher model as used in distillation approaches [12]. For example, in the ADE20K benchmark, storing DeepLab-V3 (151 classes) requires 58.664M parameters, while storing 152 prototypical 2048-D vectors (including the unknown cluster) only uses 0.311M parameters. In addition, the computation of loss with is cheaper than a forward pass of the entire network used in distillation. Therefore, in terms of computational cost and memory, our approach remains more efficient compared to knowledge distillation approaches.

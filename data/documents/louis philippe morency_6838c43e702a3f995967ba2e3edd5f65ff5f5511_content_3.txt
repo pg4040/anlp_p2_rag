@@ -1,0 +1,4 @@
+Title: SHAP-based Prediction of Mother’s History of Depression to Understand the Influence on Child Behavior
+Authors: Maneesh Bilalpur, Laura Cariola, Lisa Sheeber, Saurabh Hinduja, Nicholas Allen, Louis-Philippe Morency, Jefrey F. Cohn
+Section: 5 DISCUSSION
+classifer leaves room for exploring ensemble approaches such as random forest and XGBoost. Four, generalization of the proposed feature selection approach across diferent prediction frameworks remains as future work.

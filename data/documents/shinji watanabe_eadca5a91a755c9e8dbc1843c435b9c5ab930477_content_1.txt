@@ -1,0 +1,4 @@
+Title: Magnetic dynamics and nonreciprocal excitation in uniform hedgehog order in icosahedral 1/1 approximant crystal
+Authors: Shinji Watanabe
+Section: Methods
+and ai = aj,m = 1√NL ∑ q e iq·(Rj+r0m)aq,m with q being the wave vector, the spin-wave Hamiltonian is expressed by a†q,m and aq,m . Then, by performing the Bogoliubov transformation, i.e., the para-unitary transformation41, the spin-wave Hamiltonian is diagonalized as Here, ωm′(q)(> 0) is the energy of the m′ th spin wave and b†q,m′ (bq,m′) is the creation (annihilation) operator of the boson which is given by the linear combination of the boson operators of a†q,m and aq,m.

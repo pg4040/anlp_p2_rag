@@ -1,0 +1,4 @@
+Title: Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+Authors: Zhenghao Liu, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu
+Section: ACKNOWLEDGMENTS
+This work is supported by the Natural Science Foundation of China under Grant No. 62206042, No. 62137001, No. 61991404, and No. 62272093, the Fundamental Research Funds for the Central Universities under Grant No. N2216013, China Postdoctoral Science Foundation under Grant No. 2022M710022, and National Science and Technology Major Project (J2019-IV-0002-0069).

@@ -1,0 +1,4 @@
+Title: Wavefront shaping improves the transparency of the scattering media: a review
+Authors: Chunxu Ding, Rongjun Shao, Qiaozhi He, Lei S. Li, Jiamiao Yang
+Section: 3.1 Focusing and Imaging
+of view of dynamic scenes at diffraction-limited resolution can also be achieved. Journal of Biomedical Optics S11507-7 Vol. 29(S1)

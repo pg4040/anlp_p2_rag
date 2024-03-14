@@ -1,0 +1,9 @@
+Faculty Name: emma strubell
+Paperid: 71debf888acd57bb1baa4c146f31e58c66ea51af
+Title: On the Interactions of Structural Constraints and Data Resources for Structured Prediction
+Year: 2023
+Abstract: ,
+Authors: Zhisong Zhang, Emma Strubell, E. Hovy
+Venue: SUSTAINLP
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: https://aclanthology.org/2023.sustainlp-1.10.pdf

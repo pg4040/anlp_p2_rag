@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: 2126b5497eb51926d0baac655a1e0f88f0d1ec00
+Title: Antiviral efficacy against and replicative fitness of an XBB.1.9.1 clinical isolate
+Year: 2023
+Abstract: None
+Authors: R. Uraki, Mutsumi Ito, Maki Kiso, S. Yamayoshi, K. Iwatsuki-Horimoto, Yuko Sakai-Tagawa, Masaki Imai, M. Koga, Shinya Yamamoto, E. Adachi, Makoto Saito, T. Tsutsumi, Amato Otani, S. Fukushi, Shinji Watanabe, Tadaki Suzuki, Tetsuhiro Kikuchi, H. Yotsuyanagi, Maeda Ken, Yoshihiro Kawaoka
+Venue: iScience
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The results suggest that XBB.1.9.2.1 and X BB.1-CoV-2 have similar antigenicity and replicative ability, and that the currently available COVID-19 antivirals remain effective against XBB, even at the highest concentration used.'}
+Url: N/A

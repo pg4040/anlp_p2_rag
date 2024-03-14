@@ -1,0 +1,18 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0",
+  "description": "Sweepstakes, also known as Buggy, racing has come a long way at Carnegie Mellon University.",
+  "author": "Carnegie Mellon University",
+  "global-categories": "CMU Experience;Dietrich College;Engineering;Students",
+  "og:title": "Buggy Races Keep Rolling at Carnegie Mellon - News - Carnegie Mellon University",
+  "og:description": "Sweepstakes, also known as Buggy, racing has come a long way at Carnegie Mellon University.",
+  "og:type": "article",
+  "article:published_time": "$dateFormat",
+  "og:url": "http://www.cmu.edu/news/stories/archives/2019/april/spring-carnival-buggy.html",
+  "og:image": "http://www.cmu.edu/news/stories/archives/2019/april/images/carnival-buggy-900x600-min.jpg",
+  "msapplication-TileColor": "#9f0000",
+  "msapplication-TileImage": "//www.cmu.edu/favicon-144.png",
+  "twitter:site": "@CarnegieMellon",
+  "twitter:creator": "@CarnegieMellon",
+  "fb:pages": "7133766387"
+}
+Topic category is cmubuggy

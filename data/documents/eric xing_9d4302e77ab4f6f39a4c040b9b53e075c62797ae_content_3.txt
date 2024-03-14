@@ -1,0 +1,4 @@
+Title: Evaluation of thermal comfort in air-conditioned rooms based on structure/control-related parameters and data-mining method
+Authors: Shunan Zhao, Lin He, Xin Wu, Guowen Xu, Junlong Xie, Shanshan Cai
+Section: 5 Conclusions
+variations of the thermal environment in an air-conditioned room using collaborative simulation method. Energies, 14, 5378. 32. Shi, Y., Zhao, X., Zhang, Y., & Ren, N. (2009). Back propagation neural network (BPNN) prediction model and control strategies of methanogen phase reactor treating traditional Chinese medicine wastewater (TCMW). Journal of Biotechnology, 144(1), 70–74. 33. Bansal, S., Roy, S., & Larachi, F. (2012). Support vector regression models for trickle bed reactors. Chemical Engineering Journal, 207-208, 822–831. Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

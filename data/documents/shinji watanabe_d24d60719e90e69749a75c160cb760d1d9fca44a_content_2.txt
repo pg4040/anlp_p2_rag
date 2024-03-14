@@ -1,0 +1,4 @@
+Title: Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff
+Authors: Peter Polák, Brian Yan, Shinji Watanabe, Alex Waibel, Ondřej Bojar
+Section: 6. References
+Systems, vol. 33, pp. 12 449– 12 460, 2020. [37] M. Post, “A call for clarity in reporting bleu scores,” in Proceedings of the Third Conference on Machine Translation: Research Papers, 2018, pp. 186–191. [38] S. Papi et al., “Over-generation cannot be rewarded: Lengthadaptive average lagging for simultaneous speech translation,” in Proceedings of the Third Workshop on Automatic Simultaneous Translation, 2022, pp. 12–17.

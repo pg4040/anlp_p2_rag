@@ -1,0 +1,4 @@
+Title: Neural Mixed Efects for Nonlinear Personalized Predictions
+Authors: Torsten Wörtwein, Nicholas B. Allen, Lisa B. Sheeber, Randy P. Auerbach, Jefrey F. Cohn, Louis-Philippe Morency
+Section: ACKNOWLEDGMENTS
+This material is based upon work partially supported by Meta, National Science Foundation awards 1722822 and 1750439, and National Institutes of Health awards U01MH116923, R01HD081362, R01MH125740, R01MH096951, R21MH130767 and R01MH132225. Any opinions, fndings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily refect the views of the sponsors, and no ofcial endorsement should be inferred.

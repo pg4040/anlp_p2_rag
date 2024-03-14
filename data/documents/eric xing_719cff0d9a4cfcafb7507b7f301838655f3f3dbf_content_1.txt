@@ -1,0 +1,4 @@
+Title: Direct measurement of Ne-Mg-Si nuclei in cosmic rays with DAMPE
+Authors: Elisabetta Casilli, Corrado Altomare, Paolo Bernardini, Francesco de Palma
+Section: 7. Acceptance calculation
+visible above 105 GeV. We are currently working on the improvement of the selection criteria, in order to ensure both a good charge reconstruction and a larger acceptance. P o S ( I C R C 2 0 2 3 ) 1 1 5 MC true energy (GeV) 310 410 510 610 B G O e ne rg y (G eV ) 310 410 510 610 6−10 5−10 4−10 Preliminary MC true energy (GeV) 310 410 510 610 B G O e ne rg y (G eV ) 310 410 510 610 6−10 5−10 4−10 Preliminary Figure 5: Response matrix derived from the Mg simulated data passing all the event selection criteria, before (on the left) and after (on the right) the application of the BGO saturation correction.

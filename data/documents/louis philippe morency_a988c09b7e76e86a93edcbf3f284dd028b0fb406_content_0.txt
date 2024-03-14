@@ -1,0 +1,4 @@
+Title: Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications
+Authors: Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alex Obolenskiy, Yudong Liu, Rohan Pandey, Alex Wilf, Louis-Philippe Morency, Ruslan Salakhutdinov
+Section: D.5 Alternative training procedure
+We also explore an alternative training procedure, which involves subtracting the disagreements dλa,b from the loss rather than adding them. This achieves the opposite effect of pushing modalities further away from each other if they disagree significantly. The reasoning behind this is that in some settings, such as sarcasm prediction in MUSTARD, we expect modalities not just to disagree, but to store contradicting information, and disagreement between them should be encouraged. However, we find that the results obtained using this method are not as good as the ones obtained using the procedure outlined in Section D.1.

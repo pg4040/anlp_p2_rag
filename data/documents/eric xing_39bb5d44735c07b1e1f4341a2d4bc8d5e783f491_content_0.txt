@@ -1,0 +1,4 @@
+Title: SlimPajama-DC: Understanding Data Combinations for LLM Training
+Authors: Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing, †MBZUAI ‡UIUC §Stanford
+Section: B MMLU
+In this section, we provide the detailed item-by-item results in MMLU, as shown in Table 12, it is interesting to notice that on some sub-domains in MMLU, the results from our configured 1.3B models are even better than GPT3 175B and LLaMA2 7B models.

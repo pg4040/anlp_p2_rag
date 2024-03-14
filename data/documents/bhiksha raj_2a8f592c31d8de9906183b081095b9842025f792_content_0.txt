@@ -1,0 +1,4 @@
+Title: Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition
+Authors: Xiang Li, Jinglu Wang, Xiaohao Xu, Xiulian Peng, Rita Singh, Yan Lu, Bhiksha Raj
+Section: 5. Conclusion
+This paper explores the quantized and decomposed audio representation to address the audiovisual segmentation. Our approach effectively disentangles multi-source audio semantics with a PQ-based decomposition, providing a more robust audio representation for audiovisual interaction in complex environments. The global-to-local mechanism further enhances frame-level audio semantics, mitigating the instability associated with short-term extractions. Through extensive experiments, our approach has demonstrated superior performance compared to previous methods, particularly excelling in multi-object scenarios.

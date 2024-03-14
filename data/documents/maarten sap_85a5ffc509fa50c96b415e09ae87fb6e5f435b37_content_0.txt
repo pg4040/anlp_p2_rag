@@ -1,0 +1,4 @@
+Title: BIASX: “Thinking Slow” in Toxic Content Moderation with Explanations of Implied Social Biases
+Authors: Yiming Zhang, Sravani Nanduri, Liwei Jiang, Tongshuang Wu, Maarten Sap
+Section: C.4 Participant Demographics
+In the post-study survey, we included a optional demographics survey. Among users who selfidentified gender, 53.4% were male, 46.1% were female and 0.4% were non-binary. The majority of participants identified as White (79.9%), 6.5% as Black/African American, 6.0% as Asian/Asian American, 3.6% as Hispanic/Latinx, 3.1% as Mixed/Other, 0.4% as Native Hawaiian/Pacific Islander, 0.2% as Middle Eastern and 0.2% as South Asian/Indian American. Most participants were aged 25-50 (72.6%).

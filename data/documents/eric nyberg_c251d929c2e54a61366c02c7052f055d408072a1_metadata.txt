@@ -1,0 +1,9 @@
+Faculty Name: eric nyberg
+Paperid: c251d929c2e54a61366c02c7052f055d408072a1
+Title: A super wear-resistant coating for Mg alloys achieved by plasma electrolytic oxidation and discontinuous deposition
+Year: 2023
+Abstract: None
+Authors: Xixi Dong, Mingxu Xia, Feng Wang, Hailin Yang, G. Ji, E. Nyberg, S. Ji
+Venue: Journal of Magnesium and Alloys
+Tldr: None
+Url: N/A

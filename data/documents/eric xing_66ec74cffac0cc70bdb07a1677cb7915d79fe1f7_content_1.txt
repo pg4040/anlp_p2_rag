@@ -1,0 +1,4 @@
+Title: A study of Forbush Decreases effects with DAMPE experiment
+Authors: WenHao Li, JingJing Zang, Qiang Yuan, Chuan Yue, ChengRui Zhu
+Section: 3. CRE data selection
+and𝑇𝑖, 𝑗 are the number of selected electrons and exposure time in 𝑖th energy bin and 𝑗 th time bin„ 𝑓𝑖 , Δ𝐸𝑖 , 𝐴𝑖 and 𝜂𝑖 represent background fraction, the energy bin width, acceptance and trigger efficiency of certain energy bin, almost the same as [14].

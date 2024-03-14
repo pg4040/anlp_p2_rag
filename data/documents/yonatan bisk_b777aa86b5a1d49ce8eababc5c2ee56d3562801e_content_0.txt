@@ -1,0 +1,4 @@
+Title: The Framework Tax: Disparities Between Inference Efficiency in NLP Research and Deployment
+Authors: Jared Fernandez, Jacob Kahn, Clara Na, Yonatan Bisk, Emma Strubell
+Section: E Additional Experiments: Speech
+In Figure 13, we examine the behavior of the WavLM (Chen et al., 2022) model which consists of a CNN encoder followed by transformer encoder layers. Audio inputs are simulated as 2 second sequences sampled at 16 kHz to create 32,000- dimensional floating point inputs. In Figure 13, we observe that WavLM exhibits framework bound behavior but quickly transitions to being computebound due to the large audio sequence lengths.

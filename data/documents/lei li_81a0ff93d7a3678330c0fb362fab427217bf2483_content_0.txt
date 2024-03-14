@@ -1,0 +1,4 @@
+Title: Population pharmacokinetic analysis and dosing regimen optimization of teicoplanin in critically ill patients with sepsis
+Authors: Chao-Yang Chen, Min Xie, Jun Gong, Ning Yu, Ran Wei, Li-Li Lei, Si-Miao Zhao, Ruo-Ming Li, Xiu Dong, Xiang-Lin Zhang, Ying Zhou, Shuang-Ling Li, Yi-Min Cui, Jinjun Shan
+Section: SUPPLEMENTARY FIGURE S1
+Covariate evaluations based on the final basic model. (A) ηCL versus the corresponding covariate. (B) ηV1 versus the corresponding covariate. (C) ηQ versus the corresponding covariate. (D) ηV2 versus the corresponding covariate. η represents inter-individual random effect. The solid blue lines represent the trend lines.

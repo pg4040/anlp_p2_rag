@@ -1,0 +1,4 @@
+Title: Unsupervised Dense Retrieval Training with Web Anchors
+Authors: Yiqing Xie, Xiao Liu, Chenyan Xiong
+Section: 5 CONCLUSION
+We train an unsupervised dense retrieval model, Anchor-DR, leveraging the rich web anchors. In particular, we design a contrastive learning task: anchor-document prediction to continuously pretrain Anchor-DR. Additionally, we apply predefined rules and train a query classifier to filter out uninformative anchors. Experiments on two public datasets: MSMARCO and BEIR show that Anchor-DR significantly outperforms the state-of-the-art dense retrievers on unsupervised retrieval. Our analyses provide a further comparison of the patterns of information contained in our contrastive learning pairs and query-document pairs in test datasets.

@@ -1,0 +1,4 @@
+Title: Pairwise Similarity Learning is SimPLE
+Authors: Yandong Wen, Weiyang Liu, Yao Feng, Bhiksha Raj, Rita Singh, Adrian Weller, Michael J. Black, Bernhard Schölkopf
+Section: 5.1. Open-set Face Recognition
+PSL framework. We further evaluate our SimPLE model trained with setting C on several high-quality datasets, as given in Table 6. SimPLE achieves the highest accuracies on cross-age and cross-pose datasets, i.e. 96.25% on CALFW, 94.00% on CPLFW, and 98.77% on CFP-FP, showing the robustness of SimPLE to varying age and pose. The best performance on the LFW and AgeDB datasets (99.85% and 98.38%) is obtained by BroadFace, which is a hybrid method that combines proxy-based and proxy-free PSL. Our results suggest that the proxy-free PSL paradigm is still worth exploring and should not be ignored for open-set recognition.

@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: e59a99c198ee4012e34fd79d7cb33be75d0a120d
+Title: Amplification-free, highly sensitive electrochemical DNA-based sensor for simultaneous detection of stx1 and stx2 genes of Shiga toxin-producing E. coli (STEC)
+Year: 2023
+Abstract: None
+Authors: L. Wasiewska, F. Diaz, S. Teixeira, C. Burgess, G. Duffy, A. O’Riordan
+Venue: Electrochimica Acta
+Tldr: None
+Url: N/A

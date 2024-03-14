@@ -1,0 +1,4 @@
+Title: The Framework Tax: Disparities Between Inference Efficiency in NLP Research and Deployment
+Authors: Jared Fernandez, Jacob Kahn, Clara Na, Yonatan Bisk, Emma Strubell
+Section: 1 Introduction
+freedom often overlooked when designing around parameters or FLOPs. We hope that our analysis and recommendations will help bridge the gap between efficient NLP research and practice.

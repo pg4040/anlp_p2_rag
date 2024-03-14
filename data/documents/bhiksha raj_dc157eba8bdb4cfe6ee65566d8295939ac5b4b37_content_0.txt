@@ -1,0 +1,4 @@
+Title: PaintSeg: Training-free Segmentation via Painting
+Authors: Xiang Li, Chung-Ching Lin, Yinpeng Chen, Zicheng Liu, Jinglu Wang
+Section: G More Visualization
+In this section, we demonstrate more visualization of PaintSeg. We show more qualitative results with box prompt in Fig. D, with point prompt in Fig. E and with coarse mask prompt in Figs. F and G. Figure D: More visualization of PaintSeg with box prompt on COCO MVal. Figure E: More visualization of PaintSeg with point prompt. The point prompt is illustrated by the red point on the image on DAVIS and Berkeley and GrabCut. Prompt PromptMask Mask Figure F: More visualization of PaintSeg with coarse mask prompt on ECSSD. Prompt PromptMask Mask Figure G: More visualization of PaintSeg with coarse mask prompt on ECSSD.

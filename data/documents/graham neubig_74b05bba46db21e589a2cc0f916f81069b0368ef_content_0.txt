@@ -1,0 +1,4 @@
+Title: Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation
+Authors: Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins
+Section: Acknowledgments
+This work was supported by EU’s Horizon Europe Research and Innovation Actions (UTTER, contract 101070631) and by the projects MAIA and NextGenAI (LISBOA-01-0247-FEDER-045909 and 2022-C05i0102-02).

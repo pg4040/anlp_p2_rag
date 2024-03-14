@@ -1,0 +1,4 @@
+Title: P53 protein and the diseases in central nervous system
+Authors: Li Lei, Qixiong Lu, Guifang Ma, Tao Li, Jiahong Deng, Weijia Li, Xiaoling Chen
+Section: 6.1 P53 and ischemic stroke
+better protective effect (Havel et al., 2015). This study indicates that I/R damage to neurons in vivo and in vitro can be reduced by inhibiting the P53/PRAS40/ mTOR pathway (Figure 3).

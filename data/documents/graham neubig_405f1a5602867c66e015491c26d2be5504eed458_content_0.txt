@@ -1,0 +1,4 @@
+Title: Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction
+Authors: Manuel Mager, Rajat Bhatnagar, Graham Neubig, Ngoc Thang Vu, Katharina Kann
+Section: B Ethical Considerations
+Ethical concerns when working on MT for endangered languages include a lack of community involvement during language documentation, data creation, and development and setup of MT systems. For more information, we refer interested readers to Bird (2020). Finally, we want to mention that publicly employing low-quality MT systems for LRLs bears a risk of translating incorrectly or in biased (e.g., sexist or racist) ways.

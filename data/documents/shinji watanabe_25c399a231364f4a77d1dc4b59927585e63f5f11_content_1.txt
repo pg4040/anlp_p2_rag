@@ -1,0 +1,4 @@
+Title: UNSSOR: Unsupervised Neural Speech Separation by Leveraging Over-determined Training Mixtures
+Authors: Zhong-Qiu Wang
+Section: K UNSSOR’s effectiveness when used with other DNN architectures
+of 8 ms, and the square-root of Hann window) to obtain Ẑ(c) for each speaker c. The network is trained by only using the MC loss in (9) and not using the ISMS loss in (10). Although the ISMS loss is not used, we only observe minor frequency permutation on the SMS-WSJ dataset. All the other procedures are the same as the TF-GridNet based UNSSOR system. The results on SMS-WSJ, obtained by using six-channel input and loss, are presented in Table 10. We observe that UNSSOR also works with DPRNN to some degrees, and the results are not as good as the ones in Table 1.

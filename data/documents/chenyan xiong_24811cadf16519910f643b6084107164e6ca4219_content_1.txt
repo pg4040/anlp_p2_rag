@@ -1,0 +1,4 @@
+Title: Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In
+Authors: Zichun Yu, Chenyan Xiong, Shi Yu, Zhiyuan Liu
+Section: 3.1 Preliminaries
+between retrieval likelihood and LM likelihood, is often used to train the retriever and the LM end-to-end.

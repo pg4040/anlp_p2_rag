@@ -1,0 +1,4 @@
+Title: BASS: Block-wise Adaptation for Speech Summarization
+Authors: Roshan Sharma, Kenneth Zheng, Rita Singh, Bhiksha Raj
+Section: 7. References
+Ann Arbor, Michigan: Association for Computational Linguistics, Jun. 2005, pp. 65–72. [Online]. Available: https://aclanthology.org/W05-0909 [27] T. Zhang*, V. Kishore*, F. Wu*, K. Q. Weinberger, and Y. Artzi, “Bertscore: Evaluating text generation with bert,” in International Conference on Learning Representations, 2020. [Online]. Available: https://openreview.net/forum?id=SkeHuCVFDr

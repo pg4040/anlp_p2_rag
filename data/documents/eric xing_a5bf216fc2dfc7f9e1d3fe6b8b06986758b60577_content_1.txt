@@ -1,0 +1,4 @@
+Title: A PCA-based Method for the Electron–Proton Discrimination of the DAMPE Experiment
+Authors: Ming-Yang Cui, Zhi-Hui Xu, Xiang Li, Chuan Yue
+Section: 4. Results and Conclusions
+[19], and 𝜙𝑒 (𝐸) = 1.62×10−4(𝐸/0.1 TeV)−3.09 [1+ (𝐸/0.91 TeV)8.3]−0.1 GeV−1 m−2 s−1 sr−1 [16]. The proton rejection power as a function of reconstructed event energy is shown in Figure 4 (right axis). For the selected three energy bands in Figure 3, the proton rejection power is (6.21 ± 0.03) × 104, (9.03±0.05)×104, and (3.06±0.32)×104. Compared with the traditional method used in Ref. [16], the PCA method brings improvements for the whole energy range. For the same electron efficiency, the proton background from the PCA method is lower by a factor of two to three. Compared with the supervised machine learning method, our approach has a comparable background suppression ability [18].

@@ -1,0 +1,4 @@
+Title: Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework
+Authors: Paul Pu Liang, Yun Cheng, Xiang Fan, Chun Kai Ling, Suzanne Nie, Richard J. Chen, Zihao Deng, Nicholas Allen, Randy Auerbach, Faisal Mahmood, Ruslan Salakhutdinov, Louis-Philippe Morency
+Section: D Summary of Takeaway Messages and Future Work
+towards learning better representations. 3. Principled approaches to fairness and invariance: Currently, PID is designed to measure the information that 2 variables contribute towards a task Y , but conversely it can also be used to remove information that one variable can have about Y , in the context of another variable. These could provide formal learning objectives for fairness, privacy, and other feature invariance tasks.

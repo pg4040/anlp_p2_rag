@@ -1,0 +1,5 @@
+List of 2023 Open Access papers by daphne ippolito are:
+Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System
+A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity
+Extracting Training Data from Diffusion Models
+Are aligned neural networks adversarially aligned?

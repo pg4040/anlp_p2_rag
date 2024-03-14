@@ -1,0 +1,4 @@
+Title: Memory-adaptive Depth-wise Heterogenous Federated Learning
+Authors: Kai Zhang, Yutong Dai, Hongyi Wang, Eric Xing, Xun Chen, Lichao Sun, Mohamed bin Zayed
+Section: Fairness evaluation
+According to the definition of fairness in FL from (Li et al. 2021), we can take the std of test accuracy as a fairness measure. Here we use the std of testing accuracy across 100 clients with the Cifar10 dataset as shown in the following table. Besides, we compare the local training time (in seconds) of each client in one round in the table below. Metric FedAvg HeteroFL SplitMix FEDEPTH m-FEDEPTH Time (s) 0.42 ± 0.05 0.75 ± 0.09 1.90 ± 0.60 2.49 ± 0.93 2.32 ± 0.93 Fairness 0.05253 0.03888 0.04919 0.04596 0.04762

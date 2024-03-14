@@ -1,0 +1,4 @@
+Title: GlobalBench: A Benchmark for Global Progress in Natural Language Processing
+Authors: Yueqi Song, Catherine Cui, Simran Khanuja, Pengfei Liu, Fahim Faisal, Alissa Ostapenko, Genta Indra Winata, Alham Fikri Aji, Samuel Cahyawijaya, Yulia Tsvetkov, Antonios Anastasopoulos, Graham Neubig
+Section: 6 Related Work
+data and model work, especially for the under-served languages. With GlobalBench, we propose a first step to bridge this gap and move towards inclusive, multi-faceted measurement of progress.

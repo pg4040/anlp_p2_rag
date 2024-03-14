@@ -1,0 +1,4 @@
+Title: CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms
+Authors: Zhen Fan, Luyu Gao, Jamie Callan
+Section: 5.2 Retrieval Efficiency
+cost of the actual term-scoring operation f (). As listed in Table 2, we recognize the tradeoff in performance where a higher representation dimension leads to improved performance. Many recent works have also targeted improving the efficiency of representation storage and scoring in multi-vector retrieval, with proposed methods such as semantic representation clustering and residual compression [10, 38, 39] also compatible with CSurF. We leave detailed engineering and optimization of the vector scoring step as future work.

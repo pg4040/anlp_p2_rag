@@ -1,0 +1,4 @@
+Title: Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+Authors: Srinivas Gowriraj, Soham Dinesh Tiwari, Mitali Potnis, Srijan Bansal, Teruko Mitamura, Eric Nyberg
+Section: A Appendix
+does indeed help in bolstering our Reader performance.

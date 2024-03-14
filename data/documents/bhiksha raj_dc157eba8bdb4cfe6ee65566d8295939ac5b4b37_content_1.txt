@@ -1,0 +1,4 @@
+Title: PaintSeg: Training-free Segmentation via Painting
+Authors: Xiang Li, Chung-Ching Lin, Yinpeng Chen, Zicheng Liu, Jinglu Wang
+Section: E Difference with Previous Segmentation Approaches
+make it difficult to segment the accurate object boundary. However, the issue can be overcome through box prompt.

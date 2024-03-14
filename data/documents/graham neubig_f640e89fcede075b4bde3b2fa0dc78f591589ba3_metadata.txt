@@ -1,0 +1,9 @@
+Faculty Name: graham neubig
+Paperid: f640e89fcede075b4bde3b2fa0dc78f591589ba3
+Title: Improving Factuality of Abstractive Summarization via Contrastive Reward Learning
+Year: 2023
+Abstract: Modern abstractive summarization models often generate summaries that contain hallucinated or contradictory information. In this paper, we propose a simple but effective contrastive learning framework that incorporates recent developments in reward learning and factuality metrics. Empirical studies demonstrate that the proposed framework enables summarization models to learn from feedback of factuality metrics using contrastive reward learning, leading to more factual summaries by human evaluations. This suggests that further advances in learning and evaluation algorithms can feed directly into providing more factual summaries. Code and human evaluation results will be publicly available at \url{https://github.com/EthanC111/factuality_summarization}.
+Authors: Ethan Chern, Zhiruo Wang, Sanjan Das, Bhavuk Sharma, Pengfei Liu, Graham Neubig
+Venue: TRUSTNLP
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Empirical studies demonstrate that the proposed framework enables summarization models to learn from feedback of factuality metrics using contrastive reward learning, leading to more factual summaries by human evaluations, suggesting that further advances in learning and evaluation algorithms can feed directly into providing morefactuality summaries.'}
+Url: https://arxiv.org/pdf/2307.04507

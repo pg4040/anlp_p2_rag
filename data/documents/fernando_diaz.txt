@@ -1,0 +1,9 @@
+Fernando Diaz
+Associate Professor, Language Technologies Institute
+Research Area: Information Retrieval, Text Mining and Analytics, Natural Language Processing and Computational Linguistics
+Research: 
+Information Retrieval: Recommender Systems, Retrieval and Ranking Models
+Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation
+Personal Website: https://841.io/
+Contact:
+Email : diazf@cmu.edu

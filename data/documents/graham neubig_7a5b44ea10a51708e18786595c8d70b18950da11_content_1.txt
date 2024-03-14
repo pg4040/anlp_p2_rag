@@ -1,0 +1,4 @@
+Title: FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
+Authors: I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu
+Section: 6.2.2 Performance Analysis
+can be found in Fig. 14 of Appendix B.

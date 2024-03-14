@@ -1,0 +1,4 @@
+Title: Best-Case Retrieval Evaluation: Improving the Sensitivity of Reciprocal Rank with Lexicographic Precision
+Authors: Fernando Diaz
+Section: 6 DISCUSSION
+there may be version of lexiprecision that can indeed be represented as an interval measure.

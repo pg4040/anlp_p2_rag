@@ -1,0 +1,4 @@
+Title: STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition
+Authors: Xiaoyu Zhu, Po-Yao Huang, Junwei Liang, Celso M. de Melo, Alexander Hauptmann
+Section: Acknowledgment
+This work was supported by the Army Research Laboratory and was accomplished under Cooperative Agreement Number W911NF-17-5-0003. This work used Bridges2 GPU resources provided by PSC through allocation CIS220012 from the ACCESS program.

@@ -1,0 +1,4 @@
+Title: Multi-Dimensional Evaluation of Text Summarization with In-Context Learning
+Authors: Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou
+Section: D5. Did you report the basic demographic and geographic characteristics of the annotator population that is the source of the data?
+Not applicable. The source of the data is news articles. For our study, we annotate system-generated summaries of such articles for quality

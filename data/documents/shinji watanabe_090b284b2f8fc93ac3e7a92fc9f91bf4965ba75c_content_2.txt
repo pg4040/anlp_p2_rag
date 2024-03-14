@@ -1,0 +1,4 @@
+Title: ML-SUPERB: Multilingual Speech Universal PERformance Benchmark
+Authors: Jiatong Shi, Dan Berrebbi, William Chen, Ho-Lam Chung, En-Pei Hu, Wei Ping Huang, Xuankai Chang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe
+Section: 5. References
+2021, pp. 721–725. [42] S. Liu and P. Guo. “Chinese speech pretraining.” (2023), [Online]. Available: https : / / github . com / TencentGameMate/chinese_speech_pretrain (visited on 06/30/2022). [43] A. Lee et al., “Textless speech-to-speech translation on real data,” in Proc. NAACL, 2022, pp. 860–872. [44] A. Pasad, B. Shi, and K. Livescu, “Comparative layer-wise analysis of self-supervised speech models,” Proc. ICASSP 2023, 2022. [45] D. Berrebbi, B. Yan, and S. Watanabe, “Avoid overthinking in self-supervised models for speech recognition,” Proc. ICASSP 2023, 2022.

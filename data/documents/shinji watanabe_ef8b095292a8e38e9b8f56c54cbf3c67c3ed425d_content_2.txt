@@ -1,0 +1,4 @@
+Title: Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation
+Authors: Yu-Kuan Fu, Liang-Hsuan Tseng, Jiatong Shi, Chen-An Li, Tsu-Yuan Hsu, Shinji Watanabe, Hung-yi Lee
+Section: 5 Analysis
+in section (II), we evaluate our supervised TTS and UTTS models on the outputs from supervised ST and UST. According to the table, we can infer that the gap between supervised TTS and UTTS might be overestimated. The performance drop induced by pseudo-labeling is acceptable or at least reasonable.

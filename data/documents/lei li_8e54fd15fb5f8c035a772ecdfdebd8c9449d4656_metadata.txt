@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 8e54fd15fb5f8c035a772ecdfdebd8c9449d4656
+Title: Numerical simulation research on the overturning of gantry crane by downbursts
+Year: 2023
+Abstract: None
+Authors: Jia-Chen Su, Lei Li, P. Chan, Qian-Jin Zhou, Hong-Long Yang
+Venue: Heliyon
+Tldr: None
+Url: http://www.cell.com/article/S2405844023058498/pdf

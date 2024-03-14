@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: d9bbc9aca54ea5c62a7a91c1a763789ba259975f
+Title: Evaluation of hydraulic fracturing of horizontal wells in tight reservoirs based on the deep neural network with physical constraints
+Year: 2023
+Abstract: None
+Authors: H. Qu, Jian-long Zhang, Fu-Jian Zhou, Yan Peng, Zhengfu Pan, Xin Wu
+Venue: Petroleum Science
+Tldr: None
+Url: N/A

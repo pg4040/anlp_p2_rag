@@ -1,0 +1,4 @@
+Title: Counterfactual Augmentation for Multimodal Learning Under Presentation Bias
+Authors: Victoria Lin, Louis-Philippe Morency, Srinagesh Sharma
+Section: A Experimental Details
+the number of GPU hours used to be around 150.

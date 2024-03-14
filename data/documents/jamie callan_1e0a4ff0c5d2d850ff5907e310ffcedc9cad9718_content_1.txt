@@ -1,0 +1,4 @@
+Title: KALE: Using a K-Sparse Projector for Lexical Expansion
+Authors: Luís Borges, Bruno Martins, Jamie Callan
+Section: 5.4 Assessing Posting List Size Distribution
+of the DFs, which aligns with the previous expectation that regularization helped balance the DFs, and consequently, decrease search latency. The previous experiments showed that the equipartitioning component was useful in balancing the posting list sizes of the generated KALE vocabulary, and therefore improve search efficiency. Not considering the regularization component led not only to worse MRR@10, but also to an increase in query latency.

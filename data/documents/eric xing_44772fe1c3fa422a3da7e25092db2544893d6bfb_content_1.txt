@@ -1,0 +1,4 @@
+Title: Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming
+Authors: Hanlin Zhang, ∗Jiani Huang, Ziyang Li, Mayur Naik, Eric Xing, Bin Zayed
+Section: 4.4 Analyses and Ablation Studies
+extraction to be correct in order to avoid cascading error. As the error rate on individual relation extraction accumulates, it leads to the observed drop in accuracy as k becomes larger.

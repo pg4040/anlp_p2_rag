@@ -1,0 +1,4 @@
+Title: Why do Nearest Neighbor Language Models Work?
+Authors: Frank F. Xu, Uri Alon, Graham Neubig
+Section: E.4 Stolen Probabilities
+the only difference is whether the kNN component is included. The results are shown in Figure 8. For the “LM” series, each point is K LMs ensemble, and for the “kNN” series, each point is K − 1 LMs plus kNN. We can see that even at 4-ensemble, the ensemble that contain kNN as a component still have a considerable edge over the 4-ensemble that contain just LMs. E.6 Are kNN-LM Just Alternative Training Methods?

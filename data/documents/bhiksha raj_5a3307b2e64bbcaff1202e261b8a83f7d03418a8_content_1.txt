@@ -1,0 +1,4 @@
+Title: Rethinking Voice-Face Correlation: A Geometry View
+Authors: Xiang Li, Yandong Wen, Muqiao Yang, Jinglu Wang, Rita Singh, Bhiksha Raj, Mohamed bin Zayed
+Section: 4.3 Predictable AM Analysis
+note that our experiments have revealed that measurements around the nose are highly correlated to voice. More investigations are left for future work. On the other hand, some AMs have not been shown to be predictable from voice. This observation suggests that voices may only associate with a few specific regions of the 3D facial shape, like the nose and mouth. For the AMs with higher errors than chance level, we do not claim they are not predictable from voice. Instead, we fail to demonstrate their predictability based on our current empirical results. The possible reasons include imperfect modeling, limited data, data noise, etc.

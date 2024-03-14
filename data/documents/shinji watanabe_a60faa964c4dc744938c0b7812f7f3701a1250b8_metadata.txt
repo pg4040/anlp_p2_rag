@@ -1,0 +1,9 @@
+Faculty Name: shinji watanabe
+Paperid: a60faa964c4dc744938c0b7812f7f3701a1250b8
+Title: A Single Speech Enhancement Model Unifying Dereverberation, Denoising, Speaker Counting, Separation, And Extraction
+Year: 2023
+Abstract: We propose a multi-task universal speech enhancement (MUSE) model that can perform five speech enhancement (SE) tasks: dereverberation, denoising, speech separation (SS), target speaker extraction (TSE), and speaker counting. This is achieved by integrating two modules into an SE model: 1) an internal separation module that does both speaker counting and separation; and 2) a TSE module that extracts the target speech from the internal separation outputs using target speaker cues. The model is trained to perform TSE if the target speaker cue is given and SS otherwise. By training the model to remove noise and reverberation, we allow the model to tackle the five tasks mentioned above with a single model, which has not been accomplished yet. Evaluation results demonstrate that the proposed MUSE model can successfully handle multiple tasks with a single model.
+Authors: Kohei Saijo, Wangyou Zhang, Zhong-Qiu Wang, Shinji Watanabe, Tetsunori Kobayashi, Tetsuji Ogawa
+Venue: Automatic Speech Recognition & Understanding
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'Evaluation results demonstrate that the proposed MUSE model can successfully handle multiple tasks with a single model, which has not been accomplished yet.'}
+Url: https://arxiv.org/pdf/2310.08277

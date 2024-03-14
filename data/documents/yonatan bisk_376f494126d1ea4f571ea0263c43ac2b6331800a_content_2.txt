@@ -1,0 +1,4 @@
+Title: SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+Authors: Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin Murphy, Alexander G. Hauptmann, Lu Jiang
+Section: Appendix Overview
+decoding to get a maximum of 7 tokens from GPT 3.5. Image classification with PaLM 2. We use the original miniImageNet [9] format with PaLM 2. The prompt looks like Answer with "lion" or "vase". <SPAE string from a lion image> This is a lion <SPAE string from a vase image> This is a vase <SPAE string from the query image> What is this? # Only used in 5-way 3/5-shot setups This is a We use greedy decoding to get a maximum of 4 tokens from PaLM 2. Image captioning. We use greedy decoding to get a maximum of 20 tokens before the first newline character with the following prompt: Generate a caption sentence based on words describing an image.

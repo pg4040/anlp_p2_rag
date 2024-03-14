@@ -1,0 +1,4 @@
+Title: Understanding Political Polarisation using Language Models: A dataset and method
+Authors: Samiran Gode, Supreeth Bare, Bhiksha Raj, Hyungon Yoo
+Section: Acknowledgments
+We would like to thank Yash Jain and Viraj Ranade for their contributions.

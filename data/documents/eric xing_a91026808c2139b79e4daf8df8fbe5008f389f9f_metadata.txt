@@ -1,0 +1,13 @@
+Faculty Name: eric xing
+Paperid: a91026808c2139b79e4daf8df8fbe5008f389f9f
+Title: Erratum: New insight into the shape coexistence and shape evolution of 
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mmultiscripts><mml:mi>Yb</mml:mi><mml:mprescripts /><mml:none /><mml:mn>157</mml:mn></mml:mmultiscripts></mml:math>
+ [Phys. Rev. C 
+<b>83</b>
+, 014318 (2011)]
+Year: 2023
+Abstract: None
+Authors: C. Xu, H. Hua, Xiao Li, J. Meng, Z. Li, F. Xu, Y. Shi, H. Liu, Shengyao Zhang, Z. Li, L. Zhu, Xin Wu, G. Li, C. He, S. G. Zhou, S. Y. Wang, Y. Ye, D. Jiang, T. Zheng, J. Lou, L. Ma, E. Wang, Y. Y. Cheng, C. He
+Venue: Physical Review C
+Tldr: None
+Url: http://link.aps.org/pdf/10.1103/PhysRevC.107.039903

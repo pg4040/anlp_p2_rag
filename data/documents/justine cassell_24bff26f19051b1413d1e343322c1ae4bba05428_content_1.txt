@@ -1,0 +1,4 @@
+Title: When to generate hedges in peer-tutoring interactions
+Authors: Alafate Abulimiti, Chloé Clavel, Justine Cassell
+Section: 4.2 Features Explanation with Shapley values
+the first demonstration that specific nonverbal cues substantially influence the likelihood of a hedge being used in the succeeding turn of peer-tutoring interactions.

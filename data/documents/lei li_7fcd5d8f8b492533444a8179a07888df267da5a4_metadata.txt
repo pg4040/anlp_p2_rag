@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 7fcd5d8f8b492533444a8179a07888df267da5a4
+Title: Editorial: Strategies for functional polymeric nanocomposites and its multifunctional applications
+Year: 2023
+Abstract: The development of nanomaterial’s has greatly contributed to the development of modern medicine and optics, and polymers are an important support and branch of nanomaterial’s. They are non-toxic and harmless, can be degraded into small fragments in the body, and are finally excreted without causing inflammation. Due to their many advantages, biodegradable polymers have attracted more and more attention. In this Research Topic, we focus on reviewing and introducing some polymers for wound repair, drug loading or with special optical properties. These articles are categorized into three themes: 1) polydopamine for wound repair; 2) dendrimers as drug carriers; 3) optical polymers.
+Authors: Qinqing Wang, A. Prasannan, Nimita Jebaranjitham J., Leijiao Li, Wenliang Li
+Venue: Frontiers in Chemistry
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This Research Topic focuses on reviewing and introducing some polymers for wound repair, drug loading or with special optical properties, and categorized into three themes: 1) polydopamine for wounds repair; 2) dendrimers as drug carriers; 3) optical polymers.'}
+Url: https://www.frontiersin.org/articles/10.3389/fchem.2023.1274460/pdf

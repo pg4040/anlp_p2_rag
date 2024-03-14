@@ -1,0 +1,4 @@
+Title: SANTACODER: DON’T REACH FOR THE STARS!
+Authors: Loubna Ben Allal, Raymond Li, Chenghao Mou, Joel Lamy Poirier, Ian Yu PIISA, Paulo Villegas, Leandro von Werra
+Section: 6.1 ABLATIONS
+Note that the stars filter removes the most data (over 60%) and, therefore, raises the question whether the performance difference is due to the smaller dataset. However, as can be seen in Figure 3, HumanEval pass@100 diverged early on in training, indicating that the drop in performance is not only due to data size but also data quality.

@@ -1,0 +1,9 @@
+Faculty Name: lei li
+Paperid: 01d95a39a3a3f333768a1c123eabaa066bf0d20f
+Title: P53 protein and the diseases in central nervous system
+Year: 2023
+Abstract: P53 protein is the product of P53 gene, which is a well acknowledged tumor suppressor gene. The function of P53 and the relevant mechanisms of anti-neoplasm have raised the interest of researchers since many years ago. It is demonstrated that P53 is a basic cell cycle regulator and a strong inhibitor for versatile cancers in humans. However, most research focuses on other organs and systems instead of the central nervous system (CNS). In fact, in recent years, more and more studies have been suggesting that P53 plays a significant role in multiple CNS tumors and other diseases and disorders such as cerebral stroke and neurodegenerative diseases. In this work, we mainly reviewed the P53’s relationship with CNS tumors, cerebral stroke and neurodegenerative diseases, together with the relevant mechanisms, aiming to summarize the research achievements and providing new insight to the future study on diseases in CNS.
+Authors: Li Lei, Qixiong Lu, Guifang Ma, Tao Li, Jiahong Deng, Weijia Li
+Venue: Frontiers in Genetics
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'The P53’s relationship with CNS tumors, cerebral stroke and neurodegenerative diseases, together with the relevant mechanisms are reviewed, aiming to summarize the research achievements and provide new insight to the future study on diseases in CNS.'}
+Url: https://www.frontiersin.org/articles/10.3389/fgene.2022.1051395/pdf

@@ -1,0 +1,4 @@
+Title: Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting
+Authors: Emmy Liu, Aditi Chaudhary, Graham Neubig
+Section: J Automatic Metrics in Detail
+Exact results for automatic metrics are shown in Table 8. 0.2 0.4 0.6 0.8 Percentiles 0.00 0.05 0.10 0.15 M et ric S co re BLEU base upweight+knn 0.2 0.4 0.6 0.8 Percentiles 0.89 0.90 0.91 Sc or e BERTScore base upweight+knn ROUGE METEOR upweight+knn

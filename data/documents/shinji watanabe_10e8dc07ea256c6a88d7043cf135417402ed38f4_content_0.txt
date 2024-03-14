@@ -1,0 +1,4 @@
+Title: Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization
+Authors: Puyuan Peng, Brian Yan, Shinji Watanabe, David Harwath
+Section: A. Appendix
+A.1. Examples of CS-ASR transcription

@@ -1,0 +1,4 @@
+Title: Longitudinal assessment of dental erosion-abrasion by cross-polarization optical coherence tomography in vitro
+Authors: Jacinta Rosario Romero(a, Sávio José Cardoso Bezerra(a, Daniel Fried(b, Frank Lippert(a, George Joseph Eckert(c, Anderson Takeo Hara(a
+Section: Discussion
+the sensitivity between CP-OCT and optical profilometry have been pointed out before as a possible reason.8 The axial resolution of CP-OCT at ≤ 12 μm produces less accurate measurements compared to optical profilometry. The smaller range of measurements per group in comparison to the overall range across all severities as well as the lower number of specimens per group in this study compared to the previous in situ study11 could have contributed to the poor individual group correlation but better overall correlation between the two methods. 7Braz. Oral Res. 2023;37:e081

@@ -1,0 +1,4 @@
+Title: Practical Probabilistic Model-based Deep Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling
+Authors: Wenjun Huang, Yunduan Cui, Huiyun Li, Xinyu Wu
+Section: F. Case Study
+control capability.

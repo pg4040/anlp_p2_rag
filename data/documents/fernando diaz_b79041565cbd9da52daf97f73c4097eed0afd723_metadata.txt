@@ -1,0 +1,9 @@
+Faculty Name: fernando diaz
+Paperid: b79041565cbd9da52daf97f73c4097eed0afd723
+Title: Concomitant inhibition of PPARγ and mTORC1 induces the differentiation of human monocytes into highly immunogenic dendritic cells.
+Year: 2023
+Abstract: None
+Authors: F. Erra Díaz, I. Mazzitelli, Lucía Bleichmar, C. Melucci, Asa Thibodeau, Tomás Dalotto Moreno, R. Marches, G. Rabinovich, D. Ucar, J. Geffner
+Venue: Cell Reports
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'It is found that simultaneous inhibition of PPARγ and the nutrient sensor mammalian target of rapamycin complex 1 (mTORC1) induces the differentiation of Mo-DCs with stronger phenotypic stability, superior immunogenicity, and a transcriptional profile characterized by a strong type I interferon signature.'}
+Url: N/A

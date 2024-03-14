@@ -1,0 +1,9 @@
+Faculty Name: eric xing
+Paperid: 21aecd6ba669c18397295fd63e312c010c2eeca3
+Title: A Novel Definition of Fuzzy Difference on Non-increasing Fuzzy Real Numbers
+Year: 2023
+Abstract: In this paper, firstly, a novel definition of a fuzzy difference based on non-increasing fuzzy real numbers is introduced, which is different from the previous definitions by using fuzzy interval-numbers and Zadeh’s extension principle. Then we give some important conclusions of fuzzy difference from the view of two cuts of fuzzy sets. Moreover, a definition of a opposite fuzzy real number is given so that we show the connection between the fuzzy difference and fuzzy addition on fuzzy real numbers. Finally, we provide several examples for the sake of illustrating the fuzzy difference on non-increasing fuzzy real numbers is reasonable generalization of classical difference. In addition, we give the prospect that we want to use this difference to research fuzzy derivatives.
+Authors: Xin Wu, Yun Zhang, Shuang Lin, Yu Zhong
+Venue: Journal of Physics: Conference Series
+Tldr: {'model': 'tldr@v2.0.0', 'text': None}
+Url: https://iopscience.iop.org/article/10.1088/1742-6596/2449/1/012003/pdf

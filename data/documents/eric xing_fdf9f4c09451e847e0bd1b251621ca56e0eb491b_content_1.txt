@@ -1,0 +1,4 @@
+Title: Memory-adaptive Depth-wise Heterogenous Federated Learning
+Authors: Kai Zhang, Yutong Dai, Hongyi Wang, Eric Xing, Xun Chen, Lichao Sun, Mohamed bin Zayed
+Section: Global Model Evaluation
+its variant. As shown in Table 2, for CIFAR-10, FEDEPTH and m-FEDEPTH can achieve similar prediction accuracy. However, for CIFAR-100, mFEDEPTH always outperforms FEDEPTH. It is worth recalling the design of FEDEPTH, which introduces zero paddings to match the dimension between two skip-connected blocks. This may inject negligible noise for the training on more complex data. Replacing the zero paddings with other modules, such as convolutions, may result in a better model. However, this usually comes at the cost of extra memory because of the new activations and parameters, which is usually intolerable to resource-constrained devices.

@@ -1,0 +1,4 @@
+Title: Transformed Protoform Reconstruction
+Authors: Young Min Kim, Kalvin Chang, Chenxuan Cui, David Mortensen
+Section: 7 Conclusion
+espeak-ng’s Latin G2P, from which Meloni et al. (2021) obtain their phonetic Romance dataset. For most language families, protoforms are not attested. In fact, as the term is often used, protoform refers to a form that is inferred only through linguists’ comparative method. We adopt the other usage for simplicity. In practice, our approach would require reconstructions made by a linguist to serve as training labels for cognate sets. 5In the case of Chinese, only equivalence classes of pronunciations and not exact pronunciations are recorded.

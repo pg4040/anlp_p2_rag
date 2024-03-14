@@ -1,0 +1,9 @@
+Faculty Name: robert frederking
+Paperid: 42f711ca3491d4bf33b35683944d9b8f5bc1c558
+Title: Reconstructing ice force-displacement development in structural assessments of freshwater, polycrystalline ice impacts
+Year: 2023
+Abstract: None
+Authors: Ekaterina Kim, K. Høyland, R. Frederking
+Venue: International Journal of Impact Engineering
+Tldr: None
+Url: N/A

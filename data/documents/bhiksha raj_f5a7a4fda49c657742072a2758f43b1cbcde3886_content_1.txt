@@ -1,0 +1,4 @@
+Title: CONTINUAL CONTRASTIVE SPOKEN LANGUAGE UN- DERSTANDING
+Authors: Umberto Cappellazzo, Enrico Fini, Muqiao Yang, Daniele Falavigna, Alessio Brutti, Bhiksha Raj
+Section: A SUPPLEMENTARY MATERIAL
+ours, we would be able to test how COCONUT scales to the number of tasks.

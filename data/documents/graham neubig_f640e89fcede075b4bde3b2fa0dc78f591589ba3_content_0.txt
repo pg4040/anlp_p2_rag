@@ -1,0 +1,4 @@
+Title: Improving Factuality of Abstractive Summarization via Contrastive Reward Learning
+Authors: I-Chun Chern, Zhiruo Wang, Sanjan Das, Bhavuk Sharma, Pengfei Liu, Graham Neubig
+Section: Acknowledgements
+We would like to thank Yixin Liu for helpful discussion on BRIO. We would also like to thank Tanya Goyal for helpful discussion on DAE.

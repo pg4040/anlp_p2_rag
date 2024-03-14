@@ -1,0 +1,4 @@
+Title: Analysis of Individual Cosmic-Ray Proton and Helium Fluxes towards PeV Energies with DAMPE
+Authors: Arshia Ruina, Paul Coppin, Andrii Kotenko, Peng-Xiong Ma, Mikhail Stolpovskiy, Andrii Tykhonov
+Section: 3. The Proton and Helium Analyses
+(a) (b) Figure 4: Effective acceptances for (a) protons and (b) helium ions.

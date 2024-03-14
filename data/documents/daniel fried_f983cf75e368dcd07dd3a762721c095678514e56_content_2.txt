@@ -1,0 +1,4 @@
+Title: AUTOREPLY: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies
+Authors: Weiyan Shi, Emily Dinan, Adithya Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis
+Section: A.5.2 Hard Categories without Hand-crafted Replies
+tok in tok_to_bad_exs do 26: bad_exs_for_token = tok_to_bad_exs[tok] 27: good_exs_for_token = tok_to_good_exs[tok] 28: if bad_exs_for_token>=k then 29: result += AUTOREPLY (M , rcur+tok, t+1, p, k, topn, bad_exs_for_token, good_exs_for_token) 30: end if 31: end for 32: # keep the discriminative responses only 33: if discriminative_enough(rcur+tok, bad_exs_for_token, good_exs_for_token) then 34: result += [rcur] 35: end if 36: end if

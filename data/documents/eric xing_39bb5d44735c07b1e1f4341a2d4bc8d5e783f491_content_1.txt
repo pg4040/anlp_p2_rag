@@ -1,0 +1,4 @@
+Title: SlimPajama-DC: Understanding Data Combinations for LLM Training
+Authors: Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing, †MBZUAI ‡UIUC §Stanford
+Section: 5.2 More Evaluations
+assimilated by the pretrained models within each sub-domain on this comprehensive benchmark.

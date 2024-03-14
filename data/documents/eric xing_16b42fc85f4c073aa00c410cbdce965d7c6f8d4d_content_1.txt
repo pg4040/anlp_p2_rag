@@ -1,0 +1,4 @@
+Title: ONE-FOR-ALL: GENERALIZED LORA FOR PARAMETER-EFFICIENT FINE-TUNING
+Authors: Arnav Chavan, Zhuang Liu, Deepak Gupta, Eric Xing, Zhiqiang Shen, MBZUAI Transmute
+Section: 2.2 A UNIFIED FORMULATION OF ONE-FOR-ALL
+d ×Ar1u is used as the final tensor, in case of vector A ∈ Rd2×1 is indexed from Ad and in case of scalar A ∈ R1×1 is indexed from Ad. A similar strategy is followed for all other support tensors depending upon the current sampled configuration in the subnet. This weight entanglement strategy helps to increase the search space without increasing the number of parameters substantially and also shows faster convergence due to weight sharing in different subnets.

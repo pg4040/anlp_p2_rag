@@ -1,0 +1,4 @@
+Title: Multi-lingual and Multi-cultural Figurative Language Understanding
+Authors: Anubha Kabra, Emmy Liu, Simran Khanuja, Alham Fikri Aji, Genta Indra Winata, Samuel Cahyawijaya, Anuoluwapo Aremu, Perez Ogayo, Graham Neubig
+Section: H Accuracy on Annotated Commonsense Categories
+Table 14 shows the accuracy on commonsense categories across all languages for XLM-Rlarge. Note that Yoruba is not included due to XLM-Rlarge not being trained on this language.

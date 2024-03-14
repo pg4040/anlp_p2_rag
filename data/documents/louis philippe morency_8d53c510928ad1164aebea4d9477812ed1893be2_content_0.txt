@@ -1,0 +1,4 @@
+Title: Expanding the Role of Afective Phenomena in Multimodal Interaction Research
+Authors: Leena Mathur, Maja J Matarić, Louis-Philippe Morency
+Section: A APPENDIX
+The 52 papers that use afect or emotion to enhance machine understanding of social behaviors and cognitive states are listed on the next page in Table 1.

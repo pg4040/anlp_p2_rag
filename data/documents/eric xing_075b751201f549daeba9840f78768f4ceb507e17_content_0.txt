@@ -1,0 +1,4 @@
+Title: Identification of Nonlinear Latent Hierarchical Models
+Authors: Lingjing Kong, Biwei Huang, Feng Xie, Eric Xing, Yuejie Chi, Kun Zhang
+Section: E.4 Additional Results on the Personality Dataset
+We randomly and evenly partition each set of six questions into two variables. Following this procedure, we have observed ten variables c1, c2, a1, a2, n1, n2, e1, e2, o1, and o2, each of 3- dimension. The Letter in each variable name indicates the attribute to which the variable belongs, to facilitate readability. Figure 11 contains the results. Analogous to Figure 5, the learned structure faithfully reflects the questionnaire structure – questions designed for the same personality trait are clustered together.

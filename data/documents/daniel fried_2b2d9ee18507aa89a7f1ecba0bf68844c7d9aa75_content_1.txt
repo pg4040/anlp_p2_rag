@@ -1,0 +1,4 @@
+Title: Grounding Language Models to Images for Multimodal Inputs and Outputs
+Authors: Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
+Section: D. Current Limitations and Broader Impacts
+it is essential to test and analyze data used to mitigate the risk of training large multimodal models (Birhane et al., 2021). This will involve filtering of images, rigorous testing of model biases (for both image and text content), and more.

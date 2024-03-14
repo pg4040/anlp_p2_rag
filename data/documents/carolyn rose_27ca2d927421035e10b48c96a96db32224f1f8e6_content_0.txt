@@ -1,0 +1,4 @@
+Title: Exploring Artificial Intelligence in English Language Arts with StoryQ
+Authors: Jie Chao, Rebecca Ellis, Shiyan Jiang, Carolyn Rosé, William Finzer, Cansu Tatar, James Fiacco, Kenia Wiedemann
+Section: Acknowledgments
+This material is based upon work supported by the National Science Foundation under Grant No. DRL1949110. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

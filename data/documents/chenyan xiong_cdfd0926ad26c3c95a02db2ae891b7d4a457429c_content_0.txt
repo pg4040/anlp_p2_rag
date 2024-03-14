@@ -1,0 +1,4 @@
+Title: OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit
+Authors: Shi Yu, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu
+Section: ACKNOWLEDGMENTS
+This work is supported by the National Key Research and Development Program of China (No. 2020AAA0106500) and the National Natural Science Foundation of China (NSFC No. 62236004). We thank Leyu Shan for integrating ANCE-Tele, Zhipeng Xu for implementing the contrastive query synthesis, Yida Lu for integrating parameter-efficient fine-tuning approaches, and Si Sun for proofreading the paper. Our implementation uses Tevatron as the starting point. We thank its authors for their contributions.

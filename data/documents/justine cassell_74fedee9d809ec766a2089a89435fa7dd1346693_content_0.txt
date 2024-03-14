@@ -1,0 +1,4 @@
+Title: How About Kind of Generating Hedges using End-to-End Neural Models?
+Authors: Alafate Abulimiti, Chloé Clavel, Justine Cassell
+Section: D Figures
+Figure 4: Hedge subcategories distribution in models’ outputs compared with human.

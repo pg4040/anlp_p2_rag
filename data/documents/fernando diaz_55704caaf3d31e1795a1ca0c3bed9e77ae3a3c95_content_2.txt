@@ -1,0 +1,4 @@
+Title: Best-Case Retrieval Evaluation: Improving the Sensitivity of Reciprocal Rank with Lexicographic Precision
+Authors: Fernando Diaz
+Section: 3.6 Lexicographic Precision as Modeling 𝛿RR1
+they further support a backoff model intrepretation of lexiprecision. δRR1 0.73 δRR2 0.62 0.84 δRR3 0.56 0.74 0.87 δRR4 0.51 0.67 0.80 0.91 δRR5 0.47 0.63 0.73 0.84 0.92 δRR6 0.44 0.59 0.69 0.78 0.86 0.93 δRR7 0.42 0.55 0.64 0.74 0.80 0.87 0.94 δRR8 (a) Correlation between 𝛿RR𝑖 predicting δRRi using δRRi+j

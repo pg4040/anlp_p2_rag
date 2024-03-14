@@ -1,0 +1,4 @@
+Title: The Multimodal Information Based Speech Processing (Misp) 2022 Challenge: Audio-Visual Diarization And Recognition
+Authors: Zhe; Wu, Shilong ; Chen, Hang ; He, Mao-Kui ; Du, Jun ; Lee, Chin-Hui ; Chen, Jingdong ; Watanabe, Shinji ; Siniscalchi, Sabato Marco, Zhe Wang, Shilong Wu, Hang Chen, Mao-Kui He, Jun Du, Chin-Hui Lee, Jingdong Chen, Shinji Watanabe, Sabato Siniscalchi, Odette Scharenborg, Diyuan Liu, Baocai Yin, Jia Pan, Jianqing Gao, Cong Liu
+Section: 7. REFERENCES
+implementation and analysis on standard tasks,” Computer Speech & Language, vol. 71, pp. 101254, 2022. Authorized licensed use limited to: TU Delft Library. Downloaded on August 24,2023 at 10:38:09 UTC from IEEE Xplore. Restrictions apply.

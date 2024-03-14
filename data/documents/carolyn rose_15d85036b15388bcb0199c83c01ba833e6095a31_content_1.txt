@@ -1,0 +1,4 @@
+Title: Towards Extracting and Understanding the Implicit Rubrics of Transformer Based Automated Essay Scoring Models
+Authors: James Fiacco, David Adamson, Carolyn P. Rosé
+Section: 4.3 Features
+Vernacular English (AAVE). Demographic Features: We used the percent to participants in the National School Lunch Program (NSLP) at a school as a weak proxy for the economic status of a student. Also as weak proxies for economic status of essay authors, we include the school level features of number of students and student teacher ratio. Furthermore, we use a school level distribution of ethnicity statistics as a weak proxy for the ethnic information of an essay’s author. These features were employed to investigate the model’s perception of any relationship between the writer’s background and the quality, content, and style of the essay, in order to gain insight of the equity of the AES model.

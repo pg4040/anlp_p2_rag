@@ -1,0 +1,28 @@
+List of 2023 Open Access papers by graham neubig are:
+Cross-Modal Fine-Tuning: Align then Refine
+ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages
+GlobalBench: A Benchmark for Global Progress in Natural Language Processing
+Learning Performance-Improving Code Edits
+CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code
+Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction
+User-Centric Evaluation of OCR Systems for Kwak’wala
+Multi-Dimensional Evaluation of Text Summarization with In-Context Learning
+A Gold Standard Dataset for the Reviewer Assignment Problem
+SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing
+Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation
+FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
+Active Retrieval Augmented Generation
+Large Language Models Enable Few-Shot Clustering
+Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach
+Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting
+Why do Nearest Neighbor Language Models Work?
+Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity
+DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions
+Multi-lingual and Multi-cultural Figurative Language Understanding
+It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk
+Unlimiformer: Long-Range Transformers with Unlimited Length Input
+WebArena: A Realistic Web Environment for Building Autonomous Agents
+Prompt2Model: Generating Deployable Models from Natural Language Instructions
+Computational Language Acquisition with Theory of Mind
+Improving Factuality of Abstractive Summarization via Contrastive Reward Learning
+The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation

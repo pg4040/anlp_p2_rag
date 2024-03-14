@@ -1,0 +1,4 @@
+Title: ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit
+Authors: Brian Yan, Jiatong Shi, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe
+Section: A.1 Reproducibility
+Table 9 shows the hyperparameters for the models presented in §5. All of our data preparation scripts are available in ESPnet: https://github.com/ espnet/espnet/tree/master/egs2.

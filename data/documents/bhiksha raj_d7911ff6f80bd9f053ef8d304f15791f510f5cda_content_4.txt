@@ -1,0 +1,4 @@
+Title: Completing Visual Objects via Bridging Generation and Segmentation
+Authors: Xiang Li, Yinpeng Chen, Chung-Ching Lin, Hao Chen, Kai Hu, Rita Singh, Bhiksha Raj, Lijuan Wang, Zicheng Liu
+Section: B. More Discussion
+following form: 1;2;3;4;5 or 5;4;3;2;1 (Use a colon to separate, no space at the beginning)

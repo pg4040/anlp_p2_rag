@@ -1,0 +1,12 @@
+List of 2023 Open Access papers by alexander waibel are:
+AdapITN: A Fast, Reliable, and Dynamic Adaptive Inverse Text Normalization
+Train Global, Tailor Local: Minimalist Multilingual Translation into Endangered Languages
+Towards Efficient Simultaneous Speech Translation: CUNI-KIT System for Simultaneous Track at IWSLT 2023
+SYNTACC : Synthesizing Multi-Accent Speech By Weight Factorization
+KIT’s Multilingual Speech Translation System for IWSLT 2023
+Convoifilter: A case study of doing cocktail party speech recognition
+Continually learning new languages
+Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff
+End-to-End Evaluation for Low-Latency Simultaneous Speech Translation
+FINDINGS OF THE IWSLT 2023 EVALUATION CAMPAIGN
+Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models

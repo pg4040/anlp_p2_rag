@@ -1,0 +1,9 @@
+Faculty Name: chenyan xiong
+Paperid: 1fe3a802efdc4f1a3e5c8187547f38a3ec65750b
+Title: Unsupervised Dense Retrieval Training with Web Anchors
+Year: 2023
+Abstract: In this work, we present an unsupervised retrieval method with contrastive learning on web anchors. The anchor text describes the content that is referenced from the linked page. This shows similarities to search queries that aim to retrieve pertinent information from relevant documents. Based on their commonalities, we train an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document. To filter out uninformative anchors (such as "homepage" or other functional anchors), we present a novel filtering technique to only select anchors that contain similar types of information as search queries. Experiments show that Anchor-DR outperforms state-of-the-art methods on unsupervised dense retrieval by a large margin (e.g., by 5.3% NDCG@10 on MSMARCO). The gain of our method is especially significant for search and question answering tasks. Our analysis further reveals that the pattern of anchor-document pairs is similar to that of search query-document pairs. Code available at https://github.com/Veronicium/AnchorDR.
+Authors: Yiqing Xie, X. Liu, Chenyan Xiong
+Venue: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval
+Tldr: {'model': 'tldr@v2.0.0', 'text': 'This work trains an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document, and presents a novel filtering technique to only select anchors that contain similar types of information as search queries.'}
+Url: https://dl.acm.org/doi/pdf/10.1145/3539618.3592080

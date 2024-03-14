@@ -1,0 +1,4 @@
+Title: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+Authors: Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov
+Section: 7 Conclusion
+we cannot ascertain the actual statistics of all the languages in their training data. We use CC100 (Wenzek et al., 2020), a large multilingual corpus, to estimate these statistics.

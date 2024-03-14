@@ -1,0 +1,4 @@
+Title: Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology
+Authors: Elizabeth Salesky, Kareem Darwish, Mohamed Al-Badrashiny, Mona Diab, Jan Niehues
+Section: 4.1 Segmentation
+making the dataset standard scoring with resegmentation. 12chrF for individual languages is shown in Table 6.

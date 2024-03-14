@@ -1,0 +1,4 @@
+Title: TORCHAUDIO 2.1: ADVANCING SPEECH RECOGNITION, SELF-SUPERVISED LEARNING, AND AUDIO PROCESSING COMPONENTS FOR PYTORCH
+Authors: Jeff Hwang, Moto Hira, Caroline Chen, Xiaohui Zhang, Zhaoheng Ni, Guangzhi Sun, Pingchuan Ma, Ruizhe Huang, Vineel Pratap, Yuekai Zhang, Anurag Kumar, Chin-Yun Yu, Chuang Zhu, Chunxi Liu, Jacob Kahn, Mirco Ravanelli, Peng Sun, Shinji Watanabe, Yangyang Shi, Yumeng Tao, Robin Scheibler, Samuele Cornell, Sean Kim, Stavros Petridis
+Section: 8. REFERENCES
+Ceolini, and Shih-Chii Liu, “Fasnet: Low-latency adaptive beamforming for multi-microphone audio processing,” in ASRU. IEEE, 2019, pp. 260–267. [48] Yanxin Hu, Yun Liu, Shubo Lv, Mengtao Xing, Shimin Zhang, et al., “Dccrn: Deep complex convolution recurrent network for phase-aware speech enhancement,” Interspeech, 2020. [49] Alexandre Défossez, “Hybrid spectrogram and waveform source separation,” arXiv preprint arXiv:2111.03600, 2021.

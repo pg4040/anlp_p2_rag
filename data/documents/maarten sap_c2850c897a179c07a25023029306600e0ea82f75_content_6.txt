@@ -1,0 +1,4 @@
+Title: Queer In AI: A Case Study in Community-Led Participatory AI
+Authors: Anaelia Ovalle, Arjun Subramonian, Ashwiin Singh, Claas Voelcker, Danica Sutherland, Davide Locatelli, Eva Breznik, Felip Klubicka, Hang Yuan, Huan Zhang, Jaidev Shriram, Kruno Lehman, Luca Soldaini, Maarten Sap, Marc Peter Deisenroth, Maria Leonor Pacheco, Maria Ryskina, Martin Mundt, Melind Agarwal, Nyx McLean, Pan Xu, A. Pranav, Raj Korpan, Ruchira Ray, Sarah Mathew, Sarthak Arora, S.T. John, Tanvi Anand, Vishakha Agrawal, William Agnew, Yanan Long, Zijie J. Wang, Zeerak Talat, Avijit Ghosh, Nathaniel Dennler, Michael Noseworthy, Sharvani Jha, Emi Baylor, Aditya Joshi, Natalia Y. Bilenko, Andrew McNamara, Raphael Gontijo-Lopes, Alex Markham, Evyn Dong, Jackie Kay, Manu Saraswat, Luke Stark, Ashwin Singh, Danica J. Sutherland, Filip Klubička
+Section: FAccT ’23, June 12–15, 2023, Chicago, IL, USA Organizers of Queer in AI, et al.
+on Queer

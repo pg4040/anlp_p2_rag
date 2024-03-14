@@ -1,0 +1,4 @@
+Title: VALUE KALEIDOSCOPE : Engaging AI with Pluralistic Human Values, Rights, and Duties
+Authors: Taylor Sorensen, Liwei Jiang, Jena D. Hwang, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
+Section: N.3 Data Collection Process
+Appendix M.1. using Flan-T5 (Chung et al. 2022). We take 95% of our situations determinnistically from those that have less toxic/NSFW/explicit content, and sample the other 5% uniformly from the rest of the data so as to include the entire spectrum of inputs. We find that this succeeds in increasing the diversity of the dataset, as measured by unique n-grams divided by the length of the dataset (dist-2: .23→.36, dist-3: .54→.67).

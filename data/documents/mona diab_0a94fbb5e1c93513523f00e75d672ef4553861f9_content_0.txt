@@ -1,0 +1,4 @@
+Title: CAN LARGE LANGUAGE MODELS INFER CAUSATION FROM CORRELATION?
+Authors: Zhijing Jin, Jiarui Liu, Zhiheng Lyu, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona Diab, Bernhard Schölkopf
+Section: F FINE-GRAINED ERROR ANALYSIS
+In addition to the fine-grained analysis by causal relation type in Table 6a for fine-tuned models, we also report such error analysis for non-finetuned models in Table 12. These results are particularly revealing, showing how off-the-shelf models perform in recognizing specific relations. Specifically, GPT-3.5 cannot recognize ancestor relations, whereas GPT-4 fails at all direct causation recognition with parents and children. And RoBERTa MNLI only did collider relation relatively correctly. Note that, when the F1 score is zero, the accuracy number is a result of always predicting the negative class of that relation.

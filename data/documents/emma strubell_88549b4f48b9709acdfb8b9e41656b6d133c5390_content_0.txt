@@ -1,0 +1,4 @@
+Title: Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models
+Authors: Harnoor Dhingra, Preetiha Jayashanker, Sayali Moghe, Emma Strubell
+Section: Acknowledgements
+We express our gratitude to Dr. Maarten Sap for his invaluable support and constructive feedback provided during the development of this work. We would also like to thank Athiya Deviyani for her insights which helped shape the final outcome of this undertaking.

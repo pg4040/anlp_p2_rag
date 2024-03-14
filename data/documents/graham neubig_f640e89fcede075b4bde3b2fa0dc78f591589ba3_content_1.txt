@@ -1,0 +1,4 @@
+Title: Improving Factuality of Abstractive Summarization via Contrastive Reward Learning
+Authors: I-Chun Chern, Zhiruo Wang, Sanjan Das, Bhavuk Sharma, Pengfei Liu, Graham Neubig
+Section: 3.1 Experimental Setup
+guidelines provided to the annotators are listed in Table 1. An expert annotator is involved in the human evaluation studies.

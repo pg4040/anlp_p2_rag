@@ -1,0 +1,4 @@
+Title: FedNAR: Federated Optimization with Normalized Annealing Regularization
+Authors: Junbo Li, Ang Li, Chong Tian, Qirong Ho, Eric P. Xing, Hongyi Wang
+Section: B Supplementary proofs
+− 1)(1− x)τ−2x ≤ 0. Therefore, f ′(x) = g(x)/x2 ≤ g(0)/x2 = 0. This means f(x) ≥ f(u0) for any x ∈ (0, u0]. Therefore, f(ut) ≥ f(u0) for any t.

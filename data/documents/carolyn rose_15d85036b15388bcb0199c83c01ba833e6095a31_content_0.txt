@@ -1,0 +1,4 @@
+Title: Towards Extracting and Understanding the Implicit Rubrics of Transformer Based Automated Essay Scoring Models
+Authors: James Fiacco, David Adamson, Carolyn P. Rosé
+Section: Acknowledgements
+This work was supported in part by NSF grant DRL 1949110.

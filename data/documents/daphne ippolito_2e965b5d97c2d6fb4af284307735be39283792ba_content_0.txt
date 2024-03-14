@@ -1,0 +1,4 @@
+Title: Extracting Training Data from Diffusion Models
+Authors: Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace, Ann Graham Lotz
+Section: F Additional GAN Extraction Results
+Figure 24 and Figure 25 contain additional examples extracted from GANs trained on CIFAR-10. 10https://github.com/POSTECH-CVLab/PyTorch-StudioGAN

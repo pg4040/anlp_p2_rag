@@ -1,0 +1,12 @@
+List of 2023 Open Access papers by chenyan xiong are:
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval
+OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit
+CompleQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering
+Improving Multitask Retrieval by Promoting Task Specialization
+Unsupervised Dense Retrieval Training with Web Anchors
+Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In
+Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers
+Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data
+Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model
+Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories

@@ -1,0 +1,4 @@
+Title: It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk
+Authors: Amanda Bertsch, Alex Xie, Graham Neubig, Matthew R. Gormley
+Section: B Contextualizing this work within philosophy of science
+another language (often Latin or Greek) or from another field has been described as a method to build common ground between researchers (Samigullina et al., 2020) and as a possibly concerning pressure against developing language-specific scientific terminology in lower-resourced languages (Hultgren, 2013). However, most work on lexical divides in science has focused on divides across language or field rather than divides across time in the same field.

@@ -1,0 +1,4 @@
+Title: Approach to Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization and Constant-Q Transforms
+Authors: Ankit Shah, Shuyi Chen
+Section: Acknowledgement
+Thanks to Chaoran Zhang, Yuxiang Zhang for their helpful comments on the work.

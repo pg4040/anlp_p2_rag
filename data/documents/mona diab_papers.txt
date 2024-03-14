@@ -1,0 +1,17 @@
+List of 2023 Open Access papers by mona diab are:
+Can Large Language Models Infer Causation from Correlation?
+ALERT: Adapt Language Models to Reasoning Tasks
+Care4Lang at MEDIQA-Chat 2023: Fine-tuning Language Models for Classifying and Summarizing Clinical Dialogues
+The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations
+OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models
+Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models
+Comparison of the structures and topologies of plasma extracted circulating nuclear and mitochondrial cell-free DNA
+Cytomegalovirus at the crossroads of immunosenescence and oncogenesis
+Aspalathus linearis (Rooibos) Targets Adipocytes and Obesity-Associated Inflammation
+Emerging Therapeutic Approaches to Target the Dark Side of Senescent Cells: New Hopes to Treat Aging as a Disease and to Delay Age-Related Pathologies
+Crosstalk of Inflammatory Cytokines within the Breast Tumor Microenvironment
+Author Correction: Arabic natural language processing for Qur’anic research: a systematic review
+Evaluating Multilingual Speech Translation under Realistic Conditions with Resegmentation and Terminology
+A bleeding bite: crotalinae snake envonamation
+PAMR1 negatively impacts cell proliferation and migration of Human Colon Cancer HT29 Cell Line
+A Combination of Ruthenium Complexes and Photosensitizers to Treat Colorectal Cancer

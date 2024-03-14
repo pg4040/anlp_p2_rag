@@ -1,0 +1,4 @@
+Title: KALE: Using a K-Sparse Projector for Lexical Expansion
+Authors: Luís Borges, Bruno Martins, Jamie Callan
+Section: ACKNOWLEDGMENTS
+This research was supported by the Portuguese Recovery and Resilience Plan through project C645008882-00000055, through Fundação para a Ciência e Tecnologia (FCT) with the Ph.D. scholarship SFRH/BD/150497/2019 under the CMU-PT Program, and through the INESC-ID multi-annual funding from the PIDDAC programme, corresponding to reference UIDB/50021/2020.

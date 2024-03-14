@@ -1,0 +1,4 @@
+Title: Weakly Supervised 3D Open-vocabulary Segmentation
+Authors: Kunhao Liu, Fangneng Zhan, Jiahui Zhang, Muyu Xu, Yingchen Yu, Abdulmotaleb El Saddik, Christian Theobalt, Eric Xing, Shijian Lu
+Section: D More Results
+We show more segmentation visualizations of our method in Fig. 12 (bed), Fig. 13 (sofa), Fig. 14 (lawn), Fig. 15 (room), Fig. 16 (bench), Fig. 17 (table), Fig. 18 (office desk), Fig. 19 (blue sofa), Fig. 20 (snacks), and Fig. 21 (covered desk). The quantitative results are listed in Tab. 6.

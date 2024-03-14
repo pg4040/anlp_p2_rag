@@ -1,0 +1,4 @@
+Title: SEMI-AUTOREGRESSIVE STREAMING ASR WITH LABEL CONTEXT
+Authors: Siddhant Arora, George Saon, Shinji Watanabe, Brian Kingsbury
+Section: 4.4. Results and Discussion
+H. Sato et al., “Text-only domain adaptation based on intermediate CTC,” in Proc. Interspeech, 2022, pp. 2208–2212.
