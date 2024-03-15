@@ -50,6 +50,7 @@ prompt_template = '''[INST] <<SYS>>You are a helpful assistant. Answer the quest
 {}[/INST]'''
 
 def batch_llama(sentences):
+    print("GOING HERE")
     inputs = tokenizer(sentences, return_tensors="pt", padding=True).to(model.device)
     print(inputs['input_ids'].shape)
 
@@ -57,8 +58,19 @@ def batch_llama(sentences):
     #output_sequences = model.generate(**inputs, max_new_tokens=20, do_sample=False)
     output_sequences = output_sequences[:,inputs.input_ids.shape[1]:]
     decoded = tokenizer.batch_decode(output_sequences, skip_special_tokens=True)
-    print(decoded)
-    return decoded
+    
+    # Remove initial '\n' or space characters
+    trimmed_decoded = [decoded_str.strip('\n ') for decoded_str in decoded]
+    # Find the index of the first occurrence of '\n' in each decoded sequence
+    end_indices = [decoded_str.find('\n') for decoded_str in trimmed_decoded]
+
+    # Trim the decoded sequences up to the first occurrence of '\n'
+    trimmed_decoded = [decoded_str[:end_index] if end_index != -1 else decoded_str for decoded_str, end_index in zip(trimmed_decoded, end_indices)]
+
+
+
+    print(trimmed_decoded)
+    return trimmed_decoded
 
 def sequential_llama(sentences):
     for sentence in sentences:
@@ -66,13 +78,22 @@ def sequential_llama(sentences):
         # Generate a sequence of tokens in response to the input
         #output_sequences = model.generate(inputs=input_ids, temperature=0.7, max_new_tokens=20, do_sample=True, num_beams=1)
         output_sequences = model.generate(inputs = input_ids, max_new_tokens=20, do_sample=False)
-        output_sequences = output_sequences[:,input_ids.shape[1]:]
-        
+        output_sequences = output_sequences[:,input_ids.shape[1]:]    
+    
         # Decode the generated sequence back into a string
         decoded_output = tokenizer.decode(output_sequences[0], skip_special_tokens=True)
         
+        # Remove initial '\n' or space characters
+        trimmed_decoded = [decoded_str.replace('\n',' ').strip() for decoded_str in decoded_output]
+        # Find the index of the first occurrence of '\n' in each decoded sequence
+        end_indices = [decoded_str.find('\n') for decoded_str in decoded_output]
+
+        # Trim the decoded sequences up to the first occurrence of '\n'
+        trimmed_decoded = [decoded_str[:end_index] if end_index != -1 else decoded_str for decoded_str, end_index in zip(decoded_output, end_indices)]
+
+
         # Print the decoded string
-        print(decoded_output)
+        print(trimmed_decoded)
 def main():
     data = read_csv("../../faculty_data_subset/manual_questions.csv")
     questions, filenames, answers = [], [], []

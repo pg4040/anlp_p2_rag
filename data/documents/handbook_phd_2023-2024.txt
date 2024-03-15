@@ -84,7 +84,7 @@ Page 5
  
 4.1.8 Transferring Out of the Ph.D. Program ............................................................................. 26 
 4.2 LTI Academic Policies .................................................................................................................... 26 
-4.2.1 “Grandfather” Policy .............................................................................................................. 26 
+4.2.1 Grandfather Policy .............................................................................................................. 26 
 4.2.2 Definition of Transfer Credit vs. Course Exemption ...................................................... 26 
 4.2.3 External Employment/Consulting...................................................................................... 26 
 4.2.4 Leave of Absence ..................................................................................................................... 27 
@@ -200,7 +200,7 @@ heritage. In the past, it was the heart of the U.S. steel industry, a source for
 an important financial hub, and an early pioneer in railroads, radio, and nuclear power. This is a 
 city where people worked hard and made things that changed the world. Today, Pittsburgh has 
 reinvented itself as a leader in Computer Science and medicine, but it is still a place where people 
-work hard and make things that change the world. It is also an informal city, where people don’t 
+work hard and make things that change the world. It is also an informal city, where people dont 
 take themselves too seriously and remember to have fun. It is home to excellent museums, 
 competitive professional sports teams, inexpensive magic shows, and free music during the 
 summer, with skiing and magnificent state parks nearby. Your stay here will be more rewarding 
@@ -213,19 +213,19 @@ ensures that students have written access to standard information. This handbook
 policies, procedures, and requirements for the Ph.D. in Language and Information Technologies. 
 All policies not explicitly described in this document conform to School of Computer Science 
 (SCS) policies and university policies. For information about Carnegie Mellon requirements and 
-policies, please see the university’s handbook The Word, the Office of Graduate and Postdoctoral 
+policies, please see the universitys handbook The Word, the Office of Graduate and Postdoctoral 
 Affairs web page, the Office of the Dean of Students web page, and other resources contained in 
 Appendix A of this handbook. 
 Welcome! We hope that your time here is a life-changing experience. 
 1.1 
 Degrees Offered 
 The Language Technologies Institute offers two Ph.D. programs and four Master degrees. 
-• Ph.D. in Language and Information Technologies (LTI Ph.D.) 
-• Dual-Degree Ph.D. in Language and Information Technologies (CMU-PT Ph.D.) 
-• Masters in Language Technologies (MLT) 
-• Master of Science in Intelligent Information Systems (MIIS) 
-• Master of Computational Data Science (MCDS) 
-• Master of Science in Artificial Intelligence and Innovation (MSAII) 
+ Ph.D. in Language and Information Technologies (LTI Ph.D.) 
+ Dual-Degree Ph.D. in Language and Information Technologies (CMU-PT Ph.D.) 
+ Masters in Language Technologies (MLT) 
+ Master of Science in Intelligent Information Systems (MIIS) 
+ Master of Computational Data Science (MCDS) 
+ Master of Science in Artificial Intelligence and Innovation (MSAII) 
 LTI Ph.D. Graduate Student Handbook 
 Page 10 
  
@@ -274,18 +274,18 @@ University Policies and Expectations
 It is the responsibility of each member of the Carnegie Mellon community to be familiar with 
 university policies and guidelines. In addition to this departmental graduate student handbook, 
 the following resources are available to assist you in understanding community expectations. 
-• The Word/Student Handbook: 
+ The Word/Student Handbook: 
 https://www.cmu.edu/student-affairs/theword//index.html 
-• Academic Integrity Policy: 
+ Academic Integrity Policy: 
  
 https://www.cmu.edu/policies/student-and- student-life/academic-
 integrity.html 
 LTI Ph.D. Graduate Student Handbook 
 Page 11 
  
-• University Policies Website:  
+ University Policies Website:  
 https://www.cmu.edu/policies/ 
-• Office of Graduate and Postdoctoral Affairs: 
+ Office of Graduate and Postdoctoral Affairs: 
 https://www.cmu.edu/graduate/policies/index.html 
 Due to the changing nature of conditions and expectations surrounding public health and safety 
 requirements please visit https://www.cmu.edu/coronavirus/ for the most up to date information.
@@ -310,7 +310,7 @@ the university ombudsperson, Carnegie Mellon University, 5000 Forbes Avenue, Pit
 15213 (412-268-1018). Obtain general information about Carnegie Mellon University by calling 
 412-268-2000. 
 Carnegie Mellon University publishes an annual campus security and fire safety report describing 
-the university’s security, alcohol and drug, sexual assault, and fire safety policies, and containing 
+the universitys security, alcohol and drug, sexual assault, and fire safety policies, and containing 
 statistics about the number and type of crimes committed on campus, and the number and cause 
 of fires in campus residence facilities during the preceding three years. You can obtain a copy by 
 contacting the Carnegie Mellon Police Department at 412-268-2323. The annual security and fire 
@@ -352,7 +352,7 @@ The Language Technologies Institute
 2.1 
 Pittsburgh Campus Location 
 The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates 
-Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact 
+Hillman Complex (GHC) on Carnegie Mellons Pittsburgh campus. The address and contact 
 information of the LTI are shown below. 
 Language Technologies Institute 
 Carnegie Mellon University 
@@ -371,7 +371,7 @@ Office Space
 Most Ph.D. students in residence on the Pittsburgh campus are given an office in which to study 
 and do research. Typically, offices are shared with other Ph.D. students, but they may also be 
 shared with staff, visitors, or other members of the LTI. 
-Offices are assigned by the LTI’s Office Manager (see Section 1.2, Department Personnel, for 
+Offices are assigned by the LTIs Office Manager (see Section 1.2, Department Personnel, for 
 contact information). 
 2.3 
 Mailboxes and Office Supplies 
@@ -390,7 +390,7 @@ and research. Students are free to choose their own operating system (e.g., Linu
 Windows). 
 Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other 
 resources to support computationally-intense research. 
-Ph.D. students are given access to the LTI’s computer cluster on an as-needed basis, to be used for 
+Ph.D. students are given access to the LTIs computer cluster on an as-needed basis, to be used for 
 course assignments, directed study projects, and/or capstone projects.  The LTI cluster provides 
 storage and computation for projects involving large datasets and/or lengthy computation. 
 Ph.D. students receive two types of user ids: An Andrew id and a CS id. All CMU students have 
@@ -410,28 +410,28 @@ Standard Degree Requirements & Degree Certification
 LTI Ph.D. Degree Requirements 
 To complete the Ph.D. in Language and Information Technologies degree, the student must satisfy 
 the following requirements:  
-• Pass at least 96 units of graduate level courses, with additional requirements detailed 
+ Pass at least 96 units of graduate level courses, with additional requirements detailed 
 below; 
-• Satisfy proficiencies in Writing, Presentation, Programming, and Teaching; 
-• Propose, write, and defend a Ph.D. dissertation (thesis); 
-• Attend the LTI Colloquium (11-700) each semester; and 
-• Satisfy the Research Speaking Requirement.  
+ Satisfy proficiencies in Writing, Presentation, Programming, and Teaching; 
+ Propose, write, and defend a Ph.D. dissertation (thesis); 
+ Attend the LTI Colloquium (11-700) each semester; and 
+ Satisfy the Research Speaking Requirement.  
 The sections below provide more detail about each of these requirements. 
 3.1.1 Course Requirements 
 To complete the course requirements for the Ph.D. in Language and Information Technologies 
 degree, the student must pass 96 or more course units of graduate courses, and meet the following 
 criteria: 
-• At least 72 units of “LTI” courses and 24 units of “SCS” courses, 
-• At least one class in each “LTI Focus Area”, and  
-• At least two labs, in two different research areas. 
-For definitions of quoted terms, see the section on “Definitions of LTI Terminology”. 
+ At least 72 units of LTI courses and 24 units of SCS courses, 
+ At least one class in each LTI Focus Area, and  
+ At least two labs, in two different research areas. 
+For definitions of quoted terms, see the section on Definitions of LTI Terminology. 
 Unless approved by the Program Director in advance, the course requirements must be satisfied 
 by actual classroom courses, not credit given for research or independent study. 
-An “LTI course” is any 12-unit course with a number of 11-XXX; a 6-unit course with 11-XXX 
+An LTI course is any 12-unit course with a number of 11-XXX; a 6-unit course with 11-XXX 
 counts as one-half of an LTI course. Unless otherwise specified, "course" means an actual 
 classroom course, not credit given for research or independent study. Note that the LTI allows 
 any one MLD (10-XXX) graduate course to count as an "LTI course".  
-An “SCS course” is any 12-unit course with a course number indicating a unit of the School of 
+An SCS course is any 12-unit course with a course number indicating a unit of the School of 
 Computer Science (including LTI); a 6-unit course with such a number counts as one-half of an 
 SCS course. Unless otherwise specified, "course" means an actual classroom course, not credit 
 given for research or independent study. Note: Recommended electives that are technically 
@@ -439,15 +439,15 @@ LTI Ph.D. Graduate Student Handbook
 Page 15 
  
 outside of the SCS now count towards this requirement; for example, Digital Signal Processing in 
-ECE. Please see the Program Director for approval of electives as “SCS.”  
-“LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course 
-Categories.” If a student believes a new course should be added to a Focus Area, they should make 
+ECE. Please see the Program Director for approval of electives as SCS.  
+LTI Focus Areas are sets of courses defined on the LTI course webpage under Course 
+Categories. If a student believes a new course should be added to a Focus Area, they should make 
 a request to the Ph.D. Program Director. They will decide, with advice from faculty in the 
 appropriate area, whether it should be in the Focus Area. If approved, it will be added to the LTI 
 Focus Area webpage.  
-A “Task-Orientation Focus Course” is a course belonging to that LTI Focus Area, as listed on 
-the LTI’s “Course Categories” webpage.  
-An LTI “lab course” is a course in the list of lab courses defined on the LTI’s “Course Categories” 
+A Task-Orientation Focus Course is a course belonging to that LTI Focus Area, as listed on 
+the LTIs Course Categories webpage.  
+An LTI lab course is a course in the list of lab courses defined on the LTIs Course Categories 
 webpage. 
 3.1.2 Grade Requirements 
 Students must demonstrate their mastery of material taught in courses and their success in 
@@ -459,25 +459,25 @@ requirement.
 3.1.3 Proficiency Requirements 
 The LTI Ph.D. does not require any Qualifying Exams. Instead, a LTI Ph.D. student is required to 
 demonstrate proficiency in the following four areas. 
-• Writing: This is satisfied by producing a peer-reviewed conference paper, or the 
+ Writing: This is satisfied by producing a peer-reviewed conference paper, or the 
 equivalent (a written report that at least two SCS faculty certify as being of conference-
 paper quality). 
  
-• Presentation: This is satisfied by the oral presentation of a conference paper, or the 
+ Presentation: This is satisfied by the oral presentation of a conference paper, or the 
 equivalent (an oral presentation that at least two SCS faculty certify as being of 
 conference-talk quality). 
  
-• Programming: This is satisfied by demonstrating competence in computer programming 
+ Programming: This is satisfied by demonstrating competence in computer programming 
 of language technology; this is normally satisfied in the course of the student's research 
 and/or project work. 
  
 LTI Ph.D. Graduate Student Handbook 
 Page 16 
  
-• Teaching: This is satisfied by two (2) successful Teaching Assistantships (TA-ships), as 
+ Teaching: This is satisfied by two (2) successful Teaching Assistantships (TA-ships), as 
 determined by the faculty member for whom the student serves as TA. Typically, one of 
 these will be for an undergraduate class, and one for a graduate-level class. One of the two 
-TA-ships may be in some form of pre-approved "alternate service", such as an SCS “v-unit.”  
+TA-ships may be in some form of pre-approved "alternate service", such as an SCS v-unit.  
  
 The Program Coordinator must be notified in advance of a TA-ship, or it may not be accepted.  
 Graduate students are required to have a certain level of fluency in English before they can instruct 
@@ -497,15 +497,15 @@ https://www.cmu.edu/student-success/
 3.1.4 The Ph.D. Dissertation 
 The Ph.D. dissertation is the defining feature of a Ph.D. degree. The process of completing a Ph.D. 
 dissertation has three important milestones. 
-• Thesis Topic: During the Ph.D. student’s third year, the student should be working hard 
+ Thesis Topic: During the Ph.D. students third year, the student should be working hard 
 to find a thesis topic. The thesis topic typically develops from the directed research that 
-the student has been carrying out with the student’s advisor.  The topic is a well-defined 
+the student has been carrying out with the students advisor.  The topic is a well-defined 
 research problem that is interesting and unsolved, and for which the student has a 
-believable proposed solution.  When the dissertation is finished, there will be a “thesis 
-statement” that describes the claimed solution to the research problem that is the thesis 
+believable proposed solution.  When the dissertation is finished, there will be a thesis 
+statement that describes the claimed solution to the research problem that is the thesis 
 topic. 
  
-• Thesis Proposal: Near the end of the student’s third year, the student will compose a 
+ Thesis Proposal: Near the end of the students third year, the student will compose a 
 dissertation proposal. In this document, the student will specify the problem the research 
 addresses (the thesis topic); the significance of the problem and expected scientific 
 contributions; other relevant research, including competing approaches; some preliminary 
@@ -514,7 +514,7 @@ LTI Ph.D. Graduate Student Handbook
 Page 17 
  
 projected timeline for completion. Before presenting the proposal, the student will also 
-secure approval for a dissertation committee, which consists of the student’s advisor, at 
+secure approval for a dissertation committee, which consists of the students advisor, at 
 least two other SCS faculty members working in language technologies, and at least one 
 external member.  
  
@@ -525,7 +525,7 @@ guaranteeing that the proposed research is interesting to the larger scientific 
 and demonstrating that the student will finish the program if the work is completed as 
 outlined. 
  
-• Thesis Defense: The dissertation document itself, normally expected at the end of the fifth 
+ Thesis Defense: The dissertation document itself, normally expected at the end of the fifth 
 year, will include a detailed description of all the work done, including a clear evaluation 
 and a discussion of its scientific contributions. There are no fixed style or document length 
 guidelines or requirements; the only format requirement is that the title page should be 
@@ -584,7 +584,7 @@ standard course, because they provide a good introduction to the broad range of 
 the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, 
 the department is serious about its expectation that new students will attend these talks.  
 For many years, these talks were called "the Immigration Course (IC)." The intuition behind this 
-name is that the talks help orient newly-arrived students – immigrants into the CMU 
+name is that the talks help orient newly-arrived students  immigrants into the CMU 
 environment. As a result, some students understood the name to indicate that the talks would be 
 about US immigration and visa requirements. The older name has been retired; however, people 
 who have been at CMU a long time may occasionally use the older name. 
@@ -607,7 +607,7 @@ can finish the degree, and if so, what needs to be accomplished to get back on t
 letter should be considered a serious warning. It is not a permanent "black mark" on the student's 
 record; if the student begins making satisfactory progress again, there is no official record of the 
 letter in the student's transcript. 
-In the most serious cases, the faculty gives the student an “N-1” letter that specifies a list of 
+In the most serious cases, the faculty gives the student an N-1 letter that specifies a list of 
 conditions that the student must satisfy by specific deadlines. Failure to meet all the specified 
 conditions may result in the student's termination from the program. 
 3.5 
@@ -619,17 +619,17 @@ Typical choices might include ECE courses for Speech students, Pitt Linguistics 
 Statistics courses.  
 Students interested in taking recommended electives outside the SCS should pay particular 
 attention to the following issues. 
-• Recommended electives outside of the SCS count towards the “SCS” course requirement. 
-Please see the Program Director for approval of an elective as an “SCS course”.  
-• Students need advance approval for any courses not covered by their normal tuition (e.g., 
+ Recommended electives outside of the SCS count towards the SCS course requirement. 
+Please see the Program Director for approval of an elective as an SCS course.  
+ Students need advance approval for any courses not covered by their normal tuition (e.g., 
 summer courses).  
-• The grading of outside courses is the responsibility of the department offering the course; 
-however, the LTI's Minimum Course Grade Policy described above still applies (“B” is the 
+ The grading of outside courses is the responsibility of the department offering the course; 
+however, the LTI's Minimum Course Grade Policy described above still applies (B is the 
 minimum for Ph.D.).  
 3.6 
 Completing an M.S. Degree Enroute to a Ph.D. 
 Courses that satisfy LTI Ph.D. degree requirements may also be used to satisfy requirements for 
-one M.S. degree. The most common choice is the LTI’s Master of Language Technologies (MLT) 
+one M.S. degree. The most common choice is the LTIs Master of Language Technologies (MLT) 
 degree because its requirements are similar (but not identical) to the Ph.D. requirements. Other 
 M.S. degrees within the LTI and outside of the LTI are also possible.  
 LTI Ph.D. Graduate Student Handbook 
@@ -640,7 +640,7 @@ their Ph.D. advisor due to the additional courses and project work that may be i
 3.7 
 Grading and Evaluation 
 3.7.1 University Policy on Grades 
-Carnegie Mellon’s Grading policy offers details concerning university grading principles for 
+Carnegie Mellons Grading policy offers details concerning university grading principles for 
 students taking courses and covers the specifics of assigning and changing grades, grading 
 options, drop/withdrawals, and course repeats.  It also defines the undergraduate and graduate 
 grading standards. 
@@ -653,7 +653,7 @@ the unusual exceptions that may warrant a grade appeal: (a) the final grade assi
 is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or 
 failure to grade one of the answers on an exam), or (b) the faculty or staff member who assigned 
 the grade did so in violation of a university policy. 
-See the university’s Summary of Graduate Student Appeal and Grievance Procedures web page 
+See the universitys Summary of Graduate Student Appeal and Grievance Procedures web page 
 for 
 more 
 information. 
@@ -697,9 +697,9 @@ basis for a charge of cheating or plagiarism, which is subject to disciplinary a
 Please review the University Policy on Academic Integrity. 
 The policy includes the University expectations around academic integrity and provides 
 definitions of cheating, plagiarism, and unauthorized assistance.  
-A review of the University’s Academic Disciplinary Actions procedures is also recommended.  
-Important note: The LTI implements the above policy’s option of “conven[ing] a disciplinary 
-hearing according to the procedures of the department/program.” Our procedure is as follows: A 
+A review of the Universitys Academic Disciplinary Actions procedures is also recommended.  
+Important note: The LTI implements the above policys option of conven[ing] a disciplinary 
+hearing according to the procedures of the department/program. Our procedure is as follows: A 
 first violation is grounds for dismissal from the graduate program. If we decide not to immediately 
 dismiss, the first violation will result in the student being on disciplinary probation.  
 If the student commits a second violation while on probation, the penalty is dismissal from the 
@@ -716,33 +716,33 @@ Withdrawal of a Degree
 The University reserves the right to withdraw a degree even though it has been granted should 
 there be discovery that the work upon which it was based or the academic records in support of 
 it had been falsified. In such a case, withdrawal of the degree will occur promptly upon discovery 
-of the falsification. See the university’s Withdrawal of a Degree policy for more information. 
+of the falsification. See the universitys Withdrawal of a Degree policy for more information. 
 3.10 Employment Eligibility Verification  
 If you are receiving a stipend, are a TA, or are planning to have a position with CMU then 
 Employment Eligibility Verification is required. Form I-9 must be completed within 3 business 
 days of beginning work for any type of compensation (stipend or employment). Additional details 
 are highlighted below. To ensure compliance with federal law, Carnegie Mellon University 
-maintains the Employment Eligibility Verification (I-9) Policy [pdf] covering the university’s 
+maintains the Employment Eligibility Verification (I-9) Policy [pdf] covering the universitys 
 I-9 and E-Verify requirements: 
-• Every individual receiving a stipend from CMU or employed by CMU must comply with 
+ Every individual receiving a stipend from CMU or employed by CMU must comply with 
 the I-9 Policy by completing the Form I-9 within three business days following the first 
 day of stipend start date/employment. 
-• Individuals who expect to work on a federally funded project are further responsible for 
+ Individuals who expect to work on a federally funded project are further responsible for 
 submitting an E-Verify Processing Request Form to the Office of Human Resources if 
 required. 
-• For more information, please see CMU’s Guidance for Completing the Form I-9 and E-
+ For more information, please see CMUs Guidance for Completing the Form I-9 and E-
 Verify Requirements at CMU [pdf], or visit the Human Resources Service website to 
 learn more about Form I-9 and E-Verify and to schedule an appointment to complete the 
 Form I-9. 
-• Students who fail to complete the Form I-9 in a timely manner may have stipend payments 
+ Students who fail to complete the Form I-9 in a timely manner may have stipend payments 
 suspended.  If employed by the university, an individual who fails to timely complete the 
 Form I-9 may be subject to disciplinary action up to and including termination of 
 employment. 
 For more information: 
-• See CMU’s Guidance for Completing the Form I-9 and E-Verify Requirements at CMU, 
+ See CMUs Guidance for Completing the Form I-9 and E-Verify Requirements at CMU, 
 or 
-• Visit the Human Resources Service website to learn more about Form I-9 and E-Verify 
-and to schedule an appointment to complete the Form I-9.” 
+ Visit the Human Resources Service website to learn more about Form I-9 and E-Verify 
+and to schedule an appointment to complete the Form I-9. 
 3.11 
 Additional Guidance for Students 
 LTI Ph.D. Graduate Student Handbook 
@@ -761,7 +761,7 @@ each semester in at least 36 units that count toward their current degree level.
 guidance regarding integrated degree completion.)  
 Students should consult with their designated college liaison in The HUB regarding billing and 
 financial aid, particularly for early completion, longer-than-standard completion, or integrated 
-undergraduate and master’s degree programs.    
+undergraduate and masters degree programs.    
 3.11.3 International Students 
 Immigration status for students in F-1 and J-1 non-immigrant status is tied to making normal 
 progress toward completing degree requirements. Therefore, F-1 and J-1 students who are 
@@ -777,7 +777,7 @@ The target duration of the LTI Ph.D. is five years, although six years is also c
 Carnegie Mellon graduate students are expected to complete their degree requirements within 
 the standard length of time for their program of study as outlined in this Graduate Student 
 Handbook. Upon completion of the graduate program degree requirements, the degree will be 
-certified by the student’s academic program in the semester in which the student completes the 
+certified by the students academic program in the semester in which the student completes the 
 requirements. 
 Early Completion 
 The Ph.D. is granted when all degree requirements are satisfied. Some students complete the 
@@ -793,14 +793,14 @@ unforeseen circumstances.
 Doctoral students who require an extended period to complete their degree requirements must 
 consult with their academic program and are subject to the CMU Policy on Doctoral Student 
 Status (https://www.cmu.edu/policies/student-and-student-life/doctoral-student-status.html), 
-specifically the “Time to Degree.” 
+specifically the Time to Degree. 
 4.1.1 Department Policy on Double Counting Courses 
-An LTI Ph.D. student who uses courses taken as a Master’s degree student (at Carnegie Mellon 
+An LTI Ph.D. student who uses courses taken as a Masters degree student (at Carnegie Mellon 
 or elsewhere) toward their program requirements cannot use those same courses toward any 
-other Master’s degree offered by the school. The LTI (like other SCS units) allows its Ph.D. 
-students who have passed the requirements for an LTI Master’s degree to receive the master’s 
+other Masters degree offered by the school. The LTI (like other SCS units) allows its Ph.D. 
+students who have passed the requirements for an LTI Masters degree to receive the masters 
 degree without any additional work. Any other sharing of coursework by an LTI student between 
-more than one CMU degree (e.g., receiving an MLD Master’s degree that includes courses taken 
+more than one CMU degree (e.g., receiving an MLD Masters degree that includes courses taken 
 as an LTI Ph.D. student) must be explicitly approved by the LTI, on a case-by-case basis, in 
 advance.  
 4.1.2 External Internships  
@@ -808,10 +808,10 @@ The LTI provides summer support for its Ph.D. students, so Ph.D. students are ex
 research at Carnegie Mellon during the summer. However, outside experience can be a valuable 
 educational experience, Ph.D. students in good standing are allowed to do an external internship. 
 Some students may benefit from more than one internship, especially if they require access to 
-proprietary data for their work, thus, with the approval of the student’s advisor, a student can intern up 
+proprietary data for their work, thus, with the approval of the students advisor, a student can intern up 
 to four (4) times during their Ph.D. degree. Interning more than four (4) times requires approval 
 from the Ph.D. Program Director. 
-Any internship must be planned in consultation with the student’s advisor and the LTI Ph.D. 
+Any internship must be planned in consultation with the students advisor and the LTI Ph.D. 
 Coordinator. If an internship is part of a fully-funded external fellowship (e.g., Microsoft Research 
 Fellowship), the student does not need prior LTI approval, but should still coordinate with their 
 advisor. International students must consult with Office of International Education (OIE) for 
@@ -845,8 +845,8 @@ An equivalent graduate course previously completed at another institution may be
 satisfy one of the Ph.D. course requirements. The decision on whether a course may be transferred 
 is made by the Ph.D. Program Director.  
 Typically, the student will provide the Program Director with the syllabus of the external course, 
-and the Program Director will use that and the student’s transcript to make the decision.  
-See the section on “Definition of transfer credit versus course exemption.” 
+and the Program Director will use that and the students transcript to make the decision.  
+See the section on Definition of transfer credit versus course exemption. 
 A student may not receive transfer credit for more than four courses. 
 4.1.6 Residency Requirements 
 The university requires Ph.D.s to spend at least one year of residency at Carnegie Mellon. 
@@ -856,7 +856,7 @@ LTI Ph.D. Graduate Student Handbook
 Page 26 
  
 4.1.7 Transferring Into the Ph.D. Program 
-The LTI does not allow direct transfers from its master’s programs into its Ph.D. program. The 
+The LTI does not allow direct transfers from its masters programs into its Ph.D. program. The 
 student must apply for the Ph.D. at the usual time. However, students that are already enrolled in 
 an LTI degree program are not required to retake GRE and TOEFL exams or to produce new 
 transcripts from other universities.  
@@ -867,7 +867,7 @@ handbook and Program Director of the desired degree program to learn whether tra
 permitted, and if so, how, and when to request such a transfer. 
 4.2 
 LTI Academic Policies 
-4.2.1 “Grandfather” Policy 
+4.2.1 Grandfather Policy 
 A student can graduate under the policies in effect at the time that the student entered the 
 program; or, at the student's choice, the student can graduate under policies that are adopted after 
 the student entered the program. If it is not realistic to follow a particular policy exactly, the 
@@ -896,11 +896,11 @@ The LTI discourages Leaves of Absence (LOA), since students usually do not retur
 intentions. However, a student in good standing may be granted a LOA of at most 1 year, upon 
 written request to the Ph.D. Program Director and with consent of the student's advisor. It is the 
 responsibility of the student on LOA to contact the LTI to initiate a return to the program. 
-Students taking or returning from a leave of absence must follow the university’s leave of absence 
+Students taking or returning from a leave of absence must follow the universitys leave of absence 
 process.  
 4.2.5 Satisfactory Progress 
 If a student does not make satisfactory progress each semester toward completing the degree, the 
-LTI may remove them from the program. See section on “End of Semester Evaluation.” 
+LTI may remove them from the program. See section on End of Semester Evaluation. 
 4.2.6 Time Away from Academic Responsibilities  
 Ph.D. students that are supported by sponsored research, fellowships, or scholarships are 
 expected to remain on campus and work fulltime on their education and research throughout the 
@@ -925,7 +925,7 @@ LTI Ph.D. Graduate Student Handbook
 Page 28 
  
 4.3.2 Doctoral Student Status 
-Carnegie Mellon’s Policy for Doctoral Student Status covers time limits on doctoral degree 
+Carnegie Mellons Policy for Doctoral Student Status covers time limits on doctoral degree 
 student status, a definition of All But Dissertation status, a definition of In Residence (ABD) and In 
 Absentia (ABS) status for doctoral students and the tuition and fees charged for students In 
 Residence and students In Absentia. 
@@ -955,7 +955,7 @@ pursuing the Ph.D. degree as part-time students for all semesters of their progr
 their program, may also appeal to their program or department for extension of the time to degree 
 limit.  
 Under extraordinary circumstances, such as leave of absence, military or public service, family or 
-parental leave, or temporary disability, a school or college may, upon the relevant department’s 
+parental leave, or temporary disability, a school or college may, upon the relevant departments 
 recommendation and with the written approval of the dean, defer the lapse of All But Dissertation 
 status for a period commensurate with the duration of that interruption. 
 LTI Ph.D. Graduate Student Handbook 
@@ -1007,16 +1007,16 @@ bring forward such concerns or allegations in good faith.
 LTI Ph.D. Graduate Student Handbook 
 Page 30 
  
-The University’s Sexual Misconduct Policy is available at 
+The Universitys Sexual Misconduct Policy is available at 
 https://www.cmu.edu/policies/administrative-and-governance/sexual-misconduct/index.html 
-The University’s Policy Against Retaliation is available at: 
+The Universitys Policy Against Retaliation is available at: 
 https://www.cmu.edu/policies/administrative-and-governance/whistleblower.html 
 If you have been impacted by any of these issues, you are encouraged to make contact with any of 
 the following resources: 
-• Office for Institutional Equity and Title IX: 412-268-7125, 
+ Office for Institutional Equity and Title IX: 412-268-7125, 
 institutionalequity@cmu.edu 
-• On campus resources for institutional equity and Title IX  
-• University Police: 412-268-2323 
+ On campus resources for institutional equity and Title IX  
+ University Police: 412-268-2323 
  
 Additional resources and information can be found at: https://www.cmu.edu/title-ix/resources-
 and-information/index.html 
@@ -1030,7 +1030,7 @@ the Office of the Dean of Students by contacting the office for an appointment b
 Students are encouraged to register with the Office of the Dean of Students ninety (90) days in 
 advance of the anticipated arrival of the child as applicable in the individual circumstance.  At the 
 time of registering, students will have the opportunity to consult about resources, procedures, 
-funding options and preparation for discussing academic accommodations with the student’s 
+funding options and preparation for discussing academic accommodations with the students 
 academic department.  Students should also consult with their academic advisors either before or 
 in conjunction with registering with the Office of the Dean of Students. 
 4.3.10 Accommodations for Gestational Parents 
@@ -1039,7 +1039,7 @@ for delivery and recovery from delivery of a newly born child. Students whose an
 date is during the course of a semester may need to take time away from their academic 
 responsibilities. Carnegie Mellon students seeking time away are afforded two options as possible 
 accommodation: 
-• Short-Term Accommodation for Gestational Parents – A short term absence from 
+ Short-Term Accommodation for Gestational Parents  A short term absence from 
 academic responsibilities up to a maximum of six (6) weeks.  Short-Term Accommodation 
 LTI Ph.D. Graduate Student Handbook 
 Page 31 
@@ -1051,7 +1051,7 @@ responsibilities during the period of absence. This may include extensions of ti
 complete assignments, incomplete grades, and/or dropping courses, shifting research 
 responsibilities and adjusting TA assignments. Students who take a Short-Term 
 Accommodation will remain enrolled. 
-• Formal Leave of Absence– A formal leave of absence under the Student Leave Policy. 
+ Formal Leave of Absence A formal leave of absence under the Student Leave Policy. 
 Generally, the Student Leave Policy permits students to take a leave of absence for a full-
 semester, mini-semester, or for the time remaining in the semester during which the leave 
 is 
@@ -1083,15 +1083,15 @@ This accommodation can be utilized within six months of the birth or placement o
 through adoption, foster care or legal guardianship. Gestational parents may utilize both the 
 Short-Term Accommodation for Gestational Parents and the parental accommodation. 
 Careful planning and consultation is necessary given the unique contexts and requirements of 
-each student’s situation. Students will remain fully enrolled and will receive assistance in 
+each students situation. Students will remain fully enrolled and will receive assistance in 
 navigating the necessary planning and consultation processes.  
 4.3.12 Financial Assistance for Student Parents 
 Carnegie Mellon also offers the following options for financial assistance to students who become 
 parents while enrolled: 
-Interest Free Loan – Any student who becomes a parent is eligible to apply for an interest-
+Interest Free Loan  Any student who becomes a parent is eligible to apply for an interest-
 free parental loan (https://www.cmu.edu/student-affairs/dean/loans/) from the Office of the Dean 
 of Students.  
-Doctoral Stipend Continuation (Gestational Parents) – Doctoral students who are the 
+Doctoral Stipend Continuation (Gestational Parents)  Doctoral students who are the 
 gestational parent and who receive an academic stipend funded by Carnegie Mellon are eligible 
 to continue to receive stipend funding for up to six (6) weeks during a Short-Term 
 Accommodation for Gestational Parents or during a Formal Leave of Absence. Continued 
@@ -1100,7 +1100,7 @@ Page 32
  
 academic stipend funding may be extended by two (2) weeks, for a total of eight (8) weeks, if an 
 absence longer than six weeks is medically necessary.   
-Doctoral Stipend Continuation (Non-gestational Parents) – Doctoral students who receive an 
+Doctoral Stipend Continuation (Non-gestational Parents)  Doctoral students who receive an 
 academic stipend funded by Carnegie Mellon and are becoming a parent by adoption, birth, or 
 through guardianship are eligible to continue to receive stipend funding for up to four (4) weeks 
 during a Short-Term Parental Accommodation.  
@@ -1125,11 +1125,11 @@ they have a spouse who earns more than $200 per month.
 The impact of outside fellowships and scholarships on departmental support-decrease by the 
 amount, added bonus, etc. 
 If a Ph.D. student receives an outside graduate fellowship (e.g., NSF, Fulbright), the student is 
-expected to accept it in place of the LTI’s graduate fellowship. As an extra incentive to do so, the 
+expected to accept it in place of the LTIs graduate fellowship. As an extra incentive to do so, the 
 LTI will supplement the award so that the student will receive full tuition and a combined stipend 
 10 percent higher than that of the standard LTI graduate fellowship.  
 Students are required to inform the LTI about any external funding that they receive. 
-See also the section on “ABD versus ABD in Absentia (ABS)” (Section 4.3.3).  
+See also the section on ABD versus ABD in Absentia (ABS) (Section 4.3.3).  
 5.2 
 Conference Travel Funding  
 LTI Ph.D. Graduate Student Handbook 
@@ -1142,7 +1142,7 @@ form that must be filled out in advance.
 5.3 
 Research Funding 
 GuSH Research Funding is a source of small research grant funds provided by the Graduate 
-Student Assembly (GSA) and the Provost’s Office and managed by the Office of Graduate and 
+Student Assembly (GSA) and the Provosts Office and managed by the Office of Graduate and 
 Postdoc Affairs. See the Office of Graduate and Postdoctoral Affairs Research Grant Support page 
 for information about the application process and deadlines. 
 5.4 
@@ -1158,9 +1158,9 @@ appointment.
 Health Insurance  
 Carnegie Mellon has a Student Health Insurance policy requiring full-time, degree seeking 
 students to carry adequate medical insurance. Students must either purchase the plan offered by 
-the University or an application for a waiver can be made if the student is “enrolled as the 
+the University or an application for a waiver can be made if the student is enrolled as the 
 dependent, partner/spouse or principal in an employer or government-sponsored insurance 
-plan.”(See the Carnegie Mellon University Student Health Insurance Policy (SHIP)).  
+plan.(See the Carnegie Mellon University Student Health Insurance Policy (SHIP)).  
 It is the responsibility of each student to make arrangements with Student Health Services to 
 either pay for their insurance at the beginning of the semester or elect a payment plan over the 
 course of the academic year. More information is available at the Student Health Services Web 
@@ -1206,14 +1206,14 @@ are
 deactivated 
 upon 
 the 
-cardholder’s 
+cardholders 
 separation 
 from 
 the 
 university. 
  
 Affiliate ID Cards are available for spouses and partners of graduate students that allow them to 
-access Carnegie Mellon’s campus. These cards are available through The HUB to spouses and 
+access Carnegie Mellons campus. These cards are available through The HUB to spouses and 
 partners of graduate students who are enrolled for the current academic year in a full-time 
 graduate degree program. The card is valid for one year.  For information about domestic partner 
 registration, visit the Office of the Dean of Students webpage: https://www.cmu.edu/student-
@@ -1237,7 +1237,7 @@ for the Ph.D. degree must be approved by the Department Head and by the SCS Asso
 for Graduate Education. The waiver request must explain the exceptional circumstances that 
 warrant an extension. For cases in which a waiver is granted, the waiver will cover specific 
 courses and will specify a time period for completion of the program. 
-See also the ‘Duration of Study’ policy. 
+See also the Duration of Study policy. 
 Information 
 about 
 and 
@@ -1267,16 +1267,16 @@ https://www.cmu.edu/policies/student-and-student-life/privacy-rights-students.ht
  
 This university policy notifies students of their rights under the federal Family Educational 
 Rights and Privacy Act (FERPA). According to FERPA, students have the right to: 
-• inspect and review their education records 
+ inspect and review their education records 
 LTI Ph.D. Graduate Student Handbook 
 Page 36 
  
-• request an amendment to their education record if they believe they are inaccurate or 
+ request an amendment to their education record if they believe they are inaccurate or 
 misleading 
-• request a hearing if their request for an amendment is not resolved to their satisfaction 
-• consent to disclosure of personally identifiable information from their education records, 
+ request a hearing if their request for an amendment is not resolved to their satisfaction 
+ consent to disclosure of personally identifiable information from their education records, 
 except to the extent that FERPA authorizes disclosure without consent 
-• file a complaint with the U.S. Department of Education Family Policy Compliance Office 
+ file a complaint with the U.S. Department of Education Family Policy Compliance Office 
 if they believe their rights under FERPA have been violated 
 For questions about Student Privacy Rights, FERPA or filing a complaint, contact John 
 Papinchak, University Registrar, jp7p@andrew.cmu.edu, in Enrollment Services. 
@@ -1294,7 +1294,7 @@ individual needs of students, alumni, and employers. The CDPC is located on the 
 the University Center, 412-268-2064. 
 The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust 
 schedule of professional development opportunities. Some are geared towards a specific 
-population (master’s students, Ph.D. students at the beginning of their program, graduate 
+population (masters students, Ph.D. students at the beginning of their program, graduate 
 students seeking tenure track positions, etc.) and others are open to all graduate students (time 
 management, balancing, staying healthy). A full schedule of programs can be found at: 
 http://www.cmu.edu/graduate/. 
@@ -1304,20 +1304,20 @@ http://search.library.cmu.edu
 There are three main libraries at Carnegie Mellon:  Hunt Library, Mellon Library, and the Sorrells 
 Library with the combined mission of providing access and help to graduate students in finding 
 the information needed, teaching graduate students to evaluate available information and use 
-reliable sources. The libraries’ digital resources and services, including off-campus/ wireless 
+reliable sources. The libraries digital resources and services, including off-campus/ wireless 
 access to databases and e-journals, offer online access. There are also two neighboring libraries 
 open to Carnegie Mellon graduate students: Carnegie Library of Pittsburgh and University of 
 Pittsburgh Libraries. Visit the University Libraries website for information about all mentioned 
-library locations and hours, on-line resources, and FAQ’s. 
+library locations and hours, on-line resources, and FAQs. 
 LTI Ph.D. Graduate Student Handbook 
 Page 37 
  
 6.9 
 Computing Services 
-Computing Services is located in Cyert Hall – Room 285.  Computing Services develops, 
+Computing Services is located in Cyert Hall  Room 285.  Computing Services develops, 
 maintains, and supports the computing infrastructure for Carnegie Mellon students, faculty 
 members and staff members. This includes the campus wired and wireless networks, public 
-computer labs or “clusters,” cable television and telephone services, computing related 
+computer labs or clusters, cable television and telephone services, computing related 
 documentation and support through the Help Center. In addition, Computing Services provides 
 standard classroom technologies for over 100 lecture halls, classrooms, and seminar rooms across 
 campus. The website contains addition information regarding The Help Center hours, location 
@@ -1330,7 +1330,7 @@ partners and families of graduate students: https://www.cmu.edu/stugov/gsa/Resou
 Graduate-Students/index.html ,  including The Student Parent Association, new mother rooms, 
 and links to resources around campus and the Pittsburgh area. 
 Affiliate ID Cards are available for spouses and domestic partners of graduate students that allow 
-them to access Carnegie Mellon’s campus. These cards are available through The HUB to spouses 
+them to access Carnegie Mellons campus. These cards are available through The HUB to spouses 
 and partners of graduate students who are enrolled for the current academic year in a full-time 
 graduate degree program. The card is valid for one year. For more information about student and 
 affiliate ID cards, please visit: http://www.cmu.edu/idplus/idcards/sponsored.html. 
@@ -1363,7 +1363,7 @@ Dining services and operations are offered through the Office of Housing and Din
 office operates dining locations open in and around campus. These locations offer flexible hours 
 with options from the early morning through late night. The Dining Service website contains 
 information about dining locations, hours of operation, graduate student dining plans forms, 
-nutritional information, and daily specials for dining locations.’ 
+nutritional information, and daily specials for dining locations. 
 6.14 Parking and Transportation 
 www.cmu.edu/parking/ 
 Graduate students will find information about parking and availability, parking policies, 
@@ -1424,7 +1424,7 @@ For the participant or the spectator, Carnegie Mellon offers intercollegiate ath
 sports, physical education classes and club sports. The Athletics Department also offers aerobics 
 classes in the University Center as well as occasional workshops and instruction related to fitness 
 and health. The administrative offices are located in the Cohon University Fitness Center. 
-The University Center’s recreational facilities include an eight-lane pool, racquetball and squash 
+The University Centers recreational facilities include an eight-lane pool, racquetball and squash 
 courts, aerobics room, fitness center and gym for basketball and volleyball. With renovations to 
 Skibo Gym and the new Highmark Center for Health, Wellness, and Athletics scheduled for 
 completion in 2024, the strength and conditioning facility has been temporarily placed on the 
@@ -1477,14 +1477,14 @@ The Office of Graduate and Postdoctoral Affairs provides university-wide support
 students and academic programs, with a focus on supporting graduate student success at 
 Carnegie Mellon.  Examples of resources offered through the Office of Graduate and Postdoctoral 
 Affairs include, but are not limited to:  
-• Website with university resources, contact information for CMU 
+ Website with university resources, contact information for CMU 
 programs and services, possible financial assistance and potential funding 
 opportunities, and various procedural and policy information 
-• Newsletter to all graduate students with information on activities, 
+ Newsletter to all graduate students with information on activities, 
 resources, and opportunities  
-• Professional development seminars and workshops, and various 
+ Professional development seminars and workshops, and various 
 programming and events for the graduate student community  
-•  
+  
 The Office of Graduate and Postdoctoral Affairs also works directly with the colleges and 
 departments on issues related to graduate students and serve as a resource for developing policy 
 and procedures.  The Office of Graduate and Postdoctoral Affairs partners with many other offices 
@@ -1511,20 +1511,20 @@ College Liaisons are identified on the Important Contacts list in Student Inform
 (SIO). The Student Support Resources team offers an additional level of support for students who 
 are navigating a wide range of life events. Student Support Resources staff members work in 
 partnership with campus and community resources to provide coordination of care and support 
-appropriate to each student’s situation.  
+appropriate to each students situation.  
 A.1.3 The Division of Student Affairs  
 The Division of Student Affairs includes (not an exhaustive list):  
-• Athletics, Physical Education and Recreation 
-• Career and Professional Development Center (CPDC)  
-• Center for Student Diversity and Inclusion  
-• Cohon University Center  
-• Counseling & Psychological Services (CaPS)  
-• Dining Services  
-• Office of Community Standards and Integrity (OCSI)  
-• Office of Student Leadership, Involvement, and Civic Engagement (SLICE) 
+ Athletics, Physical Education and Recreation 
+ Career and Professional Development Center (CPDC)  
+ Center for Student Diversity and Inclusion  
+ Cohon University Center  
+ Counseling & Psychological Services (CaPS)  
+ Dining Services  
+ Office of Community Standards and Integrity (OCSI)  
+ Office of Student Leadership, Involvement, and Civic Engagement (SLICE) 
  
-• University Health Services (UHS)  
-• Wellness Initiatives  
+ University Health Services (UHS)  
+ Wellness Initiatives  
 A.1.4 Center for Student Diversity & Inclusion  
 https://www.cmu.edu/student-diversity/  
 Diversity and inclusion have a singular place among the values of Carnegie Mellon University. The 
@@ -1534,17 +1534,17 @@ development that changes the world.
 The Center offers resources to enhance an inclusive and transformative student experience in 
 dimensions such as access, success, campus climate and intergroup dialogue. Additionally, the 
 Center supports and connects historically underrepresented students and those who are first in 
-their family to attend college in a setting where students’ differences and talents are appreciated 
+their family to attend college in a setting where students differences and talents are appreciated 
 and reinforced, both at the graduate and undergraduate level. Initiatives coordinated by the 
 Center include, but are not limited to:  
 LTI Ph.D. Graduate Student Handbook 
 Page 43 
  
-• First generation/first in family to attend college programs 
-• LGBTQ+ Initiatives  
-• Race and ethnically focused programs, including Inter-University Graduate Students of 
+ First generation/first in family to attend college programs 
+ LGBTQ+ Initiatives  
+ Race and ethnically focused programs, including Inter-University Graduate Students of 
 Color Series (SOC) and PhD SOC Network  
-• Women’s empowerment programs, including Graduate Women’s 
+ Womens empowerment programs, including Graduate Womens 
 Gatherings (GWGs)  
 A.1.5 Assistance for Individuals with Disabilities  
 https://www.cmu.edu/disability-resources/  
@@ -1563,7 +1563,7 @@ https://www.cmu.edu/teaching/
 The Eberly Center offers a wide variety of confidential, consultation services and professional 
 development programs to support graduate students as teaching assistants or instructors of 
 record during their time at Carnegie Mellon University and as future faculty members at other 
-institutions. Regardless of one's current or future teaching context and duties, Eberly’s goal is to 
+institutions. Regardless of one's current or future teaching context and duties, Eberlys goal is to 
 disseminate evidence-based teaching strategies in ways that are accessible and actionable. 
 Programs and services include campus-wide Graduate Student Instructor Orientation events and 
 our Future Faculty Program, both of which are designed to help participants be effective and 
@@ -1584,7 +1584,7 @@ improve the graduate student experience at the different levels of the universit
 by the Student Activities Fee from all graduate students. GSA passes legislation, allocates student 
 activities funding, advocates for legislative action locally and in Washington D.C. on behalf of 
 graduate student issues and needs, and otherwise acts on behalf of all graduate student interests. 
-GSA’s recent accomplishments are a testament to their making a difference, and steps to 
+GSAs recent accomplishments are a testament to their making a difference, and steps to 
 implementing the vision laid out by the strategic plan.  
 https://www.cmu.edu/stugov/gsa/about-the-gsa/strategic-plan.html  
 GSA offers an expanding suite of social programming on and off-campus to bring graduate 
@@ -1612,7 +1612,7 @@ Page 45
  
 Military veterans are a vital part of the Carnegie Mellon University community. Graduate 
 students can find information on applying for veteran education benefits, campus services, 
-veteran’s groups at CMU, and non-educational resources through the Veterans and Military 
+veterans groups at CMU, and non-educational resources through the Veterans and Military 
 Community website. There are also links and connections to veteran resource in the Pittsburgh 
 community. 
 The 
@@ -1669,7 +1669,7 @@ assistance the Computing Services Help Center is available at 412-268-4357 (HELP
 ithelp@cmu.edu.  
 A.2.2 Student Academic Success Center  
 https://www.cmu.edu/student-success/ 
-The Student Academic Success Center’s (SASC) work to support success focuses on creating 
+The Student Academic Success Centers (SASC) work to support success focuses on creating 
 spaces for students to engage in their coursework and approach to learning through many group 
 and individual program options.  SASC supports student success by providing academic coaching, 
 subject-specific tutoring, effective communication strategies, accommodations for students with 
@@ -1684,9 +1684,9 @@ graduate students in coursework, research, teaching, and publishing. The library
 purchases books, journals, media, and other needed materials in various formats. Library 
 liaisons, consultants, and information specialists provide in-depth and professional assistance 
 and advice in all-things information, including: 
-• Locating and obtaining specific resources 
-• Providing specialized research support 
-• Advanced training in the use and management of data 
+ Locating and obtaining specific resources 
+ Providing specialized research support 
+ Advanced training in the use and management of data 
 Sign up for workshops and hands-on topic-specific sessions such as data visualization with 
 Tableau, cleaning data with OpenRefine, and getting started with Zotero. Weekly drop-in hours 
 for Digital Humanities and for Research Data Research Management are scheduled during the 
@@ -1700,7 +1700,7 @@ humanities.
 A.2.4 Research at CMU  
 https://www.cmu.edu/research/  
 The primary purpose of research at the university is the advancement of knowledge in all fields in 
-which the university is active. Research is regarded as one of the university’s major contributions 
+which the university is active. Research is regarded as one of the universitys major contributions 
 to society and as an essential element in education, particularly at the graduate level and in faculty 
 development. Research activities are governed by several university policies. Guidance and more 
 general information are found by visiting the Research at Carnegie Mellon website.  
@@ -1733,14 +1733,14 @@ registered nurses who provide general medical care, allergy injections, first ai
 and contraception as well as on-site pharmaceuticals. The CMU Student Insurance Plan covers 
 most visit fees to see the physicians and advanced practice clinicians & nurse visits. Fees for 
 prescription medications, laboratory tests, diagnostic procedures and referral to the emergency 
-room or specialists are the student’s responsibility and students should review the UHS website 
+room or specialists are the students responsibility and students should review the UHS website 
 and their insurance plan for detailed information about the university health insurance 
 requirement and fees.  
 UHS also has a registered dietician and health promotion specialists on staff to assist students in 
 addressing nutrition, drug and alcohol and other healthy lifestyle issues. In addition to providing 
 direct health care, UHS administers the Student Health Insurance Program. The Student Health 
 Insurance plan offers a high level of coverage in a wide network of health care providers and 
-hospitals. Appointments can be made by visiting UHS’s website, walk-in, or by telephone, 412-
+hospitals. Appointments can be made by visiting UHSs website, walk-in, or by telephone, 412-
 268-2157.  
 A.3.3 Campus Wellness  
 https://www.cmu.edu/wellness/  
@@ -1752,7 +1752,7 @@ A.3.4 Religious and Spiritual Life Initiatives (RSLI)
 https://www.cmu.edu/wellbeing/resources/religious-spiritual/index.html 
 Carnegie Mellon is committed to the holistic growth of our students, including creating 
 opportunities for spiritual and religious practice and exploration. RSLI has relationships with 
-local houses of worship from various traditions and many of these groups are members of CMU’s 
+local houses of worship from various traditions and many of these groups are members of CMUs 
 Council of Religious Advisors. They also offer programs and initiatives that cross traditional 
 religious boundaries in order to increase knowledge of and appreciation for the full diversity of 
 the worldview traditions. RSLI staff are available to support students across the spectrum of 
@@ -1763,13 +1763,13 @@ https://www.cmu.edu/police/  x2323
 LTI Ph.D. Graduate Student Handbook 
 Page 49 
  
-The University Police Department is located at 4551 Filmore Street. The department’s services 
+The University Police Department is located at 4551 Filmore Street. The departments services 
 include police patrols and call response, criminal investigations, fixed officer and foot officer 
 patrols, event security, and crime prevention and education programming as well as bicycle and 
-laptop registration. Visit the department’s website for additional information about the staff, 
+laptop registration. Visit the departments website for additional information about the staff, 
 emergency phone locations, crime prevention, lost and found, fingerprint services, and annual 
 statistic reports. Carnegie Mellon University publishes an annual campus security and fire safety 
-report describing the university’s security, alcohol and drug, sexual assault, and fire safety 
+report describing the universitys security, alcohol and drug, sexual assault, and fire safety 
 policies.  The report also contains statistics about the number and type of crimes committed on 
 the campus and the number and cause of fires in campus residence facilities during the preceding 
 three years. Graduate students can obtain a copy by contacting the University Police Department 
@@ -1782,7 +1782,7 @@ students, faculty, and community. The Shuttle & Escort website has full informat
 services, stops, routes, tracking and schedules.  
 A.4 The WORD  
 https://www.cmu.edu/student-affairs/theword/ 
-The WORD is Carnegie Mellon University’s online student handbook and serves as the 
+The WORD is Carnegie Mellon Universitys online student handbook and serves as the 
 foundation for the department (and sometimes college) handbook. The WORD contains 
 university-wide academic policy information and resources, community policies and resources, 
 and describes the university level procedures used to review possible violations of these 
