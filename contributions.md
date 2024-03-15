@@ -1,6 +1,6 @@
 ## ANLP Sp 2024 Assignment 2 contributions
 
-Anvesha Katariyar: Scripts and annotation for data on Academics, Courses, and Events, report.
+Anvesha Katariyar: Scripts and annotation for data on Academics, Courses, Events, answer metrics, report.
 
 Prachiti Garge: Scripts and annotation for data on History, baseline modeling, report.
 
